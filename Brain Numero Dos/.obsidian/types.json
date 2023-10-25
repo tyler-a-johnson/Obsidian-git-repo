@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "status": "text",
+    "Relevant Docs": "multitext",
+    "Relevant Questions": "multitext",
+    "Relevant Notes": "multitext",
+    "Practicals Docs": "multitext"
+  }
+}

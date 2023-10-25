@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Directory",
+      "path": "Directory.md"
+    },
+    {
+      "type": "file",
+      "title": "Kanban Schedule",
+      "path": "UNI 2023/Kanban Schedule.md"
+    },
+    {
+      "type": "file",
+      "title": "Markdown Latex Reference Sheet",
+      "path": "Resources/Markdown Latex Reference Sheet.md"
+    },
+    {
+      "type": "file",
+      "title": "Assesment Calendar",
+      "path": "UNI 2023/Assesment Calendar.md"
+    },
+    {
+      "type": "file",
+      "title": "Resources",
+      "path": "Resources/Resources.md"
+    },
+    {
+      "type": "file",
+      "title": "ATmega328P Datasheet",
+      "path": "UNI 2023/ELEC3042/ATmega328P Datasheet.md"
+    }
+  ]
+}

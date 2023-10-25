@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"**What is it? What do I want?**\n\n-  Dungeon crawler type shit\n- Pretty linear\n- Cosmic viceral horror\n- Little bit of lighthearted shenanigans\n- Something far from traditional dnd\n- DISCOVER MY BODY type of art style\n\t- Low clarity pixel art, leave it to imagination\n- Caves of Qud type of explanation of the unknown (strange metal tubes lol)","id":"62ac9cb83f0d50c7","x":380,"y":-340,"width":480,"height":380,"color":"3"},
+		{"type":"file","file":"Independent Projects/DND/The Story So Far.md","id":"621515cf834a76ef","x":380,"y":100,"width":600,"height":940},
+		{"type":"text","text":"DARKWOOD","id":"172ffbed23c480e6","x":-120,"y":-120,"width":180,"height":60,"color":"1"},
+		{"type":"file","file":"Independent Projects/DND/Attachments/Pasted image 20230418195345.png","id":"4d5a49420b23eecf","x":-1280,"y":-880,"width":661,"height":732},
+		{"type":"file","file":"Independent Projects/DND/Attachments/Pasted image 20230418200659.png","id":"0b7ab84ca20a2657","x":-1200,"y":120,"width":500,"height":825},
+		{"type":"file","file":"Independent Projects/DND/Attachments/Pasted image 20230418195250.png","id":"c4db4080d1f07e75","x":-640,"y":200,"width":834,"height":720},
+		{"type":"text","text":"Which flesh is your flesh?","id":"bc04442f943e9b3a","x":-440,"y":-400,"width":280,"height":60,"color":"3"},
+		{"type":"text","text":"DISCOVER MY BODY","id":"b5b4d83952af60c9","x":-100,"y":-520,"width":240,"height":60,"color":"1"},
+		{"type":"text","text":"CAVES OF QUD","id":"4a389849de94c5d7","x":-120,"y":-220,"width":200,"height":60,"color":"1"},
+		{"type":"text","text":"SCP Shit","id":"233e198097886c27","x":120,"y":-160,"width":134,"height":50,"color":"1"},
+		{"type":"text","text":"VERMIS","id":"609f41f3116c8682","x":-360,"y":-180,"width":127,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"4bb13e419b0e4cda","fromNode":"609f41f3116c8682","fromSide":"top","toNode":"bc04442f943e9b3a","toSide":"bottom"},
+		{"id":"d7c6ced13c2a77af","fromNode":"609f41f3116c8682","fromSide":"left","toNode":"c4db4080d1f07e75","toSide":"top"},
+		{"id":"e7a751d22a4decdc","fromNode":"609f41f3116c8682","fromSide":"left","toNode":"4d5a49420b23eecf","toSide":"right"},
+		{"id":"037305bf3cfde119","fromNode":"609f41f3116c8682","fromSide":"left","toNode":"0b7ab84ca20a2657","toSide":"top"}
+	]
+}

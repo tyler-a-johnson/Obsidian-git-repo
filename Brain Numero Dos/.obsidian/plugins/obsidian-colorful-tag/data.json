@@ -1,0 +1,256 @@
+{
+  "TagSettings": [
+    {
+      "attributes": {},
+      "opened": false,
+      "enable": false,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 0
+      }
+    }
+  ],
+  "GlobalTagSetting": {
+    "attributes": {},
+    "opened": false,
+    "enableList_": {}
+  },
+  "UseTagDetail": true,
+  "StoreTagDetailInYaml": "plugin",
+  "TagDetailData": {
+    "UNI 2023/ELEC3042/Week 3 - Timers and Internal Clocks.md": [],
+    "Sandbox.md": [],
+    "UNI 2023/Assesment Calendar.md": [],
+    "UNI 2023/MECH2003/Week 1 - Introduction to MECH2003.md": []
+  },
+  "MetaFileTagDetails": {
+    "UNI 2023/ELEC2040/Week 4 - Convolution.md": [
+      "#ELEC-0-0-0",
+      "#ELEC2040-0-6-6",
+      "#Communication-0-16-16",
+      "#Logic-0-31-31"
+    ],
+    "UNI 2023/ELEC3042/Lab 1 - Getting to know MPLAB.md": [
+      "#ELEC-0-0-0",
+      "#Programming-0-6-6",
+      "#ELEC3042-0-19-19",
+      "#Microprocessors-0-29-29"
+    ],
+    "UNI 2023/ELEC3042/Week 3 - Timers and Internal Clocks.md": [
+      "#ELEC-0-0-0",
+      "#ELEC3042-0-6-6",
+      "#Microprocessors-0-16-16",
+      "#Embedded_Systems-0-33-33"
+    ],
+    "Sandbox.md": [],
+    "UNI 2023/ELEC3042/Week 1 - Introduction to Embedded Systems.md": [
+      "#ELEC-0-0-0",
+      "#Microprocessors-0-6-6",
+      "#Circuits-0-23-23",
+      "#Examples-30-0-915",
+      "#Examples-40-0-1189"
+    ],
+    "UNI 2023/ELEC3042/Lecture Notes/Week 3 - Timers and Internal Clocks.md": [
+      "#ELEC-0-0-0",
+      "#ELEC3042-0-6-6",
+      "#Microprocessors-0-16-16",
+      "#Embedded_Systems-0-33-33",
+      "#Examples-137-0-5579"
+    ],
+    "UNI 2023/ELEC3042/Lecture Notes/Week 2 - Bit Logic and Interrupts.md": [
+      "#Logic-0-0-0",
+      "#ELEC-0-7-7",
+      "#Communication-0-13-13",
+      "#ELEC3042-0-28-28",
+      "#Examples-46-0-1069",
+      "#Examples-113-0-3336"
+    ],
+    "UNI 2023/ELEC2040/Week 2 - Signal Operations and Signal Properties.md": [
+      "0-0-0",
+      "0-6-6",
+      "0-16-16",
+      "0-31-31"
+    ],
+    "UNI 2023/ELEC2040/Week 3 - Linear Time-Invariant Systems.md": [
+      "#ELEC-0-0-0",
+      "#ELEC2040-0-6-6",
+      "#Circuits-0-16-16",
+      "#Communication-0-26-26"
+    ],
+    "UNI 2023/ELEC3042/Labs/Lab 3 - Timers and Timer Interrupts.md": [
+      "#ELEC-0-6-6",
+      "#ELEC3042-0-12-12",
+      "#Microprocessors-0-22-22"
+    ],
+    "UNI 2023/Kanban Schedule.md": [
+      "#ELEC-12-30-91",
+      "#ELEC-13-31-142",
+      "#MECH-14-35-197",
+      "#MECH-19-28-267",
+      "#ELEC-20-45-332",
+      "#ELEC-26-24-412",
+      "#MECH-27-34-466",
+      "#ELEC-34-24-529",
+      "#ELEC-35-22-572",
+      "#ELEC-36-38-630",
+      "#ELEC-37-32-682",
+      "#ELEC-38-22-724",
+      "#ELEC-39-28-772",
+      "#ELEC-40-32-823",
+      "#MECH-41-26-869",
+      "#ELEC-42-37-926"
+    ],
+    "Templates/AnnotatePDFButton.md": [],
+    "UNI 2023/ELEC2070/Week 3 - Ideal Operational Amplifiers.md": [
+      "#ELEC2070-0-0-0",
+      "#ELEC-0-10-10",
+      "#Circuits-0-16-16",
+      "#Logic-0-26-26",
+      "#REVISE-213-0-7874"
+    ],
+    "UNI 2023/ELEC2070/Week 1 - Intro and review of Fundamentals.md": [
+      "#ELEC-0-0-0",
+      "#ELEC2070-0-6-6",
+      "#Circuits-0-16-16",
+      "#Communication-0-26-26"
+    ],
+    "UNI 2023/MECH2003/Week 1 - Introduction to MECH2003.md": [
+      "#MECH-0-0-0",
+      "#CAD-0-12-12"
+    ],
+    "UNI 2023/ELEC2070/Week 4 - First Order Circuits.md": [
+      "#ELEC-0-0-0",
+      "#ELEC2070-0-6-6",
+      "#Circuits-0-16-16",
+      "#Logic-0-26-26"
+    ],
+    "UNI 2023/ELEC3042/Lecture Notes/Week 5 - Interfacing with the Analog World.md": [
+      "#ELEC-0-0-0",
+      "#ELEC3042-0-6-6",
+      "#Logic-0-16-16",
+      "#Microprocessors-0-23-23",
+      "0-40-40"
+    ],
+    "UNI 2023/ELEC3042/Lecture Notes/Week 1 - Introduction to Embedded Systems.md": [
+      "#ELEC-0-0-0",
+      "#Microprocessors-0-6-6",
+      "#Circuits-0-23-23",
+      "#ELEC3042-0-33-33",
+      "#Examples-30-0-929",
+      "#Examples-40-0-1203"
+    ],
+    "UNI 2023/ELEC3042/Lecture Notes/Week 4 - Embedded System Design.md": [
+      "#ELEC-0-0-0",
+      "#ELEC3042-0-6-6",
+      "#Microprocessors-0-16-16",
+      "#Communication-0-33-33"
+    ],
+    "UNI 2023/ELEC2040/Week 1 - Complex Numbers.md": [
+      "#MATHS-0-1-1",
+      "#Communication-0-8-8",
+      "#ELEC-0-23-23",
+      "#Examples-131-0-3925"
+    ],
+    "UNI 2022/MTRN2060/Actuators.md": [
+      "0-0-0",
+      "0-7-7",
+      "107-0-4536",
+      "148-0-6052"
+    ],
+    "UNI 2022/MTRN2060/DC Motors.md": [
+      "0-0-0",
+      "0-6-6",
+      "140-0-4380"
+    ],
+    "UNI 2023/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md": [
+      "#ELEC-0-0-0",
+      "#Circuits-0-6-6",
+      "#ELEC2070-0-16-16",
+      "#Communication-0-26-26"
+    ],
+    "UNI 2023/ELEC3042/Labs/Lab 1 - Getting to know MPLAB.md": [
+      "#ELEC-0-0-0",
+      "#ELEC3042-0-7-7",
+      "#Microprocessors-0-17-17"
+    ],
+    "UNI 2023/Assesment Calendar.md": [],
+    "UNI 2023/ELEC2070/Week 5 - Second Order Circuits.md": [
+      "#ELEC-0-0-0",
+      "#ELEC2070-0-6-6"
+    ],
+    "UNI 2023/MECH2003/Week 3 - The Design Process.md": [
+      "#MECH-0-0-0",
+      "#MECH2003-0-6-6",
+      "#CAD-0-16-16",
+      "#CAM-0-21-21"
+    ],
+    "UNI 2023/MECH2003/Week 4 - 3D Printing and Laser Cutting.md": [
+      "#CAD-0-0-0",
+      "#MECH-0-5-5",
+      "#MECH2003-0-11-11"
+    ],
+    "UNI 2023/ELEC2040/Week 6 - Fourier Transform Principles.md": [
+      "#ELEC2040-0-0-0",
+      "#ELEC-0-10-10"
+    ],
+    "UNI 2023/ELEC2070/Week 6 - oifnoeinieng.md": [
+      "#ELEC-0-0-0",
+      "#ELEC2070-0-6-6",
+      "#Circuits-0-16-16"
+    ],
+    "UNI 2023/ELEC3042/Lecture Notes/Week 6 - Debugging, Testing, and UART.md": [
+      "#ELEC3042-0-0-0",
+      "#ELEC-0-10-10",
+      "#Microprocessors-0-16-16",
+      "#Coding-0-33-33"
+    ],
+    "UNI 2023/ELEC3042/Lecture Notes/Week 7 - SPI & I2C.md": [
+      "#ELEC-0-0-0",
+      "#ELEC3042-0-6-6",
+      "#Coding-0-16-16",
+      "#Microprocessors-0-24-24"
+    ],
+    "UNI 2023/ELEC2070/Week 6 - Complete Response and Stability.md": [
+      "#ELEC-0-0-0",
+      "#ELEC2070-0-6-6",
+      "#Circuits-0-16-16",
+      "#AddtoFormulaSheet-68-0-3142"
+    ],
+    "UNI 2023/ELEC2070/Week 7 - Phasors and Impedance.md": [
+      "#ELEC-0-0-0",
+      "#ELEC2070-0-6-6",
+      "#Circuits-0-16-16",
+      "#Communication-0-26-26",
+      "#todo-274-0-12459"
+    ],
+    "UNI 2023/MECH2003/Week 5 - Small Volume Manufacturing Techniques.md": [
+      "#MECH-0-0-0",
+      "#MECH2003-0-6-6",
+      "#Mechanics-0-16-16"
+    ],
+    "UNI 2023/MECH2003/Week 6 - Material Removal Methods.md": [
+      "#MECH-0-0-0",
+      "#MECH2003-0-6-6",
+      "#Mechanics-0-16-16",
+      "#Manufacturing-0-27-27"
+    ],
+    "UNI 2023/ELEC2040/Week 8 - Laplace Transform Properties.md": [
+      "#ELEC-0-0-0",
+      "#ELEC2040-0-6-6",
+      "0-16-16",
+      "0-16-16"
+    ],
+    "UNI 2023/MECH2003/Week 7 - Manufacturing Automation.md": [
+      "#MECH-0-0-0",
+      "#MECH2003-0-6-6",
+      "#Manufacturing-0-16-16"
+    ],
+    "UNI 2023/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md": [
+      "#ELEC-0-0-0",
+      "#ELEC2070-0-6-6",
+      "#Circuits-0-16-16"
+    ]
+  }
+}

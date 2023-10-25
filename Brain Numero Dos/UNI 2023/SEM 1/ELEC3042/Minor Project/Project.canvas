@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"type":"file","file":"UNI 2023/SEM 1/ELEC3042/Attachments/ATmega328p Datasheet.pdf","id":"675ad42bf215bb30","x":980,"y":320,"width":440,"height":580},
+		{"type":"file","file":"UNI 2023/SEM 1/ELEC3042/Minor Project/Attachments/Sample ELEC3042 Minor Report.pdf","id":"4c7a418804139627","x":1440,"y":320,"width":440,"height":580},
+		{"type":"file","file":"UNI 2023/SEM 1/ELEC3042/Attachments/23S1_ELEC3042_MinorProject_v1_5.docx.pdf","id":"f96a1b913f87c3c2","x":1900,"y":320,"width":440,"height":580},
+		{"type":"text","text":"Features:\nTime will be displayed on the 7 segment display in the M.SS.f format\nDECIMAL IS IMPORTANT\nIn initial state it will display 0.00.0\n\nButton S1-A1 is used to reset the stopwatch\n\tPressing S1-A1 at any time must stop the count and reset it\n\nButton S2-A2 is used to start / stop\n\t- If the stopwatch is not currently counting, pressing S2-A2 once will start the stopwatch counting up. \n\t- If the stopwatch is currently counting up, pressing S2-A2 will pause the count and display the time when the S2-A2 was pressed. \n\t- If S2-A2 is pressed and the display is showing a time other than 0.00.0, it should resume counting upwards. \n\t- Pressing S2-A2 after a reset should start the count from 0.00.0\n\nLED D4 is used to indicate the stopwatch has been paused.\n\t- When the stopwatch is in its initial state, D4 should be off. \n\t- When counting up, D4 should be off. \n\t- When paused, D4 should be on.\n\nAdditional Requirements\n\nYou must use a timer interrupt to keep time. You may not use busy loops. \nYou must debounce the buttons. As a hint, each button needs to be debounced individually.\n\nSpecific Reporting Requirements \nYour report must include the state diagram and state transition table for your system, and include line references for where these have been implemented in your code.\n\n","id":"a50ab00e91fd10b7","x":100,"y":60,"width":720,"height":880},
+		{"type":"text","text":"State Machine","id":"a43cb6dc24438ea6","x":3540,"y":220,"width":160,"height":60,"color":"5"},
+		{"type":"text","text":"sendData()","id":"ef893d3cac406601","x":3840,"y":220,"width":140,"height":60,"color":"2"},
+		{"type":"text","text":"ISR Clock","id":"b31de637d7a619b8","x":3320,"y":400,"width":120,"height":50,"color":"3"},
+		{"type":"text","text":"LED D4","id":"71f3d2a6db38b3d5","x":3560,"y":320,"width":120,"height":50,"color":"1"},
+		{"type":"text","text":"7 Segment Display","id":"cd0a9e22191503f3","x":4020,"y":220,"width":200,"height":60,"color":"1"},
+		{"type":"text","text":"ISR (PCINT1)","id":"738d4167eb71d4cc","x":3300,"y":80,"width":150,"height":60,"color":"3"},
+		{"type":"text","text":"**stateInitial** \nclock_count = 0\ndisplay_time = 0\n","id":"e73b2016ca7f67d9","x":1640,"y":-560,"width":200,"height":120,"color":"#d13ef9"},
+		{"type":"text","text":"**statePaused**\nclock_count = saved_time\ndisplay_time = saved_time","id":"fa70d9a218f3b280","x":1360,"y":-140,"width":280,"height":100,"color":"3"},
+		{"type":"text","text":"S1-A1 and S2-A2","id":"a316066d48d33d6b","x":3120,"y":80,"width":140,"height":60},
+		{"type":"text","text":"**Inputs**\n*S1-A1, S2-A2*\n\n**Variables**\n*clock_count* - 1ms timer\n*display_time* - time currently being sent to the display\n*saved_time* - time being saved and displayed when paused\n\n**Outputs**\n*LEDD4* - PB3\n*display_time* - value sent to 7 segment","id":"bcb8bf07a498686f","x":880,"y":-440,"width":320,"height":400},
+		{"type":"text","text":"**stateCount**\ndisplay_time = clock_count\n","id":"f9fb648e96949b7e","x":1800,"y":-100,"width":280,"height":100,"color":"4"}
+	],
+	"edges":[
+		{"id":"e5377bda0590797f","fromNode":"fa70d9a218f3b280","fromSide":"bottom","toNode":"f9fb648e96949b7e","toSide":"bottom","color":"5","label":"button_flags & A1 = true \n(S1-A1 Pressed)"},
+		{"id":"99f2f3a72187484a","fromNode":"f9fb648e96949b7e","fromSide":"top","toNode":"fa70d9a218f3b280","toSide":"top","color":"5","label":"button_flags & A1 = true \n(S1-A1 Pressed)"},
+		{"id":"139def3736b6c80d","fromNode":"ef893d3cac406601","fromSide":"right","toNode":"cd0a9e22191503f3","toSide":"left"},
+		{"id":"1223c733e7c06808","fromNode":"a43cb6dc24438ea6","fromSide":"right","toNode":"ef893d3cac406601","toSide":"left","label":"showDigits()"},
+		{"id":"53af9de5aad83a0c","fromNode":"a43cb6dc24438ea6","fromSide":"bottom","toNode":"71f3d2a6db38b3d5","toSide":"top"},
+		{"id":"4979ab37d60412ba","fromNode":"738d4167eb71d4cc","fromSide":"right","toNode":"a43cb6dc24438ea6","toSide":"left","label":"button_flags"},
+		{"id":"ee1ac4352122d45e","fromNode":"b31de637d7a619b8","fromSide":"right","toNode":"a43cb6dc24438ea6","toSide":"left","label":"clock_count"},
+		{"id":"51e5e619de858886","fromNode":"e73b2016ca7f67d9","fromSide":"bottom","toNode":"f9fb648e96949b7e","toSide":"right","color":"5","label":"button_flags & A1 = true \n(S1-A1 Pressed)"},
+		{"id":"eefb202a1eae429c","fromNode":"fa70d9a218f3b280","fromSide":"left","toNode":"e73b2016ca7f67d9","toSide":"left","color":"#d13ef9","label":"button_flags & A2 = true\n(S2-A2 Pressed)"},
+		{"id":"bc1c3009dd8499d4","fromNode":"f9fb648e96949b7e","fromSide":"right","toNode":"e73b2016ca7f67d9","toSide":"right","color":"#d13ef9","label":"button_flags & A2 = true\n(S2-A2 Pressed)"},
+		{"id":"3ef19f7ad0f0dfaf","fromNode":"a316066d48d33d6b","fromSide":"right","toNode":"738d4167eb71d4cc","toSide":"left"}
+	]
+}

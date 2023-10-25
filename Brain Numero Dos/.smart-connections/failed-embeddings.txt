@@ -1,0 +1,826 @@
+
+Daily Notes/09-08-2023.md
+Daily Notes/20-07-2023.md
+Daily Notes/27-07-2023.md
+Daily Notes/29-06-2023.md
+Daily Notes/29-06-2023.md#Obsidian Streamlining
+Daily Notes/29-06-2023.md#Obsidian Streamlining#File backups
+Daily Notes/29-06-2023.md#Obsidian Streamlining#Footnotes
+Daily Notes/29-06-2023.md#Obsidian Streamlining#Zettelkasten
+Daily Notes/30-07-2023.md
+Distilled Notes/Amperes Circuital Law.md
+Distilled Notes/Amperes Circuital Law.md#Magnetic Circuits#Amperes Law: Coil around a core
+Distilled Notes/Amperes Circuital Law.md#Magnetic Circuits#Amperes Law: Current Through Conductor
+Distilled Notes/Kirchhoff's Law.md
+Distilled Notes/Transformers (Not the funny robot).md
+Distilled Notes/Transformers (Not the funny robot).md#Approximate Equivalent Circuit
+Distilled Notes/Transformers (Not the funny robot).md#Core Types
+Distilled Notes/Transformers (Not the funny robot).md#Core Types#Shell Type Transformer/Sandwich Windings
+Distilled Notes/Transformers (Not the funny robot).md#EMF Equation of a Transformer
+Distilled Notes/Transformers (Not the funny robot).md#Equivalent Circuit of a Transformer
+Distilled Notes/Transformers (Not the funny robot).md#Ideal Transformers
+Distilled Notes/Transformers (Not the funny robot).md#Phasor Diagrams#No Load
+Distilled Notes/Transformers (Not the funny robot).md#Phasor Diagrams#Transformer on Load - Assuming no voltage drop in the winding
+Distilled Notes/Transformers (Not the funny robot).md#Principle of Operation
+Distilled Notes/Transformers (Not the funny robot).md#Transformer Efficiency
+Distilled Notes/Transformers (Not the funny robot).md#Transformer Efficiency#Losses in a Transformer
+Distilled Notes/Transformers (Not the funny robot).md#Transformer Phasor Diagram
+Distilled Notes/Transformers (Not the funny robot).md#Transformer Tests
+Distilled Notes/Transformers (Not the funny robot).md#Transformer Tests#Open Circuit Test
+Distilled Notes/Transformers (Not the funny robot).md#Transformer Tests#Short-Circuit Test
+Distilled Notes/Transformers (Not the funny robot).md#Transformer Voltage Regulation and Efficiency
+Distilled Notes/Transformers (Not the funny robot).md#Transformer Voltage Regulation and Efficiency#Voltage Regulation of a Transformer
+Independent Projects/Attachments/Pasted Image 20221107152350_148.png.md
+Independent Projects/DND/The Story So Far.md
+Independent Projects/DND/The Story So Far.md#The Four Humours#Aether
+Independent Projects/DND/The Story So Far.md#The Four Humours#Germinant
+Independent Projects/DND/The Story So Far.md#The Four Humours#Monolith
+Independent Projects/DND/The Story So Far.md#The Four Humours#Ooze
+Independent Projects/DND/The Story So Far.md#Which flesh is yours?#Ancient Glory
+Independent Projects/DND/The Story So Far.md#Which flesh is yours?#Mad Nettle
+Independent Projects/DND/The Story So Far.md#Which flesh is yours?#Murk Sage
+Independent Projects/DND/The Story So Far.md#Which flesh is yours?#Stone Scholar
+Independent Projects/DND/The Story So Far.md#Which flesh is yours?#Thrall of Ooze
+Independent Projects/DND/Unnamed campaign.canvas
+Independent Projects/Keyboards/Micro Controllers.md
+Independent Projects/Keyboards/Micro Controllers.md#Soldering
+Independent Projects/Keyboards/Micro Controllers.md#UF2 Bootloader
+Independent Projects/Keyboards/Micro Controllers.md#UF2 Bootloader#Splinky RP2040
+Kanban Schedule.md
+Kanban Schedule.md#Archive
+Kanban Schedule.md#IM WORKIN ON IT
+Kanban Schedule.md#LONG WAY OFF
+Kanban Schedule.md#TO DO
+Resources/Code Repository.md
+Resources/Code Repository.md#C#ATmega328P#Analog to Digital (ADC)#Alternate ADC setup Function (Free running)
+Resources/Code Repository.md#C#ATmega328P#Analog to Digital (ADC)#Read A0
+Resources/Code Repository.md#C#ATmega328P#Analog to Digital (ADC)#Setup
+Resources/Code Repository.md#C#ATmega328P#ELEC3042 Major - Pass Requirements Only
+Resources/Code Repository.md#C#ATmega328P#Inputs and De-Bouncing#Simple Debounce Code
+Resources/Code Repository.md#C#ATmega328P#Timers#Setup timer1 in PWM
+Resources/Code Repository.md#C#ATmega328P#Timers#Timer0 Setup
+Resources/Code Repository.md#C#ATmega328P#Timers#Timer1 Setup
+Resources/Code Repository.md#C#ATmega328P#Timers#Timer2 Setup
+Resources/File Repositories and Archives.md
+Resources/Markdown Latex Reference Sheet.md
+Resources/Markdown Latex Reference Sheet.md#Greek Letters:#Capital:
+Resources/Markdown Latex Reference Sheet.md#Greek Letters:#Lowercase:
+Resources/Markdown Latex Reference Sheet.md#Greek Letters:#Lowercase:#Other:
+Resources/Markdown Latex Reference Sheet.md#Latin:#Hat:
+Resources/Markdown Latex Reference Sheet.md#Latin:#No dot:
+Resources/Markdown Latex Reference Sheet.md#Other:#Binary operators
+Resources/Markdown Latex Reference Sheet.md#Other:#Cumulative operators
+Resources/Markdown Latex Reference Sheet.md#Other:#Named operators
+Resources/Markdown Latex Reference Sheet.md#Other:#Other Symbols
+Resources/Markdown Latex Reference Sheet.md#Other:#Piecewise Functions
+Resources/Markdown Latex Reference Sheet.md#Other:#Relational Symbols
+Resources/Resources and Links.md
+Resources/Resources and Links.md#Arduino/ELEGOO PDFS Libraries and Tutorials
+Resources/Resources and Links.md#Circuits
+Resources/Resources and Links.md#Linear Algebra
+Resources/Resources and Links.md#Logic Circuits and Combinational Logic
+Resources/Resources and Links.md#Mechatronics
+Resources/Resources and Links.md#Raspberry Pi
+Resources/Resources and Links.md#Signals and Systems
+Resources/Templates/Frontmatter Metadata.md
+Study Plan (Macquarie University).canvas
+UNI 2022/ENGG2000/Reflection Task - 4-11-22.md
+UNI 2022/MTRN2060/Actuators.md
+UNI 2022/MTRN2060/Actuators.md#3 Types of Drivers
+UNI 2022/MTRN2060/Actuators.md#Brushless DC Motors
+UNI 2022/MTRN2060/Actuators.md#Common Actuators
+UNI 2022/MTRN2060/Actuators.md#Energy Stored in a Magnetic Field
+UNI 2022/MTRN2060/Actuators.md#Force In a Solenoid
+UNI 2022/MTRN2060/Actuators.md#Hobby Servos
+UNI 2022/MTRN2060/Actuators.md#Hydraulics
+UNI 2022/MTRN2060/Actuators.md#Induction Motors
+UNI 2022/MTRN2060/Actuators.md#Introduction and Performance Characteristics
+UNI 2022/MTRN2060/Actuators.md#Introduction and Performance Characteristics#200  Step/rev Hybrid Motor
+UNI 2022/MTRN2060/Actuators.md#Pneumatics
+UNI 2022/MTRN2060/Actuators.md#Solenoids and Relays
+UNI 2022/MTRN2060/Actuators.md#Stepper Motors
+UNI 2022/MTRN2060/Actuators.md#Stepper Motors#Hybrid Stepper Motors
+UNI 2022/MTRN2060/Actuators.md#Stepping
+UNI 2022/MTRN2060/Actuators.md#Torque VS Speed
+UNI 2022/MTRN2060/Actuators.md#Types of DC Motors
+UNI 2022/MTRN2060/Actuators.md#Types of DC Motors#Example of DC Series Motor
+UNI 2022/MTRN2060/DC Motors.md
+UNI 2022/MTRN2060/DC Motors.md#Example Questions
+UNI 2022/MTRN2060/DC Motors.md#PM DC Motor Torque Speed Curve
+UNI 2022/MTRN2060/DC Motors.md#Permanent Magnet Direct Current (PMDC)
+UNI 2022/MTRN2060/DC Motors.md#Slotting
+UNI 2022/MTRN2060/DC Motors.md#The Ideal PM DC Model
+UNI 2022/MTRN2060/DC Motors.md#Towards a Useful Mathematical Model: Consider an Elementary Motor
+UNI 2022/MTRN2060/DC Motors.md#Towards a Useful Mathematical Model: Consider an Elementary Motor#Equivalent Circuit
+UNI 2022/MTRN2060/DC Motors.md#Towards a Useful Mathematical Model: Consider an Elementary Motor#Mechanical Output Power
+UNI 2022/MTRN2060/Digital.md
+UNI 2022/MTRN2060/Digital.md#A to D
+UNI 2022/MTRN2060/Digital.md#A to D when the signal changes with time
+UNI 2022/MTRN2060/Digital.md#A to D: 2 Ways
+UNI 2022/MTRN2060/Digital.md#Binary Counter and/or Frequency Divider
+UNI 2022/MTRN2060/Digital.md#Binary Pulses for Digital Information
+UNI 2022/MTRN2060/Digital.md#Combinational Logic
+UNI 2022/MTRN2060/Digital.md#Combinatorial Logic
+UNI 2022/MTRN2060/Digital.md#Combinatorial Logic#Sequential Logic
+UNI 2022/MTRN2060/Digital.md#D Flip Flops
+UNI 2022/MTRN2060/Digital.md#Example Questions
+UNI 2022/MTRN2060/Digital.md#How do we Communicate in Mechatronics?
+UNI 2022/MTRN2060/Digital.md#I2C
+UNI 2022/MTRN2060/Digital.md#I2C Sensor. How does it work?
+UNI 2022/MTRN2060/Digital.md#Interrupts
+UNI 2022/MTRN2060/Digital.md#Quadrature Encoder + Interrupt
+UNI 2022/MTRN2060/Digital.md#Registers: 1 byte of short memory  D Flip Flops
+UNI 2022/MTRN2060/Digital.md#Shift Register or Serial to Parallel Converter
+UNI 2022/MTRN2060/Digital.md#Shift Register or Serial to Parallel Converter#Shift Registers at work
+UNI 2022/MTRN2060/Digital.md#analogWrite uses PWM (Arduino)
+UNI 2022/MTRN2060/Digital.md#analogWrite uses PWM (Arduino)#servo library uses PWM differently
+UNI 2022/MTRN2060/Second Order Systems.md
+UNI 2022/MTRN2060/Second Order Systems.md#Damping Ratio
+UNI 2022/MTRN2060/Second Order Systems.md#Example Questions:
+UNI 2022/MTRN2060/Second Order Systems.md#First Order System:
+UNI 2022/MTRN2060/Second Order Systems.md#Frequency Response of a System
+UNI 2022/MTRN2060/Second Order Systems.md#Frequency Response of a System#Frequency Response of 2nd Order System
+UNI 2022/MTRN2060/Second Order Systems.md#Knowledge from practice quiz
+UNI 2022/MTRN2060/Second Order Systems.md#Natural Frequency
+UNI 2022/MTRN2060/Second Order Systems.md#System Analysis and Modelling:
+UNI 2022/MTRN2060/Second Order Systems.md#What is a System Response?:
+UNI 2022/MTRN2060/Sensors.md
+UNI 2022/MTRN2060/Sensors.md#Accelerometer and Gyroscope:
+UNI 2022/MTRN2060/Sensors.md#Light Measurement
+UNI 2022/MTRN2060/Sensors.md#Practice Quiz Questions
+UNI 2022/MTRN2060/Sensors.md#Simple Electromechanical Sensors:
+UNI 2022/MTRN2060/Sensors.md#Switch Bounce
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md#Difference Amp:
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md#Elastic VS Plastic Deformation:
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md#Elastic VS Plastic Deformation:#Strain Gauges and Gauge Factor:
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md#Inverting Amp:
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md#Load Cells:
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md#Non Inverting Amp:
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md#Operational Amplifiers - Op Amps:
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md#Operational Amplifiers - Op Amps:#The Ideal Op Amp
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md#Strain Gauge Circuits:
+UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md#Summer Amp:
+UNI 2023/SEM 1/ELEC2040/Week 1 - Complex Numbers.md
+UNI 2023/SEM 1/ELEC2040/Week 1 - Complex Numbers.md#Complex Numbers
+UNI 2023/SEM 1/ELEC2040/Week 1 - Complex Numbers.md#Complex Numbers#Why though?
+UNI 2023/SEM 1/ELEC2040/Week 1 - Complex Numbers.md#Format Conversions
+UNI 2023/SEM 1/ELEC2040/Week 1 - Complex Numbers.md#Formats#Exponential
+UNI 2023/SEM 1/ELEC2040/Week 1 - Complex Numbers.md#Formats#Polar
+UNI 2023/SEM 1/ELEC2040/Week 1 - Complex Numbers.md#Formats#Rectangular/Cartesian
+UNI 2023/SEM 1/ELEC2040/Week 1 - Complex Numbers.md#Operations on Complex Numbers#Complex Number Operations
+UNI 2023/SEM 1/ELEC2040/Week 1 - Complex Numbers.md#Operations on Complex Numbers#Conjugate
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Discreet Time and Continuous Time Cases
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Discrete Time Decimation (Down Sampling)
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Discrete Time Fourier Transform for Aperiodic Signals
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Discrete Time Fourier Transform for Aperiodic Signals#Examples#Example 3
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Discrete Time Fourier Transform for Periodic Signals
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Discrete Time Processing of Continuous Signals
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Interpolation (Upsampling)
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Periodicity Properties of DT Complex Exponentials
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Sampling of DT Signals
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Unit and Impulse Functions in Discrete Time
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Unit and Impulse Functions in Discrete Time#Difference Equations (Differentials in CT)
+UNI 2023/SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling.md#Unit and Impulse Functions in Discrete Time#Sampling Property
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Calculating a Convolution
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Calculating a Convolution#Convolution Example
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Calculating a Convolution#Example
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Calculating a Convolution#Method 2: Graphical
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Convolutional Sum Representation of a System
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Convolutional Sum Representation of a System#Properties
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Linear Time-Invariant Systems - Discrete Time
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Properties and Examples of DT FT#Convolution
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Properties and Examples of DT FT#Frequency Shift
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Properties and Examples of DT FT#Multiplication
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Properties and Examples of DT FT#Time Expansion
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Properties and Examples of DT FT#Time Expansion#Example (Time shift, Time expansion and Linearity)
+UNI 2023/SEM 1/ELEC2040/Week 11 - Discrete-Time Signals and Systems.md#Properties and Examples of DT FT#Time Shift
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md#Geometric Evaluation from Pole-Zero Plot
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md#Geometric Evaluation from Pole-Zero Plot#Observations
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md#Inverse Z Transform
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md#LTI Systems
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md#LTI Systems#Example#Difference Equations
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md#Properties of the Z Transform#Convolution
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md#Properties of the Z Transform#Time Delay
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md#Z Transform
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md#Z Transform#Examples#Example 2
+UNI 2023/SEM 1/ELEC2040/Week 12 - Z Transform.md#Z Transform#Examples#Example 3
+UNI 2023/SEM 1/ELEC2040/Week 13 - Digital Filter Design.md
+UNI 2023/SEM 1/ELEC2040/Week 2 - Signal Operations and Signal Properties.md
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Convolution
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Convolution#Convolution with a $\delta$ function
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Convolution#What does $Z(\tau)$ look like?
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Electrical Circuit
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Linear Systems
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Linear Time-Invariant Systems and Impulses - Intro to convolution
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Linear Time-Invariant Systems and Impulses - Intro to convolution#Delay
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Linear Time-Invariant Systems and Impulses - Intro to convolution#Gain
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Linear Time-Invariant Systems and Impulses - Intro to convolution#Square Law Device
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#The Sifting Property of the $\delta$ Function
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Time Invariant System
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Two Path Radio Channel
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Two Path Radio Channel#Continuum of Paths
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Two Path Radio Channel#N-Path Radio Channel
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Unit Impulse Signal
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Unit Impulse Signal#Integration Properties of Signals made up of Impulses
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Unit Impulse Signal#Magnitude of Impulse and Integration
+UNI 2023/SEM 1/ELEC2040/Week 3 - Linear Time-Invariant Systems.md#Unit Impulse Signal#Some other Properties of Unit Impulses
+UNI 2023/SEM 1/ELEC2040/Week 4 - Convolution.md
+UNI 2023/SEM 1/ELEC2040/Week 5 - Fourier Series.md
+UNI 2023/SEM 1/ELEC2040/Week 5 - Fourier Series.md#Energy Spectral Density (Huh)
+UNI 2023/SEM 1/ELEC2040/Week 5 - Fourier Series.md#Properties#Time Scaling
+UNI 2023/SEM 1/ELEC2040/Week 5 - Fourier Series.md#The Fourier Transform
+UNI 2023/SEM 1/ELEC2040/Week 6 - Fourier Transform Principles.md
+UNI 2023/SEM 1/ELEC2040/Week 7 - Laplace Transform.md
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Analysis And Characterization of LTI Systems with the Laplace Transform
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Analysis And Characterization of LTI Systems with the Laplace Transform#Causality
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Analysis And Characterization of LTI Systems with the Laplace Transform#LTI Systems Described by Differential Equations
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Analysis And Characterization of LTI Systems with the Laplace Transform#Stability
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Analysis And Characterization of LTI Systems with the Laplace Transform#Stability#Examples#Example 1
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Properties of Laplace Transform
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Properties of Laplace Transform#Convolution
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Properties of Laplace Transform#Differentiation
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Properties of Laplace Transform#Examples
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Properties of Laplace Transform#Final Value Theorem
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Properties of Laplace Transform#Initial Value Theorem
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Properties of Laplace Transform#Integration
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Properties of Laplace Transform#Linearity
+UNI 2023/SEM 1/ELEC2040/Week 8 - Laplace Transform Properties.md#Properties of Laplace Transform#Time Shift
+UNI 2023/SEM 1/ELEC2040/Week 9 - Sampling.md
+UNI 2023/SEM 1/ELEC2040/Week 9 - Sampling.md#CT and Samples
+UNI 2023/SEM 1/ELEC2040/Week 9 - Sampling.md#CT and Samples#Impulse Train Sampling
+UNI 2023/SEM 1/ELEC2040/Week 9 - Sampling.md#Reconstruction from samples interpolation#First Order Hold
+UNI 2023/SEM 1/ELEC2040/Week 9 - Sampling.md#Reconstruction from samples interpolation#Ideal Low Pass Filter
+UNI 2023/SEM 1/ELEC2040/Week 9 - Sampling.md#Reconstruction from samples interpolation#Zero Order Hold
+UNI 2023/SEM 1/ELEC2040/Week 9 - Sampling.md#Sampling Theorem
+UNI 2023/SEM 1/ELEC2040/Week 9 - Sampling.md#Under sampling: Aliasing
+UNI 2023/SEM 1/ELEC2070/Attachments/ELEC2070 Week 4.md
+UNI 2023/SEM 1/ELEC2070/Formula Sheet.md
+UNI 2023/SEM 1/ELEC2070/Labs/Week 2 - Analysing DC Circuits and Power Transfer.md
+UNI 2023/SEM 1/ELEC2070/Labs/Week 3 - Practical Measurements and LT Spice.md
+UNI 2023/SEM 1/ELEC2070/Labs/Week 5 - Capacitors, Inductors, Transient Response.md
+UNI 2023/SEM 1/ELEC2070/Labs/Week 8 - AC Circuits and AC Power.md
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Calculating the Thévenin Resistance
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Dependent Sources
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Dependent Sources#Worked Solution Find i<sub>sc</sub>
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Dependent Sources{1}
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Fundamental Concepts
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Fundamental Concepts#Polarity & resistance
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Graphical analysis to determine Thévenin and Norton circuits
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Ideal Independent Sources
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Kirchoff's Laws
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Mesh Current Analysis
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Node Voltage Analysis
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Node Voltage Analysis#Summary
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Nodes
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Norton's Equivalent circuit
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Source Transformation
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Source Transformation#Conditions
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Source Transformation#Equivalence
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Superposition
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#The Thévenin Parameters
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#The Thévenin Parameters#A Third Method to Calculate R<sub>t</sub>
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Thévenin To Norton = Source transformation
+UNI 2023/SEM 1/ELEC2070/Week 1 - Intro and review of Fundamentals.md#Thévenin's Theorem
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#First Order Filters#First Order Low Pas Filters using one Inductor
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#First Order Filters#First Order Low Pass Filters using one Capacitor
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#First Order Filters#Magnitude and Phase Angle Plots of the Voltage Network Function
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Frequency Response and Bode Plots
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Frequency Response and Bode Plots#Bandwidth
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Frequency Response and Bode Plots#Filters (in the Frequency Domain)
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Frequency Response and Bode Plots#Input and Output Signals in the Time Domain
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#How to Guess Type of Filter?#Another Filter to Guess
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#How to Guess Type of Filter?#First Order Circuits with two Corner Frequencies#Example
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Logarithmic Scales#Bode Plots
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Logarithmic Scales#Decibel (dB) scale for voltage and power
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Logarithmic Scales#First Order High Pass Filters
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Logarithmic Scales#Gain and Phase Shift
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Logarithmic Scales#Log - Log Plots
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Logarithmic Scales#dB values of a simple low-pass filter
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Parallel Resonance
+UNI 2023/SEM 1/ELEC2070/Week 10 - The Network Function and Simple Filters.md#Resonance
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#Pulse Functions#Delaying a Linear Function
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#Pulse Functions#Impulse Function
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#Pulse Functions#Impulse Function#An Approximation
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#Pulse Functions#Impulse Function#Property of the Impulse Function
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#Pulse Functions#The Step Function
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#Pulse Functions#The Step Function#An Approximation
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#Pulse Functions#Using the Step Function
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Damped Sinusoidal Forcing Function
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Damped Sinusoidal Forcing Function#The Forced Response
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Damped Sinusoidal Forcing Function#The Frequency Domain Method
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Laplace Transform
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Laplace Transform#Definition
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Laplace Transform#Differentiation
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Laplace Transform#Inverse Laplace Transform
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Laplace Transform#Process of using the Transform
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Laplace Transform#Properties: Linearity
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Laplace Transform#Table of Laplace Transforms
+UNI 2023/SEM 1/ELEC2070/Week 11 - The Damped Sinusoid and the Laplace Transform.md#The Laplace Transform#Table of Laplace Transforms#Examples
+UNI 2023/SEM 1/ELEC2070/Week 12 - Inverse Laplace Transform.md
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md#Employing our other equivalent circuits
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md#Employing our other equivalent circuits#Example
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md#Energy Storage Elements
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md#Energy Storage Elements#Capacitors
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md#Energy Storage Elements#Energy is Stored in the Electric Field between the Plates
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md#Instantaneous Power
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md#Instantaneous Power#Power has direction
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md#Maximum Power Transfer
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md#Maximum Power Transfer#Example Problems
+UNI 2023/SEM 1/ELEC2070/Week 2 - Power Transfer and Energy Storage Elements.md#Maximum Power Transfer#Maximum Power Transfer
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Amplifiers
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Designing Circuits using Op Amps#Functional Op Amp Circuits
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Designing Circuits using Op Amps#Voltage Follower
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Designing Circuits using Op Amps#Voltage Follower#Example 1
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Example Schematic
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Example Schematic#Node Analysis for Op Amps
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Ideal Op Amp
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Ideal Op Amp#Example
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Ideal Op Amp#Input and Output
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Ideal Op Amp#Node Analysis of Circuits
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Ideal Op Amp#Node Analysis of Circuits#Example
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Power Supplied to Op Amps
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Properties for Common Real World Op Amps#Open Loop Gain
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Properties of Practical Op Amps
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Properties of Practical Op Amps#A more Realistic Model
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Scaling a Voltage
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Scaling a Voltage#Examples
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Scaling a Voltage#Virtual Ground
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Solving Linear Algebraic Equations using Circuits
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Solving Linear Algebraic Equations using Circuits#Block Diagrams
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Solving Linear Algebraic Equations using Circuits#Block Diagrams#Can we do better?
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#The OP Amp
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#The OP Amp#Definitions
+UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md#Using the Non Inverting summing amplifier
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#Sequential Switching
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#Summary
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#Summary#Circuit Diagrams
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#Summary#How to solve a Switching Problem
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Complete Response
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Complete Response#Forced Response
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Complete Response#Natural Response
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Complete Response#Solution for a constant input / forcing function
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Complete Response#The General Differential Equation involving Forced and Natural Responses
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Differential Equations - Constant input to a circuit
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Differential Equations - Constant input to a circuit#1. RC circuit with a DC source
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Differential Equations - Constant input to a circuit#2. RL Circuit with a DC Source
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Differential Equations - Constant input to a circuit#Source free RC Circuit
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Differential Equations - Constant input to a circuit#Source free RL circuit (pure natural response)
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The General Differential Equation for DC input
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Time Constant of a 1st Order Circuit
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Time-Dependent Response of Simple Circuits
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Time-Dependent Response of Simple Circuits#The General Time-Dependent Response
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Time-Dependent Response of Simple Circuits#The Initial Analysis Method]
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#The Voltage or Current at $t=\tau$
+UNI 2023/SEM 1/ELEC2070/Week 4 - First Order Circuits.md#Unit Step Function
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Cramer's Rule
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Cramer's Rule#Applying Cramer's Rule
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Damping
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Differential Equation for Second order Circuits
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Differential Operators
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Differential Operators#Example
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Differential Operators#Finding differential equations using s-operators is now easier
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#General problem-solving method for 2nd-order circuits
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#General problem-solving method for 2nd-order circuits#Example
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Natural Response for Second Order Circuits#Finding the Natural Response
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Natural Response for Second Order Circuits#Natural Response of an Unforced (source free) circuit: Parallel RLC Circuit
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Natural Response for Second Order Circuits#Natural Response of an Unforced (source free) circuit: Parallel RLC Circuit#General RLC Equation
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Natural Response for Second Order Circuits#Natural Response of an Unforced (source free) circuit: Parallel RLC Circuit#Parallel RLC circuit (with $f(t) = 0$)
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Natural Response for Second Order Circuits#Summary
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Natural Response for Second Order Circuits#The Characteristic Equation
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Natural Response for Second Order Circuits#The Solution for the Natural Response
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Other types of Circuits
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Solving the differential equations for second order circuits
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#Summary
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#The Complete Response
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#The Complete Response#Example#Applying the initial condition: i(0)
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#The Complex Frequency Plane
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#The General 2nd Order Differential Equation for RLC Circuits
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#The General 2nd Order Differential Equation for RLC Circuits#General Method
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#The General 2nd Order Differential Equation for RLC Circuits#Parallel Arrangement
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#The General 2nd Order Differential Equation for RLC Circuits#Series Arrangement
+UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md#The Mathematical Approach for 1st Order
+UNI 2023/SEM 1/ELEC2070/Week 6 - Complete Response and Stability.md
+UNI 2023/SEM 1/ELEC2070/Week 6 - Complete Response and Stability.md#Complete Response for Second Order Circuits
+UNI 2023/SEM 1/ELEC2070/Week 6 - Complete Response and Stability.md#Parallel RLC Circuit Problem
+UNI 2023/SEM 1/ELEC2070/Week 6 - Complete Response and Stability.md#Parallel RLC Circuit Problem#Useful equations
+UNI 2023/SEM 1/ELEC2070/Week 6 - Complete Response and Stability.md#Stability of Circuits with Capacitors and Inductors
+UNI 2023/SEM 1/ELEC2070/Week 6 - Complete Response and Stability.md#Stability of Circuits with Capacitors and Inductors#Stability of Second Order Circuits
+UNI 2023/SEM 1/ELEC2070/Week 6 - Complete Response and Stability.md#Types of Natural Responses for Second Order Circuits
+UNI 2023/SEM 1/ELEC2070/Week 6 - Complete Response and Stability.md#Types of Natural Responses for Second Order Circuits#Example
+UNI 2023/SEM 1/ELEC2070/Week 6 - Complete Response and Stability.md#With Time-Varying Sources
+UNI 2023/SEM 1/ELEC2070/Week 6 - Complete Response and Stability.md#With Time-Varying Sources#A Useful Relationship
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#AC Circuits and Sinusoidal Functions
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#AC Circuits and Sinusoidal Functions#Important parameters relating to a sinusoidal signal
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#AC Circuits and Sinusoidal Functions#Phase Angle
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#AC Circuits and Sinusoidal Functions#Sinusoidal Sources
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#AC Circuits and Sinusoidal Functions#Time advance, delay and phase angle
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Circuit elements in the time and frequency domains#Capacitors
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Circuit elements in the time and frequency domains#Inductors
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Circuit elements in the time and frequency domains#Resistors
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Circuit elements in the time and frequency domains#Summary
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Circuit elements in the time and frequency domains#Voltage and Current Sources
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Impedance and Admittance#Impedances of Circuit Elements
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Impedance and Admittance#Ohm's Law
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Impedance and Admittance#Ohms Law in the Frequency Domain
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Kirchhoff's Laws
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Kirchhoff's Laws#Time VS Frequency Domains
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Node Voltage and Mesh Current Analysis using Phasors#Mesh equations in the frequency domain
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Node Voltage and Mesh Current Analysis using Phasors#Mesh equations in the frequency domain#Example
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Node Voltage and Mesh Current Analysis using Phasors#Mesh equations in the frequency domain#Example 2
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Node Voltage and Mesh Current Analysis using Phasors#Node analysis in the frequency domain
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Phasors and Phasor Arithmetic
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Phasors and Phasor Arithmetic#Complex Algebra
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Phasors and Phasor Arithmetic#Defining phasors as complex numbers
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Phasors and Phasor Arithmetic#Defining phasors as complex numbers#Why complex planes?
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Phasors and Phasor Arithmetic#Important Trig Functions
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Phasors and Phasor Arithmetic#KVL and KCL with complex values
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Phasors and Phasor Arithmetic#Phasor Angle Direction
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Phasors and Phasor Arithmetic#The exponential form of a phasor
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Time Domain vs Frequency Domain#Frequency Domain
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#Time Domain vs Frequency Domain#Period Signals
+UNI 2023/SEM 1/ELEC2070/Week 7 - Phasors and Impedance.md#What does Impedance Mean?
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Adding Impedances
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Complex Power#Reactive power#Explanation
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Phasor Diagrams
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Phasor Diagrams#Example 3
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Power
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Power across Inductive Load
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Power across Inductive Load#The Effective value of a Periodic Signal
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Power of Periodic Signals
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Power of Periodic Signals#Average Power
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Power of Periodic Signals#Average Power#Average power for a sinusoidal function
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Power#AC Power
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Power#Instantaneous Power
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Source Transformation in the frequency domain
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Source Transformation in the frequency domain#Example 1 Using Source Transformation
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Superposition in the Frequency Domain
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Superposition in the Frequency Domain#Example
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Superposition in the Frequency Domain#Example 2
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Superposition in the Frequency Domain#Example#Graphical Representation
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#The Natural Response in AC Circuits
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#The Natural Response in AC Circuits#Example 4
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Thevenin & Norton Equivalent Circuits in the Frequency Domain
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Thevenin & Norton Equivalent Circuits in the Frequency Domain#How do?#Example 1
+UNI 2023/SEM 1/ELEC2070/Week 8 - AC Thevenin+Norton Equivalents, Superposition, and AC Power.md#Thevenin & Norton Equivalent Circuits in the Frequency Domain#How to calculate the equivalent circuit in the frequency domain
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#A Final Note
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Apparent Power and Power Factor#Apparent Power
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Apparent Power and Power Factor#Power Factor
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Apparent Power and Power Factor#Power Factor#Example
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Frequency#Features of the Complex Frequency
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Frequency#Physical nature of the complex frequency
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Frequency#The Complex Frequency S
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Frequency#The Damped Sinusoid
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Frequency#The Damped Sinusoid#A mathematical definition
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Frequency#The Sinusoidal Case
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Frequency#Understanding the Complex Frequency S
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Power
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Power#Complex Power WRT Impedance
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Power#The power triangle#Reactive power and VA
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Complex Power#Why do we care about complex power?
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Maximum Power Transfer
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Maximum Power Transfer#Average Power Delivered to Load
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Maximum Power Transfer#Maximum AVERAGE power transfer
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Maximum Power Transfer#Maximum AVERAGE power transfer#Theorem for the sinusoidal steady state
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Maximum Power Transfer#Maximum Average Power Transfer
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Power#Average Power Received by Ideal Components
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Power#Average Power Received by Ideal Components#A Problem
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Power#Average Power Received by Ideal Components#Another Problem
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Power#Instantaneous power: DC + Abrupt Change
+UNI 2023/SEM 1/ELEC2070/Week 9 - Complex Power and Complex Frequency.md#Power#Instantaneous power: DC + Abrupt Change#Instantaneous Power: Graphed
+UNI 2023/SEM 1/ELEC3042/ATmega328P Datasheet.md
+UNI 2023/SEM 1/ELEC3042/MCP23S17 Datasheet.md
+UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas
+UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#ATmega328p Microcontroller
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#ATmega328p Microcontroller#Arduino Schematic
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#Bitwise Operations#Example
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#Data Direction Register
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#Data Direction Register#Example
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#Data Register
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#Embedded Systems
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#Input Pin Pull Up
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#Input Registers
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#Numbers
+UNI 2023/SEM 1/ELEC3042/Week 1 - Introduction to Embedded Systems.md#Variable Sizes
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#Example: LED Morse Code
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#INT0 Interrupt
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#INT0 Interrupt#What happens when an interrupt occurs?
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#INT0 Interrupt#When does an Interrupt occur?
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#Interrupt Service Routine (ISR)
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#Interrupts
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#Interrupts#Example: The Toy Problem
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#Interrupts#Sources of Interrupts
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#Reading Bits
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#Reading Bits#Reading multiple inputs
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#Recap - Setting up Inputs and Outputs#Macros for Setting Bits
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#Recap - Setting up Inputs and Outputs#Setting multiple bits at once
+UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md#Summary
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Busy Loops (DO NOT USE FOR SIGNIFICANT TIMING)
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Button Debouncing
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Choosing a Timer
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#One timer for Multiple Events
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Step One: Choose a Timer
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Step Three: Setup Control Registers#Example
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Step Three: Setup Control Registers#TCCR1A - Modes of Operation
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Step Three: Setup Control Registers#TCCR1B - Select Clock Prescaler
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Step Three: Setup Control Registers#TCCR1C - Control Register C
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Step Three: Setup Control Registers#TIFR1 - Interrupt Flag Register
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Step Three: Setup Control Registers#TIMSK1 - Interrupt Mask Register
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Step Two: Choose Timer Mode of Operation
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Timer Modes of Operation#CTC Mode
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Timer Modes of Operation#Normal Mode
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Timer Modes of Operation#PWM Mode
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Timer Summary
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Timers
+UNI 2023/SEM 1/ELEC3042/Week 3 - Timers and Internal Clocks.md#Timers#How do Timers work?
+UNI 2023/SEM 1/ELEC3042/Week 4 - Embedded System Design.md
+UNI 2023/SEM 1/ELEC3042/Week 4 - Embedded System Design.md#7-Segment Display
+UNI 2023/SEM 1/ELEC3042/Week 4 - Embedded System Design.md#State Machines
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#ADC: Sampling & Resolution
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#ADC: Sampling & Resolution#ADC on ATmega328P
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Digital vs Analog
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Setting up for ADC conversion
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Setting up for ADC conversion#General Steps
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Successive Approximation
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Successive Approximation#Conversion Result
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Triggering a conversion
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Using Timers to create analog output
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Waveform Generation#CTC
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Waveform Generation#Choose a Timer
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Waveform Generation#Fast PWM
+UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md#Waveform Generation#Phase correct, Phase & Frequency correct PWM
+UNI 2023/SEM 1/ELEC3042/Week 6 - Debugging, Testing, and UART.md
+UNI 2023/SEM 1/ELEC3042/Week 7 - SPI & I2C.md
+UNI 2023/SEM 1/MECH2003/Week 1 - Introduction to MECH2003.md
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Bearing and Bushings
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Bearing and Bushings#Bearings
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Bearing and Bushings#Bushings
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Losses in the System
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Losses in the System#Examples
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Tolerances
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Tolerances#Types of Fits
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Torque and Power
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Torque and Power#Chain Drives
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Torque and Power#Examples
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Torque and Power#Gears
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Torque and Power#Summary of Practical Uses
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Torque and Power#Timing Belts
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Torque and Power#V Belts
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Transferring Torque Between Components
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Transferring Torque Between Components#Flat and Grub Screw
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Transferring Torque Between Components#Interference Fit
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Transferring Torque Between Components#Keyway
+UNI 2023/SEM 1/MECH2003/Week 10 - Design of Basic Rotating Systems.md#Transferring Torque Between Components#Splines
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Electric Motors
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Electric Motors#AC Motors
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Electric Motors#AC Motors#Examples
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Electric Motors#AC Motors#Torque
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Electric Motors#DC Motors
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Electric Motors#DC Motors#Brushless DC Motors
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Electric Motors#DC Motors#Torque
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Electric Motors#DC Motors#Types
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Internal Combustion Engines
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Internal Combustion Engines#Four Stroke
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Internal Combustion Engines#Rotary Engines
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Internal Combustion Engines#Two Stoke
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Motor Efficiency
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Motor Efficiency#Cooling
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Motor Efficiency#Engine Control Unit (ECU)
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Motor Efficiency#Example
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Motor Efficiency#Turbo (and heat2power?)
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Motor Selection
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Motor Selection#AC or DC Motors
+UNI 2023/SEM 1/MECH2003/Week 11 - Motors and Motor Selection.md#Motor Selection#IC Engines
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Buckling
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Deflection-Force Relationship
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Examples
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Examples#Example 3 (Impulses)
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Examples#Example 4 (Spring at Rest)
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Examples#Example 5 (Spring Properties)
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Forces and Force Diagrams
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Impulse
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Spring Index and Stress
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Stress
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Calculations#Tensile Strength of Spring Materials
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Manufacturing
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Role of a Spring
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Specifying Springs#Helical Springs
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Specifying Springs#Torsional Springs
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Types of Springs
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Types of Springs#Flat Springs
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Types of Springs#Flat Springs#Leaf Springs
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Types of Springs#Flat Springs#Spring Washers
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Types of Springs#Helical Springs
+UNI 2023/SEM 1/MECH2003/Week 12 - Spring Selection.md#Types of Springs#Torsional Springs
+UNI 2023/SEM 1/MECH2003/Week 13 - Revision and Summaries.md
+UNI 2023/SEM 1/MECH2003/Week 2 - Manufacturing Drawings.md
+UNI 2023/SEM 1/MECH2003/Week 3 - The Design Process.md
+UNI 2023/SEM 1/MECH2003/Week 4 - 3D Printing and Laser Cutting.md
+UNI 2023/SEM 1/MECH2003/Week 4 - 3D Printing and Laser Cutting.md#Droplet Deposition Manufacturing
+UNI 2023/SEM 1/MECH2003/Week 4 - 3D Printing and Laser Cutting.md#Rapid Prototyping
+UNI 2023/SEM 1/MECH2003/Week 4 - 3D Printing and Laser Cutting.md#Rapid Prototyping#Fundamentals of Rapid Prototyping
+UNI 2023/SEM 1/MECH2003/Week 4 - 3D Printing and Laser Cutting.md#Rapid Prototyping#Fundamentals of Rapid Prototyping#Alternate Names
+UNI 2023/SEM 1/MECH2003/Week 4 - 3D Printing and Laser Cutting.md#Solid Ground Curing
+UNI 2023/SEM 1/MECH2003/Week 4 - 3D Printing and Laser Cutting.md#Stereolithography
+UNI 2023/SEM 1/MECH2003/Week 5 - Small Volume Manufacturing Techniques.md
+UNI 2023/SEM 1/MECH2003/Week 5 - Small Volume Manufacturing Techniques.md#Manufacturing Techniques#Additive Material Techniques
+UNI 2023/SEM 1/MECH2003/Week 5 - Small Volume Manufacturing Techniques.md#Manufacturing Techniques#Material Removal Techniques
+UNI 2023/SEM 1/MECH2003/Week 5 - Small Volume Manufacturing Techniques.md#Material Removal Theory
+UNI 2023/SEM 1/MECH2003/Week 5 - Small Volume Manufacturing Techniques.md#Summary
+UNI 2023/SEM 1/MECH2003/Week 5 - Small Volume Manufacturing Techniques.md#Why is small volume manufacturing important?
+UNI 2023/SEM 1/MECH2003/Week 5 - Small Volume Manufacturing Techniques.md#Why is small volume manufacturing important?#What kind of components do we use?
+UNI 2023/SEM 1/MECH2003/Week 6 - Material Removal Methods.md
+UNI 2023/SEM 1/MECH2003/Week 6 - Material Removal Methods.md#Chip Production Theory#Types of Chips
+UNI 2023/SEM 1/MECH2003/Week 6 - Material Removal Methods.md#Chip Production Theory#Types of Cuts
+UNI 2023/SEM 1/MECH2003/Week 6 - Material Removal Methods.md#Cutting Temps
+UNI 2023/SEM 1/MECH2003/Week 6 - Material Removal Methods.md#Forces in Metal Cutting
+UNI 2023/SEM 1/MECH2003/Week 6 - Material Removal Methods.md#Forces in Metal Cutting#The Importance of Phi
+UNI 2023/SEM 1/MECH2003/Week 6 - Material Removal Methods.md#Forces in Metal Cutting#Thrust Force and Cutting Force
+UNI 2023/SEM 1/MECH2003/Week 6 - Material Removal Methods.md#Power Required for Machining Operations
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#Computer Numerically Controlled (CNC) Machines
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#Coordinate System and Motion Control
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#Coordinate System and Motion Control#Five Axis Machines
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#Coordinate System and Motion Control#Types of Motion Control
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#Coordinate System and Motion Control#Types of Motion Control#Example 1
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#Coordinate System and Motion Control#Types of Motion Control#Example 2
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#Coordinate System and Motion Control#Types of Motion Control#Example 3
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#NC Positioning System
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#NC Positioning System#Closed Loop Systems
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#NC Positioning System#Closed Loop Systems#Example 5
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#NC Positioning System#Closed Loop Systems#Example 6
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#NC Positioning System#Stepper Motors
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#Part Programming
+UNI 2023/SEM 1/MECH2003/Week 7 - Manufacturing Automation.md#Part Programming#Non Machining Operations
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Bolts VS Screws
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Bonded Joints#Brazing
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Bonded Joints#Cementing
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Bonded Joints#Soldering
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Head Geometry
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Head Geometry#Cap/Hex Head and Domed/Mushroom
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Nuts#Castle Nuts
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Nuts#Hex Nuts
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Nuts#Lock Nuts (Nylock nuts)
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Nuts#Wing Nuts
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Rivets
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Rivets#Blind Rivets (Pop Rivets)
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Rivets#Rivet Selection
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Rivets#Semi-Tubular Rivets
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Rivets#Solid Rivets
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Screw/Bolt Dimensions
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Screw/Bolt Dimensions#Measuring Thread
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Washers
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Washers#Spring Washers
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#Consequences of Welding
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#MIG Welding
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#Oxy Acetylene Welding
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#Spot Welding
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#Stick Welding
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#TIG Welding
+UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#Weld Types
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Amplifiers
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Amplifiers#Circuit Models
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Amplifiers#Circuit Models#Types of Amplifier
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Amplifiers#Circuit Models#Types of Amplifier#Calculate the Gain of a Stage Amplifier
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Amplifiers#Frequency Response and Bandwidth
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Amplifiers#Saturation
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Learning Outcomes
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Non-Linear Devices
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Non-Linear Devices#What is a Nonlinear Device
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Review of Fundamentals#Kirchhoff's Law
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Review of Fundamentals#Nodes
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Review of Fundamentals#Transistors
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Thevenin's Theorem
+UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Thevenin's Theorem#Graphical Analysis
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Diode Analysis
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Diode Analysis#Small Signals
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Logic Gates#Logic Gates with Diodes
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Non-Ideal Diodes
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Non-Ideal Diodes#Constant Voltage Drop Model
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Non-Ideal Diodes#Simple Linear Model and Piece-Wise Linear Model
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Rectifier Circuits#Full-Wave Rectifier
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Rectifier Circuits#Half-Wave Rectifier
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#The Ideal Diode
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#The Ideal Diode#Analysis by Assumed States
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#The Shockley Equation
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#The Shockley Equation#Load Line Analysis Example
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Wave Shaping Circuits
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#What is a Non-Linear Device?
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#What is a Non-Linear Device?#Junction Diode Characteristics
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#What is a Non-Linear Device?#The PN Junction
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#What is a Non-Linear Device?#Types of Diode
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#What is a Non-Linear Device?#What is a Diode
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Zener Diode
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Zener Diode#L-L Analysis of Complex Circuits
+UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Zener Diode#Voltage Regulator - Analysis in the Reverse Breakdown Region
+UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas
+UNI 2023/SEM 2/GANTT.md
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#B-H Loop for transformer cores
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#B-H Loop for transformer cores#Hard Magnetic vs Soft Magnetic
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#B-H Loop for transformer cores#Permanent Magnet Characteristics
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#B-H Relationship; Core Saturation
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Inductance
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Inductance#Coupled Coils
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Inductance#Coupled Coils#Example
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Inductance#The Dot Convention for Inductors in Series
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Magnetic Circuit Analysis#Amperes Law
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Magnetic Circuit Analysis#Capacitor Voltage and Current in Steady State
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Magnetic Circuit Analysis#Inductor Voltage and Current in Steady State
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Magnetic Circuit Analysis#Magnetic Circuits
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Magnetic Circuit Analysis#Magnetic Reluctance
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Magnetic Circuit Analysis#Magnitude and Direction of Magnetic Field#[[../../../Distilled Notes/Amperes Circuital Law|Amperes Circuital Law]]: Coil around a core
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Magnetic Circuit Analysis#Magnitude and Direction of Magnetic Field#[[../../../Distilled Notes/Amperes Circuital Law|Amperes Circuital Law]]: Current Through Conductor
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Magnetic Circuit Analysis#Permanent Magnets
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Approximate Equivalent Circuit
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Core Types
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Core Types#Shell Type Transformer/Sandwich Windings
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#EMF Equation of a Transformer
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Equivalent Circuit of a Transformer
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Ideal Transformers
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Phasor Diagrams#No Load
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Phasor Diagrams#Transformer on Load - Assuming no voltage drop in the winding
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Principle of Operation
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Transformer Efficiency
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Transformer Efficiency#Losses in a Transformer
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Transformer Phasor Diagram
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Transformer Tests
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Transformer Tests#Open Circuit Test
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Transformer Tests#Short-Circuit Test
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Transformer Voltage Regulation and Efficiency
+UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md#Transformers#Transformer Voltage Regulation and Efficiency#Voltage Regulation of a Transformer
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Control of Electric Motors
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Fundamentals of Rotating Machines (Motors)
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Fundamentals of Rotating Machines (Motors)#Brushed DC Motors
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Fundamentals of Rotating Machines (Motors)#DC Motor Characteristics
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Fundamentals of Rotating Machines (Motors)#Different Connections of DC motors with Field Windings
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Fundamentals of Rotating Machines (Motors)#Force on a Charge
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Fundamentals of Rotating Machines (Motors)#Losses
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Fundamentals of Rotating Machines (Motors)#Operating Principles
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Load
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Load#Coupling of Loads with Motor:
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Load#Load Characteristics
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Load#Load Types#Constant Horsepower Load:
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Load#Load Types#Constant Torque Load:
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Load#Load Types#Variable Torque Load:
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Load#Motor-Load Connection Through a Gear
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Mathematical Equations for analysing DC  Motors#BLDC Motor VS Brushed DC Motor
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Mathematical Equations for analysing DC  Motors#Chopping and Speed Control
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Mathematical Equations for analysing DC  Motors#DC Motor H-Bridge
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Mathematical Equations for analysing DC  Motors#Model for Starting Performance
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Mathematical Equations for analysing DC  Motors#Performance Equation
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Selecting Motors
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#Selecting Motors#Example Specs - Sydney Trains and Sydney Metro
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#[[../../../UNI 2022/MTRN2060/Actuators|Actuators]]
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#[[../../../UNI 2022/MTRN2060/Actuators|Actuators]]#Actuator Systems
+UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md#[[../../../UNI 2022/MTRN2060/Actuators|Actuators]]#Electric Motors
+UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md
+UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md#Processing of Sensor Signals#The Operation Amplifier ([[Operation Amplifiers]])
+UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md#Sensors
+UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md#Sensors#Current Measurement of DC Motor
+UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md#Sensors#Encoders
+UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md#Sensors#Tacho-Generator
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md#Description of position and orientation (chapter 2)
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md#Description of position and orientation (chapter 2)#Inverse Kinematics
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md#Description of position and orientation (chapter 2)#Kinematics
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md#Position:
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md#Position:#Orientation
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 3 - Sensing and Perception in Robotic and Automation - Translation, Rotations, and Transformations.md
+UNI 2023/SEM 2/MTRN3060/Practicals/Week 1 - RobotStudio Introduction.md
+UNI 2023/SEM 2/MTRN3060/Practicals/Week 2 - ABB IRB120 and IRC5.md
+UNI 2023/SEM 2/Weekly Work.md
+UNI 2023/SEM 2/Weekly Work.md#ELEC2005
+UNI 2023/SEM 2/Weekly Work.md#MTRN3026
+UNI 2023/SEM 2/Weekly Work.md#MTRN3060

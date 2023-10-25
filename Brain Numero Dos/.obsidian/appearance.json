@@ -1,0 +1,16 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSize": 24,
+  "cssTheme": "Royal Velvet",
+  "textFontFamily": "Roboto",
+  "interfaceFontFamily": "Roboto",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "monospaceFontFamily": "Roboto",
+  "enabledCssSnippets": [
+    "lineWidth"
+  ],
+  "baseFontSizeAction": true
+}

@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"file","file":"UNI 2023/SEM 2/ENGG3000/Attachments/team-canvas.png","id":"fed1944bfe4ef808","x":-3140,"y":-800,"width":1074,"height":760},
+		{"type":"text","text":"Values:\n- All work is to be attributed properly\n- Distribute work evenly and with respect to the individuals skills.","id":"e02feeda4e6206bf","x":-920,"y":-680,"width":560,"height":480},
+		{"type":"text","text":"Common Goals:\n- Deliver all deliverables as defined in the brief on time.\n- Create a marble machine the team can be proud of\n- Learn more about participating in and leading a team","id":"a879357e21650e9f","x":-1480,"y":-640,"width":480,"height":474},
+		{"type":"text","text":"T4M3","id":"a3421cda5412f147","x":-1040,"y":-800,"width":131,"height":50},
+		{"type":"text","text":"Purpose:\nDeliver all deliverables as outlined in the brief, and produce a marble machine of good quality.","id":"54704aee2970df7b","x":-1120,"y":-120,"width":273,"height":238},
+		{"type":"text","text":"Needs and Expectations\n- A reasonable timeframe\n- Someone else to check over my work\n- All the information needed for the task","id":"a8c5358a1ca608e6","x":-960,"y":160,"width":600,"height":500},
+		{"type":"text","text":"Personal Goals:\n- Learn more about the process\n- Learn more about leadership\n- Get better at consistent work","id":"db5ad7167313a634","x":-1480,"y":160,"width":460,"height":520},
+		{"type":"text","text":"Rules and Activities:\n- Expected to show up to our ENGG3000 session, or notify the team when absent.\n- Use the discord properly, and respond to messages\n- Keep logbooks up to date always\n- Be honest if you wont be finished by a deadline","id":"ffffb1775bd1f540","x":-320,"y":-400,"width":460,"height":880},
+		{"type":"text","text":"People and Roles:","id":"76a6a016d4f7adf0","x":-2000,"y":-440,"width":480,"height":880},
+		{"type":"text","text":"Strengths and Assets:\n- 3D modelling and CAD\n- 3D Printing\n- Arduino and microcontroller experience\n- Programming\n- Mathematical modelling and physics analysis","id":"9f36c2701909a20a","x":-1680,"y":720,"width":600,"height":272},
+		{"type":"text","text":"Weaknesses and Risks:\n- Struggle coming up with new ideas\n- Need a second pair of eyes\n- I work in short bursts\n","id":"7ecb972eff8a427e","x":-960,"y":720,"width":640,"height":280}
+	],
+	"edges":[]
+}

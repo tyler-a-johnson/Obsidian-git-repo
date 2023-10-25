@@ -1,0 +1,1 @@
+[Robot_Arm,ArmInfo]=importrobot('armStructureMk3.slx')

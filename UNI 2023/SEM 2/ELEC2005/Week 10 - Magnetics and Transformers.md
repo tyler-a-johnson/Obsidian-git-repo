@@ -200,6 +200,7 @@ Often its posed $i_{1}-i_{M}=i_{1}'$
 ```
 
 ## Transformers in AC Circuits
+![](Attachments/Pasted%20image%2020231026173847.png)
 
 
 

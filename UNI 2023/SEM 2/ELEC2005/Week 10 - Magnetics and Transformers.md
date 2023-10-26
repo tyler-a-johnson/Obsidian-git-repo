@@ -155,10 +155,11 @@ $0 = n_{1} i_{1} + n_{2} i_{2}$
 
 **Faraday's Law:**$$
  \delta(t) = \begin{cases} 
-      v_{1}=n_{1} \Delta \Phi \\
-      0 & \textrm{Everywhere Else} \\
+      v_{1}=n_{1} \frac{\Delta\Phi}{\Delta t} \\
+      v_{2}=n_{2} \frac{\Delta \Phi}{\Delta t}\\
    \end{cases} 
 $$
+$$\frac{\Delta \Phi}{\Delta t}=\frac{v_{1}}{v_{2}}$$
 
 
 # Additional Content

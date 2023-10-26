@@ -6,7 +6,6 @@
       {
         "id": "3aa0fc4e98112e9b",
         "type": "tabs",
-        "dimension": 55.56972789115646,
         "children": [
           {
             "id": "49af9ef2465c9402",
@@ -27,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c2e4682e2d14481",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Markdown Latex Reference Sheet.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,44 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "086385b8387b111f",
-        "type": "tabs",
-        "dimension": 44.43027210884354,
-        "children": [
-          {
-            "id": "ca0c23de5e053625",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf"
-              }
-            }
-          },
-          {
-            "id": "0c94c6e9e145d125",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf"
-              }
-            }
-          },
-          {
-            "id": "53ec1e5bf993dca4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk11 2023.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.51240158081055
+    "width": 296.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -195,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -224,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md"
               }
             }
           },
@@ -288,10 +237,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f79040e5cb5fe645",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Attachments/wk11 2023.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+    "Resources/Markdown Latex Reference Sheet.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/wk11 2023.pdf",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026213526.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026213341.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026213046.png",
@@ -304,7 +254,6 @@
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026210833.png",
     "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
-    "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",

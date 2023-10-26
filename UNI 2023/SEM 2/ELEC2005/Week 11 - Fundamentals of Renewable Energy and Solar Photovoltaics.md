@@ -43,7 +43,12 @@ $$i = I_{sc}-I_{0}(e^{x}-1)$$
 ### Solar Cell Equations: Simple Current Generator with Anti-Parallel Diode Model
 ![](Attachments/Pasted%20image%2020231026192503.png)
 $$I = I_{sc}-I_{d}$$
-$$I = I_{sc} - I_{0} (e^{qV/})$$
+$$I = I_{sc} - I_{0} (e^{\frac{qV}{kT}}-1)$$
+
+$q = 1.602 * 10 ^{-19}C$ : Electron Charge
+
+$ = 1.38*10^{-23}$
+
 
 # Conceptual Info
 ---

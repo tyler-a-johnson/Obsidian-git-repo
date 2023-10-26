@@ -209,7 +209,13 @@ A partially shaded PV string's i-v and p-v characteristics
 ![](Attachments/Pasted%20image%2020231026212745.png)
 $$\eta = \frac{V_{mpp}*I_{mpp}[W]}{1000\left[ \frac{W}{m^{2}} \right] * \text{Area}[m^{2}]}$$ Typical < 20% for commercial models
 
-Area is on the 
+Area is on the datasheet
+
+### What if the load does not allow max efficiency?
+*DC-DC converter with MPPT control ensures PV module works at MPP*
+![](Attachments/Pasted%20image%2020231026213046.png)
+- Battery voltage $V_{B} = PV$ voltage
+- Low power delv
 
 
 # Conceptual Info

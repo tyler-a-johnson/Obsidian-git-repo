@@ -17,6 +17,7 @@ Relevant Links:
 ## Solar Cell Fundamentals
 Photovoltaic cells energy conversion:[How do solar panels work? - Richard Komp - YouTube](https://youtu.be/xKxrkht7CpY)
 
+### Load Convention
 **Without Light**
 $i = I_{0}(e^{x}-1)$
 note that $x \propto v$
@@ -29,6 +30,7 @@ $i = I_{0}(e^{x}-1) - \text{const}$
 $\text{const} = I_{sc}$
 ![](Attachments/Pasted%20image%2020231026191127.png)
 ![](Attachments/Pasted%20image%2020231026191321.png)
+
 
 
 

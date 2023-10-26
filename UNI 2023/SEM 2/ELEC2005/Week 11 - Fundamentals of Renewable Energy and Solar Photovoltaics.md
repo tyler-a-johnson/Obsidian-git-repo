@@ -125,8 +125,10 @@ Consider the ideal single diode model for each cell, and two cells connected in 
 - The shaded cell is a revere biased diode, blocking the flow of current to the load
 - The load current is null, I = 0
 
-**A more detailed model is needed to explain what happens in practice, because in realityu**
+**A more detailed model is needed to explain what happens in practice, because in reality I>0**
 
+![](Attachments/Pasted%20image%2020231026203802.png)
+- Higher voltage V, the higher the current through $R_{p}$ 
 
 # Conceptual Info
 ---

@@ -30,11 +30,11 @@ Relevant Links:
 - Tasmania is connected to Victoria via an Undersea DC Cable
 - Biggest electricity market are NEM (QLD, NSW, VIC, SA, TAS) and SWIS (WA)
 
-**NEMA (Eastern Australia) Energy Generation**
+**NEM (Eastern Australia) Energy Generation**
+![](Attachments/Pasted%20image%2020231026190337.png)
 ![](Attachments/Pasted%20image%2020231026185552.png)
 
-**NEM (Eastern Australia)**
-![](Attachments/Pasted%20image%2020231026185705.png)
+- Renewables (Wind, Solar, Hydro) Contributed to more than 35% of all elec
 
 # Additional Content
 ---

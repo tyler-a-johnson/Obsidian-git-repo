@@ -56,7 +56,8 @@ $T$: Temperature in **K**
 at  25C
 $T = 273.15 +25 = 298.15K$
 
-$$I = I_{sc} - I_{0}(e^{38.9})$$
+$$I = I_{sc} - I_{0}(e^{38.9V}-1)$$
+
 
 
 # Conceptual Info

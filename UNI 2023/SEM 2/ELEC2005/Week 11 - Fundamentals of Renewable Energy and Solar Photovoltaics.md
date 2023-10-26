@@ -199,7 +199,9 @@ Placed at the end of each PV string to avoid negative current in strings with sh
 A partially shaded PV string's i-v and p-v characteristics
 ![](Attachments/Pasted%20image%2020231026211850.png)
 - multiple power peaks in the curve
-- Special control is needed to extract maximum PV power #thes
+- Special control is needed to extract maximum PV power #thesis
+
+
 
 # Conceptual Info
 ---

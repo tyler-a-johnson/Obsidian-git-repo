@@ -182,7 +182,13 @@ $V-V_{SH} = \Delta V : PV$ Module voltage reduction due to shading on one cell
 - Shaded cell causes large voltage reduction
 - Shaded cell voltage $(R_{s}+R_{p})I$ is large
 
-	**WITH Bypass Diode:**
+**WITH Bypass Diode:**
+- Current flow is diverted through BP -diode
+- Shaded cell causes small voltage reduction
+- Shaded cell voltage is small (typically 0.5 - 1V)
+
+![](Attachments/Pasted%20image%2020231026211256.png)
+- impractical to use one bypass diode per cell in a PV mod
 
 # Conceptual Info
 ---

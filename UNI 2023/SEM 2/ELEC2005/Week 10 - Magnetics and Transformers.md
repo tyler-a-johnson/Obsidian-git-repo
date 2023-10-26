@@ -223,7 +223,11 @@ $$V = n \frac{d \Phi}{dt}\rightarrow \frac{\bar{V_{1}}}{\bar{V}_{2}} = \frac{n_{
 $$n_{1}\bar{I}_{1}=n_{2}\bar{I}_{2}\rightarrow \frac{\bar{I}_{1}}{\bar{I}_{2}} = \frac{n_{2}}{n_{1}} = \frac{1}{a_{t}}$$
 
 *Impedance $Z_{2}=\frac{\bar{V}_{2}}{\bar{I}_{2}}$ seen from winding 1
-$$Z_{2}' = \frac{\bar{V}_{1}}{\bar{I}_{1}} = \frac{a_{t}\bar{V}_{2}}{\frac{\bar{I}_{2}}{a_{}}}$$
+$$Z_{2}' = \frac{\bar{V}_{1}}{\bar{I}_{1}} = \frac{a_{t}\bar{V}_{2}}{\frac{\bar{I}_{2}}{a_{_{t}}}} = a_{t}^{2}Z_{2}$$
+
+### Practical AC Transformers
+
+
 
 # Additional Content
 ---

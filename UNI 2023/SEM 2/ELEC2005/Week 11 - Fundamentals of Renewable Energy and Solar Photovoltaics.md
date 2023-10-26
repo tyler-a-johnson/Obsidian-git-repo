@@ -137,7 +137,10 @@ Consider the ideal single diode model for each cell, and two cells connected in 
 **Inclusion of series resistance $R_{s}$ assuming $R_{p} = \infty$**
 ![](Attachments/Pasted%20image%2020231026204159.png)
 $$I = I_{sc} - I_{d} = I_{sc} - I_{0} (e^{\frac{qV_{d}}{kT}}-1)$$
-$$=I_{sc} - I_{0} ()$$
+$$=I_{sc} - I_{0} (e^{\frac{q(V+R_{s}I)}{kT}}-1)$$
+- The higher the load current I, the higher the voltage drop $\Delta V$ on $R_{s}$
+- This voltage drop 
+
 
 # Conceptual Info
 ---

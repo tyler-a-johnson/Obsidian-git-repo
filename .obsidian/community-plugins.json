@@ -25,8 +25,8 @@
   "mermaid-tools",
   "copilot",
   "obsidian-icon-folder",
-  "obsidian-git",
   "obsidian-latex-suite",
   "media-extended",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "obsidian-git"
 ]

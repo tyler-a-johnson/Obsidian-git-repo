@@ -15,7 +15,13 @@ Relevant Links:
 ---
 
 ## Solar Cell Fundamentals
-Photovoltai
+Photovoltaic cells energy conversion:[How do solar panels work? - Richard Komp - YouTube](https://youtu.be/xKxrkht7CpY)
+
+$i = I_{0}(e^{x}-1)$
+note that $x$
+![](Attachments/Pasted%20image%2020231026190935.png)
+![](Attachments/Pasted%20image%2020231026190950.png)
+
 
 
 # Conceptual Info

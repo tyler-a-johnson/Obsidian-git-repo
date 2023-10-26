@@ -77,12 +77,7 @@ $V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
 # Conceptual Info
 ---
 
-## Renewable Energy
-- Electric and electronic systems are fundamentals in renewable energy.
-- We can use naturally occurring and renewable forms of energy such as wind, solar, geothermal, and many others to generate power.
-![](Attachments/Pasted%20image%2020231026184521.png)
-
-### Energy markets and supply in Australia
+## Energy markets and supply in Australia
 ![](Attachments/Pasted%20image%2020231026184627.png)
 - Adjacent coloured areas are interconnected
 - Tasmania is connected to Victoria via an Undersea DC Cable
@@ -96,6 +91,14 @@ $V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
 - Proportion electricity generated from renewables is set to increase steeply
 - Australian Energy Market Operator declared to be working on a grid capable to handle 100% renewable energy penetration by 2025
 - Solar (Photovoltaic) energy is going to be one of the major sources of electricity in Australia
+
+
+## Cells, Module, Arrays
+![](Attachments/Pasted%20image%2020231026194749.png)
+**Typical Indicative Values :**
+- Cell: 0.6V 5A
+- Module: 30V 5A
+- Array: 400V 10A
 
 # Additional Content
 ---

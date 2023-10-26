@@ -47,7 +47,11 @@ $$I = I_{sc} - I_{0} (e^{\frac{qV}{kT}}-1)$$
 
 $q = 1.602 * 10 ^{-19}C$ : Electron Charge
 
-$ = 1.38*10^{-23}$
+$k= 1.38*10^{-23}$ J/K: Boltzmann Constant
+
+$V_{T} = \frac{kT}{q}$ V: Thermal Voltage
+
+$T$: Temperature in **K**
 
 
 # Conceptual Info

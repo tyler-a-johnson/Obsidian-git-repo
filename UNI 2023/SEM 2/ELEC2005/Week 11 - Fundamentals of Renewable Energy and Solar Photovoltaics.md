@@ -175,8 +175,14 @@ $V-V_{SH} = \Delta V : PV$ Module voltage reduction due to shading on one cell
 
 ![](Attachments/Pasted%20image%2020231026210833.png)
 
-#### Shading effect mitigation: Bypass diode
+#### Shading effect mitigation: Bypass diodes
+![](Attachments/Pasted%20image%2020231026210923.png)
+**Without Bypass Diode:**
+- Current flows through $R_{p}+R_{s}$
+- Shaded cell causes large voltage reduction
+- Shaded cell voltage $(R_{s}+R_{p})I$ is large
 
+	**WITH Bypass Diode:**
 
 # Conceptual Info
 ---

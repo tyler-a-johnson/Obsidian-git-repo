@@ -96,7 +96,12 @@ At open-circuit (a) and short-circuit (b) the PV module delivers no power.
 
 
 ![](Attachments/Pasted%20image%2020231026195446.png)
-The PV module delivers the maxi
+The PV module delivers the maximum power only at one operating point (MPP)
+$V = V_{R}, I=I_{R}$
+
+### Fill Factor
+
+
 
 
 

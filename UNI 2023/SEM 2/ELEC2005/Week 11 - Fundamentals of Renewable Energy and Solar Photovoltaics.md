@@ -23,8 +23,12 @@ note that $x \propto v$
 ![](Attachments/Pasted%20image%2020231026190935.png)
 ![](Attachments/Pasted%20image%2020231026190950.png)
 
-**When light is **
+**When light is shone on the "diode"**
+$i = I_{0}(e^{x}-1) - \text{const}$
+
+$\text{const} = I_{sc}$
 ![](Attachments/Pasted%20image%2020231026191127.png)
+![](Attachments/Pasted%20image%2020231026191321.png)
 
 
 

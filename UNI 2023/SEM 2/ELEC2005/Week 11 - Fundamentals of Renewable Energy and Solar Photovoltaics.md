@@ -219,7 +219,9 @@ Area is on the datasheet
 - Battery Voltage $V_{B} \neq PV$ voltage
 - Max power to battery $P_{B} = P_{mpp}$
 
-![](Attachments/Pasted%20image%2020231026213341.png)
+
+
+
 
 # Conceptual Info
 ---
@@ -246,7 +248,14 @@ Area is on the datasheet
 - $P_{pv} = P_{sun} * \frac{\eta}{100} [kW] \rightarrow$ number of PV modules = $\frac{P_{pv}}{P_{\text{module}}}$
 
 
+## Cell efficiency over the years
+**PV cell efficiency progress in time**
+![](Attachments/Pasted%20image%2020231026213341.png)
 
+
+## Typical PV power conversion system structure
+![](Attachments/Pasted%20image%2020231026213526.png)
+dc-dc converter: extracts maximum power from PV array and boosts PV string voltage to match inverter input voltage dc-ac converter: converts dc voltage/current into ac form (compatible with the grid) bidirectional converter/battery: supply load when there is no sun, and absorb power when PV power exceeds the load demand converters are studied in ELCT3005 Power Electronics PV power plants are considered in ELCT4004 Power Systems Analysis, ELCT4001 Smart Power Grids
 
 # Additional Content
 ---

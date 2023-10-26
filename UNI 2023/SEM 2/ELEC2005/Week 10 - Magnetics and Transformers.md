@@ -167,7 +167,12 @@ $$\frac{\Delta \Phi}{\Delta t}=\frac{v_{1}}{n_{1}}=\frac{v_{2}}{n_{2}}\rightarro
 ### Actual Transformer $\mathscr{R}>0$ Magnetizing Inductance $L_{m}$
 ![](Attachments/Pasted%20image%2020231026171811.png)
 $$\mathscr{R}\Phi=n_{1}i_{1}+n_{2}i_{2}$$
-$$\Phi= \frac{n_{1}i_{1}+n_{2}}{2}$$
+$$\Phi= \frac{n_{1}i_{1}+n_{2}i_{2}}{\mathscr{R}}$$
+
+![](Attachments/Pasted%20image%2020231026172014.png)
+
+**Faraday's Law**
+$$v_{1}=n_{1} \frac{\Delta \Phi}{\Delta t} = \frac{n_{1}^{2}}{}$$
 
 # Additional Content
 ---

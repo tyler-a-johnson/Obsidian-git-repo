@@ -101,7 +101,8 @@ $V = V_{R}, I=I_{R}$
 
 ### Fill Factor
 ![](Attachments/Pasted%20image%2020231026195932.png)
-- FF (Fill Factor) is the ratio between the maximum are fitting under the i-v curve
+- FF (Fill Factor) is the ratio between the maximum are fitting under the i-v curve and the $V_{oc}I_{sc}$ area.
+- $FF = 70 - 75$% for cristalline Silicon (cSi)
 
 
 

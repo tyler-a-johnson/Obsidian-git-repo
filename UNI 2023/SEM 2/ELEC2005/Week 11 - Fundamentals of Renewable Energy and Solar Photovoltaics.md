@@ -145,7 +145,10 @@ $$=I_{sc} - I_{0} (e^{\frac{q(V+R_{s}I)}{kT}}-1)$$
 
 ### Inclusion of $R_{s}$ and $R_{p}$: PV Module i-v curve
 ![](Attachments/Pasted%20image%2020231026205101.png)
+$$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V_{d}}{R_{p}}$$
+Where the $I_{0}$ portion is $I_{d}$, and the fraction at the end is $I_{p}$
 
+$$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V+R_{s}I}{R_{p}}$$
 
 # Conceptual Info
 ---

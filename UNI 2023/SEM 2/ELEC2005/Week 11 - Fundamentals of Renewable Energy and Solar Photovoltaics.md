@@ -56,7 +56,13 @@ $T = 273.15 +25 = 298.15K$
 $I = I_{sc} - I_{0}(e^{38.9V}-1)$
 
 
-For $I = 0, V$
+For $I = 0, V=V_{oc}$
+$$V_{oc} = \frac{kT}{q}\ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$$
+
+![](Attachments/Pasted%20image%2020231026194215.png)
+
+
+
 
 
 

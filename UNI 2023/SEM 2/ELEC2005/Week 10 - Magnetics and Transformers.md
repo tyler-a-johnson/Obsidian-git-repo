@@ -212,6 +212,12 @@ Assume power is flowing left to right, then the secondary current is **+ve** if 
 ![](Attachments/Pasted%20image%2020231026174552.png)
 
 
+![](Attachments/Pasted%20image%2020231026175328.png)
+**- Complex power entering winding 1 equals the complex power exiting winding 2.**
+$\bar{S}_{1} = \bar{S}_{2}$
+
+$$\bar{V}_{1}\bar{I}_{1}* = \bar{V}_{2}Ib$$
+
 
 
 # Additional Content

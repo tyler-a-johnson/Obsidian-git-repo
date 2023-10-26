@@ -6,7 +6,7 @@
       {
         "id": "3aa0fc4e98112e9b",
         "type": "tabs",
-        "dimension": 56.146320714589535,
+        "dimension": 52.658443215652916,
         "children": [
           {
             "id": "49af9ef2465c9402",
@@ -39,7 +39,7 @@
       {
         "id": "086385b8387b111f",
         "type": "tabs",
-        "dimension": 43.853679285410465,
+        "dimension": 47.34155678434709,
         "children": [
           {
             "id": "ca0c23de5e053625",
@@ -255,6 +255,7 @@
   },
   "active": "49af9ef2465c9402",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026175328.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "Distilled Notes/Dot Convention (Transformers).md",

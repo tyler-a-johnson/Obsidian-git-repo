@@ -21,7 +21,11 @@ Relevant Links:
 
 ## Renewable Energy
 - Electric and electronic systems are fundamentals in renewable energy.
-- Variable speed drives are used to change the speed of electric motors.
+- We can use naturally occurring and renewable forms of energy such as wind, solar, geothermal, and many others to generate power.
+![](Attachments/Pasted%20image%2020231026184521.png)
+![](Attachments/Pasted%20image%2020231026184627.png)
+- Adjacent coloured areas are intr
+
 
 # Additional Content
 ---

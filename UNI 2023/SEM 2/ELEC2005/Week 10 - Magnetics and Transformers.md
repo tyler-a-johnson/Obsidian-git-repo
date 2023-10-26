@@ -159,8 +159,10 @@ $0 = n_{1} i_{1} + n_{2} i_{2}$
       v_{2}=n_{2} \frac{\Delta \Phi}{\Delta t}\\
    \end{cases} 
 $$
-$$\frac{\Delta \Phi}{\Delta t}=\frac{v_{1}}{v_{2}}$$
+![](Attachments/Pasted%20image%2020231026171624.png)
+$$\frac{\Delta \Phi}{\Delta t}=\frac{v_{1}}{n_{1}}=\frac{v_{2}}{n_{2}}\rightarrow \frac{v_{1}}{v_{2}}=\frac{n_{1}}{n_{2}}$$
 
+### Actual Transformer $\mathscr{}$
 
 # Additional Content
 ---

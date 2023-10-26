@@ -95,10 +95,12 @@ $V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
 
 ## Cells, Module, Arrays
 ![](Attachments/Pasted%20image%2020231026194749.png)
-**Typical Indicative Values :**
+**Typical indicative values:**
 - Cell: 0.6V 5A
 - Module: 30V 5A
 - Array: 400V 10A
+![](Attachments/Pasted%20image%2020231026194941.png)
+
 
 # Additional Content
 ---

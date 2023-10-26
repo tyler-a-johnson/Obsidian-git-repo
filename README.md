@@ -7,5 +7,5 @@ Its regularly updated, this is used as a way to sync my notes
 If you find any useful information feel free to help yourself
 
 
-## **These notes are NOT complete, they contain errors and incomplete information this is a work in progress**
+## **These notes are not complete, they contain errors and incomplete information this is a work in progress**
 If you find any errors or issues and want to let me know please do

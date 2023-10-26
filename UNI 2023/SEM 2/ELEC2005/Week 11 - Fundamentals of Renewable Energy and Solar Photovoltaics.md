@@ -72,6 +72,19 @@ $V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
 *Note: the area under the i-v curve is the power generated*
 ![](Attachments/Pasted%20image%2020231026194635.png)
 
+## I-V Characteristics of Series/Parallel connected cells
+
+![](Attachments/Pasted%20image%2020231026195149.png)
+![](Attachments/Pasted%20image%2020231026195224.png)
+![](Attachments/Pasted%20image%2020231026195236.png)
+
+
+![](Attachments/Pasted%20image%2020231026195251.png)
+At 
+
+
+
+
 
 
 # Conceptual Info

@@ -17,10 +17,14 @@ Relevant Links:
 ## Solar Cell Fundamentals
 Photovoltaic cells energy conversion:[How do solar panels work? - Richard Komp - YouTube](https://youtu.be/xKxrkht7CpY)
 
+**Without Light**
 $i = I_{0}(e^{x}-1)$
-note that $x$
+note that $x \propto v$
 ![](Attachments/Pasted%20image%2020231026190935.png)
 ![](Attachments/Pasted%20image%2020231026190950.png)
+
+**When light is **
+![](Attachments/Pasted%20image%2020231026191127.png)
 
 
 

@@ -161,7 +161,11 @@ $$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V+R_{s}I}{R_
 - It is desired to have high $R_p$ and low $R_{s}$ for better performance
 
 ### Impact of Shading (using non-ideal PV cell circuit)
-
+![](Attachments/Pasted%20image%2020231026210422.png)
+**Full sun**
+- All cells produce I
+- PV module voltage V
+- 
 
 
 

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md"
               }
             }
           },
@@ -290,6 +290,9 @@
   },
   "active": "f79040e5cb5fe645",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026210422.png",
+    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026205739.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026205351.png",
@@ -308,12 +311,10 @@
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
     "Distilled Notes/Dot Convention (Transformers).md",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/TEST_EQUATIONS.pdf",
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
     "UNI 2023/SEM 2/Daily Work.md",

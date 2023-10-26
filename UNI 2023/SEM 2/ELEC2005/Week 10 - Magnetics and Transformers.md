@@ -216,7 +216,8 @@ Assume power is flowing left to right, then the secondary current is **+ve** if 
 **- Complex power entering winding 1 equals the complex power exiting winding 2.**
 $\bar{S}_{1} = \bar{S}_{2}$
 
-$$\bar{V}_{1}\bar{I}_{1}* = \bar{V}_{2}Ib$$
+$$\bar{V}_{1}\bar{I}_{1}^* = \bar{V}_{2}\bar{I}_{2}^*$$
+$$\bar{S}_{1} = \bar{V}_{1}\bar{I}_{1} = a_{t} \bar{V}_{2} \frac{\bar{I}_{2}}{a_{t}}=\bar{S}_{2}$$
 
 
 

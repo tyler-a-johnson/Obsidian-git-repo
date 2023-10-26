@@ -139,7 +139,9 @@ Consider the ideal single diode model for each cell, and two cells connected in 
 $$I = I_{sc} - I_{d} = I_{sc} - I_{0} (e^{\frac{qV_{d}}{kT}}-1)$$
 $$=I_{sc} - I_{0} (e^{\frac{q(V+R_{s}I)}{kT}}-1)$$
 - The higher the load current I, the higher the voltage drop $\Delta V$ on $R_{s}$
-- This voltage drop 
+- This voltage drop as the current rises is represented by a vertical slope in the i-v curve
+- for a large cell, typical $V_{oc} = 0.6V, I_{sc} = 7A, R_{s} = 1*10^{-3}\Omega$
+- 
 
 
 # Conceptual Info

@@ -33,8 +33,9 @@ $\text{const} = I_{sc}$
 
 ### Generator Convention
 
-$i = -I_{0}(e^{x}-1) +I_{sc}$
+$$i = -I_{0}(e^{x}-1) +I_{sc}$$
 ![](Attachments/Pasted%20image%2020231026191715.png)
+
 
 
 

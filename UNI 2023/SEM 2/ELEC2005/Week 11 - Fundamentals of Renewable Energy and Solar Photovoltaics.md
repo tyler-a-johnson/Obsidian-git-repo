@@ -40,6 +40,9 @@ $$i = I_{sc}-I_{0}(e^{x}-1)$$
 ![](Attachments/Pasted%20image%2020231026192156.png)
 
 
+### Solar Cell Equations: Simple Current Generator with Anti-Parallel Diode Model
+
+
 # Conceptual Info
 ---
 

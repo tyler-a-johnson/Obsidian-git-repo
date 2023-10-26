@@ -195,6 +195,9 @@ $V-V_{SH} = \Delta V : PV$ Module voltage reduction due to shading on one cell
 #### Blocking Diodes
 Placed at the end of each PV string to avoid negative current in strings with shaded modules.
 ![](Attachments/Pasted%20image%2020231026211503.png)
+- In practice, PV strings have bypass diodes and blocking diodes
+A partially shaded PV string's i-v and p-v characteristics
+![](Attachments/Pasted%20image%2020231026211850.png)
 
 
 # Conceptual Info

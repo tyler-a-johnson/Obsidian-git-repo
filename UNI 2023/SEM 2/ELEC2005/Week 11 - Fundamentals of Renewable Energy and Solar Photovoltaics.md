@@ -120,8 +120,12 @@ S in kW/m^2
 
 ### Equivalent Circuit
 Consider the ideal single diode model for each cell, and two cells connected in series, where one is partially shaded. According to the diagram using ideal PV cell equivalent.
+![](Attachments/Pasted%20image%2020231026203622.png)
 - The shaded cell produces no current
 - The shaded cell is a revere biased diode, blocking the flow of current to the load
+- The load current is null, I = 0
+
+**A more detailed model is needed to explain what happens in practice, because in realityu**
 
 
 # Conceptual Info

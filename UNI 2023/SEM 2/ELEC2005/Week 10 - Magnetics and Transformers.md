@@ -179,6 +179,16 @@ For DC input Voltage $v_{1}=V_{dc}=$ constant
 
 $\frac{d}{dt}\left( i_{1}+ \frac{n_{2}}{n_{1}}i_{2} \right)$ = Constant
 
+$i_{M}$ grows at constant rate, i.e. the primary sees a short-circuit
+
+Secondary Disconnected $(i_{2}=0)$
+
+![](Attachments/Pasted%20image%2020231026172812.png)
+
+```ad-summary
+- Transformers change voltage/current level between two circuits
+
+```
 
 
 

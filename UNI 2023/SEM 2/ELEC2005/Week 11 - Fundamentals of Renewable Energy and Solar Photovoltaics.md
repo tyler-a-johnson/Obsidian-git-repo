@@ -148,10 +148,11 @@ $$=I_{sc} - I_{0} (e^{\frac{q(V+R_{s}I)}{kT}}-1)$$
 $$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V_{d}}{R_{p}}$$
 Where the $I_{0}$ portion is $I_{d}$, and the fraction at the end is $I_{p}$
 
+$V = V_{d}-R_{s}I$
+$V_{\text{module}}=n(V_{d}-R_{s})$
 $$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V+R_{s}I}{R_{p}}$$
 
 ![](Attachments/Pasted%20image%2020231026205351.png)
-
 
 # Conceptual Info
 ---

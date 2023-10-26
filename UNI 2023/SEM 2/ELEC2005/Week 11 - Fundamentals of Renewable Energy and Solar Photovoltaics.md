@@ -102,7 +102,8 @@ $V = V_{R}, I=I_{R}$
 ### Fill Factor
 ![](Attachments/Pasted%20image%2020231026195932.png)
 - FF (Fill Factor) is the ratio between the maximum are fitting under the i-v curve and the $V_{oc}I_{sc}$ area.
-- $FF = 70 - 75$% for crystalline Silicon (cSi) $FF$
+- $FF = 70 - 75$% for cristalline Silicon (cSi) 
+- $FF = 50-60$% for amorphous and multicristalline silicon PV Modules
 
 
 
@@ -111,21 +112,6 @@ $V = V_{R}, I=I_{R}$
 
 # Conceptual Info
 ---
-
-## Energy markets and supply in Australia
-![](Attachments/Pasted%20image%2020231026184627.png)
-- Adjacent coloured areas are interconnected
-- Tasmania is connected to Victoria via an Undersea DC Cable
-- Biggest electricity market are NEM (QLD, NSW, VIC, SA, TAS) and SWIS (WA)
-
-**NEM (Eastern Australia) Energy Generation**
-![](Attachments/Pasted%20image%2020231026190337.png)
-![](Attachments/Pasted%20image%2020231026185552.png)
-
-- Renewables (Wind, Solar, Hydro) Contributed to more than 35% of all electricity generated in Australia (NEM System, Oct 2022-23)
-- Proportion electricity generated from renewables is set to increase steeply
-- Australian Energy Market Operator declared to be working on a grid capable to handle 100% renewable energy penetration by 2025
-- Solar (Photovoltaic) energy is going to be one of the major sources of electricity in Australia
 
 
 ## Cells, Module, Arrays
@@ -136,6 +122,7 @@ $V = V_{R}, I=I_{R}$
 - Array: 400V 10A
 ![](Attachments/Pasted%20image%2020231026194941.png)
 
+## Typical PV Module Specifications
 
 # Additional Content
 ---

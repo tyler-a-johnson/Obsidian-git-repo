@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edcd8cc52734670d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
+                "file": "UNI 2023/SEM 2/Daily Work.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.51240158081055
+    "width": 251.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -142,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
+                "file": "UNI 2023/SEM 2/Daily Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
+                "file": "UNI 2023/SEM 2/Daily Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md"
+                "file": "UNI 2023/SEM 2/Daily Work.md"
               }
             }
           },
@@ -192,25 +179,9 @@
               "type": "copilot-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "dfb8c64a9dd7eb24",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "abcc69581a4440ed",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
         "id": "94c37083c6cbb0fc",
@@ -229,30 +200,37 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Copilot Chat": false,
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "omnisearch:Omnisearch": false,
       "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "copilot:Copilot Chat": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "49af9ef2465c9402",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+    "UNI 2022/MTRN2060/Digital.md",
+    "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
+    "README.md",
+    "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
+    "Kanban Schedule.md",
+    "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/ppt3A39.tmp",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~$Automated Car Wash.pptx",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes.zip",
@@ -263,9 +241,7 @@
     "UNI 2023/SEM 2/ENGG3000/CAD Modelling/conveyormountbracket.stl",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes",
     "UNI 2023/SEM 2/ENGG3000/CAD Modelling/Paddle/pulleypaddlemk2.prt.3",
-    "UNI 2023/SEM 2/ENGG3000/CAD Modelling/Paddle/pulleypaddlemk3.stl",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/81173987-texture-soap-foam-on-the-glass-preparation-of-the-surface-for-window-tinting.jpg",
-    "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231020004042.png",
@@ -286,20 +262,14 @@
     "UNI 2023/SEM 2/ENGG3000/Perspective Essay/Untitled.md",
     "UNI 2023/SEM 2/ENGG3000/Perspective Essay/Annotated Rubric.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md",
-    "Study Plan (Macquarie University).canvas",
-    "Kanban Schedule.md",
     "UNI 2023/SEM 2/Daily Work.md",
     "UNI 2023/SEM 2/Weekly Work.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
     "Distilled Notes/Taylor Series.md",
     "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md",
     "UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md",
     "UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md",
-    "Articles/Untitled.md",
-    "copilot-conversations/Chat-2023_10_05-21_04_43.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

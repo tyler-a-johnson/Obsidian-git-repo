@@ -11,7 +11,54 @@ Daily Notes/30-07-2023.md
 Distilled Notes/Amperes Circuital Law.md
 Distilled Notes/Amperes Circuital Law.md#Magnetic Circuits#Amperes Law: Coil around a core
 Distilled Notes/Amperes Circuital Law.md#Magnetic Circuits#Amperes Law: Current Through Conductor
+Distilled Notes/Faraday's Law.md#Coil Around a Core:
+Distilled Notes/Faraday's Law.md#Coil in Magnetic Field
 Distilled Notes/Kirchhoff's Law.md
+Distilled Notes/MOSFETS.md
+Distilled Notes/Opto-Isolator.md#Benefits
+Distilled Notes/Opto-Isolator.md#What is it
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Bonus Round: Load Coupling
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Determination of Motor Parameters
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Determination of Motor Parameters#Blocked-Rotor Test
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Determination of Motor Parameters#DC Test
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Determination of Motor Parameters#No-Load Test
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Equivalent Circuits#All in One
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Equivalent Circuits#All in One{1}
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Equivalent Circuits#Rotor
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Equivalent Circuits#Rotor{1}
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Equivalent Circuits{1}
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Examples#Example 1: Sync speed, Rotor Speed, and Slip
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Examples#Example 2: Power and Efficiency
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Examples#Example 3: Speed, Current, Power, and Torque using Equivalent Circuit
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Examples#Example 4: Slip, Torque, operating speed, and power
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Examples#Example 5: Max torque, starting torque, rotor resistance and Torque Speed Plot
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Examples#Example 6: Motor Tests, Equivalent Circuits, Pull-out Torque
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Induction Motor Construction
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Intro
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Output Torque
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Output Torque#Horsepower
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Output Torque#Maximum Torque
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Power Losses and Power Flow
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Power flow and Relations
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Power flow and Relations#Power Ratios
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Principles of Operation
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Principles of Operation#Induction Motors and Transformers
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Principles of Operation#Speed
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Principles of Operation#Torque-Speed Characteristics
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Rotating Magnetic Field and Synchronous Speed
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Slip and Slip Speed
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Torque, Power, and Thevenin's Theorem
+Distilled Notes/PLC (Programmable Logic Contoller)s.md#Voltage Frequency in the Rotor VS the Stator
+Distilled Notes/Power BJT Vs Power MOSFET.md#BJT
+Distilled Notes/Power BJT Vs Power MOSFET.md#MOSFETs
+Distilled Notes/Power Factor.md#Difference between Leading and Lagging
+Distilled Notes/Power Factor.md#Lagging
+Distilled Notes/Power Factor.md#Leading
+Distilled Notes/Power Flow in Motors.md#Efficiency
+Distilled Notes/Power Flow in Motors.md#Efficiency#Losses
+Distilled Notes/Power Flow in Motors.md#Power Input
+Distilled Notes/Power Flow in Motors.md#Power Output
+Distilled Notes/Spatial Descriptions and Transformations in 3D Space.md
 Distilled Notes/Transformers (Not the funny robot).md
 Distilled Notes/Transformers (Not the funny robot).md#Approximate Equivalent Circuit
 Distilled Notes/Transformers (Not the funny robot).md#Core Types
@@ -51,6 +98,7 @@ Kanban Schedule.md#Archive
 Kanban Schedule.md#IM WORKIN ON IT
 Kanban Schedule.md#LONG WAY OFF
 Kanban Schedule.md#TO DO
+README.md
 Resources/Code Repository.md
 Resources/Code Repository.md#C#ATmega328P#Analog to Digital (ADC)#Alternate ADC setup Function (Free running)
 Resources/Code Repository.md#C#ATmega328P#Analog to Digital (ADC)#Read A0
@@ -704,6 +752,9 @@ UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#S
 UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#Stick Welding
 UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#TIG Welding
 UNI 2023/SEM 1/MECH2003/Week 9 - Permanent and Non-Permanent Joints.md#Welding#Weld Types
+UNI 2023/SEM 2/Daily Work.md
+UNI 2023/SEM 2/Daily Work.md#ENGG3000
+UNI 2023/SEM 2/Daily Work.md#MTRN3026
 UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md
 UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Amplifiers
 UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Amplifiers#Circuit Models
@@ -719,6 +770,14 @@ UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Review of Fundamenta
 UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Review of Fundamentals#Transistors
 UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Thevenin's Theorem
 UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md#Thevenin's Theorem#Graphical Analysis
+UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md#Conceptual Info#Magnetic Circuits
+UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md#Conceptual Info#Magnetic Circuits#Analogies
+UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md#Conceptual Info#Magnetic Circuits#Inductance and Core Reluctance
+UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md#Conceptual Info#Magnetic field intensity H, field density B, flux $\Phi$
+UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md#Conceptual Info#Magnetic field intensity H, field density B, flux $\Phi$#Inductance Definition
+UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md#Conceptual Info#Magnetic field intensity H, field density B, flux $\Phi$#Magnetic Energy Stored
+UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md#Conceptual Info#Magnetic field intensity H, field density B, flux $\Phi$#Units
+UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md#Conceptual Info#Transformer Modelling
 UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md
 UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Diode Analysis
 UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Diode Analysis#Small Signals
@@ -741,6 +800,99 @@ UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#What is a Non-Linear Device?#What is 
 UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Zener Diode
 UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Zener Diode#L-L Analysis of Complex Circuits
 UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md#Zener Diode#Voltage Regulator - Analysis in the Reverse Breakdown Region
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Diagrams and Circuit Symbols
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Large Signals Current Summary
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Load Line Analysis
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Modes of Operation
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Modes of Operation#Active Region
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Modes of Operation#Equivalent Circuit
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Modes of Operation#Saturation Region
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Modes of Operation#Saturation Region#Example
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Summary of Simple BJT Models
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Summary of Simple BJT Models#Constant Voltage Drop Approximation
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Summary of Simple BJT Models#Constant Voltage Drop Approximation#Example
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Summary of Simple BJT Models#Constant Voltage Drop Approximation#Example 2
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Summary of Simple BJT Models#Constant Voltage Drop Approximation#Example 3
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Summary of Simple BJT Models#Constant Voltage Drop Approximation#Example 4: For PNP BJT
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Summary of Simple BJT Models#Constant Voltage Drop Approximation#Example 5: For PNP BJT
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#Summary of Simple BJT Models#Constant Voltage Drop Approximation#Example 6: For NPN
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#The Bipolar Junction Transistor
+UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md#The Bipolar Junction Transistor#The Pipe Analogy
+UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md
+UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md#Additional Content#BJT Summary
+UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md#Conceptual Info#BJT as a Switch
+UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md#Conceptual Info#DC Biasing
+UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md#Conceptual Info#DC Biasing#Setting the Bias Point
+UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md#Conceptual Info#DC Biasing#Setting the Bias Point#Example
+UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md#Conceptual Info#Small Signal AC
+UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md#Conceptual Info#Small Signal AC#Small Signal Models
+UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md#Conceptual Info#Temperature and Thermal Voltage
+UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md#Conceptual Info#Transconductance
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#Device Operation
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#Intro
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#Operating Mode Summary
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#P-Channel MOSFET
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#Structure
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#Structure#Creating a Channel
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#nMOSFETs#MOSFET Example
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#nMOSFETs#Regions of Operation
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#nMOSFETs#nMOSFET Circuit Symbols
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#pMOSFETs#Circuit Symbols
+UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md#Conceptual Info#pMOSFETs#Operating Mode Voltages
+UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md#How to make an Amplifier or Switch
+UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md#MOSFET#Small Signal Analysis
+UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md#MOSFET#Small Signal Analysis#Example
+UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md#MOSFET#Small Signal Approximation - Saturation Region
+UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md#MOSFET#Voltage Gain
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#BJTs for Power Applications
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#BJTs for Power Applications#Circuit Configs
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#IGBT (Insulated Gate Bipolar Transistor)
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#IGBT (Insulated Gate Bipolar Transistor)#Parameters
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Intro
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Power Diodes
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Power Diodes#Applications
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Power Diodes#Diode Types
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Power Diodes#Parameters
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Power Diodes#Switching State
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Power MOSFETs
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Power MOSFETs#Structure
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Relative Graph
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Summary
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Thyristors
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Thyristors#Gate Turn Off Thyristors (GTO)
+UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md#Conceptual#Thyristors#MOS Controlled Thyristors (MCT)
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#AC Circuits in the Time Domain
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#AC Circuits in the Time Domain#Single Phase Instantaneous Power
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Active Power, Reactive Power, Power Factor
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Active Power, Reactive Power, Power Factor#Example: Purely Capacitive Load
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Active Power, Reactive Power, Power Factor#Example: Purely Inductive Load
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Active Power, Reactive Power, Power Factor#Example: Purely Resistive Load
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Complex Power: Definition and Power Triangle
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Phasors
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Phasors#Phasor Operations
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Phasors#Phasor Operations#Example
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Phasors#Phasor Operations#Example 2
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Phasors#Phasor Representation
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Phasors#Series and Parallel
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Power Factor Correction
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Power Factor Correction#Capacitive Load Example
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Power Factor Correction#Example
+UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md#Conceptual Info#Power and Energy
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Conceptual Info#Balanced 3 Phase Circuits
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Conceptual Info#Equivalent line-to-neutral Y diagrams
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Maths and Distilled Info#$\Delta$ - Y Conversion for Balanced Loads
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Maths and Distilled Info#Balanced 3 Phase Circuits
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Maths and Distilled Info#Line to Neutral and Line to Line Voltages
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Maths and Distilled Info#Line to Neutral and Line to Line Voltages#Balanced $\Delta$ loads
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Maths and Distilled Info#Line to Neutral and Line to Line Voltages#Balanced Line Currents
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Maths and Distilled Info#Line to Neutral and Line to Line Voltages#Balanced Line to Neutral Voltages
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Maths and Distilled Info#Power in Balanced $3 \phi$ circuits#Complex Power#Complex power in balanced $3 \phi$ $\Delta$ connected circuits
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Maths and Distilled Info#Power in Balanced $3 \phi$ circuits#Complex Power#Complex power in balanced $3 \phi$ Connected Circuits
+UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md#Maths and Distilled Info#Power in Balanced $3 \phi$ circuits#Instantaneous Power
 UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas
 UNI 2023/SEM 2/GANTT.md
 UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md
@@ -810,14 +962,120 @@ UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md#Sensors
 UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md#Sensors#Current Measurement of DC Motor
 UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md#Sensors#Encoders
 UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md#Sensors#Tacho-Generator
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#DC-DC Converter
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#DC-DC Converter#Block Diagram of DC-DC Converters
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#DC-DC Converter#Power Circuit Config of DC-DC Converters
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#DC-DC Converter#Pulse-Width Modulation in DC-DC Converters
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#DC-DC Converter#Step-Down DC to DC Converter (BUCK)
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#DC-DC Converter#Step-Up DC to DC Converter (Boost)
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#DC-DC Converter#Step-up/down (Buck-Boost) DC to DC converter.
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#DC-DC Converter#Stepping Down a DC Voltage
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#DC-DC Converter#Switched Mode Power Supply
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#Filter
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#Filter#Ripple
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#Line Filter
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#Rectifier
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#Regulator
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#Regulator#Linear Power Supply
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#AC to DC Power Supply for Various Applications#Transformer
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#Line Filter
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#Transformers and Rectifier Ripple
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply#Transformers and Rectifier Ripple#Practical Config of Three Basic DC to DC Converters
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#DC Power Supply{1}
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Discharge of Battery
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Discharge of Battery#C Rating
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Discharge of Battery#Charging and Discharging
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Discharge of Battery#Utilisation
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Electrochemical Batteries
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Electrochemical Batteries#Battery Characteristics
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Electrochemical Batteries#Battery Charging and Discharging
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Electrochemical Batteries#Calculation of Battery Capacity
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Electrochemical Batteries#Discharge of a battery#Battery C rating Examples:
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Electrochemical Batteries#Discharge of a battery#C Rating Background
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Electrochemical Batteries#Electrochemical Cell
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Electrochemical Batteries#Electrochemical Series
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Electrochemical Batteries#History of the Battery
+UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md#Electrochemical Batteries#Short Descriptions
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Bonus Round: Load Coupling
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Determination of Motor Parameters
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Determination of Motor Parameters#Blocked-Rotor Test
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Determination of Motor Parameters#DC Test
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Determination of Motor Parameters#No-Load Test
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Equivalent Circuits#All in One
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Equivalent Circuits#All in One{1}
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Equivalent Circuits#Rotor
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Equivalent Circuits#Rotor{1}
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Equivalent Circuits{1}
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Examples#Example 1: Sync speed, Rotor Speed, and Slip
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Examples#Example 2: Power and Efficiency
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Examples#Example 3: Speed, Current, Power, and Torque using Equivalent Circuit
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Examples#Example 4: Slip, Torque, operating speed, and power
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Examples#Example 5: Max torque, starting torque, rotor resistance and Torque Speed Plot
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Examples#Example 6: Motor Tests, Equivalent Circuits, Pull-out Torque
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Induction Motor Construction
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Intro
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Output Torque
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Output Torque#Horsepower
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Output Torque#Maximum Torque
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Power Losses and Power Flow
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Power flow and Relations
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Power flow and Relations#Power Ratios
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Principles of Operation
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Principles of Operation#Induction Motors and Transformers
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Principles of Operation#Speed
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Principles of Operation#Torque-Speed Characteristics
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Rotating Magnetic Field and Synchronous Speed
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Slip and Slip Speed
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Torque, Power, and Thevenin's Theorem
+UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md#Voltage Frequency in the Rotor VS the Stator
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Bar
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Basics
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Pneumatic System Components
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Pneumatic System Components#Pipes
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Symbol Operators#Air Line Equipment
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Symbol Operators#Component Identification
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Symbol Operators#Example Circuit
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Symbol Operators#Function Components
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Symbol Operators#Mechanical
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Typical Pneumatic System
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#Typical Pneumatic System#Symbols for Pneumatic Circuit Design
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#[[Compressors - Gas]]
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#[[Compressors - Gas]]#Air Filter
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Conceptual Info#[[Compressors - Gas]]#Air Filter#Principles of Operation
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Maths and Distilled Info#Gas Laws
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Maths and Distilled Info#Typical Pneumatic System
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Maths and Distilled Info#[[Compressors - Gas]]
+UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md#Maths and Distilled Info#[[Compressors - Gas]]#Air Filter
 UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md
 UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md#Description of position and orientation (chapter 2)
 UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md#Description of position and orientation (chapter 2)#Inverse Kinematics
 UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md#Description of position and orientation (chapter 2)#Kinematics
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md#Conceptual Info#Categories of Human-Robot Interaction (HRI)
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md#Conceptual Info#Define Human Robot Integration (HRI)
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md#Conceptual Info#Define Human Robot Integration (HRI)#Attributes Affecting HRI
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md#Conceptual Info#Metrics for Human-Robot Interaction (HRI)
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md#Conceptual Info#Singularity
 UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md
 UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md#Position:
 UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md#Position:#Orientation
 UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 3 - Sensing and Perception in Robotic and Automation - Translation, Rotations, and Transformations.md
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#Basic Sensing Elements
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#Beat Frequency
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#DAQ System Components
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#DAQ System Components#ADC and Data Storage
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#DAQ System Components#ADC and Data Storage#Analog-to-Digital Converter
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#DAQ System Components#ADC and Data Storage#Analog-to-Digital Converter#Example
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#DAQ System Components#ADC and Data Storage#Analog-to-Digital Converter#Example 2
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#DAQ System Components#Amplification
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#DAQ System Components#Basic Principles of Sensing
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#DAQ System Components#Sample & Hold
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#Data Acquisition
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#Sampling
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#Sampling#Anti-Aliasing Filter
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#Sampling#How fast should we sample?
+UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md#Sampling#How fast should we sample?#Shannon's Sampling Theorem
 UNI 2023/SEM 2/MTRN3060/Practicals/Week 1 - RobotStudio Introduction.md
 UNI 2023/SEM 2/MTRN3060/Practicals/Week 2 - ABB IRB120 and IRC5.md
 UNI 2023/SEM 2/Weekly Work.md

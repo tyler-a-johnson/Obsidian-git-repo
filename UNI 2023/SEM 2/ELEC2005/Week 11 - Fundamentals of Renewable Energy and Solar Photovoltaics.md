@@ -34,7 +34,10 @@ Relevant Links:
 ![](Attachments/Pasted%20image%2020231026190337.png)
 ![](Attachments/Pasted%20image%2020231026185552.png)
 
-- Renewables (Wind, Solar, Hydro) Contributed to more than 35% of all elec
+- Renewables (Wind, Solar, Hydro) Contributed to more than 35% of all electricity generated in Australia (NEM System, Oct 2022-23)
+- Proportion electricity generated from renewables is set to increase steeply
+- Australian Energy Market Operator declared to be working on a grid capable to handle 100% renewable energy penetration by 2025
+- 
 
 # Additional Content
 ---

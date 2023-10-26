@@ -201,6 +201,12 @@ A partially shaded PV string's i-v and p-v characteristics
 - multiple power peaks in the curve
 - Special control is needed to extract maximum PV power #thesis
 
+## Peak Power Operation and Efficiency
+![](Attachments/Pasted%20image%2020231026212620.png)
+- We want to operate the array at the max power point (MPP)
+- The maximum power is extracted by the PV module as long as it operates at $V_{mpp}$
+
+
 
 
 # Conceptual Info

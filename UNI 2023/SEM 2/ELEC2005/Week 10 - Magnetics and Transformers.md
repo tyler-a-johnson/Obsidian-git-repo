@@ -175,6 +175,12 @@ $$\Phi= \frac{n_{1}i_{1}+n_{2}i_{2}}{\mathscr{R}}$$
 $$v_{1}=n_{1} \frac{d \Phi}{d t} = \frac{n_{1}^{2}}{\mathscr{R}} \frac{d}{d t} \left( i_{1} + \frac{n_{2}}{n_{1}} i_{2}\right)$$
 $$v_{1}=\frac{n_{1}^{2}}{\mathscr{R}} \frac{d}{dt} \left( i_{1} + \frac{n_{2}}{n_{1}}i_{2} \right)$$
 
+For DC input Voltage $v_{1}=V_{dc}=$ constant
+
+$\frac{d}{dt}\left( i_{1}+ \frac{n_{2}}{n_{1}}i_{2} \right)$ = Constant
+
+
+
 
 # Additional Content
 ---

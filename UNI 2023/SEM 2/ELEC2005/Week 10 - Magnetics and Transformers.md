@@ -219,7 +219,7 @@ $\bar{S}_{1} = \bar{S}_{2}$
 $$\bar{V}_{1}\bar{I}_{1}^* = \bar{V}_{2}\bar{I}_{2}^*$$
 $$\bar{S}_{1} = \bar{V}_{1}\bar{I}_{1} = a_{t} \bar{V}_{2} \frac{\bar{I}_{2}}{a_{t}}=\bar{S}_{2}$$
 
-
+*Impedance $Z_{2}=\frac{\bar{V}}{2}$*
 
 # Additional Content
 ---

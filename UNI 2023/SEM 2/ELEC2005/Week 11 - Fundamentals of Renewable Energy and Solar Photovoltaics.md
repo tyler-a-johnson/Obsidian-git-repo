@@ -128,7 +128,11 @@ Consider the ideal single diode model for each cell, and two cells connected in 
 **A more detailed model is needed to explain what happens in practice, because in reality I>0**
 
 ![](Attachments/Pasted%20image%2020231026203802.png)
-- Higher voltage V, the higher the current through $R_{p}$ 
+- Higher voltage V, the higher the current through $R_{p}$ (less current goes to the load)
+- This "current drop" (decrease in load current) as the load voltage rises is represented by a horizontal slope in the i-v curve
+- For a large cell, typical $V_{oc} = 0.6V, I_{sc}=7A, R_{p}=9 \Omega$
+
+**Inclusion of series resistance R_s (**
 
 # Conceptual Info
 ---

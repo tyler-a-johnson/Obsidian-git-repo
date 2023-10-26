@@ -53,7 +53,10 @@ $V_{T} = \frac{kT}{q}$ V: Thermal Voltage
 
 $T$: Temperature in **K**
 
-at $25 \deg\mathrm{Re}e$
+at  25C
+$T = 273.15 +25 = 298.15K$
+
+$$I = I_{sc} - I_{0}(e^{38.9})$$
 
 
 # Conceptual Info

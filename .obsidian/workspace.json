@@ -21,6 +21,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "086385b8387b111f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca0c23de5e053625",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 425.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -200,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,8 +241,9 @@
   },
   "active": "49af9ef2465c9402",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/TEST_EQUATIONS.pdf",
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
@@ -249,7 +268,6 @@
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/Automated Car Wash.pptx",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/Media1.mp4",
     "UNI 2023/SEM 2/ENGG3000/CAD Modelling/conveyormountbracket.stl",
-    "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/81173987-texture-soap-foam-on-the-glass-preparation-of-the-surface-for-window-tinting.jpg",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231020004042.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231020002722.png",

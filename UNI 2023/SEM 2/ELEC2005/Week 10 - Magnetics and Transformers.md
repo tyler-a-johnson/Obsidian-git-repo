@@ -9,7 +9,7 @@ Relevant Notes:
 Practical Docs: 
 Relevant Links:
 ---
-
+[Week10](Attachments/wk10%202023%201.pdf)
 # Maths and Distilled Info
 ---
 

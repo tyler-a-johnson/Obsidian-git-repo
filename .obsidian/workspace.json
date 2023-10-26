@@ -35,8 +35,22 @@
                 "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf"
               }
             }
+          },
+          {
+            "id": "9cba6d15b83d801f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5,
-    "collapsed": true
+    "width": 425.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md"
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md"
               }
             }
           },
@@ -239,7 +252,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "49af9ef2465c9402",
+  "active": "9cba6d15b83d801f",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",

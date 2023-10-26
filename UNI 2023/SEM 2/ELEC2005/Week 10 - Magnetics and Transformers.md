@@ -221,7 +221,8 @@ $$\bar{S}_{1} = \bar{V}_{1}\bar{I}_{1} = a_{t} \bar{V}_{2} \frac{\bar{I}_{2}}{a_
 
 *Impedance $Z_{2}=\frac{\bar{V}_{2}}{\bar{I}_{2}}$ seen from winding 1*
 
-$$V = n \frac{d \Phi}{dt}\rightarrow \frac{\bar{V}}{2}$$
+$$V = n \frac{d \Phi}{dt}\rightarrow \frac{\bar{V_{1}}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}}=a_{t}$$
+$$n_{1}\bar{I}_{1}=n_{2}\bar{I}_{2}\rightarrow \frac{\bar{i}_{2}}{\bar{I}_{2}}$$
 
 # Additional Content
 ---

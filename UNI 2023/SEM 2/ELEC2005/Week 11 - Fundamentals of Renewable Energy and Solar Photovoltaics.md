@@ -109,8 +109,13 @@ $V = V_{R}, I=I_{R}$
 - Commercial PV modules have efficiencies $\eta \approx 20$% (2023)
 - Area A (m^2) $\rightarrow$ number of hours $n_{h}$ at 1kW/$m^2$ $\rightarrow P_{Sun} = A*n_{h}$ kW
 - $P_{pv} = P_{sun} * \frac{\eta}{100} [kW] \rightarrow$ number of PV modules = $\frac{P_{pv}}{P_{\text{module}}}$
+
+Typical curves found in a PV module datasheet (120W Kyocera KC120-1)
 ![](Attachments/Pasted%20image%2020231026202834.png)
-Typical curves found in a PV module datasheet (120W 
+- Curves at difference irradiance and cell temp
+- Cell temp not to be confused with ambient
+- NOCT (Datasheet) cell tem at $T_{amb} = 20$C and $S = 0.8$ kW/m^2
+$$T_{\text{cel}}$$
 
 
 

@@ -132,7 +132,12 @@ Consider the ideal single diode model for each cell, and two cells connected in 
 - This "current drop" (decrease in load current) as the load voltage rises is represented by a horizontal slope in the i-v curve
 - For a large cell, typical $V_{oc} = 0.6V, I_{sc}=7A, R_{p}=9 \Omega$
 
-**Inclusion of series resistance R_s (**
+
+
+**Inclusion of series resistance $R_{s}$ assuming $R_{p} = \infty$**
+![](Attachments/Pasted%20image%2020231026204159.png)
+$$I = I_{sc} - I_{d} = I_{sc} - I_{0} (e^{\frac{qV_{d}}{kT}}-1)$$
+$$=I_{sc} - I_{0} ()$$
 
 # Conceptual Info
 ---

@@ -211,5 +211,8 @@ Assume power is flowing left to right, then the secondary current is **+ve** if 
 
 ![](Attachments/Pasted%20image%2020231026174552.png)
 
+
+
+
 # Additional Content
 ---

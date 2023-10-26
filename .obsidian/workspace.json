@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md"
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md"
               }
             }
           },
@@ -221,11 +221,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c08e9b789a4c1123",
+  "active": "49af9ef2465c9402",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/Daily Work.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
     "UNI 2022/MTRN2060/Digital.md",
@@ -266,10 +270,6 @@
     "UNI 2023/SEM 2/ENGG3000/Perspective Essay/Annotated Rubric.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md",
     "UNI 2023/SEM 2/Weekly Work.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
-    "Distilled Notes/Taylor Series.md",
-    "Distilled Notes/Greek Letters and Symbols.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

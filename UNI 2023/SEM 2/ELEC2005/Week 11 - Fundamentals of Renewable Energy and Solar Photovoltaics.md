@@ -118,7 +118,10 @@ Typical curves found in a PV module datasheet (120W Kyocera KC120-1)
 $$T_{\text{cell}}[C]=T_{amb}+\left( NOCT-\frac{20C}{0.8} \right)S $$
 S in kW/m^2
 
-
+### Equivalent Circuit
+Consider the ideal single diode model for each cell, and two cells connected in series, where one is partially shaded. According to the diagram using ideal PV cell equivalent.
+- The shaded cell produces no current
+- The shaded cell is a revere biased diode, blocking the flow of current to the load
 
 
 # Conceptual Info

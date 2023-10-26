@@ -255,7 +255,10 @@ Area is on the datasheet
 
 ## Typical PV power conversion system structure
 ![](Attachments/Pasted%20image%2020231026213526.png)
-dc-dc converter: extracts maximum power from PV array and boosts PV string voltage to match inverter input voltage dc-ac converter: converts dc voltage/current into ac form (compatible with the grid) bidirectional converter/battery: supply load when there is no sun, and absorb power when PV power exceeds the load demand converters are studied in ELCT3005 Power Electronics PV power plants are considered in ELCT4004 Power Systems Analysis, ELCT4001 Smart Power Grids
+- DC-DC converter: extracts maximum power from PV array and boosts PV string voltage to match inverter input voltage 
+- DC-AC converter: converts dc voltage/current into ac form (compatible with the grid) 
+- bidirectional converter/battery: supply load when there is no sun, and absorb power when PV power exceeds the load demand 
+
 
 # Additional Content
 ---
@@ -274,3 +277,15 @@ dc-dc converter: extracts maximum power from PV array and boosts PV string volta
 - Proportion electricity generated from renewables is set to increase steeply
 - Australian Energy Market Operator declared to be working on a grid capable to handle 100% renewable energy penetration by 2025
 - Solar (Photovoltaic) energy is going to be one of the major sources of electricity in Australia
+
+
+## Readings
+From Masters (2004), Renewable and Ecient Electric Power Systems Chapter 8: Photovoltaic Materials and Electrical Characteristics (link) 
+I 8.1: Introduction 
+I 8.2: Basic Semiconductor Physics F 
+	8.2.5: The p-n Junction Diode 
+I 8.3: A Generic Photovoltaic Cell 
+	F 8.3.1: The Simplest Equivalent Circuit for a Photovoltaic Cell 
+	F 8.3.2: A More Accurate Equivalent Circuit for a PV Cell 
+I 8.4: From Cells to Modules to Arrays 
+	F 8.4.1: From Cells to a Module F 8.4.2: From Modules to Arrays I 8.5: The PV I–V Curve Under Standard Test Conditions (STC) I 8.6: Impacts of Temperature and Insolation on I–V Curves I 8.7: Shading Impacts on I – V Curves F 8.7.1: Physics of Shading F 8.7.2: Bypass Diodes for Shade Mitigation F 8.7.3: Blocking Diodes

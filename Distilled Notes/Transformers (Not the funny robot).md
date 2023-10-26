@@ -1,5 +1,5 @@
 
-[[Transformers (Not the funny robot)]] is an AC static device used to change low voltage/high voltage AC system into high voltage/low voltage AC system without changing the frequency at almost 100% efficiency.
+[Transformers (Not the funny robot)](.md) is an AC static device used to change low voltage/high voltage AC system into high voltage/low voltage AC system without changing the frequency at almost 100% efficiency.
 
 1. Transfers electric power from one circuit to another without any electrical connection.
 2. Does so without changing frequency.
@@ -8,12 +8,12 @@
 
 ## Principle of Operation
 It is based on principle of MUTUTAL INDUCTION. An EMF is induced in a coil when flux in the neighbouring coil changes.
-![[Attachments/Pasted image 20230725221237.png]]
+![Pasted image 20230725221237](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230725221237.png)
 **Mathematical Induction:**
-*[[Faraday's Law]]:*
+*[Faraday's Law](Faraday's%20Law.md):*
 $$\epsilon = \frac{d \phi}{dt}$$
 
-*[[Lenz's Law]]* (for N turns)
+*[Lenz's Law](Lenz's%20Law)* (for N turns)
 $$\epsilon = - N\frac{d \phi}{dt}$$
 $$\epsilon = -N \frac{\phi_{2}-\phi_{1}}{t}$$
 Flux changes from phi 1 and phi 2. In time t.
@@ -25,7 +25,7 @@ Flux changes from phi 1 and phi 2. In time t.
 4. Which induces EMF in the secondary coil.
 
 ## EMF Equation of a Transformer
-![[Attachments/Pasted image 20230726184500.png]]
+![Pasted image 20230726184500](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230726184500.png)
 let:
 $N_1$  = Number of Primary turns
 $N_2$ = Number of Secondary turns
@@ -43,21 +43,21 @@ Now rms value of the induced emf in the entire primary winding is this:
 $$E_{1}= 4.44 f N_{1}\Phi_{m}=4.44fN_{1}B_{m}A$$
 
 ## Core Types
-![[Attachments/Pasted image 20230726190438.png]]
+![Pasted image 20230726190438](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230726190438.png)
 Windings are wrapped around the two sides of a laminated square core.
-![[Attachments/Pasted image 20230726190542.png]]
+![Pasted image 20230726190542](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230726190542.png)
 ```ad-note
 High voltage conductors have a lower cross section than low voltage conductors as the low voltage conductors have a higher current. This means the cross section of the low voltage conductors needs to be larger to allow for greater current flow and to prevent overheating/melting.
 
 ```
-![[Attachments/Pasted image 20230726191021.png]]
+![Pasted image 20230726191021](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230726191021.png)
 Cores are laminated to reduce Eddy Currents which contribute highly to losses.\
 *Laminated slices can range from 3mm to less.*
 
 ### Shell Type Transformer/Sandwich Windings
-![[Attachments/Pasted image 20230726193431.png]]
+![Pasted image 20230726193431](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230726193431.png)
 Windings are both wrapped around the centre limb of the core.
-![[Attachments/Pasted image 20230726194830.png]]
+![Pasted image 20230726194830](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230726194830.png)
 - The HV and LV windings are split into a number of sections - HV lines between two LV windings
 - In sandwich coils leakage can be controlled.
 
@@ -71,7 +71,7 @@ Windings are both wrapped around the centre limb of the core.
 	- Negligible current is required to establish magnetic flux
 - **Loss-Less magnetic core**
 	- No Hysteresis or eddy currents.
-![[Attachments/Pasted image 20230726200400.png]]
+![Pasted image 20230726200400](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230726200400.png)
 Where:
 $V_1$= Supply Voltage
 $V_2$ = Output Voltage
@@ -81,7 +81,7 @@ $I_{1}$ = No Load Input Current
 $I_{2}$ = Output current
 $E_{2}$ = Mutually induced emf
 
-![[Attachments/Pasted image 20230726202431.png]]
+![Pasted image 20230726202431](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230726202431.png)
 $$\frac{V_p}{V_{s}}= \frac{N_{p}}{N_{s}}=\frac{I_{s}}{I_{p}}$$
 $$\text{Power}_\text{prim} = \text{Power}_\text{sec}$$
 $$\frac{E_1}{N_{1}}= \frac{E_{2}}{N_{2}} = 4.44f\Phi_{m}$$
@@ -90,29 +90,29 @@ $$\frac{E_1}{N_{1}}= \frac{E_{2}}{N_{2}} = 4.44f\Phi_{m}$$
 ## Phasor Diagrams
 
 ### No Load
-![[Attachments/Pasted image 20230727153526.png]]
+![Pasted image 20230727153526](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727153526.png)
 (a) is a transformer with no load.
 (b) Is a phasor diagram of a loadless transformer. Plotted on a $\phi$ axis.
 Primary current $I_{0}$ is represented as a vector.
 #todo 
 ### Transformer on Load - Assuming no voltage drop in the winding
-![[Attachments/Pasted image 20230727154124.png]]
-![[Attachments/Pasted image 20230727154137.png]]
+![Pasted image 20230727154124](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727154124.png)
+![Pasted image 20230727154137](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727154137.png)
 
 The phasor diagram for of a transformer assumes:
 1. No voltage drop in the winding
 2. Equal primary and secondary turns
 
 ## Equivalent Circuit of a Transformer
-![[Attachments/Pasted image 20230727154515.png]]
+![Pasted image 20230727154515](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727154515.png)
 $$R_{0}= \frac{V_{1}}{I_{c}}$$
 $$X_{0}= \frac{V_{1}}{I_{m}}$$
 $$I_{m}= I_{0}\sin\phi_{0} = \text{Magnetizing Component}$$
 $$I_{c}= I_{0}\cos\phi_{0}= \text{Active Component}$$
 
-![[Attachments/Pasted image 20230727155256.png]]
+![Pasted image 20230727155256](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727155256.png)
 We can group inductors and resistors on primary and secondary sides. We can represent these with complex numbers.
-![[Attachments/Pasted image 20230727155405.png]]
+![Pasted image 20230727155405](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727155405.png)
 
 - The effect of circuit parameters shouldn't be changed while transferring the parameters from one side to another side.
 ```ad-attention
@@ -132,7 +132,7 @@ $$a = \frac{N_{1}}{N_{2}}= \text{Turns Ratio}$$
 
 ## Approximate Equivalent Circuit
 Since the no load current is approx. 1% of the full load current, it can be neglected
-![[Attachments/Pasted image 20230727192000.png]]
+![Pasted image 20230727192000](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727192000.png)
 
 ## Transformer Tests
 The performance of a transformer can be calculated with an equivalent circuit.
@@ -149,7 +149,7 @@ These are both economical and convenient.
 
 ### Open Circuit Test
 We **open circuit the secondary winding**, and connect the primary winding to **full rated voltage**
-![[Attachments/Pasted image 20230727195125.png]]
+![Pasted image 20230727195125](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727195125.png)
 Usually conducted on the HV side. We use it to find:
 1. No load loss / Core loss
 2. No load current $I_{0}$ which is helpful in finding $G_{0}$ (or $R_{0}$) and $B_{0}$ (or $X_{0}$)
@@ -173,11 +173,11 @@ $$\text{Exciting susceptance } B_{0}= \sqrt{Y^{2}_{0}-G^{2}_{0}}$$
 ### Short-Circuit Test
 **Secondary terminals are short circuited** and the *primary terminals are connected to a fairly low-voltage source.*
 The input voltage is adjusted until the current in the short circuited windings **is equal to its rated value.** The *input voltage current and power is measured.*
-![[Attachments/Pasted image 20230727203009.png]]
+![Pasted image 20230727203009](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727203009.png)
 Usually conducted on LV side, we're looking for it.
 - Full load copper loss - to pre determine the efficiency
 - $Z_{01}\text{ or }Z_{02};X_{01}\text{ or }X_{02};R_{01}\text{ or }R_{02}$ to determine the voltage regulation
-![[Attachments/Pasted image 20230727203411.png]]
+![Pasted image 20230727203411](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727203411.png)
 full load cu loss = $W_{sc} = I^{2}_{sc}R_{01}$
 $Z_{01}= \frac{V_{sc}}{I_{sc}}$
 $\therefore X_{01}=\sqrt{Z_{01}^{2} - R^{2}_{01}}$
@@ -221,10 +221,10 @@ Ignoring the excitation of the branch (since current flowing through the branch 
 Phasor diagrams will determine the effects of these factors on the voltage regulation. A phasor diagram consist of current and voltage vectors.
 Assume that the reference phasor is the secondary voltage, $V_{s}$ . Therefore the reference phasor will have an angle of 0.
 
-*Based on the equivalent circuit, apply [[Kirchhoff's Laws]]*
+*Based on the equivalent circuit, apply [Kirchhoff's Laws](Kirchhoff's%20Laws.md)*
 $$\frac{V_{p}}{k}=V_{s}+R_{eq}I_{s}+jX_{eq}I_{s}$$
 
-![[Attachments/Pasted image 20230727220552.png]]
+![Pasted image 20230727220552](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727220552.png)
 For lagging loads, the vertical components of $R_{eq}$ and $X_{eq}$ will partially cancel each other out. Due to that, the angle of $\frac{V_{p}}{a}$ will be very small, hence we can assume that $\frac{V_{p}}{k}$ is horizontal.
 
 ## Transformer Efficiency
@@ -248,8 +248,8 @@ Copper loss:
 $$\text{Total Cu Loss} = I_{1}^{2}R_{1}+I_{2}^{2}R_{2}= I_{1}^{2}R_{01}+I_{2}^{2}R_{02}$$
 
 **Conditions for maximum efficiency:**
-![[Attachments/Pasted image 20230727222932.png]]
-![[Attachments/Pasted image 20230727222958.png]]
+![Pasted image 20230727222932](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727222932.png)
+![Pasted image 20230727222958](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727222958.png)
 
 **All day efficiency:**
-![[Attachments/Pasted image 20230727223035.png]]
+![Pasted image 20230727223035](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230727223035.png)

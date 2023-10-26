@@ -1,7 +1,7 @@
 #MTRN/2060  #Circuits 
-[[UNI 2022/MTRN2060/Attachments/Solenoid technical application sheet.pdf]]
-[[UNI 2022/MTRN2060/Attachments/Stepper Motor Drivers.pdf]]
-![[UNI 2022/MTRN2060/Attachments/MTRN2060 Actuators V2.pptx]]
+[Solenoid technical application sheet](Attachments/Solenoid%20technical%20application%20sheet.pdf)
+[Stepper Motor Drivers](Attachments/Stepper%20Motor%20Drivers.pdf)
+![MTRN2060 Actuators V2](Attachments/MTRN2060%20Actuators%20V2.pptx)
 # Common Actuators
 •DC Motors (PM, separately wound, shunt and series)
 •Hobby servos
@@ -13,9 +13,9 @@
 •Pneumatics
 
 # Types of DC Motors
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221029214526.png]]
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221029214533.png]]
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221029214542.png]]
+![Pasted image 20221029214526](Attachments/Pasted%20image%2020221029214526.png)
+![Pasted image 20221029214533](Attachments/Pasted%20image%2020221029214533.png)
+![Pasted image 20221029214542](Attachments/Pasted%20image%2020221029214542.png)
 
 •Permanent Magnet Direct Current (PMDC) motors are most common
 
@@ -27,7 +27,7 @@
 
 ## Example of DC Series Motor
 •The starter motor for an internal combustion engine is a DC series motor. It delivers very high torque at low speed and requires very large current
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221029215153.png]]
+![Pasted image 20221029215153](Attachments/Pasted%20image%2020221029215153.png)
 # Hobby Servos
 Servo implies that the motor is intended for use with closed loop control
 
@@ -56,7 +56,7 @@ Servo implies that the motor is intended for use with closed loop control
 •Servo Speed is a function of gearing. Faster response time means lower torque
 
 # Solenoids and Relays
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030003634.png]]
+![Pasted image 20221030003634](Attachments/Pasted%20image%2020221030003634.png)
 •Solenoids and relays contain a sliding steel shuttle surrounded by a yoke and electromagnet.
 
 •Consider the magnetic circuit of a solenoid, like that shown at right.
@@ -93,7 +93,7 @@ $$F=-dU/dx$$
 This is a fundamental principle in physics
 
 # Force In a Solenoid
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030003641.png]]
+![Pasted image 20221030003641](Attachments/Pasted%20image%2020221030003641.png)
 •The force acts to close the gap
 
 •The force gets much stronger as the gap gets smaller
@@ -107,8 +107,8 @@ This is a fundamental principle in physics
 [http://www.youtube.com/watch?v=hsoggQOoG4s](http://www.youtube.com/watch?v=hsoggQOoG4s)
 #Video 
 
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030003743.png]]
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030003749.png]]
+![Pasted image 20221030003743](Attachments/Pasted%20image%2020221030003743.png)
+![Pasted image 20221030003749](Attachments/Pasted%20image%2020221030003749.png)
 •Solenoids are very common because of cost (1/4 to 1/10 the of DC motors).
 
 •Solenoids can be push or pull type, but in either type there is always an iron rod being pulled into a coil.
@@ -124,9 +124,9 @@ This is a fundamental principle in physics
 •Solenoids are modelled as an inductor in series with a resistor
 
 # Stepper Motors
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030003822.png]]
+![Pasted image 20221030003822](Attachments/Pasted%20image%2020221030003822.png)
 
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030003827.png]]
+![Pasted image 20221030003827](Attachments/Pasted%20image%2020221030003827.png)
 
 Two or three sets of magnetic coils align a rotor containing a permanent magnet in a particular position
 
@@ -148,7 +148,7 @@ Two or three sets of magnetic coils align a rotor containing a permanent magnet 
 [http://www.youtube.com/watch?v=bngx2dKl5jU](http://www.youtube.com/watch?v=bngx2dKl5jU)
 #Video 
 
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030003926.png]]
+![Pasted image 20221030003926](Attachments/Pasted%20image%2020221030003926.png)
 
 # Introduction and Performance Characteristics
 Sometimes called Reluctance motors because torque is produce by minimizing reluctance in a magnetic circuit, much like a solenoid (not BiL torque)
@@ -166,11 +166,11 @@ Torque and power density are similar to conventional motors, but maximum speeds 
 One full step angle is typically 1.8o  or 360/200
 
 Range in size from 50 grams to about 2 kg
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030004007.png]]
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030004012.png]]
+![Pasted image 20221030004007](Attachments/Pasted%20image%2020221030004007.png)
+![Pasted image 20221030004012](Attachments/Pasted%20image%2020221030004012.png)
 
 ## 200  Step/rev Hybrid Motor
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030004138.png]]
+![Pasted image 20221030004138](Attachments/Pasted%20image%2020221030004138.png)
 •8 poles each with a coil, each with 5 teeth, running the length of the motor. Some motors have 6 teeth per pole (as per video).
 
 •Rotor has two steel end caps, each with 50 teeth. The caps are offset so that only 1 set of teeth line up a time, minimizing detent.
@@ -201,12 +201,12 @@ Range in size from 50 grams to about 2 kg
 
 •Constant Current or Chopper Drives monitor current and throttle a high supply voltage to get the current to the required level and keep it there. MOST POPULAR - LOW COST 
 Example: [http://www.schmalzhaus.com/EasyDriver/](http://www.schmalzhaus.com/EasyDriver/)
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030004307.png]]
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030004311.png]]
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030004316.png]]
+![Pasted image 20221030004307](Attachments/Pasted%20image%2020221030004307.png)
+![Pasted image 20221030004311](Attachments/Pasted%20image%2020221030004311.png)
+![Pasted image 20221030004316](Attachments/Pasted%20image%2020221030004316.png)
 
 # Torque VS Speed
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030004424.png]]
+![Pasted image 20221030004424](Attachments/Pasted%20image%2020221030004424.png)
 •Constant current or chopper drives have much better torque at high speed, and are more efficient than just adding a current limiting resistor.
 
 # Induction Motors

@@ -1,7 +1,7 @@
 #MTRN/3060 
 
 **Slides:**
-[[Attachments/Week 2 lecture.workshop ilearn.pdf]]
+[Week 2 lecture.workshop ilearn](Attachments/Week%202%20lecture.workshop%20ilearn.pdf)
 
 **Lecture:**
 - Describe object in 3D space
@@ -17,7 +17,7 @@
 
 # Position
 Define the point "P" relative to coordinate frame {A}
-![[Attachments/Pasted image 20230803130517.png]]
+![Pasted image 20230803130517](Attachments/Pasted%20image%2020230803130517.png)
 
 Individual elements of a vector are given subscripts x, y, z
 $$P_{A} = \begin{bmatrix}   P_{x} \\  P_{y} \\ P_{z}   \end{bmatrix}$$
@@ -29,7 +29,7 @@ We define the orientation of an object relative to the coordinate frame {A} rega
 Unit Vector {B} are $\hat{X}_{B}, \hat{Y}_{B}, \hat{Z}_{B}$
 
 Written relative to frame {A}: $^{A}{\hat{X}_{B}}$ $^{A}{\hat{Y}_{B}}$ $^{A}{\hat{Z}_{B}}$ 
-![[Attachments/Pasted image 20230810123550.png]]
+![Pasted image 20230810123550](Attachments/Pasted%20image%2020230810123550.png)
 Our rotation matrix can be defines as below:
 $$^{A}_{B}R = [^{A}{\hat{X}_{B}},^{A}{\hat{Y}_{B}},^{A}{\hat{Z}_{B}}] = \begin{bmatrix}   r_{11} & r_{12} & r_{13}  \\ r_{21} & r_{22} & r_{33} \\ r_{31} & r_{32} & r_{33}  \end{bmatrix} $$
 $$ = \begin{bmatrix}  \hat{X}_{B} \cdot \hat{X}_{A} &\hat{Y}_{B} \cdot \hat{X}_{A} &\hat{Z}_{B} \cdot \hat{X}_{A}  \\ \hat{X}_{B} \cdot \hat{Y}_{A} & \hat{Y}_{B} \cdot \hat{Y}_{A} &\hat{Z}_{B} \cdot \hat{Y}_{A} \\ \hat{X}_{B} \cdot \hat{Z}_{A} & \hat{Y}_{B} \cdot \hat{Z}_{A} & \hat{Z}_{B} \cdot \hat{Z}_{A}  \end{bmatrix} $$
@@ -44,6 +44,6 @@ $$^{A}_{B}R = \begin{bmatrix}  \cos \hat{X}_{B} \cdot \hat{X}_{A} & \cos \hat{Y}
 We can use these to simplify our rotational matrices.
 
 ## Rotation Matrices in 3D
-![[Attachments/Pasted image 20230810125357.png]]
+![Pasted image 20230810125357](Attachments/Pasted%20image%2020230810125357.png)
 **$R_{x}$ is meant to be at the bottom**
 These are general forms for rotating around a single axis, the zeroes and ones in this case do not change. And the angle $\theta$ is the number of degrees being rotated. We use the *right hand rule* to determine the direction of the rotation.

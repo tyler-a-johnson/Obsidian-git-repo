@@ -1,5 +1,5 @@
 #MTRN/2060  #Circuits 
-[[UNI 2022/MTRN2060/Attachments/MTRN2060 Second Order Systems.pptx]]
+[MTRN2060 Second Order Systems](Attachments/MTRN2060%20Second%20Order%20Systems.pptx)
 
 # What is a System Response?:
 A typical simple system has one input and one output.
@@ -32,7 +32,7 @@ Consider the order of a system
 •A second order system has time delay, and is capable of oscillation in response to a non-oscillating input. It has a restoring force and a damping force.
 
 # First Order System:
-![[UNI 2022/MTRN2060/Attachments/FirstOrderSystem.png]]
+![FirstOrderSystem](Attachments/FirstOrderSystem.png)
 
 Consider an RC circuit:
 $$Vc=Vout$$
@@ -65,7 +65,7 @@ To find B we need to use the state of the circuit at t=0. Lets assume that the c
 
 $V_{out} (t)=V_{in} (1-e^(-t∕RC) )$
 
-![[UNI 2022/MTRN2060/Attachments/UnitStepInputFirstOrder.png]]
+![UnitStepInputFirstOrder](Attachments/UnitStepInputFirstOrder.png)
 
 •All first order systems have a time constant (t) and respond to a step function with a single exponential decay or rise.
 
@@ -116,16 +116,16 @@ $$w_d =ω_n √(1-z ^2 )$$
 ## Frequency Response of 2nd Order System
 
 Amplitude:
-![[UNI 2022/MTRN2060/Attachments/SecondOrderSystemAmplitudeResponse.png]]
+![SecondOrderSystemAmplitudeResponse](Attachments/SecondOrderSystemAmplitudeResponse.png)
 Underdamped systems (z <<1) can destructively resonate around their natural frequencies. Identifying and eliminating resonances in machines such as helicopters and cars is very important.
 
 
 Phase:
-![[UNI 2022/MTRN2060/Attachments/SecondOrderSystemPhaseResponse.png]]Note z = 0.707 gives best approximation of phase linearity and the best amplitude linearity over the largest bandwidth. Amplitude linearity is important for passing information (signals)
+![SecondOrderSystemPhaseResponse](Attachments/SecondOrderSystemPhaseResponse.png)Note z = 0.707 gives best approximation of phase linearity and the best amplitude linearity over the largest bandwidth. Amplitude linearity is important for passing information (signals)
 
 
 # Example Questions:
-![[UNI 2022/MTRN2060/Attachments/ExampleInstrument.png]]
+![ExampleInstrument](Attachments/ExampleInstrument.png)
 1. A scientific instrument needs to be isolated from external vibrations. The scientists have located the instrument in the basement of the building and have suspended the small measurement unit on a 500 g block of copper from three vertical springs. Each spring has a constant of 1 N/cm and is 20 cm long when hung.
 
   a) Identify two resonant modes and give their frequencies. A third exists, but the resonant frequency is harder to calculate
@@ -152,7 +152,7 @@ c) The magnets provide eddy current damping to the nearby copper block. This eff
 
 What is the natural or resonant frequency of the vehicle?
 
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221103171813.png]]
+![Pasted image 20221103171813](Attachments/Pasted%20image%2020221103171813.png)
 Select one:
 
 a. 9.5 rad/s
@@ -169,7 +169,7 @@ d. 4.7 rad/s
 What is the natural frequency of each suspension system? 
 
 ![](https://ilearn.mq.edu.au/pluginfile.php/8003101/question/questiontext/11758430/3/36082733/Untitled.png)
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221103171915.png]]
+![Pasted image 20221103171915](Attachments/Pasted%20image%2020221103171915.png)
 
 Select one:
 

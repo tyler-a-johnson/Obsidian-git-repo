@@ -1,1 +1,1 @@
-![[../Attachments/ELEC2070 2023 Laboratory Worksheet for Weeks 3 and 4.pdf]]
+![ELEC2070 2023 Laboratory Worksheet for Weeks 3 and 4](../Attachments/ELEC2070%202023%20Laboratory%20Worksheet%20for%20Weeks%203%20and%204.pdf)

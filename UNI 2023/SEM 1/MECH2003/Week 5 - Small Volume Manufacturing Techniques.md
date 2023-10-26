@@ -1,7 +1,7 @@
  #MECH/2003  #UniNotes
 
 **Slides:**
-[[Attachments/Week 05 MECH203 Lecture Slides V23-0.pdf]]
+[Week 05 MECH203 Lecture Slides V23-0](Attachments/Week%2005%20MECH203%20Lecture%20Slides%20V23-0.pdf)
 
 # Why is small volume manufacturing important?
 Particularly in research and development. There is a need to be able to manufacture bespoke pieces of equipment in a cost-effective manner. Examples include.
@@ -29,11 +29,11 @@ Particularly in research and development. There is a need to be able to manufact
 # Manufacturing Techniques
 
 ## Material Removal Techniques
-[[Week 6 - Material Removal Methods]]
+[Week 6 - Material Removal Methods](Week%206%20-%20Material%20Removal%20Methods.md)
 *Starting with a piece of greater desired component geometry is achieved.*
 - CNC Machining
 - Milling
-	![[Attachments/Pasted image 20230424113718.png]]
+	![Pasted image 20230424113718](Attachments/Pasted%20image%2020230424113718.png)
 - Cutting
 - Grinding
 - Chiselling
@@ -46,10 +46,10 @@ Particularly in research and development. There is a need to be able to manufact
 - Rapid Prototyping
 
 # Material Removal Theory
-![[Attachments/Pasted image 20230424113812.png]]
+![Pasted image 20230424113812](Attachments/Pasted%20image%2020230424113812.png)
 This is controlled by the speed (or RPM) of the spindle. The following equation can assist with determining the correct RPM after selecting the appropriate cutting speed from the table.
 $$RPM = \frac{300 * \text{Cutting Speed}}{\text{Diameter}}$$
-![[Attachments/Pasted image 20230424114000.png]]
+![Pasted image 20230424114000](Attachments/Pasted%20image%2020230424114000.png)
 
 ```ad-note
 It's also important to account for heat buildup in both the part and the drill bits. An ideal cutting speed ensures the heat is concentrated on the chips being removed. Lubricant and coolant is used for this reason.

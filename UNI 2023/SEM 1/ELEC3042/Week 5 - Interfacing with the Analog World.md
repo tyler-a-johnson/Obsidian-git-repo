@@ -1,6 +1,6 @@
  #ELEC/3042 #Logic #EmbeddedSystems/Microprocessors #Communication #UniNotes
 
-[[Attachments/Week 5.pdf]]
+[Week 5](Attachments/Week%205.pdf)
 
 # Digital vs Analog
 - Real world analog (continuous)
@@ -11,16 +11,16 @@
 
 # Using Timers to create analog output
 Timers can generate square waveforms that are outputted on pins
-![[Attachments/Pasted image 20230322232755.png]]
+![Pasted image 20230322232755](Attachments/Pasted%20image%2020230322232755.png)
 
 # Waveform Generation
 ## CTC
 Change pin output value on compare match
-![[Attachments/Pasted image 20230322232920.png]]
+![Pasted image 20230322232920](Attachments/Pasted%20image%2020230322232920.png)
 - Single-slope operation: TCNTn counts from BOTTOM to TOP and resets to BOTTOM
 - Toggle output when count reaches value in OCnA & reset TCNTn
 - Set/change period of output waveform by setting/changing OCnA value
-![[Attachments/Pasted image 20230322233115.png]]
+![Pasted image 20230322233115](Attachments/Pasted%20image%2020230322233115.png)
 
 ## Fast PWM
 - Single-slope operation
@@ -28,7 +28,7 @@ Change pin output value on compare match
 	- output low when count reaches compare value
 	- output high when count reaches TOP value
 - Change compare value to change duty cycle
-![[Attachments/Pasted image 20230322233302.png]]
+![Pasted image 20230322233302](Attachments/Pasted%20image%2020230322233302.png)
 
 ## Phase correct, Phase & Frequency correct PWM
 - Dual-slope operation: TCNTn counts from BOTTOM to TOP and down to BOTTOM
@@ -40,7 +40,7 @@ Change pin output value on compare match
 
 ## Choose a Timer
 OCRnA = clock frequency / (2 * desired frequency)
-![[Attachments/Pasted image 20230322233810.png]]
+![Pasted image 20230322233810](Attachments/Pasted%20image%2020230322233810.png)
 
 # ADC: Sampling & Resolution
 (Analog to digital converter)
@@ -48,10 +48,10 @@ OCRnA = clock frequency / (2 * desired frequency)
 - Sample rate (number of conversions per second) is limited by conversion time
 - Sampling rate limits the bandwidth of the digital representation (Nyquist frequency) - (data bandwidth)
 - *Resolution* is the number discrete levels available to represent the amplitude of a signal and determined by the number of bits in ADC
-![[Attachments/Pasted image 20230322234130.png]]
+![Pasted image 20230322234130](Attachments/Pasted%20image%2020230322234130.png)
 
 ## ADC on ATmega328P
-![[Attachments/Pasted image 20230322234614.png]]
+![Pasted image 20230322234614](Attachments/Pasted%20image%2020230322234614.png)
 - One 10-bit ADC
 - Multiplexed across the PORTC pins
 	- That is, if 2 pins are using the ADC, the total sampling rate will be divided across those two pins
@@ -62,14 +62,14 @@ OCRnA = clock frequency / (2 * desired frequency)
 	- Set by ADPS bits inn ADCSRA
 
 # Successive Approximation
-![[Attachments/Pasted image 20230322234911.png]]
+![Pasted image 20230322234911](Attachments/Pasted%20image%2020230322234911.png)
 - Samples input signal voltage
 - Input signal voltage is held constant and successively compared to a comparison voltage to find the binary representation one bit at a time starting from MSB
 - Conversion normally takes 13 ADC clock cycles
 	- First conversion takes 25 ADC clock cycles because the analog circuitry needs some time to initialise
 
 ## Conversion Result
-![[Attachments/Pasted image 20230322235412.png]]
+![Pasted image 20230322235412](Attachments/Pasted%20image%2020230322235412.png)
 - When conversion is complete, result is stored in ADC register and ADIF flag is set
 - ADC is made up of two 8 bit registers: ADCH & ADCL
 - To get 16-bit result, read ADC (or ADCL first, then ADCH)
@@ -77,7 +77,7 @@ OCRnA = clock frequency / (2 * desired frequency)
 - If 8-bit (or less) resolution is required, use left adjust adjust and just read ADCH only
 
 # Triggering a conversion
-![[Attachments/Pasted image 20230322235444.png]]
+![Pasted image 20230322235444](Attachments/Pasted%20image%2020230322235444.png)
 Manually
 	Write 1 to ADSC
 

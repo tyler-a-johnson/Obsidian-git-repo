@@ -4,7 +4,7 @@ tags:
   - MTRN/3026
 status: Incomplete
 Relevant Docs:
-  - "[[Attachments/Week_9_Basic_Hydraulics.pdf]]"
+  - "[Week_9_Basic_Hydraulics](Attachments/Week_9_Basic_Hydraulics.pdf)"
 Relevant Questions: []
 Relevant Notes: []
 Practical Docs: 

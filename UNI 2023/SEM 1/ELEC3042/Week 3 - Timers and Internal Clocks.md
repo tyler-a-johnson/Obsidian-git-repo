@@ -1,6 +1,6 @@
  #ELEC/3042 #EmbeddedSystems/Microprocessors #EmbeddedSystems #UniNotes
 
-[[ATmega328P Datasheet]]
+[ATmega328P Datasheet](ATmega328P%20Datasheet.md)
 
 # Timers
 Timing an event is important in many digital system applications.
@@ -15,19 +15,19 @@ The ATmega328P has 3 different timers
 - Counts clock pulses 
 - Clock can be the I/O clock or an external clock 
 - If I/O clock is used, a prescaler can be applied to divide the clock frequency by 8, 64, 256 or 1024
-![[Attachments/Pasted image 20230314210811.png]]
+![Pasted image 20230314210811](Attachments/Pasted%20image%2020230314210811.png)
 
 # Timer Modes of Operation
 ## Normal Mode
 - TCNT counts up from 0 until it overflows (generates interrupt), and then starts from 0 again.
-![[Attachments/Pasted image 20230314211902.png]]
+![Pasted image 20230314211902](Attachments/Pasted%20image%2020230314211902.png)
 Usually not that useful, although you can alter the value it starts from.
 
 ## CTC Mode
 - CTC = clear timer on compare match 
 - When count matches value in OCRnA, the counter will reset (and generate an interrupt) 
 - Used to have timer count to numbers smaller than maximum count
-![[Attachments/Pasted image 20230314212523.png]]
+![Pasted image 20230314212523](Attachments/Pasted%20image%2020230314212523.png)
 Most common type of timer mode.
 ## PWM Mode
 - PWM = pulse width modulation 
@@ -36,10 +36,10 @@ Most common type of timer mode.
 	- change the brightness of LEDs
 	- drive motor at different speeds
 	- Speakers
-![[Attachments/Pasted image 20230314220811.png]]
-![[Attachments/Pasted image 20230314220918.png]]
+![Pasted image 20230314220811](Attachments/Pasted%20image%2020230314220811.png)
+![Pasted image 20230314220918](Attachments/Pasted%20image%2020230314220918.png)
 # Choosing a Timer
-![[Attachments/Pasted image 20230314220954.png]]
+![Pasted image 20230314220954](Attachments/Pasted%20image%2020230314220954.png)
 
 Depends on several factors:
 - The size of the divisor
@@ -57,7 +57,7 @@ Depends on several factors:
 	- Wastes energy 
 - Replace delay_ms(1000) with timer 
 	-  Count enough clock ticks for 1 s and generate interrupt
-![[Attachments/Pasted image 20230314221356.png]]
+![Pasted image 20230314221356](Attachments/Pasted%20image%2020230314221356.png)
 
 # Step One: Choose a Timer
 - Arduino has 16Mhz clock
@@ -86,16 +86,16 @@ Depends on several factors:
 
 # Step Three: Setup Control Registers
 ## TCCR1A - Modes of Operation
-![[Attachments/Pasted image 20230314225602.png]]
-![[Attachments/Pasted image 20230314225636.png]]
-![[Attachments/Pasted image 20230314225710.png]]
+![Pasted image 20230314225602](Attachments/Pasted%20image%2020230314225602.png)
+![Pasted image 20230314225636](Attachments/Pasted%20image%2020230314225636.png)
+![Pasted image 20230314225710](Attachments/Pasted%20image%2020230314225710.png)
 Connects OC1A/OC1B to pins.
 
-![[Attachments/Pasted image 20230314225859.png]]
-![[Attachments/Pasted image 20230314225925.png]]
+![Pasted image 20230314225859](Attachments/Pasted%20image%2020230314225859.png)
+![Pasted image 20230314225925](Attachments/Pasted%20image%2020230314225925.png)
 
 ## TCCR1B - Select Clock Prescaler
-![[Attachments/Pasted image 20230314230245.png]]
+![Pasted image 20230314230245](Attachments/Pasted%20image%2020230314230245.png)
 
 
 ```
@@ -104,12 +104,12 @@ TCCR1B = 0b00001101;
 ```
 
 ## TCCR1C - Control Register C
-![[Attachments/Pasted image 20230314230500.png]]
+![Pasted image 20230314230500](Attachments/Pasted%20image%2020230314230500.png)
 
 ```
 TCCR1C = 0;
 ```
-![[Attachments/Pasted image 20230314230623.png]]
+![Pasted image 20230314230623](Attachments/Pasted%20image%2020230314230623.png)
 
 ```
 TCCR1A = 0b00000000;
@@ -122,14 +122,14 @@ ICR1 = 0;
 ```
 
 ## TIMSK1 - Interrupt Mask Register
-![[Attachments/Pasted image 20230314230837.png]]
+![Pasted image 20230314230837](Attachments/Pasted%20image%2020230314230837.png)
 
 ```
 TIMSK1 = 0b00000010;
 ```
 
 ## TIFR1 - Interrupt Flag Register
-![[Attachments/Pasted image 20230314231154.png]]
+![Pasted image 20230314231154](Attachments/Pasted%20image%2020230314231154.png)
 
 ```
 TIFR1 = 0;
@@ -137,7 +137,7 @@ TIFR1 = 0;
 
 ## Example
 #Examples 
-![[Attachments/Pasted image 20230314231240.png]]
+![Pasted image 20230314231240](Attachments/Pasted%20image%2020230314231240.png)
 
 # One timer for Multiple Events
 - Example
@@ -148,9 +148,9 @@ TIFR1 = 0;
 	- LED should change after 100 interrupts
 	- Button is debounced on next interrupt
 # Button Debouncing
-![[Attachments/Pasted image 20230314231922.png]]
-![[Attachments/Pasted image 20230314231937.png]]
-![[Attachments/Pasted image 20230314232113.png]]
+![Pasted image 20230314231922](Attachments/Pasted%20image%2020230314231922.png)
+![Pasted image 20230314231937](Attachments/Pasted%20image%2020230314231937.png)
+![Pasted image 20230314232113](Attachments/Pasted%20image%2020230314232113.png)
 
 # Timer Summary
 - Using a Timer

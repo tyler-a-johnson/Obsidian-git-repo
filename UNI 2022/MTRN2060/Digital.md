@@ -1,6 +1,6 @@
 #MTRN/2060 
-[[UNI 2022/MTRN2060/Attachments/sn74hc595.pdf]]
-![[UNI 2022/MTRN2060/Attachments/MTRN2060 Digital.pptx]]
+[sn74hc595](Attachments/sn74hc595.pdf)
+![MTRN2060 Digital](Attachments/MTRN2060%20Digital.pptx)
 
 # How do we Communicate in Mechatronics?
 •Analog communications can be voltage level or current level. A 4-20 ma current loop is a common analog communications system used in industry. To read an analog voltage we use an analog to digital converter.
@@ -14,7 +14,7 @@
 •Really high clock speeds have enabled easy digital implementation with high data content.
 
 # A to D
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030215127.png]]
+![Pasted image 20221030215127](Attachments/Pasted%20image%2020221030215127.png)
 Now that we have decided how fast to sample, we must Quantize and Code.
 
 This is the next question. Bit depth & sample rate give the amount of data and the data transfer rate needed.
@@ -26,11 +26,11 @@ This is the next question. Bit depth & sample rate give the amount of data and t
 
 •What if input value changes?
 
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030215310.png]]
+![Pasted image 20221030215310](Attachments/Pasted%20image%2020221030215310.png)
 
 **Flash Converter** – Fast. Parallel comparator (AKA Direct Conversion). But requires 2n-1 comparators for n-bit precision. Impractical for more than 8-bit
 
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030215442.png]]
+![Pasted image 20221030215442](Attachments/Pasted%20image%2020221030215442.png)
 
 # A to D when the signal changes with time
 •If you want to create a digital record of a time-varying signal you must ask the question:
@@ -55,7 +55,7 @@ PWM and Pseudo Analog
 ---
 
 # analogWrite uses PWM (Arduino)
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030215635.png]]
+![Pasted image 20221030215635](Attachments/Pasted%20image%2020221030215635.png)
 •Gets analogue results with digital means.
 
 •Easy to control and implement using high clock rates by switching on and off precisely.
@@ -67,7 +67,7 @@ PWM and Pseudo Analog
 •Used to control LED intensity
 
 ## servo library uses PWM differently
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030215720.png]]
+![Pasted image 20221030215720](Attachments/Pasted%20image%2020221030215720.png)
 •PWM is a convenient way to send analog-like signals
 •The servo.h library creates a special type of PWM pulse.
 •The duration of the pulse tells the servo arm where to go.
@@ -87,7 +87,7 @@ PWM and Pseudo Analog
 **In this unit, you need to be comfortable with the binary number system**
 
 # Combinational Logic
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030220017.png]]
+![Pasted image 20221030220017](Attachments/Pasted%20image%2020221030220017.png)
 Combinational logic converts binary to binary on mathematical logic rules. They are called gates.
 
 They do not have memory, ie the outputs is a function of what is and not what was.
@@ -109,7 +109,7 @@ They do not have memory, ie the outputs is a function of what is and not what wa
 •We will examine one important example of a sequential logic device the D or digital Flip-Flop
 
 # Registers: 1 byte of short memory  D Flip Flops
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030220606.png]]
+![Pasted image 20221030220606](Attachments/Pasted%20image%2020221030220606.png)
 
 •The D-flip-flop is created by 6 NAND gates. It has a clock and a data line.
 
@@ -122,30 +122,30 @@ They do not have memory, ie the outputs is a function of what is and not what wa
 •Registers store information in almost all digital sensors.
 
 # D Flip Flops
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030220748.png]]
+![Pasted image 20221030220748](Attachments/Pasted%20image%2020221030220748.png)
 Notice that the D signal is sampled only at the rising clock edge. Changes at other times are ignored.
 
 The device remembers the state of D until the next rising edge on the clock line.
 
 # Binary Counter and/or Frequency Divider
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030220915.png]]
+![Pasted image 20221030220915](Attachments/Pasted%20image%2020221030220915.png)
 
 # Shift Register or Serial to Parallel Converter
 •In digital circuits, a shift register is a cascade of flip flops, sharing the same clock,
 
 • the output of each flip-flop is connected to the 'data' input of the next flip-flop in the chain
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030221007.png]]
+![Pasted image 20221030221007](Attachments/Pasted%20image%2020221030221007.png)
 
 > D-Flip Flop: The most common Latch. It has memory! Used in I2C
 
 ## Shift Registers at work
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030221127.png]]
+![Pasted image 20221030221127](Attachments/Pasted%20image%2020221030221127.png)
 •[https://www.youtube.com/watch?v=6fVbJbNPrEU](https://www.youtube.com/watch?v=6fVbJbNPrEU)
 #Video 
 
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030221148.png]]
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030221208.png]]
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030221215.png]]
+![Pasted image 20221030221148](Attachments/Pasted%20image%2020221030221148.png)
+![Pasted image 20221030221208](Attachments/Pasted%20image%2020221030221208.png)
+![Pasted image 20221030221215](Attachments/Pasted%20image%2020221030221215.png)
 
 # I2C
 •I squared C, inter-integrated circuit is a bus protocol for communication between a mother board and low speed peripherals.
@@ -153,7 +153,7 @@ The device remembers the state of D until the next rising edge on the clock line
 #Video 
 
 # I2C Sensor. How does it work?
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030221432.png]]
+![Pasted image 20221030221432](Attachments/Pasted%20image%2020221030221432.png)
 
 # Interrupts
 •Special pins on any microcontroller
@@ -173,7 +173,7 @@ The device remembers the state of D until the next rising edge on the clock line
 •Use a counter to keep track of the number of ticks moved.
 
 •How many counts per revolution on your encoder? What is the angular precision?
-![[UNI 2022/MTRN2060/Attachments/Pasted image 20221030221554.png]]
+![Pasted image 20221030221554](Attachments/Pasted%20image%2020221030221554.png)
 
 # Example Questions
 #Examples 

@@ -3,7 +3,7 @@ date: 2023-10-18
 tags: 
 status: Incomplete
 Relevant Docs:
-  - "[[Rubric_self_study_topic.pdf]]"
+  - "[Rubric_self_study_topic](Rubric_self_study_topic.pdf)"
 Relevant Questions: 
 Relevant Notes: 
 Practical Docs: 

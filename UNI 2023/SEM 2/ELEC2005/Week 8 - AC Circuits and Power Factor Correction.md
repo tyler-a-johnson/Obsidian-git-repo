@@ -3,7 +3,7 @@ date: 2023-10-03
 tags: 
 status: Complete
 Relevant Docs:
-  - "[[Attachments/wk8 2023_annotated.pdf]]"
+  - "[wk8 2023_annotated](Attachments/wk8%202023_annotated.pdf)"
 Relevant Questions: []
 Relevant Notes: []
 Practical Docs: 
@@ -18,9 +18,9 @@ Relevant Links:
 # Conceptual Info
 ---
 
-![[Attachments/Pasted image 20231003142416.png]]
+![Pasted image 20231003142416](Attachments/Pasted%20image%2020231003142416.png)
 Kirchoff Current and Voltage Laws (KCL and KVL) - quick example
-![[Attachments/Pasted image 20231003143505.png]]
+![Pasted image 20231003143505](Attachments/Pasted%20image%2020231003143505.png)
 **KCL:** $\sum\limits_{node} \pm i_{j}=0$
 **KVL:** $\sum\limits_{loop} \pm v_{k}=0$
 
@@ -50,7 +50,7 @@ $\phi = \delta - \beta$ Angle difference between v and i
 $\phi > 0$    i(t) lags v(t)
 $\phi < 0$    i(t) lags v(t)
 
-![[Attachments/Pasted image 20231003145005.png]]
+![Pasted image 20231003145005](Attachments/Pasted%20image%2020231003145005.png)
 In this example:
 $\delta = \frac{\pi}{3}$ ,  $\beta = \frac{\pi}{6}$,  $\phi =\frac{\pi}{6} rads$
 
@@ -59,7 +59,7 @@ $i(t)$ lags $v(t)$, $I_{max}$ after $V_{max}$
 
 
 ### Single Phase Instantaneous Power
-![[Attachments/Pasted image 20231003145316.png]]
+![Pasted image 20231003145316](Attachments/Pasted%20image%2020231003145316.png)
 $$p(t)=v(t)i(t)$$
 $$p(t) = 2VI\cos(\omega t + \delta)\cos(\omega t + \beta)$$
 $$p(t) = VI \{\cos(\delta - \beta)+\cos(2\omega t + \delta + \beta)\}$$
@@ -73,16 +73,16 @@ $I_{R}=I\cos(\phi)$ Current Component in phase with $v(t)$
 $I_{X}=I\sin(\phi)$ Current Component 90 degrees out of phase from $v(t)$
 $\frac{1}{T} \int_{0}^{T} [p_{R}(t)]dt = \text{P Active Power}$, $\frac{1}{T}\int_{0}^{T}[p_{X}(t)]dt = 0$
 
-![[Attachments/Pasted image 20231003150637.png]]
+![Pasted image 20231003150637](Attachments/Pasted%20image%2020231003150637.png)
 
 $$p(t) = VI_{R} \{1+\cos[2(\omega t + \delta)]\} + VI_{X}\sin[2(\omega t + \delta)]$$
-![[Attachments/Pasted image 20231003150857.png]]
+![Pasted image 20231003150857](Attachments/Pasted%20image%2020231003150857.png)
 - Instantaneous power $p(t)$ pulsates @ $2\omega$.
 - Can be positive or negative
 
 
 ## Active Power, Reactive Power, Power Factor
-![[Attachments/Pasted image 20231003151116.png]]
+![Pasted image 20231003151116](Attachments/Pasted%20image%2020231003151116.png)
 
 **Definitions:**
 - $P = VI_{R}=VI \cos(\phi)$ **REAL/ACTIVE Power** (W)
@@ -92,8 +92,8 @@ $$p(t) = VI_{R} \{1+\cos[2(\omega t + \delta)]\} + VI_{X}\sin[2(\omega t + \delt
 $$\cos (\phi)\text{ Is the power factor}$$
 ### Example: Purely Resistive Load
 
-![[Attachments/Pasted image 20231003153000.png]]
-![[Attachments/Pasted image 20231003153027.png]]
+![Pasted image 20231003153000](Attachments/Pasted%20image%2020231003153000.png)
+![Pasted image 20231003153027](Attachments/Pasted%20image%2020231003153027.png)
 $$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
 $$i(t) = \frac{v(t)}{R}$$
 $$i(t) = \sqrt{2} \frac{V}{R} \cos(\omega t +\delta)$$
@@ -101,8 +101,8 @@ $$P = \frac{V^2}{R}$$
 
 
 ### Example: Purely Inductive Load
-![[Attachments/Pasted image 20231003153328.png]]
-![[Attachments/Pasted image 20231003153337.png]]
+![Pasted image 20231003153328](Attachments/Pasted%20image%2020231003153328.png)
+![Pasted image 20231003153337](Attachments/Pasted%20image%2020231003153337.png)
 $$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
 $$v(t) = L \frac{di(t)}{dt}$$
 $$i(t) = \frac{1}{L}\int^{t}_{0}v(t) dt$$
@@ -116,15 +116,15 @@ $$Q = \frac{V^{2}}{\omega L}\sin(\frac{\pi}{2})=\frac{V^{2}}{\omega L}$$
 
 
 ### Example: Purely Capacitive Load
-![[Attachments/Pasted image 20231003153920.png]]
-![[Attachments/Pasted image 20231008201052.png|200]]
+![Pasted image 20231003153920](Attachments/Pasted%20image%2020231003153920.png)
+![200](Attachments/Pasted%20image%2020231008201052.png)
 $$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
 $$i(t) = C \frac{dv(t)}{dt}$$
 
 ```ad-note
 title: Sine and Cosine
 $$\sin(\omega t) = \cos(\omega t - \frac{\pi}{2})$$
-![[Attachments/accircuits-acp33a.png]]
+![accircuits-acp33a](Attachments/accircuits-acp33a.png)
 $$\cos(\omega t) = \sin(\omega t + \frac{\pi}{2})$$
 
 ```
@@ -159,11 +159,11 @@ $$= \sqrt{2} X \cos (\omega t + \delta)$$
 
 Where: $X = \frac{X_{M}}{\sqrt{2}}$ = RMS, effective value.
 
-Using [[Euler's Identity]] $e^{j \phi} = \cos \phi + j \sin \phi$
+Using [Euler's Identity](Euler's%20Identity) $e^{j \phi} = \cos \phi + j \sin \phi$
 
 $$x(t) = Re[X_{M}e^{j(\omega t + \delta)}]=Re[\sqrt{2} (Xe^{j \delta})e^{j \omega t}]$$
 
-![[Attachments/Pasted image 20231003155517.png]]
+![Pasted image 20231003155517](Attachments/Pasted%20image%2020231003155517.png)
 
 
 ### Phasor Representation
@@ -176,19 +176,19 @@ $\delta=40\degree$
 $\sqrt{2}V = 4V$
 
 Phasor Diagram: **X - Axis = Real, Y - Axis = Imaginary Axis**
-![[Attachments/Pasted image 20231003160346.png]]
-![[Attachments/Pasted image 20231003160414.png]]
+![Pasted image 20231003160346](Attachments/Pasted%20image%2020231003160346.png)
+![Pasted image 20231003160414](Attachments/Pasted%20image%2020231003160414.png)
 
 
 
 
-![[Attachments/Pasted image 20231003160602.png]]
+![Pasted image 20231003160602](Attachments/Pasted%20image%2020231003160602.png)
 - Counter clockwise rotating vector $\sqrt{2}(Ve^{j \delta})e^{j \omega t}$ projection on the x-axis is $v(t) = \sqrt{2}V \cos(\omega t + \delta)$ Therefore $v(t)=Re[\sqrt{2}(Ve^{j \delta})e^{j \omega t}]$
 - $\bar{V} = Ve^{j \omega}$ is defined as the RMS phasor, its a vector **fixed** at the angle of rotating vector ($\delta$) when t = 0
 - *V rms value is the magnitude of the RMS phasor $V=\frac{V_{max}}{\sqrt{2}}$
 
-![[Attachments/Pasted image 20231003161125.png]]
-![[Attachments/Pasted image 20231003161238.png]]
+![Pasted image 20231003161125](Attachments/Pasted%20image%2020231003161125.png)
+![Pasted image 20231003161238](Attachments/Pasted%20image%2020231003161238.png)
 $$\bar{V}=Ve^{j \delta} \rightarrow v(t) = Re[\sqrt{2}(Ve^{j \delta})e^{j \omega t}]$$
 $$= Re[\sqrt{2}Ve^{j(\omega t + \delta)}]$$
 $$=Re[\sqrt{2}V(\cos(\omega t + \delta) + j \sin(\omega t + \delta)]$$
@@ -201,7 +201,7 @@ We use $V = \frac{V_{max}}{\sqrt{2}}$. This may be different to other units, and
 ```
 
 ### Phasor Operations
-![[Attachments/Pasted image 20231003175819.png]]
+![Pasted image 20231003175819](Attachments/Pasted%20image%2020231003175819.png)
 **Polar Form**
 Coordinates ($V, \delta$) Useful for multiplication and division
 $$\bar{X} = \bar{Y}\bar{Z} = Ye^{j \alpha} Ze^{j \beta}$$
@@ -218,22 +218,22 @@ $$= (a \pm c) + j(b\pm d)$$
 
 
 Given: $v(t) = \sqrt{2}V\cos(\omega t + \delta)$
-![[Attachments/Pasted image 20231003180754.png]]
+![Pasted image 20231003180754](Attachments/Pasted%20image%2020231003180754.png)
 $$\frac{dv(t)}{dt} \rightarrow j \omega V e^{j \omega}$$
 
 Derivation in the time domain becomes multiplication by jw in the frequency domain.
 
 Same can be done for integration.
-![[Attachments/Pasted image 20231003180957.png]]
+![Pasted image 20231003180957](Attachments/Pasted%20image%2020231003180957.png)
 $$\int v(t) dt \rightarrow \frac{V}{j \omega}e^{j \delta}$$
 
-![[Attachments/Pasted image 20231003181150.png]]
-![[Attachments/Pasted image 20231003181337.png]]
+![Pasted image 20231003181150](Attachments/Pasted%20image%2020231003181150.png)
+![Pasted image 20231003181337](Attachments/Pasted%20image%2020231003181337.png)
 **Resistor** - Has no effect on phase (In phase)
 **Inductor** - Current *Lags* Voltage
 **Capacitor** - Current *Leads* Voltage
 
-![[Attachments/Pasted image 20231003181643.png]]
+![Pasted image 20231003181643](Attachments/Pasted%20image%2020231003181643.png)
 **Impedance**: $Z = \frac{\bar{V}}{\bar{I}}$
 
 **Admittance**: $Y = \frac{\bar{I}}{\bar{V}}$
@@ -247,15 +247,15 @@ $Z = |Z|e^{j \phi}$    $|Z| = \sqrt{R^{2}+X^{2}}$     $\tan(\phi)=\frac{X}{R}$
 
 #### Example
 Using RMS phasor approach, determine the time domain expression for the current in a circuit by the differential equation:
-![[Attachments/Pasted image 20231003182407.png]]
-![[Attachments/Pasted image 20231003182502.png]]
+![Pasted image 20231003182407](Attachments/Pasted%20image%2020231003182407.png)
+![Pasted image 20231003182502](Attachments/Pasted%20image%2020231003182502.png)
 
 #### Example 2
 Using the rms phasor approach, determine the time-domain expression for the current in a circuit described by the differential equation:
-![[Attachments/Pasted image 20231003182728.png]]
+![Pasted image 20231003182728](Attachments/Pasted%20image%2020231003182728.png)
 
 ### Series and Parallel
-![[Attachments/Pasted image 20231003182836.png]]
+![Pasted image 20231003182836](Attachments/Pasted%20image%2020231003182836.png)
 
 Power definition in the time-domain **instantaneous power**
 $$p(t) = v(t)i(t)$$
@@ -267,7 +267,7 @@ $$\bar{S} = \bar{V}\bar{I}* = VIe^{j(\delta-\beta)}=VI\cos(\delta-\beta)+jVI\sin
 $\bar{S}=Ve^{j \delta}$ and $\bar{I}=Ie^{j \beta}$ are the voltage and current rms phasors, 
 and $\bar{I}*$ is the complex conjugate of $\bar{I}$ ($\bar{I}* = Ie^{-j \beta}$)
 
-![[Attachments/Pasted image 20231003183637.png]]
+![Pasted image 20231003183637](Attachments/Pasted%20image%2020231003183637.png)
 
 ## Complex Power: Definition and Power Triangle
 
@@ -282,7 +282,7 @@ $$\bar{S}_{C}=\bar{V}\bar{I}_{C}* = Ve^{j \delta} V \omega C e^{-j(\delta+ \frac
 
 
 For a general **(Passive) RLC circuit** with the load convention: **P > 0,** *Q > 0 for inductive loads* (Q is absorbed) *Q < 0 for capacitive loads* (Q is sourced)
-![[Attachments/Pasted image 20231003190058.png]]
+![Pasted image 20231003190058](Attachments/Pasted%20image%2020231003190058.png)
 
 $$S = \sqrt{P^{2}+ Q^{2}}$$
 $$\delta-\beta=\tan^{-1}(\frac{Q}{P})$$
@@ -294,7 +294,7 @@ Sometimes $\theta$ is used instead of $\phi$.
 
 ## Power Factor Correction
 We can correct the power factor by altering the load as seen by the voltage source $\bar{V}$.
-![[Attachments/Pasted image 20231003190839.png]]
+![Pasted image 20231003190839](Attachments/Pasted%20image%2020231003190839.png)
 For (a). Without capacitor, angle between total load current and voltage is $\theta_1$
 For (b). With capacitor, angle between total load current and voltage is $\theta_{2}<\theta_{1}$
 
@@ -313,15 +313,15 @@ $$C = \frac{|Q_{C}|}{\omega V^{2}}= \frac{P(\tan \theta_{1} - \tan \theta_{2})}{
 ```
 
 ### Example
-![[Attachments/Pasted image 20231003191751.png]]
+![Pasted image 20231003191751](Attachments/Pasted%20image%2020231003191751.png)
 
-![[Attachments/Pasted image 20231003191822.png]]
-![[Attachments/Pasted image 20231003191841.png]]
+![Pasted image 20231003191822](Attachments/Pasted%20image%2020231003191822.png)
+![Pasted image 20231003191841](Attachments/Pasted%20image%2020231003191841.png)
 
 ### Capacitive Load Example
-![[Attachments/Pasted image 20231003192051.png]]
+![Pasted image 20231003192051](Attachments/Pasted%20image%2020231003192051.png)
 If the load is capacitive, and we want to increase power factor, then a shunt inductor can be used.
 
 $$L = \frac{V^{2}}{\omega Q_{L}} = \frac{V^{2}}{\omega(Q_{1}-Q_{2})}$$
 
-![[Attachments/Pasted image 20231003192249.png]]
+![Pasted image 20231003192249](Attachments/Pasted%20image%2020231003192249.png)

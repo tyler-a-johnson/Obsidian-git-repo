@@ -4,8 +4,8 @@ tags:
   - MTRN/3026
 status: Complete
 Relevant Docs:
-  - "[[Attachments/Powering-supplies.pdf]]"
-  - "[[Attachments/Powering-supplies.pptx]]"
+  - "[Powering-supplies](Attachments/Powering-supplies.pdf)"
+  - "[Powering-supplies](Attachments/Powering-supplies.pptx)"
 Relevant Questions: []
 Relevant Notes: []
 ---
@@ -48,9 +48,9 @@ $$Q=It$$
 
 
 # DC Power Supply
-![[Attachments/Pasted image 20230815212902.png]]
+![Pasted image 20230815212902](Attachments/Pasted%20image%2020230815212902.png)
 ## Line Filter
-![[Attachments/Pasted image 20230815212950.png]]
+![Pasted image 20230815212950](Attachments/Pasted%20image%2020230815212950.png)
 Eliminates noise on the AC line and prevents signals returning from the transformer
 ## Transformers and Rectifier Ripple
 ```ad-note
@@ -60,17 +60,17 @@ We add a high capacitance device across the rectifier terminals to filter the si
 
 ```
 
-![[Attachments/Pasted image 20230815213732.png]]
-![[Attachments/Pasted image 20230815214107.png]]
+![Pasted image 20230815213732](Attachments/Pasted%20image%2020230815213732.png)
+![Pasted image 20230815214107](Attachments/Pasted%20image%2020230815214107.png)
 ### Practical Config of Three Basic DC to DC Converters
-![[Attachments/Pasted image 20230924233501.png]]
+![Pasted image 20230924233501](Attachments/Pasted%20image%2020230924233501.png)
 
 ---
 # Electrochemical Batteries
 - REDOX Reaction
 	- Oxidation, the loss of electrons, occurs at the anode.
 	- Reduction, the gain of electrons, occurs at the cathode.
-![[Attachments/Pasted image 20230815201851.png]]
+![Pasted image 20230815201851](Attachments/Pasted%20image%2020230815201851.png)
 - **Primary Batteries** - Disposable (cannot be reused)
 - **Secondary Batteries** - Rechargeable
 - **EMF** - Electromotive force, voltage
@@ -182,7 +182,7 @@ title: Lithium Ion Polymer (Li-ion polymer)
 ## Discharge of a battery
 
 ### C Rating Background
-C rate is derived from [[Coulomb's Law]] developed by the French physicist *Charles Augustin de Coulomb*.
+C rate is derived from [Coulomb's Law](Coulomb's%20Law) developed by the French physicist *Charles Augustin de Coulomb*.
 
 *For example, If a battery is labelled 2000mAh then its 1C rating is 2000mAh.*
 
@@ -200,9 +200,9 @@ $(\frac{1600}{1000})*10=16A$
 **Run Time for Safe Continuous Discharge**
 $\frac{60\text{mins}}{\text{C-Rate}}=$ Run Time
 $\frac{60\text{mins}}{10C}$ = Discharge at 16A for 6 Mins (60/10 = 6)
-![[Attachments/Pasted image 20230815210551.png]]
+![Pasted image 20230815210551](Attachments/Pasted%20image%2020230815210551.png)
 Storage also has an effect, as the batteries sit unconnected after manufacturing. The battery's *internal resistance* as demonstrated by our equivalent circuit for a battery will slowly drain the cell.
-![[Attachments/Pasted image 20230815210716.png]]
+![Pasted image 20230815210716](Attachments/Pasted%20image%2020230815210716.png)
 
 ## Calculation of Battery Capacity
 *Assuming the current required = 0.75A*
@@ -253,7 +253,7 @@ $$\frac{2.016}{0.15} = 13.44hrs$$
 - A battery is a common DC source, for some small mechatronics and portable devices
 - Most non-portable equipment uses power supplies that operate from the AC power line but produce one or more DC outputs.
 ## AC to DC Power Supply for Various Applications
-![[Attachments/Pasted image 20230815212514.png]]
+![Pasted image 20230815212514](Attachments/Pasted%20image%2020230815212514.png)
 - The input is the 230V 50Hz AC supply
 - the PS converts the AC to DC using a full rectifier and provides one or more DC output voltages.
 - Some modern electronic circuit need two or more different voltages:
@@ -261,33 +261,33 @@ $$\frac{2.016}{0.15} = 13.44hrs$$
 - PC PSUs can have 12, 5, 3.3, and sometimes 1.2V
 
 **What a more realistic PSU looks like:**
-![[Attachments/Pasted image 20230815212902.png]]
+![Pasted image 20230815212902](Attachments/Pasted%20image%2020230815212902.png)
 ### Line Filter
 - AC line is passed through a low pass filter
-![[Attachments/Pasted image 20230815212950.png]]
+![Pasted image 20230815212950](Attachments/Pasted%20image%2020230815212950.png)
 - Eliminates noise on the AC line from bothering the power supply circuits and prevents unwanted signals from the power supply from being transferred back into the AC line where they might interfere with other shit.
 
 ### Transformer
 *God I am an artistic genius*
-![[Attachments/Pasted image 20230815213328.png]]
-[[../../../Distilled Notes/Transformers (Not the funny robot)|Transformers (Not the funny robot)]] [[Week 1 - Introduction, Mechatronic Fundamental and Transformers]]
+![Pasted image 20230815213328](Attachments/Pasted%20image%2020230815213328.png)
+[Transformers (Not the funny robot)](../../../Distilled%20Notes/Transformers%20(Not%20the%20funny%20robot).md) [Week 1 - Introduction, Mechatronic Fundamental and Transformers](Week%201%20-%20Introduction,%20Mechatronic%20Fundamental%20and%20Transformers.md)
 - *Transformer* is commonly used to step the **input AC voltage level down or up**. Most electronic circuits operate from voltages lower than the AC line voltage to the transformer normally steps the voltage down by its turns ratio to a desired level.
 - A transformer with turn ratio 20 to 1 would convert 230V 50Hz to 11.5V 50Hz
 ### Rectifier
-![[Attachments/Pasted image 20230815213544.png]]
+![Pasted image 20230815213544](Attachments/Pasted%20image%2020230815213544.png)
 - *Converts AC sine wave into a pulsating DC wave*
-- Needs our boy the [[Diodes]].
+- Needs our boy the [Diodes](../../../Distilled%20Notes/Diodes.md).
 - Rectifier types and operation depend on design and config.
 
 ### Filter
 - Rectifier outputs DC but it is pulsating rather than a constant steady value like a battery.
 - A filter *removes the pulsations and create near constant output*
 - Most common filter **is just a fuck off large capacitor**
-![[Attachments/Pasted image 20230815213732.png]]
+![Pasted image 20230815213732](Attachments/Pasted%20image%2020230815213732.png)
 *We need a filter to help reduce ripple.*
 
 #### Ripple
-![[Attachments/Pasted image 20230815214107.png]]
+![Pasted image 20230815214107](Attachments/Pasted%20image%2020230815214107.png)
 $V = V_{p(in)}e^{-t/RC}$ Capacitor Discharge (Output)
 *For small ripple:*
 $$V \approx V_{p(in)}[1- \frac{t}{RC}]$$
@@ -308,7 +308,7 @@ $$V_{DC}= V_{p(in)}[1- \frac{1}{240 RC}]$$
 #Why can we not just make the capacitor huge and call it a day.
 
 ### Regulator
-![[Attachments/Pasted image 20230815215125.png]]
+![Pasted image 20230815215125](Attachments/Pasted%20image%2020230815215125.png)
 - *Helps maintain a fixed output voltage*
 - Changes in the load or AC line voltage will cause output voltage to vary
 - Most electronic circuits cannot withstand the variations - need fixed voltage
@@ -322,7 +322,7 @@ Most regulators are ICs (integrated circuits). These are feedback control circui
 ***This results in a near constant DC output of a set voltage***
 
 #### Linear Power Supply
-![[Attachments/Pasted image 20230815221615.png]]
+![Pasted image 20230815221615](Attachments/Pasted%20image%2020230815221615.png)
 #What #Why 
 #todo Seek clarification or find out myself
 - Series transistor as an adjustable resistor
@@ -342,56 +342,56 @@ AC rectifiers suffer from these drawbacks:
 3. Can be expensive for efficient rectifiers, and even still expensive to run cheap and inefficient ones.
 
 #### Switched Mode Power Supply
-![[Attachments/Pasted image 20230815222056.png]]
+![Pasted image 20230815222056](Attachments/Pasted%20image%2020230815222056.png)
 - Transistor as a switch
 - High efficiency
 - High-Frequency Transformer
 
 #### Block Diagram of DC-DC Converters
-![[Attachments/Pasted image 20230815222559.png]]
+![Pasted image 20230815222559](Attachments/Pasted%20image%2020230815222559.png)
 This diagram is useless?? - DC-DC converter as part of an AC power supply to provide regulated power to a load (UPS arrangement?)
 
 #### Stepping Down a DC Voltage
-![[Attachments/Pasted image 20230815222755.png]]
+![Pasted image 20230815222755](Attachments/Pasted%20image%2020230815222755.png)
 Switching the DC voltage in a PWM style reduces the average voltage supplied.
 
 #### Pulse-Width Modulation in DC-DC Converters
-![[Attachments/Pasted image 20230815222913.png]]
+![Pasted image 20230815222913](Attachments/Pasted%20image%2020230815222913.png)
 Same concept, as with the theoretical switched DC. Using an amp and sawtooth signal to generate PWM.
 
 #### Step-Down DC to DC Converter (BUCK)
-![[Attachments/Pasted image 20230815223305.png]]
+![Pasted image 20230815223305](Attachments/Pasted%20image%2020230815223305.png)
 Scales voltage based on the frequency? Already has a square wave at input. #todo look up how this works
 
 **BUCK Converter: Waveforms**
-![[Attachments/Pasted image 20230815223613.png]]
+![Pasted image 20230815223613](Attachments/Pasted%20image%2020230815223613.png)
 Switched $V_{d}$ with input impedance assuming $i_{L}$ flows continuously. The frequency can be used to control the output $V_{o}$ .
 
 #### Step-Up DC to DC Converter (Boost)
-![[Attachments/Pasted image 20230815224232.png]]
+![Pasted image 20230815224232](Attachments/Pasted%20image%2020230815224232.png)
 *The output voltage must be greater than the input voltage*
 
 **Waveforms:**
-![[Attachments/Pasted image 20230815224320.png]]
+![Pasted image 20230815224320](Attachments/Pasted%20image%2020230815224320.png)
 Continuous current conduction mode.
 
 #### Step-up/down (Buck-Boost) DC to DC converter.
-![[Attachments/Pasted image 20230815224509.png]]
+![Pasted image 20230815224509](Attachments/Pasted%20image%2020230815224509.png)
 Output voltage can be greater or lower than input
 
 **Waveforms:**
-![[Attachments/Pasted image 20230815224540.png]]
+![Pasted image 20230815224540](Attachments/Pasted%20image%2020230815224540.png)
 Continuous conduction mode
 
 #### Power Circuit Config of DC-DC Converters
-![[Attachments/Pasted image 20230815224656.png]]
+![Pasted image 20230815224656](Attachments/Pasted%20image%2020230815224656.png)
 
 | Characteristics | Buck           | Boost     | Buck-Boost        | Cuk        |
 | --------------- | -------------- | --------- | ----------------- | ---------- |
 | Voltage gain    | Step down      | Step up   | Either up or down | -           |
 | Funny name      | Could be funny | Not funny | Has potential     | Very funny |
 |      How is it controlled?           |                |           |                   |            |
-![[Attachments/Pasted image 20230815224939.png]]
+![Pasted image 20230815224939](Attachments/Pasted%20image%2020230815224939.png)
 
 **Implementing Electrical Isolation in the Feedback Loop (two methods)**
-![[Attachments/Pasted image 20230815225021.png]]
+![Pasted image 20230815225021](Attachments/Pasted%20image%2020230815225021.png)

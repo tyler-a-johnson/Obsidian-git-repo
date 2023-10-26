@@ -11,7 +11,7 @@ annotation-target: 23S2_ENGG_3K_A4. Perspective Sociotechnical_v1.pdf
 >```
 >%%
 >*%%PREFIX%%s from inception to demolition.%%HIGHLIGHT%% ==CE2 3D Printing in Construction: Transforming construction with rapid prototyping and reduced waste.== %%POSTFIX%%CE3 Smart Infrastructure and IoT*
->%%LINK%%[[#^d2qkwmyeh54|show annotation]]
+>%%LINK%%[show annotation](#^d2qkwmyeh54)
 >%%COMMENT%%
 >
 >%%TAGS%%
@@ -25,7 +25,7 @@ annotation-target: 23S2_ENGG_3K_A4. Perspective Sociotechnical_v1.pdf
 >```
 >%%
 >*%%PREFIX%%prototyping and reduced waste.%%HIGHLIGHT%% ==CE3 Smart Infrastructure and IoT: Embedding intelligence into infrastructure.== %%POSTFIX%%CE4 Green and Sustainable Build*
->%%LINK%%[[#^buddlez9t5c|show annotation]]
+>%%LINK%%[show annotation](#^buddlez9t5c)
 >%%COMMENT%%
 >
 >%%TAGS%%
@@ -39,7 +39,7 @@ annotation-target: 23S2_ENGG_3K_A4. Perspective Sociotechnical_v1.pdf
 >```
 >%%
 >*%%PREFIX%%ne are transforming healthcare.%%HIGHLIGHT%% ==EE4 Embedded Systems and Edge Computing: With the proliferation of IoT, there's a growing need for processing data at the source, leading to advances in embedded systems and edge computing.== %%POSTFIX%%EE5 Artificial Intelligence (AI)*
->%%LINK%%[[#^ij5cjnum7z|show annotation]]
+>%%LINK%%[show annotation](#^ij5cjnum7z)
 >%%COMMENT%%
 >
 >%%TAGS%%
@@ -53,7 +53,7 @@ annotation-target: 23S2_ENGG_3K_A4. Perspective Sociotechnical_v1.pdf
 >```
 >%%
 >*%%PREFIX%%ded systems and edge computing.%%HIGHLIGHT%% ==EE5 Artificial Intelligence (AI) Hardware: Specialized hardware like Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs) are being developed to handle the computations required by AI and machine learning algorithms== %%POSTFIX%%. ME1 Micro-Electro-Mechanical S*
->%%LINK%%[[#^2zdchyrhjeb|show annotation]]
+>%%LINK%%[show annotation](#^2zdchyrhjeb)
 >%%COMMENT%%
 >
 >%%TAGS%%
@@ -67,7 +67,7 @@ annotation-target: 23S2_ENGG_3K_A4. Perspective Sociotechnical_v1.pdf
 >```
 >%%
 >*%%PREFIX%%t, adaptable, and customisable.%%HIGHLIGHT%% ==ME3 Additive Manufacturing (3D Printing): 3D printing has revolutionised how prototypes are built and has found applications in end-use parts production, aerospace components, medical implants, and more== %%POSTFIX%%. ME4 Advanced Materials: The di*
->%%LINK%%[[#^223v1kpwv2dh|show annotation]]
+>%%LINK%%[show annotation](#^223v1kpwv2dh)
 >%%COMMENT%%
 >
 >%%TAGS%%
@@ -81,7 +81,7 @@ annotation-target: 23S2_ENGG_3K_A4. Perspective Sociotechnical_v1.pdf
 >```
 >%%
 >*%%PREFIX%%Nicholas Tse 4 of 5 22/08/2023%%HIGHLIGHT%% ==MTE1 Robotics and Automation: Advanced robots with AI integration are more adaptable and can handle complex tasks, from manufacturing lines to surgical procedures.== %%POSTFIX%%MTE2 Advanced Sensing and Feedb*
->%%LINK%%[[#^59kp5mhtnk|show annotation]]
+>%%LINK%%[show annotation](#^59kp5mhtnk)
 >%%COMMENT%%
 >
 >%%TAGS%%
@@ -96,7 +96,7 @@ annotation-target: 23S2_ENGG_3K_A4. Perspective Sociotechnical_v1.pdf
 >```
 >%%
 >*%%PREFIX%%ness with high-quality sensors.%%HIGHLIGHT%% ==MTE7 Collaborative Robots (Cobots): Fostering human-machine collaboration in shared workspaces== %%POSTFIX%%. SE 4 Augmented Reality (AR) an*
->%%LINK%%[[#^p9ba8mifxfg|show annotation]]
+>%%LINK%%[show annotation](#^p9ba8mifxfg)
 >%%COMMENT%%
 >
 >%%TAGS%%
@@ -110,7 +110,7 @@ annotation-target: 23S2_ENGG_3K_A4. Perspective Sociotechnical_v1.pdf
 >```
 >%%
 >*%%PREFIX%%lections and public policies.  E%%HIGHLIGHT%% ==ducational Disparities: Quality of education can vary widely within and across regions.== %%POSTFIX%%Gender, Race, and Ethnicity-bas*
->%%LINK%%[[#^0dabipwyjzu|show annotation]]
+>%%LINK%%[show annotation](#^0dabipwyjzu)
 >%%COMMENT%%
 >
 >%%TAGS%%
@@ -124,7 +124,7 @@ annotation-target: 23S2_ENGG_3K_A4. Perspective Sociotechnical_v1.pdf
 >```
 >%%
 >*%%PREFIX%%ions of individuals globally.  I%%HIGHLIGHT%% ==nfrastructure Needs: Many regions need better roads, schools, hospitals, and public transportation.== %%POSTFIX%%Lack of Effective Governance: W*
->%%LINK%%[[#^uf9guxpflz|show annotation]]
+>%%LINK%%[show annotation](#^uf9guxpflz)
 >%%COMMENT%%
 >
 >%%TAGS%%
@@ -138,7 +138,7 @@ annotation-target: 23S2_ENGG_3K_A4. Perspective Sociotechnical_v1.pdf
 >```
 >%%
 >*%%PREFIX%%and the variety of ecosystems.%%HIGHLIGHT%% ==Digital Misinformation: Under the category of technological disruption and cybersecurity, the spread of digital misinformation stands out. This problem encompasses the proliferation of fake news, propaganda, and other misleading information, mainly through social media, which can distort public perceptions and influence elections and public policies.== %%POSTFIX%%Educational Disparities: Qualit*
->%%LINK%%[[#^j6sat0yjt8|show annotation]]
+>%%LINK%%[show annotation](#^j6sat0yjt8)
 >%%COMMENT%%
 >
 >%%TAGS%%

@@ -1,11 +1,11 @@
 Lorentz force equations describe the force acting on a charged particle/conductor. We can use Fleming's Left Hand Rule to determine the direction.
-![[../UNI 2023/SEM 2/MTRN3026/Attachments/Fleming’s-Left-Hand-Rule.png]]
+![Fleming’s-Left-Hand-Rule](../UNI%202023/SEM%202/MTRN3026/Attachments/Fleming’s-Left-Hand-Rule.png)
 $$F = iLB$$
 
 **We can use our ole reliable:**
 $$BiL \sin\theta$$
 When our magnetic field and the direction of current aren't perpendicular, but have the angle $\theta$ between them.
-![[Attachments/hqdefault.jpg]]
+![hqdefault](Attachments/hqdefault.jpg)
 We can also do this for charged objects within a magnetic field.
 $$F = QE$$
 Where: 

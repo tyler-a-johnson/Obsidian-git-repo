@@ -1,14 +1,14 @@
 #MTRN/3026
 
 **Slides:**
-![[Attachments/Week-1a(Mechatronics_Systems).ppt]]
-![[Attachments/Week-1b(Mechatronics_Systems) 1.ppt]]
-![[Attachments/Week_1c_(Transformer).ppt]]
+![Week-1a(Mechatronics_Systems)](Attachments/Week-1a(Mechatronics_Systems).ppt)
+![Week-1b(Mechatronics_Systems) 1](Attachments/Week-1b(Mechatronics_Systems)%201.ppt)
+![Week_1c_(Transformer)](Attachments/Week_1c_(Transformer).ppt)
 
 # Magnetic Circuit Analysis
 
 ## Permanent Magnets
-![[Attachments/Pasted image 20230724205243.png]]
+![Pasted image 20230724205243](Attachments/Pasted%20image%2020230724205243.png)
 Permanent magnets can come in a variety of forms for different purposes.
 - Neodymium Iron Boron
 - Samarium Cobalt
@@ -16,63 +16,63 @@ Permanent magnets can come in a variety of forms for different purposes.
 - Alnico
 
 ## Magnitude and Direction of Magnetic Field
-### [[../../../Distilled Notes/Amperes Circuital Law|Amperes Circuital Law]]: Current Through Conductor
-![[Attachments/Pasted image 20230724205610.png]]
+### [Amperes Circuital Law](../../../Distilled%20Notes/Amperes%20Circuital%20Law.md): Current Through Conductor
+![Pasted image 20230724205610](Attachments/Pasted%20image%2020230724205610.png)
 $$\int H.dl = \sum i = Ni$$
 $$H = \frac{i}{2\pi r}$$
 Where r is the distance of the point from the conductor
 
-### [[../../../Distilled Notes/Amperes Circuital Law|Amperes Circuital Law]]: Coil around a core
-![[Attachments/Pasted image 20230724210132.png]]
+### [Amperes Circuital Law](../../../Distilled%20Notes/Amperes%20Circuital%20Law.md): Coil around a core
+![Pasted image 20230724210132](Attachments/Pasted%20image%2020230724210132.png)
 $$H = \frac{Ni}{2\pi r}$$
 Where r is the radius of the core.
 
 ## Magnetic Reluctance
-![[Attachments/Pasted image 20230724211607.png]]
+![Pasted image 20230724211607](Attachments/Pasted%20image%2020230724211607.png)
 Coils around a core will generate magnetic flux. Reluctance of the magnetic circuit element ($\mathscr{R}$). Its a measure of how difficult it is to establish magnetic flux in the element. With the **flux** in the core equal to: $$\phi = \frac{Ni}{\mathscr{R}}$$
 In a magnetic circuit, the **reluctance** is written as:
 $$\mathscr{R} = \frac{l}{\mu A}$$
 
 $$\therefore Hl = \phi \mathscr{R}$$
 $$NI = \sum\limits^{\infty}_{n=1}(H_nl_n)$$
-![[Attachments/Pasted image 20230724213315.png]]
+![Pasted image 20230724213315](Attachments/Pasted%20image%2020230724213315.png)
 
 
 ## Amperes Law
-![[Attachments/Pasted image 20230724213509.png]]
-Magnetic circuits also follow [[Amperes Law]], the sum of flux entering and exiting a point must be equal to zero.
-![[Attachments/Pasted image 20230724213826.png]]
+![Pasted image 20230724213509](Attachments/Pasted%20image%2020230724213509.png)
+Magnetic circuits also follow [Amperes Law](../../../Distilled%20Notes/Amperes%20Law.md), the sum of flux entering and exiting a point must be equal to zero.
+![Pasted image 20230724213826](Attachments/Pasted%20image%2020230724213826.png)
 
 ## Magnetic Circuits
 Magnetic circuits can be represented by an electrical analog.
-![[Attachments/Pasted image 20230724214345.png]]
+![Pasted image 20230724214345](Attachments/Pasted%20image%2020230724214345.png)
 Here the reluctance is replaced with resistors, and our coil around the core is replaced with a source. The analogy can be supplemented as such:
-![[Attachments/Pasted image 20230724214714.png]]
-![[Attachments/Pasted image 20230724214738.png]]
+![Pasted image 20230724214714](Attachments/Pasted%20image%2020230724214714.png)
+![Pasted image 20230724214738](Attachments/Pasted%20image%2020230724214738.png)
 
 
 ## Inductor Voltage and Current in Steady State
-![[Attachments/Pasted image 20230724215308.png]]
+![Pasted image 20230724215308](Attachments/Pasted%20image%2020230724215308.png)
 The volt-seconds for a signal over period t is zero in steady state.
 
 ## Capacitor Voltage and Current in Steady State
-![[Attachments/Pasted image 20230724215447.png]]
+![Pasted image 20230724215447](Attachments/Pasted%20image%2020230724215447.png)
 Amp-Seconds over t of a periodic signal equals zero in steady state.
 
 # B-H Relationship; Core Saturation
-![[Attachments/Pasted image 20230724220137.png]]
+![Pasted image 20230724220137](Attachments/Pasted%20image%2020230724220137.png)
 As $H$ increases, $B_{s}$ plateaus at a certain point. At this point the core is saturated
 
 ## B-H for various materials
-![[Attachments/Pasted image 20230724220534.png]]
+![Pasted image 20230724220534](Attachments/Pasted%20image%2020230724220534.png)
 
 # B-H Loop for transformer cores
-![[Attachments/Pasted image 20230724220837.png]]
+![Pasted image 20230724220837](Attachments/Pasted%20image%2020230724220837.png)
 Here we are tracking what the B-H graph changes as we have to do work to change the magnetic orientation of the material in the operation of a transformer. Here the distance between the two lines represents a loss in energy.
 
 ## Hard Magnetic vs Soft Magnetic
-![[Attachments/Pasted image 20230724222521.png||500]]
-![[Attachments/Pasted image 20230724222628.png||500]]
+![|500](Attachments/Pasted%20image%2020230724222521.png)
+![|500](Attachments/Pasted%20image%2020230724222628.png)
 
 | Hard Magnetic Material                                   | Soft Magnetic Material                                   |
 | -------------------------------------------------------- | -------------------------------------------------------- |
@@ -86,14 +86,14 @@ Here we are tracking what the B-H graph changes as we have to do work to change 
 
 ## Permanent Magnet Characteristics
 #todo Ask for clarification on this diagram, what the fuck is this
-![[Attachments/Pasted image 20230724222731.png]]
+![Pasted image 20230724222731](Attachments/Pasted%20image%2020230724222731.png)
 
 # Inductance
 We can generate flux using a coil around our medium.
-![[Attachments/Pasted image 20230725214120.png]]
+![Pasted image 20230725214120](Attachments/Pasted%20image%2020230725214120.png)
 
 ## Coupled Coils
-![[Attachments/Pasted image 20230725214306.png]]
+![Pasted image 20230725214306](Attachments/Pasted%20image%2020230725214306.png)
 **Time Domain:**
 $$v_{1}=L_{1} \frac{di_{1}{dt}} +L_{1,2} \frac{di_{2}}{dt}$$
 $$v_{2}= L_{2,1} \frac{di_{1}}{dt} + L_{2} \frac{di_{2}}{dt}$$
@@ -106,21 +106,21 @@ Where:
 $L_{1,2}= \pm k\sqrt{L_{1}L_{2}}$
 
 ### Example
-![[Attachments/Pasted image 20230725215001.png]]
+![Pasted image 20230725215001](Attachments/Pasted%20image%2020230725215001.png)
 $$Z_{in} = \text{voltage multiplier} + j\omega L_{1}\{ 1-k^2 \}$$
 
 For ideal transformer:
 $$Z_{in}= R_{L} \frac{L_{1}}{L_{2}}$$
 
 ## The Dot Convention for Inductors in Series
-![[Attachments/Pasted image 20230725220013.png]]
+![Pasted image 20230725220013](Attachments/Pasted%20image%2020230725220013.png)
 Take note of the dots and how they effect the sign of 2M. Its like positive vs negative.
 
 ## Eddy Current Loss
-![[Attachments/Pasted image 20230725220420.png]]
+![Pasted image 20230725220420](Attachments/Pasted%20image%2020230725220420.png)
 
 # Transformers
-[[Transformers (Not the funny robot)]] is an AC static device used to change low voltage/high voltage AC system into high voltage/low voltage AC system without changing the frequency at almost 100% efficiency.
+[Transformers (Not the funny robot)](../../../Distilled%20Notes/Transformers%20(Not%20the%20funny%20robot).md) is an AC static device used to change low voltage/high voltage AC system into high voltage/low voltage AC system without changing the frequency at almost 100% efficiency.
 
 1. Transfers electric power from one circuit to another without any electrical connection.
 2. Does so without changing frequency.
@@ -129,12 +129,12 @@ Take note of the dots and how they effect the sign of 2M. Its like positive vs n
 
 ## Principle of Operation
 It is based on principle of MUTUTAL INDUCTION. An EMF is induced in a coil when flux in the neighbouring coil changes.
-![[Attachments/Pasted image 20230725221237.png]]
+![Pasted image 20230725221237](Attachments/Pasted%20image%2020230725221237.png)
 **Mathematical Induction:**
-*[[Faraday's Law]]:*
+*[Faraday's Law](../../../Distilled%20Notes/Faraday's%20Law.md):*
 $$\epsilon = \frac{d \phi}{dt}$$
 
-*[[Lenz's Law]]* (for N turns)
+*[Lenz's Law](Lenz's%20Law)* (for N turns)
 $$\epsilon = - N\frac{d \phi}{dt}$$
 $$\epsilon = -N \frac{\phi_{2}-\phi_{1}}{t}$$
 Flux changes from phi 1 and phi 2. In time t.
@@ -146,7 +146,7 @@ Flux changes from phi 1 and phi 2. In time t.
 4. Which induces EMF in the secondary coil.
 
 ## EMF Equation of a Transformer
-![[Attachments/Pasted image 20230726184500.png]]
+![Pasted image 20230726184500](Attachments/Pasted%20image%2020230726184500.png)
 let:
 $N_1$  = Number of Primary turns
 $N_2$ = Number of Secondary turns
@@ -164,21 +164,21 @@ Now rms value of the induced emf in the entire primary winding is this:
 $$E_{1}= 4.44 f N_{1}\Phi_{m}=4.44fN_{1}B_{m}A$$
 
 ## Core Types
-![[Attachments/Pasted image 20230726190438.png]]
+![Pasted image 20230726190438](Attachments/Pasted%20image%2020230726190438.png)
 Windings are wrapped around the two sides of a laminated square core.
-![[Attachments/Pasted image 20230726190542.png]]
+![Pasted image 20230726190542](Attachments/Pasted%20image%2020230726190542.png)
 ```ad-note
 High voltage conductors have a lower cross section than low voltage conductors as the low voltage conductors have a higher current. This means the cross section of the low voltage conductors needs to be larger to allow for greater current flow and to prevent overheating/melting.
 
 ```
-![[Attachments/Pasted image 20230726191021.png]]
+![Pasted image 20230726191021](Attachments/Pasted%20image%2020230726191021.png)
 Cores are laminated to reduce Eddy Currents which contribute highly to losses.\
 *Laminated slices can range from 3mm to less.*
 
 ### Shell Type Transformer/Sandwich Windings
-![[Attachments/Pasted image 20230726193431.png]]
+![Pasted image 20230726193431](Attachments/Pasted%20image%2020230726193431.png)
 Windings are both wrapped around the centre limb of the core.
-![[Attachments/Pasted image 20230726194830.png]]
+![Pasted image 20230726194830](Attachments/Pasted%20image%2020230726194830.png)
 - The HV and LV windings are split into a number of sections - HV lines between two LV windings
 - In sandwich coils leakage can be controlled.
 
@@ -192,7 +192,7 @@ Windings are both wrapped around the centre limb of the core.
 	- Negligible current is required to establish magnetic flux
 - **Loss-Less magnetic core**
 	- No Hysteresis or eddy currents.
-![[Attachments/Pasted image 20230726200400.png]]
+![Pasted image 20230726200400](Attachments/Pasted%20image%2020230726200400.png)
 Where:
 $V_1$= Supply Voltage
 $V_2$ = Output Voltage
@@ -202,7 +202,7 @@ $I_{1}$ = No Load Input Current
 $I_{2}$ = Output current
 $E_{2}$ = Mutually induced emf
 
-![[Attachments/Pasted image 20230726202431.png]]
+![Pasted image 20230726202431](Attachments/Pasted%20image%2020230726202431.png)
 $$\frac{V_p}{V_{s}}= \frac{N_{p}}{N_{s}}=\frac{I_{s}}{I_{p}}$$
 $$\text{Power}_\text{prim} = \text{Power}_\text{sec}$$
 $$\frac{E_1}{N_{1}}= \frac{E_{2}}{N_{2}} = 4.44f\Phi_{m}$$
@@ -211,29 +211,29 @@ $$\frac{E_1}{N_{1}}= \frac{E_{2}}{N_{2}} = 4.44f\Phi_{m}$$
 ## Phasor Diagrams
 
 ### No Load
-![[Attachments/Pasted image 20230727153526.png]]
+![Pasted image 20230727153526](Attachments/Pasted%20image%2020230727153526.png)
 (a) is a transformer with no load.
 (b) Is a phasor diagram of a loadless transformer. Plotted on a $\phi$ axis.
 Primary current $I_{0}$ is represented as a vector.
 #todo 
 ### Transformer on Load - Assuming no voltage drop in the winding
-![[Attachments/Pasted image 20230727154124.png]]
-![[Attachments/Pasted image 20230727154137.png]]
+![Pasted image 20230727154124](Attachments/Pasted%20image%2020230727154124.png)
+![Pasted image 20230727154137](Attachments/Pasted%20image%2020230727154137.png)
 
 The phasor diagram for of a transformer assumes:
 1. No voltage drop in the winding
 2. Equal primary and secondary turns
 
 ## Equivalent Circuit of a Transformer
-![[Attachments/Pasted image 20230727154515.png]]
+![Pasted image 20230727154515](Attachments/Pasted%20image%2020230727154515.png)
 $$R_{0}= \frac{V_{1}}{I_{c}}$$
 $$X_{0}= \frac{V_{1}}{I_{m}}$$
 $$I_{m}= I_{0}\sin\phi_{0} = \text{Magnetizing Component}$$
 $$I_{c}= I_{0}\cos\phi_{0}= \text{Active Component}$$
 
-![[Attachments/Pasted image 20230727155256.png]]
+![Pasted image 20230727155256](Attachments/Pasted%20image%2020230727155256.png)
 We can group inductors and resistors on primary and secondary sides. We can represent these with complex numbers.
-![[Attachments/Pasted image 20230727155405.png]]
+![Pasted image 20230727155405](Attachments/Pasted%20image%2020230727155405.png)
 
 - The effect of circuit parameters shouldn't be changed while transferring the parameters from one side to another side.
 ```ad-attention
@@ -253,7 +253,7 @@ $$a = \frac{N_{1}}{N_{2}}= \text{Turns Ratio}$$
 
 ## Approximate Equivalent Circuit
 Since the no load current is approx. 1% of the full load current, it can be neglected
-![[Attachments/Pasted image 20230727192000.png]]
+![Pasted image 20230727192000](Attachments/Pasted%20image%2020230727192000.png)
 
 ## Transformer Tests
 The performance of a transformer can be calculated with an equivalent circuit.
@@ -270,7 +270,7 @@ These are both economical and convenient.
 
 ### Open Circuit Test
 We **open circuit the secondary winding**, and connect the primary winding to **full rated voltage**
-![[Attachments/Pasted image 20230727195125.png]]
+![Pasted image 20230727195125](Attachments/Pasted%20image%2020230727195125.png)
 Usually conducted on the HV side. We use it to find:
 1. No load loss / Core loss
 2. No load current $I_{0}$ which is helpful in finding $G_{0}$ (or $R_{0}$) and $B_{0}$ (or $X_{0}$)
@@ -294,11 +294,11 @@ $$\text{Exciting susceptance } B_{0}= \sqrt{Y^{2}_{0}-G^{2}_{0}}$$
 ### Short-Circuit Test
 **Secondary terminals are short circuited** and the *primary terminals are connected to a fairly low-voltage source.*
 The input voltage is adjusted until the current in the short circuited windings **is equal to its rated value.** The *input voltage current and power is measured.*
-![[Attachments/Pasted image 20230727203009.png]]
+![Pasted image 20230727203009](Attachments/Pasted%20image%2020230727203009.png)
 Usually conducted on LV side, we're looking for it.
 - Full load copper loss - to pre determine the efficiency
 - $Z_{01}\text{ or }Z_{02};X_{01}\text{ or }X_{02};R_{01}\text{ or }R_{02}$ to determine the voltage regulation
-![[Attachments/Pasted image 20230727203411.png]]
+![Pasted image 20230727203411](Attachments/Pasted%20image%2020230727203411.png)
 full load cu loss = $W_{sc} = I^{2}_{sc}R_{01}$
 $Z_{01}= \frac{V_{sc}}{I_{sc}}$
 $\therefore X_{01}=\sqrt{Z_{01}^{2} - R^{2}_{01}}$
@@ -342,10 +342,10 @@ Ignoring the excitation of the branch (since current flowing through the branch 
 Phasor diagrams will determine the effects of these factors on the voltage regulation. A phasor diagram consist of current and voltage vectors.
 Assume that the reference phasor is the secondary voltage, $V_{s}$ . Therefore the reference phasor will have an angle of 0.
 
-*Based on the equivalent circuit, apply [[../../../Distilled Notes/Kirchhoff's Laws]]*
+*Based on the equivalent circuit, apply [Kirchhoff's Laws](../../../Distilled%20Notes/Kirchhoff's%20Laws.md)*
 $$\frac{V_{p}}{k}=V_{s}+R_{eq}I_{s}+jX_{eq}I_{s}$$
 
-![[Attachments/Pasted image 20230727220552.png]]
+![Pasted image 20230727220552](Attachments/Pasted%20image%2020230727220552.png)
 For lagging loads, the vertical components of $R_{eq}$ and $X_{eq}$ will partially cancel each other out. Due to that, the angle of $\frac{V_{p}}{a}$ will be very small, hence we can assume that $\frac{V_{p}}{k}$ is horizontal.
 
 ## Transformer Efficiency
@@ -369,9 +369,9 @@ Copper loss:
 $$\text{Total Cu Loss} = I_{1}^{2}R_{1}+I_{2}^{2}R_{2}= I_{1}^{2}R_{01}+I_{2}^{2}R_{02}$$
 
 **Conditions for maximum efficiency:**
-![[Attachments/Pasted image 20230727222932.png]]
-![[Attachments/Pasted image 20230727222958.png]]
+![Pasted image 20230727222932](Attachments/Pasted%20image%2020230727222932.png)
+![Pasted image 20230727222958](Attachments/Pasted%20image%2020230727222958.png)
 
 **All day efficiency:**
-![[Attachments/Pasted image 20230727223035.png]]
+![Pasted image 20230727223035](Attachments/Pasted%20image%2020230727223035.png)
 

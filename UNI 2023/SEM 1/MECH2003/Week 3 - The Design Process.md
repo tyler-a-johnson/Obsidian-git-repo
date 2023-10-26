@@ -1,7 +1,7 @@
 #MECH/2003 #CAD #CAM #UniNotes
 
 **Slides:**
-[[Attachments/Week 03 MECH203 Lecture Slides V19-0.pdf]]
+[Week 03 MECH203 Lecture Slides V19-0](Attachments/Week%2003%20MECH203%20Lecture%20Slides%20V19-0.pdf)
 
 ```ad-important
 title:Definition - Design
@@ -9,7 +9,7 @@ The process in which scientific principles and the tools of engineering - mathem
 ```
 
 # The Design Process
-![[Attachments/Pasted image 20230327143923.png]]
+![Pasted image 20230327143923](Attachments/Pasted%20image%2020230327143923.png)
 
 1. **Identification of Need**: What needs to be solved? Also known as identification of need. Recognising what the problem *may be* and phrasing it in a way that can be communicated to others. Projects may have conflicting requirements, stakeholders are often ignorant of, it's our job to fix 'em.
 

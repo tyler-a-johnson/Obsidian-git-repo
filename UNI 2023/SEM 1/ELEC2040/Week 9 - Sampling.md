@@ -1,7 +1,7 @@
  #ELEC/2040 #Communication #Communication/SignalProcessing #UniNotes
 
 **Slides:**
-[[Attachments/Week 9 Sampling.pdf]]
+[Week 9 Sampling](Attachments/Week%209%20Sampling.pdf)
 
 **Relevant Videos:**
 - [Sampling Signals](https://youtu.be/AcuQnIXiZ2A)
@@ -13,7 +13,7 @@
 
 # CT and Samples
 How fast do you need to sample a CT signal and then **EXACTLY** reconstruct it from the samples?
-![[Attachments/Pasted image 20230524195139.png]]
+![Pasted image 20230524195139](Attachments/Pasted%20image%2020230524195139.png)
 
 ## Impulse Train Sampling
 
@@ -33,7 +33,7 @@ $X_{p}(j\omega) = \frac{1}{T}X(j\omega)\ast \sum_{k=-\infty}^{\infty}\delta(\ome
 
 $X_p(j\omega)=\frac{1}{T}\sum_{k=-\infty}^{\infty}X(j(\omega - k\omega_s))$
 
-![[Attachments/Pasted image 20230524201220.png]]
+![Pasted image 20230524201220](Attachments/Pasted%20image%2020230524201220.png)
 
 # Sampling Theorem
 
@@ -46,7 +46,7 @@ Where: $2\omega_m$ is called the **NYQUIST RATE**
 and: $\omega_m$ is called the **NYQUIST FREQUENCY**
 
 Recover $x(t)$ from $x_p(t)$ using ideal LPF.
-![[Attachments/Pasted image 20230525135204.png]]
+![Pasted image 20230525135204](Attachments/Pasted%20image%2020230525135204.png)
 
 $x_{p}(t) \ast x(t) \text{ IF } \omega_{s}>2\omega_{m}$
 $h(t)$ is an ideal LPF
@@ -55,40 +55,40 @@ $h(t)$ is an ideal LPF
 
 ## Ideal Low Pass Filter
 *With Gain T*
-![[Attachments/Pasted image 20230525140031.png]]
+![Pasted image 20230525140031](Attachments/Pasted%20image%2020230525140031.png)
 
 
 $h(t) = T*\frac{sin(\omega_{c}t)}{\pi t}$
-![[Attachments/Pasted image 20230525140221.png]]
+![Pasted image 20230525140221](Attachments/Pasted%20image%2020230525140221.png)
 $h(t) = 0$ when $\omega_{c}t = kTC$
 i.e. $t = \frac{2k\pi}{\omega_{s}}= kT$
 
 **Recall:**
 $x_{p}(t) = \sum_{n=-\infty}^{\infty}x(nT)\text{ }\delta(t-nT)$
 $x_{r}(t) = \sum_{n=-\infty}^{\infty}x(nT)\text{ }h(t-nT)$
-![[Attachments/Pasted image 20230525141244.png]]
+![Pasted image 20230525141244](Attachments/Pasted%20image%2020230525141244.png)
 Reconstructed **EXACTLY** if Nyquist is satisfied.
 
 ## Zero Order Hold
-![[Attachments/Pasted image 20230525141428.png]]
+![Pasted image 20230525141428](Attachments/Pasted%20image%2020230525141428.png)
 $$H(j\omega)=e^{-j\omega \frac{T}{2}} \frac{2 \sin(\omega \frac{T}{2})}{\omega}$$
-![[Attachments/Pasted image 20230525141632.png]]
+![Pasted image 20230525141632](Attachments/Pasted%20image%2020230525141632.png)
 
 ## First Order Hold
-![[Attachments/Pasted image 20230525141747.png]]
+![Pasted image 20230525141747](Attachments/Pasted%20image%2020230525141747.png)
 $$H(j\omega)=\frac{1}{T}[\frac{\sin(\frac{\omega T}{2})}{\omega/2}]^2$$
-![[Attachments/Pasted image 20230525142004.png]]
+![Pasted image 20230525142004](Attachments/Pasted%20image%2020230525142004.png)
 
 # Under sampling: Aliasing
 
 Suppose $\omega_{s} < 2\omega_{m}$
-![[Attachments/Pasted image 20230525142127.png]]
+![Pasted image 20230525142127](Attachments/Pasted%20image%2020230525142127.png)
 
 Using ideal LPF does **NOT** recover the signal. Higher frequencies are **mapped (folded back)**.
 
 Since "Noise" in a system has a broad spectrum, a typical signal **REALLY** looks like.
-![[Attachments/Pasted image 20230525142420.png]]
+![Pasted image 20230525142420](Attachments/Pasted%20image%2020230525142420.png)
 We need a LPF **Before** sampling so that the HIGH FREQ noise doesn't get folded back, affecting our reconstruction.
 
 ## Examples
-![[Attachments/Pasted image 20230525143645.png]]
+![Pasted image 20230525143645](Attachments/Pasted%20image%2020230525143645.png)

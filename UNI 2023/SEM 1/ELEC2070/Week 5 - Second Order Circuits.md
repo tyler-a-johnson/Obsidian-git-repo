@@ -1,7 +1,7 @@
  #ELEC/2070 #UniNotes
 
 **Slides:**
-[[Attachments/ELEC2070 Week 5 2023 Complete Response 2nd.pdf]]
+[ELEC2070 Week 5 2023 Complete Response 2nd](Attachments/ELEC2070%20Week%205%202023%20Complete%20Response%202nd.pdf)
 
 # The Mathematical Approach for 1st Order
 Start with differential equation in this form and an **initial condition**
@@ -19,7 +19,7 @@ $$t_{1}>= t_{0}$$
 
 # Differential Equation for Second order Circuits
 A second order circuit means the total number of capacitors and inductors is two
-![[Attachments/Pasted image 20230325140158.png]]
+![Pasted image 20230325140158](Attachments/Pasted%20image%2020230325140158.png)
 This also means that we need to solve a *second order* differential equation to find the currents and voltages.
 
 # The General 2nd Order Differential Equation for RLC Circuits
@@ -42,7 +42,7 @@ When the two storage elements are connected to an equivalent circuit (Nortons or
 
 ## Parallel Arrangement
 
-![[Attachments/Pasted image 20230325145839.png]]
+![Pasted image 20230325145839](Attachments/Pasted%20image%2020230325145839.png)
 
 We want to find the current through the inductor, **i** (as a function of time)
 
@@ -86,7 +86,7 @@ Remember - the direct method is useful when the inductor(s) and/or capacitor(s) 
 
 ## Example
 
-![[Attachments/Pasted image 20230326180423.png]]
+![Pasted image 20230326180423](Attachments/Pasted%20image%2020230326180423.png)
 *Find the differential equation for i*
 
 Inductor + Capacitor connected to Norton's $\rightarrow$ Use directed method
@@ -106,7 +106,7 @@ $$\frac{d^{2}i}{dt^{t}} + \frac{R}{L} \frac{di}{dt} + \frac{1}{CL}i = \frac{R}{L
 
 # Other types of Circuits
 Using the direct method can be complicated for complicated circuits
-![[Attachments/Pasted image 20230326193104.png]]
+![Pasted image 20230326193104](Attachments/Pasted%20image%2020230326193104.png)
 **Two other methods are introduced in the textbook (Dorf):**
 1. Differential Operator Method
 2. State Variable Method (we will skip this in ELEC2070)
@@ -137,7 +137,7 @@ Resistor voltage: $v_{R}(t) = R i_{R}(t)$
 
 ## Example
 
-![[Attachments/Pasted image 20230326195338.png]]
+![Pasted image 20230326195338](Attachments/Pasted%20image%2020230326195338.png)
 Using the **s** operator, the inductor voltages become:
 $v_{L_{2}}=sL_{2}i_{2}$, $v_{L_{1}}= sL_{1}(i_{1}-i_{2})$
 
@@ -231,7 +231,7 @@ The reciprocal magnitude of the frequencies are the **TIME CONSTANTS**
 
 ## Natural Response of an Unforced (source free) circuit: Parallel RLC Circuit
 
-![[Attachments/Pasted image 20230326221112.png]]
+![Pasted image 20230326221112](Attachments/Pasted%20image%2020230326221112.png)
 
 For ALL RLC circuits, we need to solve:  $a_{2}\frac{d^{2}}{dt^{2}}x(t)+a_{1}\frac{d}{dt}x(t)+a_{0}x(t)=f(t)$
 
@@ -245,7 +245,7 @@ The characteristic equation for the general RLC equation (for the natural respon
 $$s^{2}+2\alpha s + \omega^2_0=0$$
 The roots of this characteristic equation are:
 $s_{1}= -\alpha + \sqrt{\alpha ^{2}-\omega^2_0}$ and $s_{2}=-\alpha - \sqrt{\alpha^{2}-\omega^2_0}$
-![[Attachments/Pasted image 20230326223226.png]]
+![Pasted image 20230326223226](Attachments/Pasted%20image%2020230326223226.png)
 Apply KCL: $$\frac{v}{R}+\frac{1}{L}\int^{t_{0}v}d\tau +i(0) + C\frac{dv}{dt}=0$$
 ### Parallel RLC circuit (with $f(t) = 0$)
 
@@ -278,7 +278,7 @@ $s_{2}=-\alpha + jw_d$ and $s_{2}=-\alpha - jw_d$
 ## Summary
 
 For **Second Order Circuits**:
-![[Attachments/Pasted image 20230329124544.png]]
+![Pasted image 20230329124544](Attachments/Pasted%20image%2020230329124544.png)
 
 # Damping
 The root of the characteristic equation assume three possible conditions:
@@ -287,7 +287,7 @@ a. 2 real and distinct roots when: $\alpha^{2}>w^2_0$
 b. 2 real and equal roots when : $\alpha^{2}=\omega^2_0$
 c. 2 complex roots when: $a^{2}<w^2_0$
 
-![[Attachments/Pasted image 20230329124838.png]]
+![Pasted image 20230329124838](Attachments/Pasted%20image%2020230329124838.png)
 
 # The Complete Response
 
@@ -299,11 +299,11 @@ $$s^{2}+2\alpha s+\omega^2_0=0$$
 
 
 **WE WILL BE GIVEN THESE IN THE TEST**
-![[Attachments/Pasted image 20230329125220.png]]
+![Pasted image 20230329125220](Attachments/Pasted%20image%2020230329125220.png)
 
 ## Example
 
-![[Attachments/Pasted image 20230329125242.png]]
+![Pasted image 20230329125242](Attachments/Pasted%20image%2020230329125242.png)
 
 ### Applying the initial condition: i(0)
 
@@ -325,9 +325,9 @@ Now we have 2 equations for out 2 unknowns. Easy.
 **Actual Solution:**
 $$v_{n}= (-14e^{-t}+24e^{-2t}V)$$
 # Summary
-![[Attachments/Pasted image 20230329130434.png]]
-![[Attachments/Pasted image 20230329130446.png]]
+![Pasted image 20230329130434](Attachments/Pasted%20image%2020230329130434.png)
+![Pasted image 20230329130446](Attachments/Pasted%20image%2020230329130446.png)
 
 # The Complex Frequency Plane
-![[Attachments/Pasted image 20230329130511.png]]
-![[Attachments/Pasted image 20230329130546.png]]
+![Pasted image 20230329130511](Attachments/Pasted%20image%2020230329130511.png)
+![Pasted image 20230329130546](Attachments/Pasted%20image%2020230329130546.png)

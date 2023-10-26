@@ -1,7 +1,7 @@
  #MECH/2003 #UniNotes
 
 **Slides:**
-[[Attachments/Week 06 MECH203 Lecture Slides V23-1.pdf]]
+[Week 06 MECH203 Lecture Slides V23-1](Attachments/Week%2006%20MECH203%20Lecture%20Slides%20V23-1.pdf)
 
 - Non machining removal techniques
 - Types of different machining options
@@ -19,14 +19,14 @@ title: Conventional Machining
 Pretty Standard Stuff
 
 *Turning, drilling, milling*
-![[Attachments/Pasted image 20230424114911.png]]
+![Pasted image 20230424114911](Attachments/Pasted%20image%2020230424114911.png)
 ```
 ```ad-danger
 title: Abrasive Processes
 When hard, abrasive particles are utilised to remove material. They are usually used as part of a finishing operation to improve the surface finish. 
 
 *Grinding, sanding, filing, polishing, sandblasting, etc.*
-![[Attachments/Pasted image 20230424115057.png]]
+![Pasted image 20230424115057](Attachments/Pasted%20image%2020230424115057.png)
 ```
 ```ad-bug
 title: Non-traditional Processes
@@ -36,7 +36,7 @@ Any items that do not fall into either Conventional or Abrasive processes. They 
 3. There is a requirement to avoid damage to the surface or the stress associated with traditional machining
 
 *Laser/plasma cutting, etching, water jet cutting, electric discharge wiring, electron beam machining*
-![[Attachments/Pasted image 20230424115751.png]]
+![Pasted image 20230424115751](Attachments/Pasted%20image%2020230424115751.png)
 *Chemical processes include cleaning, masking, etching, demasking*
 ```
 
@@ -53,8 +53,8 @@ Why it still kinda sucks:
 2. *Time Consuming:* Generally takes longer than alternative processes such as casting or forging. Also, depending on your equipment, you'll have to operate it yourself (NON CNC).
 
 # Chip Production Theory
-![[Attachments/Pasted image 20230424121728.png]]
-![[Attachments/Pasted image 20230424121740.png]]
+![Pasted image 20230424121728](Attachments/Pasted%20image%2020230424121728.png)
+![Pasted image 20230424121740](Attachments/Pasted%20image%2020230424121740.png)
 Machining is a complex three-dimensional model that can be simplified to a two-dimensional representation. This technique is called the **orthogonal cutting model**, and is represented above. The cutting edge is **ALWAYS** **perpendicular** to the direction of the **cutting speed**.
 
 ## Features of a Cutting Tool
@@ -79,10 +79,10 @@ This can be rearranged for $\phi$:
 $$\tan \phi = \frac{r \cos \alpha}{1-r \sin \alpha}$$
 
 The shear strain that occurs along the shear plane can be estimated. The left figure demonstrates shear deformation approximate by a series of parallel plates sliding against one another to form a chip. Realistically the shear is felt continuously, although who cares.
-![[Attachments/Pasted image 20230424124138.png]]
+![Pasted image 20230424124138](Attachments/Pasted%20image%2020230424124138.png)
 
 Referring to the small portion at the base of each plate (Left diagram) and analysing the shear strain triangle below, it's possible to determine an expression for shear strain:
-![[Attachments/Pasted image 20230424124346.png]]
+![Pasted image 20230424124346](Attachments/Pasted%20image%2020230424124346.png)
 $$\gamma = \tan (\phi - \alpha) + \cot \phi$$
 
 
@@ -97,12 +97,12 @@ $$\phi = 25.4\degree$$
 
 ## Speeds and Feeds
 A machining operation is any operation that requires the relative motion between the material and a sharp cutting tool. The relative motion is referred to as the cutting speed (rotation), the secondary motion is called the feed (tool movement speed)
-![[Attachments/Pasted image 20230424125109.png]]
+![Pasted image 20230424125109](Attachments/Pasted%20image%2020230424125109.png)
 In milling, the rotating tool is fed slowly across the workpiece, the direction of the feed motion is perpendicular to the tool's axis of rotation (speed)
 
 ## Cutting Edges
 Cutting tools can have a single cutting edge (left) which are most commonly used in turning operations. Or multiple cutting edges (right), which are used when the relative motion is achieved through spinning the tool like in drilling/milling.
-![[Attachments/Pasted image 20230424132530.png]]
+![Pasted image 20230424132530](Attachments/Pasted%20image%2020230424132530.png)
 Regardless of the number of cutting edges, relative motion is required. The primary motion is accomplished at a certain cutting speed $v$. The depth of each cut is denoted by $d$.
 
 ## Material Removal Rate
@@ -119,7 +119,7 @@ $d$ = Depth ($mm$)
 2. **Finishing Cuts:** Used to precisely achieve the desired dimensions and are done during the final stage (Never before roughing). Usually slower, and done with a more precise tool. As getting as precise measurements is much harder with a larger bit.
 
 ## Types of Chips
-![[Attachments/Pasted image 20230424133720.png]]
+![Pasted image 20230424133720](Attachments/Pasted%20image%2020230424133720.png)
 *Ignore the fucking red circle.*
 The piece of material removed from the machined component is the chip. There are four different types.
 1. **Discontinuous Chip:** When relatively brittle materials are machined at low cutting speeds, chips often form into separate segments. This tends to impart an irregular surface to the new surface. Typically seen on brittle materials such as cast irons.
@@ -134,7 +134,7 @@ The piece of material removed from the machined component is the chip. There are
 # Forces in Metal Cutting
 Forces applied against the chip by the tool can be separated into two component forces. Friction force and the Normal force. **Friction force (F)** is the frictional force resisting the flow of the chip along the rake face. The **Normal force (N)** is the force perpendicular to the friction force, and is equal to the normal reaction between the chip and the tool. We can use these to find the coefficient of friction between tool and chop.
 $$\mu = \frac{F}{N}$$
-![[Attachments/Pasted image 20230424135452.png]]
+![Pasted image 20230424135452](Attachments/Pasted%20image%2020230424135452.png)
 The **Resultant Force (R)** is the vector combination of these two forces. This is oriented at angle $\beta$, called the **friction angle**. You can use the same rules around friction to find $\beta$.
 $$\mu = \tan \beta$$
 
@@ -155,7 +155,7 @@ $\tau$ represents in this equation represents the level of stress required to pe
 None of the four force components, $F, N, F_{s} \text{ or } F_{n}$ can be directly measured in a machining operation, because the directions in which they are applied vary with different tool geometries and cutting conditions. However, it is possible for the cutting tool to be instrumented using a force measuring device called a **dynamometer**, so that two additional force components acting against the tool can be directly measured: cutting force and thrust force.
 
 ## Thrust Force and Cutting Force
-![[Attachments/Pasted image 20230424141145.png]]
+![Pasted image 20230424141145](Attachments/Pasted%20image%2020230424141145.png)
 The cutting force $F_{c}$ is in the direction of cutting, the same direction as cutting speed $v$. Thrust force $F_{t}$ is perpendicular to the cutting force. Cutting forces are pictured above along with the resultant force $R$. The respective directions of these forces are known, so the force transducers in the dynamometer can be aligned accordingly (depending on tool shape and cut angle).
 
 We can derive equations for the four unknown forces in terms of the two forces that can be measured.
@@ -192,13 +192,13 @@ $P_{c}$ = Cutting power ($W$)
 $R_{MR}$ = Cutting Force ($N$)
 
 Below is a reference table for different metals values for $P_{u}$ assuming tool is sharp and chip thickness is 0.25 mm:
-![[Attachments/Pasted image 20230424143554.png]]
+![Pasted image 20230424143554](Attachments/Pasted%20image%2020230424143554.png)
 ```ad-important
 If the tool is worn, the values here should be multiplied by a factor between 1 and 1.25, with a larger value being used when the tool wear is greater. (If your tool is worn above 1.25 its probably useless anyway)
 ```
 
 A correction factor can also be applied to values in the previous table for the power per unit volume of each material, this is used to alter the chip thickness after selecting the appropriate value from the graph below.
-![[Attachments/Pasted image 20230424144019.png]]
+![Pasted image 20230424144019](Attachments/Pasted%20image%2020230424144019.png)
 Less power is used to remove more material per cut. This is because this energy instead heats up the bit and workpiece.
 
 # Cutting Temps

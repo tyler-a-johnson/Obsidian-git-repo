@@ -1,18 +1,18 @@
 #MTRN/3060 
 
 **Slides:**
-[[Attachments/Week 4-Lecture workshop-ilearn.pdf]]
+[Week 4-Lecture workshop-ilearn](Attachments/Week%204-Lecture%20workshop-ilearn.pdf)
 # Basic Sensing Elements
-![[Attachments/Pasted image 20230817121755.png]]
+![Pasted image 20230817121755](Attachments/Pasted%20image%2020230817121755.png)
 *Structure of a measurement system.*
 
 # Data Acquisition
 **Data Acquisition** (DAQ) is the process of measuring an electrical or physical phenomenon such as voltage, current, temp, pressure, or sound with a computer. A DAQ system consists of DAQ measurement hardware, and a computer running a program to accept process and store that info.
-![[Attachments/Pasted image 20230817122130.png]]
+![Pasted image 20230817122130](Attachments/Pasted%20image%2020230817122130.png)
 *The collection of **hardware** and **software** components enable a computer to receive physical signals.*
 
 # DAQ System Components
-![[Attachments/Pasted image 20230817122421.png]]
+![Pasted image 20230817122421](Attachments/Pasted%20image%2020230817122421.png)
 1. Buffer amplifier - *Make our signal easier to read.*
 2. Low-pass filter - *Removes high frequency noise.*
 3. Sample and hold
@@ -29,15 +29,15 @@ Signals from measurement devices are not in the form we want them to be:
 - *Too noisy* usually due to EMF interference
 - *Contain wrong information* (approximation error), sometimes due to poor transducer design or install
 - *Have DC offset* usually due to the transducer and instrumentation design.
-![[Attachments/Pasted image 20230817123019.png]]
+![Pasted image 20230817123019](Attachments/Pasted%20image%2020230817123019.png)
 
 ## Sample & Hold
-![[Attachments/Pasted image 20230817130216.png]]
+![Pasted image 20230817130216](Attachments/Pasted%20image%2020230817130216.png)
 A series of voltage followers with a control gate to "hold" (horizontal part of the signal).
-![[Attachments/Pasted image 20230817130351.png]]
+![Pasted image 20230817130351](Attachments/Pasted%20image%2020230817130351.png)
 
 ## ADC and Data Storage
-![[Attachments/Pasted image 20230817130522.png]]
+![Pasted image 20230817130522](Attachments/Pasted%20image%2020230817130522.png)
 Output is a binary string of data. This is stores as our dataset.
 
 *A/D Converter:* Electric device that converts an analog voltage to digital code.
@@ -49,36 +49,36 @@ The resolution of A/D converters rely on the number of bits used digitally to ap
 $$N = 2^{n}$$
 
 ### Analog-to-Digital Converter
-![[Attachments/Pasted image 20230817131202.png]]
+![Pasted image 20230817131202](Attachments/Pasted%20image%2020230817131202.png)
 Number of decision points that occur is $N-1$.
 
 The analog *quantization size Q* sometimes called the **code width**, is defines as the full-scale range of the A/D convert or divided by the number of output states
 
 #### Example
 Consider sine wave. Sample with 8 sample points and quantize using 2 bits.
-![[Attachments/Pasted image 20230817131456.png]]
+![Pasted image 20230817131456](Attachments/Pasted%20image%2020230817131456.png)
 
 *8 sample points*
-![[Attachments/Pasted image 20230817131510.png]]
+![Pasted image 20230817131510](Attachments/Pasted%20image%2020230817131510.png)
 
 *Using 2 bits to quantize*
-![[Attachments/Pasted image 20230817131612.png]]
+![Pasted image 20230817131612](Attachments/Pasted%20image%2020230817131612.png)
 
 #### Example 2
 *Consider ADC converter with dynamic range of 1V and quantize in 3Bits*
 $$\text{Sample Size} = \frac{1}{2^{3}}=0.125V$$
-![[Attachments/Pasted image 20230817131803.png]]
+![Pasted image 20230817131803](Attachments/Pasted%20image%2020230817131803.png)
 
 # Sampling
-[[../../../SEM 1/ELEC2040/Week 9 - Sampling|Week 9 - Sampling]]
-[[../../../SEM 1/ELEC2040/Week 10 - Discrete-Time Signals and Sampling|Week 10 - Discrete-Time Signals and Sampling]]
+[Week 9 - Sampling](../../../SEM%201/ELEC2040/Week%209%20-%20Sampling.md)
+[Week 10 - Discrete-Time Signals and Sampling](../../../SEM%201/ELEC2040/Week%2010%20-%20Discrete-Time%20Signals%20and%20Sampling.md)
 
 *Frequency:* is the number that pass the given point in a certain amount of time $f = 3$ waves/s = $3Hz$
 $f = \frac{1}{T}$
 
 *Period:* Amount of time that takes for one wave to pass. Or the time interval between beats.
 
-![[Attachments/Pasted image 20230817123836.png]]
+![Pasted image 20230817123836](Attachments/Pasted%20image%2020230817123836.png)
 To be able to input analog data to a digital microcontroller, analog must be converted to digital.
 
 *Sampling:* The process to numerically evaluate the signal at a discrete moment in time. The result is a *digitized signal* composed of discrete values corresponding to each sample.
@@ -88,14 +88,14 @@ To be able to input analog data to a digital microcontroller, analog must be con
 - Higher sampling rate enables less sampling error
 
 ## How fast should we sample?
-![[Attachments/Pasted image 20230817124238.png]]
+![Pasted image 20230817124238](Attachments/Pasted%20image%2020230817124238.png)
 *A higher sampling rate means less error, and means we can more closely match initial signal.*
 - We do not normally sample "as fast as we can" because that requires large amounts of storage.
 - Collect the minimal sampling rate for a given application that retains enough information so the initial can be reconstructed.
 
 **Aliasing is an effect that causes different signals to become indistinguishable when sampled (aliases of one another)**
 Refers to signals of different frequencies interfering with other samples.
-![[Attachments/Pasted image 20230817124636.png]]
+![Pasted image 20230817124636](Attachments/Pasted%20image%2020230817124636.png)
 
 ### Shannon's Sampling Theorem
 In theory, we need to sample at a rate at least more than two times the maximum frequency component in the signal to retain all frequency components.
@@ -103,14 +103,14 @@ $$f_{S}> 2f_{max}$$
 The timer interval between digital samples should be $\Delta t = \frac{1}{f_{s}}$
 
 ## Anti-Aliasing Filter
-![[Attachments/Pasted image 20230817125505.png]]
+![Pasted image 20230817125505](Attachments/Pasted%20image%2020230817125505.png)
 Analog filter that removes signal frequencies above $\frac{f_{s}}{2}$ where $f_{s}$ is our sample frequency.
 *Consists of Amp -> Low Pass Filter -> ADC*
 
 # Beat Frequency
 - A beat is an interference pattern between two signals of *slightly different* frequencies, percieved as a periodic variation in volume whose rate is the difference of the two *frequencies.*
 - Beat frequency is common in optics, mechanics and acoustic
-![[Attachments/Pasted image 20230817125117.png]]
+![Pasted image 20230817125117](Attachments/Pasted%20image%2020230817125117.png)
 *Two frequencies added together and their output has a beat freq as a result.*
 $$f_\text{beat} = |f_{1}-f_{2}|$$
 
@@ -118,4 +118,4 @@ $$f_\text{beat} = |f_{1}-f_{2}|$$
 Freq 1 = 425Hz and Freq 2 - 436Hz
 *Freq Beat = 11Hz*
 
-[[../../../../Distilled Notes/Spatial Descriptions and Transformations in 3D Space#X-Y-Z Fixed Angles|Spatial Descriptions and Transformations in 3D Space (X-Y-Z Fixed Angles)]]
+[](../../../../Distilled%20Notes/Spatial%20Descriptions%20and%20Transformations%20in%203D%20Space.md#X-Y-Z%20Fixed%20Angles|Spatial%20Descriptions%20and%20Transformations%20in%203D%20Space%20(X-Y-Z%20Fixed%20Angles))

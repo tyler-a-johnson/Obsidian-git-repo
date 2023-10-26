@@ -1,5 +1,5 @@
-![[Attachments/image.png||500]]
-![[Attachments/image-1.png||500]]
+![|500](Attachments/image.png)
+![|500](Attachments/image-1.png)
 
 - [ ] Formatting and Professionalism (Leave till end)
 - [x] Document Structure  (Reece) 

@@ -1,13 +1,13 @@
 #ELEC/2070 #Circuits #UniNotes
 
 **Slides:**
-[[Attachments/ELEC2070 Week 6 2023 Complete Response and Stability.pdf]]
+[ELEC2070 Week 6 2023 Complete Response and Stability](Attachments/ELEC2070%20Week%206%202023%20Complete%20Response%20and%20Stability.pdf)
 
 **Lab Sheet**:
-[[Attachments/ELEC2070 2023 Laboratory Worksheet for Weeks 6 and 7.pdf]]
+[ELEC2070 2023 Laboratory Worksheet for Weeks 6 and 7](Attachments/ELEC2070%202023%20Laboratory%20Worksheet%20for%20Weeks%206%20and%207.pdf)
 
 # Complete Response for Switched First order Circuits
-![[Attachments/Pasted image 20230404131122.png]]
+![Pasted image 20230404131122](Attachments/Pasted%20image%2020230404131122.png)
 
 # With Time-Varying Sources
 1. Find the differential equation using Kirchhoff's and Ohm's laws. Need an initial condition for the complete response.
@@ -15,7 +15,7 @@
 3. Find the time constant; then write the natural response (with one unknown coefficient)
 4. Add two responses together (the complete response now has one unknown coefficient)
 5. Use the initial condition to find the unknown coefficient
-![[Attachments/Pasted image 20230419191356.png]]
+![Pasted image 20230419191356](Attachments/Pasted%20image%2020230419191356.png)
 
 ## A Useful Relationship
 A cosine waveform and a sine waveform with the same frequency, when added together, make a cosine waveform with a phase shift
@@ -32,7 +32,7 @@ $$x(t) = x_{n}(t) + x_{f}(t)$$
 5. Use two initial conditions to find the remaining two unknown coefficients, for example. $x(0)$ and $\frac{{dx(0)}}{dt}$
 
 ## Summary for source-free RLC Circuits
-![[Attachments/Pasted image 20230419192818.png]]
+![Pasted image 20230419192818](Attachments/Pasted%20image%2020230419192818.png)
 
 # Types of Natural Responses for Second Order Circuits
 Differential Equation:
@@ -40,7 +40,7 @@ $$\frac{{d^{2}}}{dt^{2}}x(t) + 2\alpha \frac{d}{dt}x(t)+\omega_0^2 x(t)=f(t)$$
 
 Characteristic equation:
 $$s^{2}+2\alpha s+\omega_0^2=0$$
-![[Attachments/Pasted image 20230419194128.png]]
+![Pasted image 20230419194128](Attachments/Pasted%20image%2020230419194128.png)
 Alternatively, we could use, 
 Damping Ratio: $$\zeta=\frac{\alpha}{\omega_{0}}$$
 Where
@@ -49,10 +49,10 @@ $\zeta = 1 \rightarrow$ Critically damped
 $\zeta > 1 \rightarrow$ Over damped
 
 ## Example
-![[Attachments/Pasted image 20230419194621.png]]
-![[Attachments/Pasted image 20230419194724.png]]
+![Pasted image 20230419194621](Attachments/Pasted%20image%2020230419194621.png)
+![Pasted image 20230419194724](Attachments/Pasted%20image%2020230419194724.png)
 # Parallel RLC Circuit Problem
-![[Attachments/Pasted image 20230419194818.png]]
+![Pasted image 20230419194818](Attachments/Pasted%20image%2020230419194818.png)
 Consider a parallel RLC circuit having an inductance of $10mH$ and a capacitance of $100\mu F$. Determine the resistor values that would lead to overdamped and underdamped responses.
 
 We first calculate the resonant frequency of the circuit:
@@ -66,7 +66,7 @@ $$R < 5 \ohm$$
 Leads to an overdamped response; $R > 5\ohm$ leads to an underdamped response.
 
 ## Useful equations
-![[Attachments/Pasted image 20230419195639.png]]
+![Pasted image 20230419195639](Attachments/Pasted%20image%2020230419195639.png)
 ```ad-seealso
 
 Find more examples in the slides
@@ -89,5 +89,5 @@ Exponentially increasing natural response
 $x_{n}(t) = Ae^{-t/\tau}$    $\tau = R_{t}C$   or   $\tau = L/R_t$
 
 ## Stability of Second Order Circuits
-![[Attachments/Pasted image 20230419200718.png]]
+![Pasted image 20230419200718](Attachments/Pasted%20image%2020230419200718.png)
 Many such examples in the pdf

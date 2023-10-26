@@ -3,10 +3,10 @@ date: 2023-09-19
 status: Incomplete
 Relevant Docs: []
 Relevant Notes:
-  - "[[PLC (Programmable Logic Contoller)s]]"
+  - "[PLC (Programmable Logic Contoller)s](PLC%20(Programmable%20Logic%20Contoller)s.md)"
 Relevant Links:
 ---
-![[Attachments/Pasted image 20230919225542.png]]
+![Pasted image 20230919225542](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230919225542.png)
 # What is it
 An Opto-Isolator is a simple circuit that uses a Photo Transistor and a regular LED (albeit much smaller) to transmit signal data effectively wirelessly.
 
@@ -16,7 +16,7 @@ As a signal is passed through the LED the brightness will change in response to 
 
 These are usually implemented in IC's and powered independently.
 
-Commonly coupled with an [[Amplifier]] in order to get a signal of the same magnitude as the input.
+Commonly coupled with an [Amplifier](Amplifier) in order to get a signal of the same magnitude as the input.
 
 # Benefits
 An opto-isolator transmits signals between two circuits quickly, and does so without them being connected. 

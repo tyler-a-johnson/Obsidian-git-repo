@@ -1,7 +1,7 @@
 #ELEC/2070 #Circuits #Communication/SignalProcessing #UniNotes
 
 **Slides:**
-[[Attachments/ELEC2070 Week 9 2023 Complex power and complex frequency.pdf]]
+[ELEC2070 Week 9 2023 Complex power and complex frequency](Attachments/ELEC2070%20Week%209%202023%20Complex%20power%20and%20complex%20frequency.pdf)
 
 ```ad-attention
 title: REALLY IMPORTANT
@@ -22,16 +22,16 @@ $p(t)=v(t)i(t)=Li(t) \frac{di(t)}{dt}=\frac{1}{L}v(t) \int^{t}_{-\infty}v(t')dt'
 **Instantaneous power in a capacitor:**
 $p(t)=v(t)i(t)=Cv(t) \frac{dv(t)}{dt}=\frac{1}{C}i(t) \int^{t}_{-\infty}i(t')dt'$
 
-![[Attachments/Pasted image 20230526113413.png]]
+![Pasted image 20230526113413](Attachments/Pasted%20image%2020230526113413.png)
 
-![[Attachments/Pasted image 20230526113450.png]]
+![Pasted image 20230526113450](Attachments/Pasted%20image%2020230526113450.png)
 
 ### Instantaneous Power: Graphed
-![[Attachments/Pasted image 20230526113519.png]]
+![Pasted image 20230526113519](Attachments/Pasted%20image%2020230526113519.png)
 **Instantaneous power is conserved in a circuit**
 
 ### Instantaneous power in the time domain: AC example
-![[Attachments/Pasted image 20230526113631.png]]
+![Pasted image 20230526113631](Attachments/Pasted%20image%2020230526113631.png)
 
 
 ## Average Power Received by Ideal Components
@@ -45,16 +45,16 @@ $$p(t) = \frac{V_{m}I_{m}}{2}[\cos(\theta_{V}-\theta_{I})+\cos(\theta_{V}+\theta
 
 **Average AC Power:**
 $$P = \frac{V_{m}I_{m}}{2}\cos(\theta_{V}-\theta_{I})$$
-![[Attachments/Pasted image 20230526114648.png]]
+![Pasted image 20230526114648](Attachments/Pasted%20image%2020230526114648.png)
 
 ### A Problem
-![[Attachments/Pasted image 20230526114845.png]]
-![[Attachments/Pasted image 20230526114903.png]]
+![Pasted image 20230526114845](Attachments/Pasted%20image%2020230526114845.png)
+![Pasted image 20230526114903](Attachments/Pasted%20image%2020230526114903.png)
 
 ### Another Problem
-![[Attachments/Pasted image 20230526115000.png]]
-![[Attachments/Pasted image 20230526115014.png]]
-![[Attachments/Pasted image 20230526115027.png]]
+![Pasted image 20230526115000](Attachments/Pasted%20image%2020230526115000.png)
+![Pasted image 20230526115014](Attachments/Pasted%20image%2020230526115014.png)
+![Pasted image 20230526115027](Attachments/Pasted%20image%2020230526115027.png)
 
 # Apparent Power and Power Factor
 
@@ -90,10 +90,10 @@ $\theta_{V}-\theta_{I}=60$ means an inductive load (voltage LEADS the current)
 $\theta_{V}-\theta_{I}=-60$ & means an capacitive load (current LEADS the voltage)
 
 ### Example
-![[Attachments/Pasted image 20230526120947.png]]
-![[Attachments/Pasted image 20230526121000.png]]
-![[Attachments/Pasted image 20230526121019.png]]
-![[Attachments/Pasted image 20230526121048.png]]
+![Pasted image 20230526120947](Attachments/Pasted%20image%2020230526120947.png)
+![Pasted image 20230526121000](Attachments/Pasted%20image%2020230526121000.png)
+![Pasted image 20230526121019](Attachments/Pasted%20image%2020230526121019.png)
+![Pasted image 20230526121048](Attachments/Pasted%20image%2020230526121048.png)
 
 # Complex Power
 In the **frequency domain** the current and voltage are in general given by:
@@ -117,7 +117,7 @@ $$P = \frac{V_{m}I_{m}}{2}\cos(\theta_{V} - \theta_{I})$$
 $$Q = \frac{V_{m}I_{m}}{2}\sin(\theta_{V}- \theta_I)$$
 
 ## The power triangle 
-![[Attachments/Pasted image 20230526123028.png]]
+![Pasted image 20230526123028](Attachments/Pasted%20image%2020230526123028.png)
 
 ### Reactive power and VA
 The dimensions of reactive power are the same as the real power P, the complex power S
@@ -134,9 +134,9 @@ the source respectively.
 Complex Power: VA
 Average Power: W
 Reactive Power: VAR (R means reactive)
-![[Attachments/Pasted image 20230526123636.png]]
-![[Attachments/Pasted image 20230526123658.png]]
-![[Attachments/Pasted image 20230526123813.png]]
+![Pasted image 20230526123636](Attachments/Pasted%20image%2020230526123636.png)
+![Pasted image 20230526123658](Attachments/Pasted%20image%2020230526123658.png)
+![Pasted image 20230526123813](Attachments/Pasted%20image%2020230526123813.png)
 
 **Complex power is conserved in a circuit**
 $$\sum\limits_{\text{All elements}} \frac{V_{k}I_{k}}{2}=0$$
@@ -148,7 +148,7 @@ $$\sum\limits_{\text{All elements}} Re(\frac{V_{k}I_{k}}{2})=0$$
 $$\sum\limits_{\text{All elements}} Im(\frac{V_{k}I_{k}}{2})=0$$
 
 # Maximum Power Transfer
-![[Attachments/Pasted image 20230526124414.png]]
+![Pasted image 20230526124414](Attachments/Pasted%20image%2020230526124414.png)
 The complex power delivered to the load:
 $$S_{L}= \frac{V_{L}*I_{L}}{2}$$
 
@@ -163,7 +163,7 @@ $S_{L}= \frac{V_{L}*V_{L}}{2*Z_{load}}= \frac{|V_{L}|^2}{2*Z_{load}}$
 ```
 
 ## Average Power Delivered to Load
-![[Attachments/Pasted image 20230526125338.png]]
+![Pasted image 20230526125338](Attachments/Pasted%20image%2020230526125338.png)
 
 The **complex** power transferred to the load:
 $$S_{L}= \frac{Z_{load}*|I_{L}|^2}{2}$$
@@ -172,7 +172,7 @@ The **average** power transferred to the load:
 $$P_{L}=Re\{S_{L}\}= \frac{Re\{Z_{load}\}*|I_{L}|^{2}}{2} = \frac{|V_{L}|^{2}}{2Re\{Z_{load}\}}$$
 
 ## Maximum AVERAGE power transfer
-![[Attachments/Pasted image 20230526125819.png]]
+![Pasted image 20230526125819](Attachments/Pasted%20image%2020230526125819.png)
 ```ad-important
 The average power transferred from a fixed source circuit [with a Thevenin equivalent] to a load is maximum when: 
 
@@ -189,10 +189,10 @@ When $Z_{load}=Z_t$ The total impedance seen by the Thevenin source is purely re
 An independent voltage source in series with an impedance $Z_{th}$ or an independent current source in parallel with an impedance $Z_{th}$ delivers a **maximum average power** to that load impedance $Z_L$ which is the conjugate of $Z_{th}$ or $Z_{L}=Z_{th}$
 
 **Proof:**
-![[Attachments/Pasted image 20230526131352.png]]
+![Pasted image 20230526131352](Attachments/Pasted%20image%2020230526131352.png)
 
 ## Maximum Average Power Transfer
-![[Attachments/Pasted image 20230526131448.png]]
+![Pasted image 20230526131448](Attachments/Pasted%20image%2020230526131448.png)
 $Z_{load} = Z_{t}$
 $Z_{t} = R_{t}+jX_{t}$
 $Z_{load}=R_{t}-jX_{t}$
@@ -206,10 +206,10 @@ $$P_{L,max}=\frac{R_{t}*|I_{L}|^{2}}{2}= \frac{|V_{t}|^{2}}{8R_{t}}$$
 *This is the maximum available average power from the source circuit*
 
 ### Example
-![[Attachments/Pasted image 20230526132144.png]]
+![Pasted image 20230526132144](Attachments/Pasted%20image%2020230526132144.png)
 
 ### Summary of AC power terms
-![[Attachments/Pasted image 20230526132220.png]]
+![Pasted image 20230526132220](Attachments/Pasted%20image%2020230526132220.png)
 
 # Complex Frequency
 
@@ -238,7 +238,7 @@ For the sinusoidal case:
 
 ## The Sinusoidal Case
 Let us look at the sinusoidal case more closely
-![[Attachments/Pasted image 20230526133824.png]]
+![Pasted image 20230526133824](Attachments/Pasted%20image%2020230526133824.png)
 Sinusoidal voltage is given by:
 $$v(t) = V_{m}\cos(\omega t + \theta)$$
 Using Euler's Identity, this function can be converted to exponential functions only:
@@ -246,13 +246,13 @@ $$v(t) = \frac{1}{2} [e^{\omega t + \theta}+e^{-j(\omega t + \theta)}]$$
 $$=(\frac{1}{2}V_{m}e^{j\theta})e^{j\omega t}+ (\frac{1}{2}V_{m}e^{-j\theta})e^{-j\omega t} $$
 
 This latter equation can be put into our general form
-![[Attachments/Pasted image 20230526134111.png]]
-![[Attachments/Pasted image 20230526134155.png]]
+![Pasted image 20230526134111](Attachments/Pasted%20image%2020230526134111.png)
+![Pasted image 20230526134155](Attachments/Pasted%20image%2020230526134155.png)
 *Now we are ready to create the general form of the exponentially damped sinusoid*
-![[Attachments/Pasted image 20230526134313.png]]
+![Pasted image 20230526134313](Attachments/Pasted%20image%2020230526134313.png)
 
 ## Understanding the Complex Frequency S
-![[Attachments/Pasted image 20230526134403.png]]
+![Pasted image 20230526134403](Attachments/Pasted%20image%2020230526134403.png)
 *Complex conjugates can create real values.*
 
 We may identify either of the complex frequencies with a sinusoidal voltage but in practice, we don't always include both complex conjugates in our analysis. It is just understood that they are both involved.
@@ -297,9 +297,9 @@ The parts of the complex frequency are:
 4. The complex frequency s is measured in complex nepers per second or complex radians per second
 
 ### Example
-![[Attachments/Pasted image 20230526141856.png]]
+![Pasted image 20230526141856](Attachments/Pasted%20image%2020230526141856.png)
 
 # A Final Note
 When are the Thevenin and Norton equivalent circuits appropriate?
-![[Attachments/Pasted image 20230526142229.png]]
-![[Attachments/Pasted image 20230526142250.png]]
+![Pasted image 20230526142229](Attachments/Pasted%20image%2020230526142229.png)
+![Pasted image 20230526142250](Attachments/Pasted%20image%2020230526142250.png)

@@ -1,9 +1,9 @@
 #Logic  #Communication #ELEC/3042 #UniNotes
 
-[[Attachments/Week 2.pdf]]
+[Week 2](Attachments/Week%202.pdf)
 
 # Recap - Setting up Inputs and Outputs
-![[Attachments/Pasted image 20230314192131.png]]
+![Pasted image 20230314192131](Attachments/Pasted%20image%2020230314192131.png)
 ## Setting multiple bits at once
 
 These are all equivalent:
@@ -37,7 +37,7 @@ DDRB |= (1<<DDB2) | (1<<DDB5);
 PORTB &= ~(1<<PORTB2) & ~(1<<PORTB5);
 ```
 
-![[Attachments/Pasted image 20230314193518.png]]
+![Pasted image 20230314193518](Attachments/Pasted%20image%2020230314193518.png)
 
 # Reading Bits
 • Want to know whether a particular bit in a register is a 1 or 0 
@@ -48,7 +48,7 @@ PORTB &= ~(1<<PORTB2) & ~(1<<PORTB5);
 - Test if a button connected to PORTC Pin 2 is pressed 
 - If pressed, the output should be 0 
 - If not pressed, the output will not be 0
-![[Attachments/Pasted image 20230314193653.png]]
+![Pasted image 20230314193653](Attachments/Pasted%20image%2020230314193653.png)
 
 ```
 // setup
@@ -82,7 +82,7 @@ while (1) {
 	} 
 }
 ```
-![[Attachments/Pasted image 20230314194353.png]]
+![Pasted image 20230314194353](Attachments/Pasted%20image%2020230314194353.png)
 
 # Example: LED Morse Code
 ```
@@ -118,9 +118,9 @@ Create a program that cycles and lights up one of three LEDs for one second each
 - LED's are connected to PB5 (LED1), PB4 (LED2), PB3 (LED3) 
 - Push button is connected to PD2
 
-![[Attachments/Pasted image 20230314195505.png]]
+![Pasted image 20230314195505](Attachments/Pasted%20image%2020230314195505.png)
 
-![[Attachments/Pasted image 20230314200045.png]]
+![Pasted image 20230314200045](Attachments/Pasted%20image%2020230314200045.png)
 
 ## Sources of Interrupts
 • Port pins 
@@ -129,12 +129,12 @@ Create a program that cycles and lights up one of three LEDs for one second each
 • ADC 
 • Analog Comparator 
 • EEPROM
-![[Attachments/Pasted image 20230314200333.png]]
+![Pasted image 20230314200333](Attachments/Pasted%20image%2020230314200333.png)
 
 # INT0 Interrupt
 Section 13.2 In the Datasheet
-![[Attachments/Pasted image 20230314200546.png]]
-![[Attachments/Pasted image 20230314200721.png]]
+![Pasted image 20230314200546](Attachments/Pasted%20image%2020230314200546.png)
+![Pasted image 20230314200721](Attachments/Pasted%20image%2020230314200721.png)
 
 ## When does an Interrupt occur?
 Interrupts occur when 3 things are satisfied:
@@ -157,7 +157,7 @@ ISR(SOURCE_vect) {
 // ISR code here 
 }
 ```
-![[Attachments/Pasted image 20230314201345.png]]
+![Pasted image 20230314201345](Attachments/Pasted%20image%2020230314201345.png)
 12-6 In the Datasheet
 
 # Summary

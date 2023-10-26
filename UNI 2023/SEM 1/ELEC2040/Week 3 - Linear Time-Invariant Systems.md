@@ -1,7 +1,7 @@
 #ELEC/2040 #Circuits #Communication #UniNotes
 
 **Slides/Audio**
-[[Attachments/Audio Book Week 3.pdf]]
+[Audio Book Week 3](Attachments/Audio%20Book%20Week%203.pdf)
 
 **Relevant Videos:**
 - Delta Function
@@ -11,31 +11,31 @@
 - Impulse Response
 
 **Practical**
-[[Attachments/PracticalWeek3.pdf]]
+[PracticalWeek3](Attachments/PracticalWeek3.pdf)
 
 # Linear Time-Invariant Systems and Impulses - Intro to convolution
 Systems are essentially anything that takes an input signal, performs some action, and then gives an output signal.
-![[Attachments/Pasted image 20230306152013.png|400]]
+![400](Attachments/Pasted%20image%2020230306152013.png)
 
 ## Gain
 Gain circuits will multiply some signal by another value. In both examples the signal is multiplied by two, with the constant 3V signal becoming a constant 6V signal. The second example alters the slope of the signal to be 3 as opposed to the previous gradient of 1.5.
 The gain can also be a number 0 < h < 1, this is often referred to as attenuation.
 
-![[Attachments/Pasted image 20230306152051.png|400]]
+![400](Attachments/Pasted%20image%2020230306152051.png)
 
 ## Square Law Device
 The Square Law Device simply raises the input signal to the power of 2.
 $x(t)$ -> Square Law Device -> $y(t)=(x(t))^2$
-![[Attachments/Pasted image 20230306153744.png]]
+![Pasted image 20230306153744](Attachments/Pasted%20image%2020230306153744.png)
 If the signal has a slope, the Square Law Device will transform it into a curve. It raises the degree of whichever signal enters it.
 
 ## Delay
 Delaying a signal is as easy as it sounds. Delay the signal by T seconds.
 $x(t)$ -> Delay of T Seconds -> $y(t) = x(t-T)$
-![[Attachments/Pasted image 20230306154155.png]]
+![Pasted image 20230306154155](Attachments/Pasted%20image%2020230306154155.png)
 
 # Two Path Radio Channel
-![[Attachments/Pasted image 20230306154238.png|400]]
+![400](Attachments/Pasted%20image%2020230306154238.png)
 A two path radio channel sends out two signals that follow a different path. Each signal has its own delay and gain values. Two Path signals follow the form:
 $$y(t) = h_{1}x(t-T_{1})+h_{2}x(t-T_2)$$
 
@@ -56,7 +56,7 @@ $$y(t) = \int h(T)x(t-T)\Delta T$$
 between infinity and negative infinity
 
 # Electrical Circuit
-![[Attachments/Pasted image 20230313131734.png]]
+![Pasted image 20230313131734](Attachments/Pasted%20image%2020230313131734.png)
 
 $$i(t) = \frac{v_{s}(t) - v_{c}(t)}{R}$$
 $$i(t) = C \frac{\Delta v_{c}}{\Delta t}$$
@@ -81,15 +81,15 @@ For any input signals $x(t)$ & $y(t)$ and constants $\alpha_1$ & $\alpha_2$
 **Then system is linear**
 
 # Unit Impulse Signal
-![[Attachments/Pasted image 20230313133107.png]]
+![Pasted image 20230313133107](Attachments/Pasted%20image%2020230313133107.png)
 
 $\delta^{\epsilon}(t)$ Is a short pulse of duration $\epsilon$
 
-![[Attachments/Pasted image 20230313133312.png]]
+![Pasted image 20230313133312](Attachments/Pasted%20image%2020230313133312.png)
 
 $$\int_{-\infty}^{\infty} \delta^{\epsilon}(t)\Delta t = 1$$
 
-![[Attachments/Pasted image 20230313133803.png]]
+![Pasted image 20230313133803](Attachments/Pasted%20image%2020230313133803.png)
 $$
  \delta(t) = \begin{cases} 
       \infty & \textrm{ if $t=0$} \\
@@ -99,7 +99,7 @@ $$
 
 $$\int_{-\infty}^{\infty} \delta (t)\Delta t = 1$$
 ## Magnitude of Impulse and Integration
-![[Attachments/Pasted image 20230313134608.png]]
+![Pasted image 20230313134608](Attachments/Pasted%20image%2020230313134608.png)
 
 $$x(t) = 3 * \delta (t)$$
 
@@ -112,35 +112,35 @@ Integral between 3 & 1 of y(t) = 4
 ## Integration Properties of Signals made up of Impulses
 
 Recall some integrations properties of the $\delta$ function.
-![[Attachments/Pasted image 20230313141758.png]]
+![Pasted image 20230313141758](Attachments/Pasted%20image%2020230313141758.png)
 
 Here is a signal with two delta functions:
 $$x(t) = 2*\delta*(t+3) + 0.5*\delta*(t-2)$$
 We can also integrate this signal, x(t), over different intervals
 The rule is to add up the magnitudes of the impulses that lie in the range of integration.
-![[Attachments/Pasted image 20230313142200.png]]
+![Pasted image 20230313142200](Attachments/Pasted%20image%2020230313142200.png)
 
 Since we are looking at integrating the unit impulse signal, there is a simple connection between the unit impulse signal and the unit step function, which is obtained by integration"
-![[Attachments/Pasted image 20230313142529.png]]
-![[Attachments/Pasted image 20230313142541.png]]
+![Pasted image 20230313142529](Attachments/Pasted%20image%2020230313142529.png)
+![Pasted image 20230313142541](Attachments/Pasted%20image%2020230313142541.png)
 
 ## Some other Properties of Unit Impulses
 What happens if we multiply a signal by $\delta (t)$?
-![[Attachments/Pasted image 20230313142642.png]]
+![Pasted image 20230313142642](Attachments/Pasted%20image%2020230313142642.png)
 
 What does $\delta (-t)$ look like?
-![[Attachments/Pasted image 20230313142944.png]]
+![Pasted image 20230313142944](Attachments/Pasted%20image%2020230313142944.png)
 
 What happens if we multiply a signal by $\delta (t-t_{0})$?
-![[Attachments/Pasted image 20230313143020.png]]\
+![Pasted image 20230313143020](Attachments/Pasted%20image%2020230313143020.png)\
 
 ## Impulse Response Of a System
-![[Attachments/Pasted image 20230313143054.png]]
+![Pasted image 20230313143054](Attachments/Pasted%20image%2020230313143054.png)
 
 # Time Invariant System
 
 A system is time invariant if the system impulse response is the same, no matter what time we send the impulse.
-![[Attachments/Pasted image 20230313143157.png]]
+![Pasted image 20230313143157](Attachments/Pasted%20image%2020230313143157.png)
 If system is time-invariant output will be $h(t-\tau)$
 
 A Linear Time-Invariant system (LTI System) Is one that is Linear and Time-Invariant.
@@ -170,19 +170,19 @@ $\tau$ Is the time Variable of $Z(\tau)$
 
 The integral above is then:
 $$y(t) = \int_{-\infty}^{\infty} h(\tau)Z(\tau)\Delta \tau$$
-![[Attachments/Pasted image 20230313145815.png]]
+![Pasted image 20230313145815](Attachments/Pasted%20image%2020230313145815.png)
 
 ## What does $Z(\tau)$ look like?
-![[Attachments/Pasted image 20230313145935.png]]
+![Pasted image 20230313145935](Attachments/Pasted%20image%2020230313145935.png)
 
 Convolution commutes; in other words, $$h(t)*x(t) = x(t)*h(t)$$which can be verified by showing:
-![[Attachments/Pasted image 20230313150020.png]]
+![Pasted image 20230313150020](Attachments/Pasted%20image%2020230313150020.png)
 
 ## Convolution with a $\delta$ function
-![[Attachments/Pasted image 20230313150100.png]]
+![Pasted image 20230313150100](Attachments/Pasted%20image%2020230313150100.png)
 This shows that convolving a signal with the unit impulse doesn’t do anything to the signal. Its like multiplying a number by 1: no change to the number. Here, there is no change to the signal x(t).
 
-![[Attachments/Pasted image 20230313150143.png]]
+![Pasted image 20230313150143](Attachments/Pasted%20image%2020230313150143.png)
 Here, we are looking at a shifted delta function, or, in other words, a delayed unit impulse (well, delayed if t0 > 0). 
 
 The mathematics here shows that convolving a signal with an impulse located at a particular time, delays the signal by that amount of time, and that is all that it does. 

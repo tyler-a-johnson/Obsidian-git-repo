@@ -1,5 +1,5 @@
 #MTRN/3060
-![[Attachments/Prac1.pdf]]
+![Prac1](Attachments/Prac1.pdf)
 
 **Q: Describe the jog join function. What does it do? How does it effect the End Effector (end of the robotic arm, in this case a robot flange) (EE) position?**
 The jog joint function allows the user to manually control with the mouse the position of a given joint. When used on the EE, it is able to rotate the end effector as the current end effector is just a robotic flange.

@@ -1,15 +1,15 @@
 #MTRN/2060 #Circuits 
-[[UNI 2022/MTRN2060/Attachments/motor and drive questions.docx]]
-[[UNI 2022/MTRN2060/Attachments/generic linear solenoid 1.pdf]]
-![[UNI 2022/MTRN2060/Attachments/MTRN2060 DC Motors.pptx]]
-![[UNI 2022/MTRN2060/Attachments/MagneticCircuits.png]]
+[motor and drive questions](Attachments/motor%20and%20drive%20questions.docx)
+[generic linear solenoid 1](Attachments/generic%20linear%20solenoid%201.pdf)
+![MTRN2060 DC Motors](Attachments/MTRN2060%20DC%20Motors.pptx)
+![MagneticCircuits](Attachments/MagneticCircuits.png)
 •The above is clearly a good magnetic circuit, but without conductors on the rotors we will not get torque.
 
 •Current carrying conductors around the rotor generate BiL force for each wire.
 
 $$Torque = Force*RotorRadius$$
 ## Slotting
-![[UNI 2022/MTRN2060/Attachments/SlottedRotor.png]]
+![SlottedRotor](Attachments/SlottedRotor.png)
 •Conductors lying on the rotor increase the air gap, increasing reluctance and reducing the flux.
 
 •They also have to be secured to the rotor to transmit their force.
@@ -19,7 +19,7 @@ $$Torque = Force*RotorRadius$$
 •Now however we must balance current density (limited to 2-8 A/mm2) and flux density (limited to ~1.5 T). We want as much copper as possible and we want as much iron as possible.
 
 # Permanent Magnet Direct Current (PMDC)
-![[UNI 2022/MTRN2060/Attachments/PMDC Motor.png]]
+![PMDC Motor](Attachments/PMDC%20Motor.png)
 
 •electric current is directed through brushes and a commutator to coils on the rotor.
 
@@ -28,7 +28,7 @@ $$Torque = Force*RotorRadius$$
 •A small air-gap exists between the rotor and the permanent magnets of the stator. A steel casing forms a yoke to complete the magnetic circuit.
 
 # Towards a Useful Mathematical Model: Consider an Elementary Motor
-![[UNI 2022/MTRN2060/Attachments/ElementaryMotor.png]]
+![ElementaryMotor](Attachments/ElementaryMotor.png)
 Conductor has resistance R, carries a current I and moves with velocity v. The string is connected to a mass.
 
 At v=0, what are the pulling force, current, electrical input power, and mechanical output power?
@@ -70,7 +70,7 @@ $$V=iR+vBL$$
 
 
 ## Equivalent Circuit
-![[UNI 2022/MTRN2060/Attachments/EquivalentDCMotorCircuit.png]]
+![EquivalentDCMotorCircuit](Attachments/EquivalentDCMotorCircuit.png)
 
 •DC motors have a simple equivalent circuit, includes back emf: E.
 
@@ -86,7 +86,7 @@ If we spin the motor fast enough such that E is larger than V, then the current 
 
 
 ## Mechanical Output Power
-![[UNI 2022/MTRN2060/Attachments/MotorOutputPower.png]]
+![MotorOutputPower](Attachments/MotorOutputPower.png)
 
 •Power supplied by V is conserved.
 
@@ -113,7 +113,7 @@ Back EMF is proportional to speed
 
 
 # The Ideal PM DC Model
-![[UNI 2022/MTRN2060/Attachments/IdealPMDCModel.png]]
+![IdealPMDCModel](Attachments/IdealPMDCModel.png)
 •The Back EMF (E) is proportional to speed (electrical constant)
 
 –KE = back EMF divided by speed
@@ -134,7 +134,7 @@ Back EMF is proportional to speed
 
 
 # PM DC Motor Torque Speed Curve
-![[UNI 2022/MTRN2060/Attachments/PMDC Motor Torque Speed Curve.png]]
+![PMDC Motor Torque Speed Curve](Attachments/PMDC%20Motor%20Torque%20Speed%20Curve.png)
 
 
 # Example Questions

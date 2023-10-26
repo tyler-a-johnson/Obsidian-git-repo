@@ -1,7 +1,7 @@
  #ELEC/2040 #UniNotes
 
 **Slides:**
-[[Attachments/Week 10 Discrete Time Signals and Sampling.pdf]]
+[Week 10 Discrete Time Signals and Sampling](Attachments/Week%2010%20Discrete%20Time%20Signals%20and%20Sampling.pdf)
 
 **Relevant Videos:**
 - [Discrete Time Signals](https://youtu.be/mMPxfhplRGw)  
@@ -48,20 +48,20 @@ In **Discrete Time**, $x[n] = e^{j\omega_{0}n}$ is **NOT** always periodic. This
 
 Suppose we sample a CT signal $x(t) = e^{j\omega_{0}t}$ at times t = 0, T, 2T, 3T...
 We can generate $x[n] e^{j\omega_{0}Tn}$, which looks like this:
-![[Attachments/Pasted image 20230608164509.png]]
+![Pasted image 20230608164509](Attachments/Pasted%20image%2020230608164509.png)
 When T is small (fast sampling)
 This will **ONLY** be periodic **IF** you choose T to sample the **SAME** bit of the curve on it's next cycle.
 
-![[Attachments/Pasted image 20230608165042.png]]
+![Pasted image 20230608165042](Attachments/Pasted%20image%2020230608165042.png)
 Would be periodic if sampled here and with same period as the sine wave.
 
 **NOT** same period if sampled at 1.5T. This is actually twice the period. #Why 
 
-![[Attachments/Pasted image 20230608165425.png]]
+![Pasted image 20230608165425](Attachments/Pasted%20image%2020230608165425.png)
 
 # Discrete time samples for various values of $\omega_0$
 
-![[Attachments/Pasted image 20230608165613.png]]
+![Pasted image 20230608165613](Attachments/Pasted%20image%2020230608165613.png)
 
 # Unit and Impulse Functions in Discrete Time
 $$
@@ -70,14 +70,14 @@ $$
       0 & n \neq 0 \\
    \end{cases} 
 $$
-![[Attachments/Pasted image 20230608174719.png]]
+![Pasted image 20230608174719](Attachments/Pasted%20image%2020230608174719.png)
 Impulse function is a single sample of height 1 at n=0 in discrete time.
 $$
  u[n] = \begin{cases} 
       1 & n>=0 \\
       0 & n < 0 \\
    \end{cases} 
-$$![[Attachments/Pasted image 20230608174800.png]]A unit step function is a series of samples of height 1 at n >= 0 in discrete time.
+$$![Pasted image 20230608174800](Attachments/Pasted%20image%2020230608174800.png)A unit step function is a series of samples of height 1 at n >= 0 in discrete time.
 
 ## Difference Equations (Differentials in CT)
 
@@ -99,13 +99,13 @@ $\int_{2\pi}$ Means integrate over any $2\pi$ range
 
 ## Examples
 ### Example 1
-![[Attachments/Pasted image 20230608181053.png]]
+![Pasted image 20230608181053](Attachments/Pasted%20image%2020230608181053.png)
 
 ### Example 2
-![[Attachments/Pasted image 20230608181132.png]]
+![Pasted image 20230608181132](Attachments/Pasted%20image%2020230608181132.png)
 
 ### Example 3
-![[Attachments/Pasted image 20230608181211.png]]
+![Pasted image 20230608181211](Attachments/Pasted%20image%2020230608181211.png)
 
 ```ad-attention
 Most of this is getting our equation in the right form and using the identity sheet to get the answer.
@@ -116,10 +116,10 @@ $$X(e^{j\omega}) = \sum\limits_{k=-\infty}^{\infty} 2\pi a_{k} \delta(\omega - k
 
 ## Examples
 ### Example 1
-![[Attachments/Pasted image 20230608181711.png]]
+![Pasted image 20230608181711](Attachments/Pasted%20image%2020230608181711.png)
 
 # Discrete Time Processing of Continuous Signals
-![[Attachments/Pasted image 20230608185242.png]]
+![Pasted image 20230608185242](Attachments/Pasted%20image%2020230608185242.png)
 **But how do $X_{p}(j\omega)$ (CT FT of $x_{p}(t)$) and $X_{d}(e^{j\ohm})$ (DT FT of $x_{d}[n]$) Relate?**
 
 $$x_{p}(t) = \sum\limits_{n=-\infty}^{\infty} x_{c}(nT) \delta(t-nT)$$
@@ -145,11 +145,11 @@ x_{p}[n] = \begin{cases}
    \end{cases}
 $$
 
-![[Attachments/Pasted image 20230608200907.png]]
+![Pasted image 20230608200907](Attachments/Pasted%20image%2020230608200907.png)
 
 $$p[n] = \sum\limits_{k = -\infty}^{\infty} \delta[n-kN]$$
 $$x_{p}[n] = x[n]p[n]$$
-![[Attachments/Pasted image 20230608201046.png]]
+![Pasted image 20230608201046](Attachments/Pasted%20image%2020230608201046.png)
 
 **Given $X(e^{j\omega})$ what is $X_{p}(e^{j\omega})$?**
 $p[n]$ is periodic, with a period of 3
@@ -161,7 +161,7 @@ Where $\omega_{s} = \frac{2\pi}{3}$
 $$X_{p}(e^{j\omega}) = \frac{1}{2\pi} \int_{2\pi} P(e^{j\theta}) X(e^{j(\omega-\theta)}) \text{ }d\theta$$
 $$=\frac{1}{2\pi} \int_{2\pi} \frac{2\pi}{3}\sum\limits_{k=-\infty}^{\infty} \delta(\theta - \frac{2\pi}{3}k)X(e^{j(\omega-\theta)})\text{ }d\theta$$
 $$\frac{1}{3}\sum\limits_{k=0}^{2}X(e^{j(\omega- \frac{2\pi}{3}k)})$$
-![[Attachments/Pasted image 20230608202530.png]]
+![Pasted image 20230608202530](Attachments/Pasted%20image%2020230608202530.png)
 ```ad-attention
 title: Recovery
 We can recover the original signal if:
@@ -172,7 +172,7 @@ $$\omega_{s}= \frac{2\pi}{N} > 2\omega_{m}$$
 # Discrete Time Decimation (Down Sampling)
 
 Decimation removes samples from a sampled DT signal and then removes the subsequent zeroes created by doing this. Decimation is a form of compression, and is used to store signals in a more "space" efficient manner.
-![[Attachments/Pasted image 20230608203009.png]]
+![Pasted image 20230608203009](Attachments/Pasted%20image%2020230608203009.png)
 $$X_{b}(e^{j\omega})= \sum\limits^{\infty}_{k=-\infty}x_{b}[k]e^{-j\omega k}$$
 $$=\sum\limits^{\infty}_{k=-\infty} x_{p}[kN]e^{-j\omega k}$$
 Use $kN = n$
@@ -181,8 +181,8 @@ $$= \sum\limits_{n=-\infty}^{\infty}x_{p}[n] e^{-j\omega \frac{n}{N}}$$
 
 **THEREFORE**
 $$X_{b}(e^{j\omega})=X_{p}(e^{\frac{j\omega}{N}})$$
-![[Attachments/Pasted image 20230608203834.png]]
+![Pasted image 20230608203834](Attachments/Pasted%20image%2020230608203834.png)
 
 # Interpolation (Upsampling)
-![[Attachments/Pasted image 20230608204342.png]]
-![[Attachments/Pasted image 20230608204353.png]]
+![Pasted image 20230608204342](Attachments/Pasted%20image%2020230608204342.png)
+![Pasted image 20230608204353](Attachments/Pasted%20image%2020230608204353.png)

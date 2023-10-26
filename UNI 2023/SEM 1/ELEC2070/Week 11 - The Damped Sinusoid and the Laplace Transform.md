@@ -1,7 +1,7 @@
  #ELEC/2070 #Circuits #UniNotes
 
 **Slides:**
-[[Attachments/ELEC2070 Week 11 2023 Laplace Transform.pdf]]
+[ELEC2070 Week 11 2023 Laplace Transform](Attachments/ELEC2070%20Week%2011%202023%20Laplace%20Transform.pdf)
 
 # The Damped Sinusoidal Forcing Function
 Recall the equation for a damped sinusoidal forcing function (voltage):
@@ -9,7 +9,7 @@ $$v(t) = V_{m}e^{\sigma t} \cos(\omega t + \theta)$$
 Using the complex frequency: $S = \sigma + \omega j$
 
 Which has a form of:
-![[Attachments/Pasted image 20230524113256.png||500]]
+![|500](Attachments/Pasted%20image%2020230524113256.png)
 
 Making use of Euler's identity, we can derive:
 $$v(t) = Re\{ V_{m}e^{\sigma t}e^{j(\omega t + \theta)}\} \text{ Or } v(t) = Re\{ V_{m}e^{\sigma t}e^{j(-\omega t - \theta)}\}$$
@@ -61,7 +61,7 @@ The Laplace Transform converts the time domain function $f(t)$ to a correspondin
 ```
 
 ## Process of using the Transform
-![[Attachments/Pasted image 20230525195914.png]]
+![Pasted image 20230525195914](Attachments/Pasted%20image%2020230525195914.png)
 **All functions that are PHYSICALLY POSSIBLE have a Laplace Transform**
 
 ## Inverse Laplace Transform
@@ -78,13 +78,13 @@ These comprise a Laplace transform Pair
 
 ### Examples
 #### Ex1
-![[Attachments/Pasted image 20230525200723.png]]
+![Pasted image 20230525200723](Attachments/Pasted%20image%2020230525200723.png)
 #### Ex2
-![[Attachments/Pasted image 20230525200743.png]]
+![Pasted image 20230525200743](Attachments/Pasted%20image%2020230525200743.png)
 
 ## Properties: Linearity
 Linearity means that: $a_{1}f_{1}(t) + a_{2}f_{2}(t) \leftrightarrow a_{1}F_{1}(s)+a_{2}F_{2}(s)$
-![[Attachments/Pasted image 20230525200936.png]]
+![Pasted image 20230525200936](Attachments/Pasted%20image%2020230525200936.png)
 
 ## Differentiation
 Now we want to find $F(s) = \mathcal{L}[df(t)/dt]$
@@ -102,19 +102,19 @@ Or $F(s) = e^{-st}f(t)|^{\infty}_{0}+s\int^{\infty}_{0}f(t)e^{-st}dt=sF(s)-f(0)$
 $$\frac{df}{dt}\leftrightarrow sF(s) - f(0^{-})$$
 
 ### Examples
-![[Attachments/Pasted image 20230525202242.png]]
+![Pasted image 20230525202242](Attachments/Pasted%20image%2020230525202242.png)
 
 ## Table of Laplace Transforms
-![[Attachments/Pasted image 20230525202357.png]]
-![[Attachments/Pasted image 20230525202407.png]]
+![Pasted image 20230525202357](Attachments/Pasted%20image%2020230525202357.png)
+![Pasted image 20230525202407](Attachments/Pasted%20image%2020230525202407.png)
 
 ### Examples
 **Ex1**
-![[Attachments/Pasted image 20230525202439.png]]
+![Pasted image 20230525202439](Attachments/Pasted%20image%2020230525202439.png)
 
 **Ex2**
-![[Attachments/Pasted image 20230525202513.png]]
-![[Attachments/Pasted image 20230525202540.png]]
+![Pasted image 20230525202513](Attachments/Pasted%20image%2020230525202513.png)
+![Pasted image 20230525202540](Attachments/Pasted%20image%2020230525202540.png)
 
 # Pulse Functions
 
@@ -125,11 +125,11 @@ $$
       1 & \textrm{for $t>0$} \\
    \end{cases} 
 $$
-![[Attachments/Pasted image 20230525203050.png]]
+![Pasted image 20230525203050](Attachments/Pasted%20image%2020230525203050.png)
 ### An Approximation
 Because the impulse function is undefined at $t=0$ we need an approximation to allow us to better understand the step function and impulse function for the analysis of pulses.
 Consider the linear function:
-![[Attachments/Pasted image 20230525203557.png]]
+![Pasted image 20230525203557](Attachments/Pasted%20image%2020230525203557.png)
 When $\epsilon = 0$ we have our original step function
 
 ## Impulse Function
@@ -140,10 +140,10 @@ $$
       0 & t>0 \\
    \end{cases} 
 $$
-![[Attachments/Pasted image 20230525203342.png]]
+![Pasted image 20230525203342](Attachments/Pasted%20image%2020230525203342.png)
 ### An Approximation
 We now differentiate this function $u_{\epsilon}(t)$ and we get:
-![[Attachments/Pasted image 20230525203942.png]]
+![Pasted image 20230525203942](Attachments/Pasted%20image%2020230525203942.png)
 Note that the area under this curve is **ALWAYS** equal to 1.
 
 Or $\int^{\infty}_{-\infty}\delta_{\epsilon}(t)dt=\int^{\epsilon}_{0} \frac{1}{\epsilon}dt =1$
@@ -163,7 +163,7 @@ $$\int^{+\infty}_{-\infty}f(t)\delta(t)dt=f(0)$$
 We will need Laplace Transform of other pulse functions
 We can delay a function by $\tau$ using the time delay $t-\tau$
 For example, consider the function $f(t)=mt+b$
-![[Attachments/Pasted image 20230525205309.png]]
+![Pasted image 20230525205309](Attachments/Pasted%20image%2020230525205309.png)
 If we wish to delay this function by $\tau$, we now have the equation:
 
 $f(t-\tau)=m(t-\tau)+b$
@@ -171,43 +171,43 @@ OR
 $f(t-\tau)=mt+(b-m\tau)$
 
 Which has the same slope, but different y intercept
-![[Attachments/Pasted image 20230525205451.png]]
+![Pasted image 20230525205451](Attachments/Pasted%20image%2020230525205451.png)
 
 ## Using the Step Function
 Now consider multiplying the function $f(t)$ by the step function $u(t)$:
 $g(t) = f(t)u(t) = (mt+b)u(t)$
-![[Attachments/Pasted image 20230525205904.png]]
+![Pasted image 20230525205904](Attachments/Pasted%20image%2020230525205904.png)
 Which is the same as $f(t)$ when $t>0$, but is $0 \text{ for }t<0$
 
 If we wish to delay $g(t)$ by $\tau$, we have the function:
 $g(t-\tau)=f(t-\tau)u(t-\tau)=[m(t-\tau)+b]u(t-\tau)$
-![[Attachments/Pasted image 20230525210209.png]]
+![Pasted image 20230525210209](Attachments/Pasted%20image%2020230525210209.png)
 
 ### Now we can create a pulse function
-![[Attachments/Pasted image 20230525210246.png]]
+![Pasted image 20230525210246](Attachments/Pasted%20image%2020230525210246.png)
 
 ### Subtracting a delayed function
-![[Attachments/Pasted image 20230525210408.png]]
+![Pasted image 20230525210408](Attachments/Pasted%20image%2020230525210408.png)
 
 ### Subtracting a scaled and delayed step function
-![[Attachments/Pasted image 20230525210448.png]]
+![Pasted image 20230525210448](Attachments/Pasted%20image%2020230525210448.png)
 
 ### Another Pulse Function
-![[Attachments/Pasted image 20230525210526.png]]
+![Pasted image 20230525210526](Attachments/Pasted%20image%2020230525210526.png)
 
 ### LT of a Delayed Function
-![[Attachments/Pasted image 20230525210607.png]]
+![Pasted image 20230525210607](Attachments/Pasted%20image%2020230525210607.png)
 
 # Inverse Laplace Transform
 
 ## Use Linearity
-![[Attachments/Pasted image 20230525210643.png]]
+![Pasted image 20230525210643](Attachments/Pasted%20image%2020230525210643.png)
 
 ## Ratios of polynomials
-![[Attachments/Pasted image 20230525210708.png]]
+![Pasted image 20230525210708](Attachments/Pasted%20image%2020230525210708.png)
 
 ## Poles and Zeros
-![[Attachments/Pasted image 20230525210732.png]]
+![Pasted image 20230525210732](Attachments/Pasted%20image%2020230525210732.png)
 
 ### Example
-![[Attachments/Pasted image 20230525210749.png]]
+![Pasted image 20230525210749](Attachments/Pasted%20image%2020230525210749.png)

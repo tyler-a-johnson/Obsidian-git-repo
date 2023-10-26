@@ -4,9 +4,9 @@ tags:
   - MTRN/3060
 status: Incomplete
 Relevant Docs:
-  - "[[Attachments/Week 7-slides 3060.pdf]]"
+  - "[Week 7-slides 3060](Attachments/Week%207-slides%203060.pdf)"
 Relevant Questions: []
 Relevant Notes:
-  - "[[../../../../UNI 2022/MTRN2060/Sensors|Sensors]]"
-Practicals Docs: "[[Attachments/prac7.pdf]]"
+  - "[Sensors](../../../../UNI%202022/MTRN2060/Sensors.md)"
+Practicals Docs: "[prac7](Attachments/prac7.pdf)"
 ---

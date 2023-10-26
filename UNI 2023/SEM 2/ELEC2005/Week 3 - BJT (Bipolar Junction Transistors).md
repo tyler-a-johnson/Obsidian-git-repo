@@ -1,11 +1,11 @@
 #ELEC/2005 
 
 **Slides:**
-[[Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf]]
+[ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED](Attachments/ELEC2005%20Week%203%20Lecture%20BJTs-part-1_2023_UPDATED.pdf)
 
 # The Bipolar Junction Transistor
 This is our classic NPN (Negative, Positive, Negative) type transistor, allows us to electronically control the flow of current.
-![[Attachments/Pasted image 20230812095849.png]]
+![Pasted image 20230812095849](Attachments/Pasted%20image%2020230812095849.png)
 Consists of two types of semiconductors N-type and P-type. 
 - N-type semiconductors are doped with impurities such as phosphorus, arsenic, or antimony. These have more valence electrons than Silicon (Group IV). This extra electron becomes free to move around and creates a negative bias.
 - P-type semiconductors work similarly except they are doped with Boron or Indium. These metals take up extra electrons making "holes" which generates a negative bias
@@ -13,19 +13,19 @@ Consists of two types of semiconductors N-type and P-type.
 ## The Pipe Analogy
 - Electric potential (Voltage) is equivalent to $\Delta P$.
 - A BJT is a controlled valve, with the flow of water at the base pipe acting as the control.
-![[Attachments/Pasted image 20230812103400.png]]
+![Pasted image 20230812103400](Attachments/Pasted%20image%2020230812103400.png)
 Fucking weird to think about.
 
 # Diagrams and Circuit Symbols
 BJT Transistors are more or less two diodes back to back. Depending on the type of BJT.
-![[Attachments/Pasted image 20230812104002.png]]
+![Pasted image 20230812104002](Attachments/Pasted%20image%2020230812104002.png)
 
 The Arrow shows the current of the controlling pn-Junction
 - Arrow from Emitter = PNP
 - Arrow TO Emitter = NPN
 
 # Modes of Operation
-![[Attachments/Pasted image 20230812104512.png]]
+![Pasted image 20230812104512](Attachments/Pasted%20image%2020230812104512.png)
 *Operating mode depends on DC biasing or large signal voltages and currents:*
 - **Active** mode - Used for AC amplification
 - **Cutoff** and *saturation* modes - used for switching
@@ -35,7 +35,7 @@ The Arrow shows the current of the controlling pn-Junction
 In the Active region: 
 - BE = Forward Biased
 - BC = Reverse Biased
-![[Attachments/Pasted image 20230812122553.png]]
+![Pasted image 20230812122553](Attachments/Pasted%20image%2020230812122553.png)
 Using Kirchhoff:
 $$i_{E}= i_{C}+i_{B}$$
 
@@ -64,11 +64,11 @@ title: NOTE
 Base-emitter voltage controls the collector current
 ```
 
-![[Attachments/Pasted image 20230812123453.png]]
+![Pasted image 20230812123453](Attachments/Pasted%20image%2020230812123453.png)
 *Emitter current is equal to the total current:*
 $$i_{E}=i_{B} + i_{C}=\frac{i_{C}}{\alpha}$$
 
-Using [[../../../Distilled Notes/Kirchhoff's Laws|Kirchhoff's Laws]] and our diode equation:
+Using [Kirchhoff's Laws](../../../Distilled%20Notes/Kirchhoff's%20Laws.md) and our diode equation:
 $$i_{C} = I_{s}e^{v_{BE}/V_T}$$
 Where:
 $I_{s} =$ Constant (Saturation Current)
@@ -83,7 +83,7 @@ $$i_{E}=i_{B}+i_{C}= \frac{i_C}{\alpha}$$
 
 ## Equivalent Circuit
 Large signal equivalent-circuit model of the *NPN BJT* operating in the **forward active mode**.
-![[Attachments/Pasted image 20230812123917.png]]
+![Pasted image 20230812123917](Attachments/Pasted%20image%2020230812123917.png)
 
 Collector current is controlled by the base-emitter voltage:
 $$i_{C}=I_{s}e^{v_{BE}/V_{T}}$$
@@ -96,7 +96,7 @@ $$i_{E} = i_{B}+i_{C}= \frac{i_C}{\alpha}$$
 
 ## Saturation Region
 *NPN BJT in saturation region*
-![[Attachments/Pasted image 20230812124431.png]]
+![Pasted image 20230812124431](Attachments/Pasted%20image%2020230812124431.png)
 
 $$i_{C}= I_{s}e^{\frac{v_{BE}}{V_{T}}}-I_{sc}e^{\frac{v_{BC}}{V_{T}}}$$
 $$i_{B}= \frac{I_{s}}{\beta}  e^{\frac{v_{BE}}{V_{T}}}+I_{sc}e^{\frac{v_{BC}}{V_{T}}}$$
@@ -105,17 +105,17 @@ These two equations give us:
 $$\beta_{\text{forced}}=\frac{i_C}{i_{B}}(\text{at saturation}) \leq \beta$$
 
 ### Example
-![[Attachments/Pasted image 20230812124833.png]]
+![Pasted image 20230812124833](Attachments/Pasted%20image%2020230812124833.png)
 
 # Load Line Analysis
-![[Attachments/Pasted image 20230812125401.png]]
-![[Attachments/Pasted image 20230812125555.png]]
+![Pasted image 20230812125401](Attachments/Pasted%20image%2020230812125401.png)
+![Pasted image 20230812125555](Attachments/Pasted%20image%2020230812125555.png)
 
 **If the base current is too high we reach saturation:**
-![[Attachments/Pasted image 20230812125625.png]]
+![Pasted image 20230812125625](Attachments/Pasted%20image%2020230812125625.png)
 
 **If the base current is too low we reach cut-off (think activation voltage of diodes)**
-![[Attachments/Pasted image 20230812125758.png]]
+![Pasted image 20230812125758](Attachments/Pasted%20image%2020230812125758.png)
 
 # Large Signals Current Summary
 $$V_{CE}>0, V_{A}= \infty$$
@@ -131,10 +131,10 @@ $$V_{T}= \frac{kT}{q} \approxeq 25mV \text{ At room temperature}$$
 For *PNP BJT* use the same current equations but with reversed voltage polarities.
 
 # Summary of Simple BJT Models
-![[Attachments/Pasted image 20230812130709.png]]
+![Pasted image 20230812130709](Attachments/Pasted%20image%2020230812130709.png)
 
 **Equivalent Circuits:**
-![[Attachments/Pasted image 20230812141006.png]]
+![Pasted image 20230812141006](Attachments/Pasted%20image%2020230812141006.png)
 *NPN on the left PNP on the right*
 ```ad-note
 These models are **APPROXIMATE ONLY**
@@ -143,7 +143,7 @@ These models are **APPROXIMATE ONLY**
 
 ## Constant Voltage Drop Approximation
 In the active region we can use a constant voltage (base side) and constant current (collector side) approximation.
-![[Attachments/Pasted image 20230812142738.png]]
+![Pasted image 20230812142738](Attachments/Pasted%20image%2020230812142738.png)
 $$v_{BE}=v_{B}-v_{E}=0.7V$$
 $$v_{CE}=v_{C}-v_{E}>0.2V$$
 $$i_{B}= \frac{i_C}{\beta}$$
@@ -151,40 +151,40 @@ $$i_{c}= I_{s}e^{v_{BE}/V_{T}}$$
 $$i_{E}=i_{B}+i_{C}= \frac{i_{C}}{\alpha}$$
 
 ### Example
-![[Attachments/Pasted image 20230812143143.png]]
+![Pasted image 20230812143143](Attachments/Pasted%20image%2020230812143143.png)
 
 This is an example of cut-off
 Operating in this region:
-![[Attachments/Pasted image 20230812143229.png]]
+![Pasted image 20230812143229](Attachments/Pasted%20image%2020230812143229.png)
 
 ### Example 2
-![[Attachments/Pasted image 20230812143604.png]]
+![Pasted image 20230812143604](Attachments/Pasted%20image%2020230812143604.png)
 
 Same as the previous circuit but $V_{B}$ is higher. Our $V_B$ is high enough to allow voltage from collector to emitter.
 *We are using this BJT in active mode.*
 
-![[Attachments/Pasted image 20230812143825.png]]
-![[Attachments/Pasted image 20230812143950.png]]
+![Pasted image 20230812143825](Attachments/Pasted%20image%2020230812143825.png)
+![Pasted image 20230812143950](Attachments/Pasted%20image%2020230812143950.png)
 Remember, the model is approximate so our solution can only be approximate.
 
 ### Example 3
-![[Attachments/Pasted image 20230812144016.png]]
-![[Attachments/Pasted image 20230812144359.png]]
+![Pasted image 20230812144016](Attachments/Pasted%20image%2020230812144016.png)
+![Pasted image 20230812144359](Attachments/Pasted%20image%2020230812144359.png)
 Our $\beta_\text{Forced} = 1.5$
 This is an example of saturation.
-![[Attachments/Pasted image 20230812144559.png]]
+![Pasted image 20230812144559](Attachments/Pasted%20image%2020230812144559.png)
 Our $i_{B}$ value is such that the BJT is in saturation mode.
 
 ### Example 4: For PNP BJT
-![[Attachments/Pasted image 20230812145319.png]]
+![Pasted image 20230812145319](Attachments/Pasted%20image%2020230812145319.png)
 Here we are in active mode, as our base is grounded (PNP works the opposite way to NPN)
-![[Attachments/Pasted image 20230812145353.png]]
+![Pasted image 20230812145353](Attachments/Pasted%20image%2020230812145353.png)
 
 ### Example 5: For PNP BJT
-![[Attachments/Pasted image 20230812145503.png]]
+![Pasted image 20230812145503](Attachments/Pasted%20image%2020230812145503.png)
 Here we are in active mode
-![[Attachments/Pasted image 20230812145642.png]]
+![Pasted image 20230812145642](Attachments/Pasted%20image%2020230812145642.png)
 
 ### Example 6: For NPN
-![[Attachments/Pasted image 20230812145713.png]]
+![Pasted image 20230812145713](Attachments/Pasted%20image%2020230812145713.png)
 #What #Why 

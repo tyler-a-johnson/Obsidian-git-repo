@@ -1,7 +1,7 @@
 #ELEC/2040 #Communication #Communication/SignalProcessing #UniNotes
 
 **Slides:**
-[[Attachments/Week 9 Laplace TF Properties.pdf]]
+[Week 9 Laplace TF Properties](Attachments/Week%209%20Laplace%20TF%20Properties.pdf)
 
 **Relevant Videos:**
 - [What is the Fourier Transform?](https://youtu.be/G74t5az6PLo)
@@ -13,7 +13,7 @@
 - [Time and Frequency Scaling](https://youtu.be/7M0js8Y9EyY)
 
 **Practical:**
-[[Attachments/Practical Week 8 Laplace Properties.pdf]]
+[Practical Week 8 Laplace Properties](Attachments/Practical%20Week%208%20Laplace%20Properties.pdf)
 
 # Properties of Laplace Transform
 Recall:
@@ -52,9 +52,9 @@ $$\lim_{t\rightarrow \infty} x(t) = \lim_{s\rightarrow 0}sX(s)$$
 For $x(t) = 0, t<0$ and no singularities at $t=0$
 
 ## Examples
-![[Attachments/Pasted image 20230612135336.png]]
-![[Attachments/Pasted image 20230612135354.png]]
-![[Attachments/Pasted image 20230612135412.png]]
+![Pasted image 20230612135336](Attachments/Pasted%20image%2020230612135336.png)
+![Pasted image 20230612135354](Attachments/Pasted%20image%2020230612135354.png)
+![Pasted image 20230612135412](Attachments/Pasted%20image%2020230612135412.png)
 
 # Analysis And Characterization of LTI Systems with the Laplace Transform
 $$Y(s) = H(s) X(s)$$
@@ -68,13 +68,13 @@ ROC Must be a right half plane in order to be causal. BUT only holds in reverse 
 ```
 ### Examples
 #### Example 1
-![[Attachments/Pasted image 20230612140432.png]]
+![Pasted image 20230612140432](Attachments/Pasted%20image%2020230612140432.png)
 
 #### Example 2
-![[Attachments/Pasted image 20230612140501.png]]
+![Pasted image 20230612140501](Attachments/Pasted%20image%2020230612140501.png)
 
 #### Example 3
-![[Attachments/Pasted image 20230612140521.png]]
+![Pasted image 20230612140521](Attachments/Pasted%20image%2020230612140521.png)
 
 
 ## Stability
@@ -96,12 +96,12 @@ Re{s} < 0
 
 ### Examples
 #### Example 1
-![[Attachments/Pasted image 20230612141208.png]]
-![[Attachments/Pasted image 20230612141219.png]]
+![Pasted image 20230612141208](Attachments/Pasted%20image%2020230612141208.png)
+![Pasted image 20230612141219](Attachments/Pasted%20image%2020230612141219.png)
 
 ## LTI Systems Described by Differential Equations
-![[Attachments/Pasted image 20230612142850.png]]
-![[Attachments/Pasted image 20230612142902.png]]
+![Pasted image 20230612142850](Attachments/Pasted%20image%2020230612142850.png)
+![Pasted image 20230612142902](Attachments/Pasted%20image%2020230612142902.png)
 
-![[Attachments/Pasted image 20230612142918.png]]
-![[Attachments/Pasted image 20230612142934.png]]
+![Pasted image 20230612142918](Attachments/Pasted%20image%2020230612142918.png)
+![Pasted image 20230612142934](Attachments/Pasted%20image%2020230612142934.png)

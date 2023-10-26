@@ -4,17 +4,17 @@ tags:
   - MTRN/3026
 status: Complete
 Relevant Docs:
-  - "[[Attachments/chapt-IM.doc]]"
-  - "[[Attachments/Week-45(Induction Machines-edited).pdf]]"
-  - "[[Attachments/Starting_of_motors.pdf]]"
-  - "[[Attachments/Performance_IM_tests.pdf]]"
+  - "[chapt-IM](Attachments/chapt-IM.doc)"
+  - "[Week-45(Induction Machines-edited)](Attachments/Week-45(Induction%20Machines-edited).pdf)"
+  - "[Starting_of_motors](Attachments/Starting_of_motors.pdf)"
+  - "[Performance_IM_tests](Attachments/Performance_IM_tests.pdf)"
 Relevant Questions:
-  - "[[Attachments/Tutorial-Week-6.pdf]]"
-  - "[[Attachments/Tut-7.pdf]]"
+  - "[Tutorial-Week-6](Attachments/Tutorial-Week-6.pdf)"
+  - "[Tut-7](Attachments/Tut-7.pdf)"
 Relevant Notes:
-  - "[[Lorentz Force Equations]]"
-  - "[[Faraday's Law]]"
-  - "[[../../../Distilled Notes/Power Flow in Motors|Power Flow in Motors]]"
+  - "[Lorentz Force Equations](../../../Distilled%20Notes/Lorentz%20Force%20Equations.md)"
+  - "[Faraday's Law](../../../Distilled%20Notes/Faraday's%20Law.md)"
+  - "[Power Flow in Motors](../../../Distilled%20Notes/Power%20Flow%20in%20Motors.md)"
 ---
 
 # Intro
@@ -31,7 +31,7 @@ Three phase induction motors are the **most common and frequently encountered ma
 # Rotating Magnetic Field and Synchronous Speed
 - Equidistant three phase windings (*i.e. mechanically displaced 120 degrees from each other, fed by balanced three phase source.*)
 - A rotating **magnetic field of constant magnitude** is produced, **rotating at speed $n_{sync}$**
-![[Attachments/Pasted image 20230901222628.png||400]]
+![|400](Attachments/Pasted%20image%2020230901222628.png)
 $$n_{sync} = \frac{120 f_{e}}{P}\text{  RPM}$$
 Where:
 $f_{e}$ Is the supply frequency
@@ -108,6 +108,7 @@ $$1HP = 746 \text{ Watts}$$
 $${s_{T_{max}}} = \frac{R_{2}}{\sqrt{R^{2}_{TH}+(X_{TH}+X_{2})^2}}$$
 
 The corresponding max torque of an induction motor:
+
 $$\tau_{max} = \frac{1}{2 \omega_{s}}(\frac{3V^{2}_{TH}}{R_{TH} + \sqrt{R^{2}_{TH} + (X_{TH}+X_{2})^{2}}})$$
 
 
@@ -120,7 +121,7 @@ $$\tau_{max} = \frac{1}{2 \omega_{s}}(\frac{3V^{2}_{TH}}{R_{TH} + \sqrt{R^{2}_{T
 # Equivalent Circuits
 ## Rotor
 Rotor equivalent circuit is as follows:
-![[Attachments/Pasted image 20230904004330.png]]
+![Pasted image 20230904004330](Attachments/Pasted%20image%2020230904004330.png)
 **Where:**
 $E_{R}$ is the induced voltage in the rotor
 $R_R$ is the rotor (winding) resistance
@@ -136,7 +137,7 @@ $E_{R0}$ is the induced voltage and $X_{R0}$ is the rotor reactance at s=1.
 
 ## All in One
 We can combine the stator and rotor circuit in one equivalent circuit.
-![[Attachments/Pasted image 20230904010204.png]]
+![Pasted image 20230904010204](Attachments/Pasted%20image%2020230904010204.png)
 **With the following properties:**
 $$X_{2}= a^{2}_{eff} X_{R0}$$
 $$R_{2}= a^{2}_{eff}R_{R}$$
@@ -153,7 +154,7 @@ $$a_{eff} = \frac{N_S}{N_R}$$
 
 # Power flow and Relations
 Here's a flow chart of power losses on a motor
-![[Attachments/Pasted image 20230904005142.png]]
+![Pasted image 20230904005142](Attachments/Pasted%20image%2020230904005142.png)
 **With the following relations:**
 $$P_{in}= \sqrt{3} V_{L}I_{L} \cos \theta = 3 V_{ph}I_{ph} \cos \theta$$
 $$P_{SCL}= 3I^{2}_{1}R_{1}$$
@@ -166,7 +167,7 @@ We can also say:
 $$\tau_{induced}= \frac{P_{conv}}{\omega_{m}}$$
 
 ## Power Ratios
-![[Attachments/Pasted image 20230904010254.png]]
+![Pasted image 20230904010254](Attachments/Pasted%20image%2020230904010254.png)
 These three values actually are linked with a ratio, these ratios are equal: 
 $$P_{AG}:P_{RCL}:P_{conv}$$
 $$1:s:1-s$$
@@ -175,9 +176,9 @@ $$1:s:1-s$$
 
 
 # Torque, Power, and Thevenin's Theorem
-![[Attachments/Pasted image 20230922221451.png|500]]
+![500](Attachments/Pasted%20image%2020230922221451.png)
 We can turn the circuit to the left *a* and *b* into an equivalent voltage $V_{TH}$ with series impedance $R_{TH}+jX_{TH}$
-![[Attachments/Pasted image 20230904014445.png||500]]
+![|500](Attachments/Pasted%20image%2020230904014445.png)
 $$V_{TH}= V_{\phi} \frac{jX_{M}}{R_{1}+j(X_{1}+X_{M})}$$
 $$|V_{TH}| = |V_{\phi}| \frac{X_M}{\sqrt{R_{1}^{2}+(X_{1}+X_{M})^2}}$$
 $$R_{TH}+jX_{TH} = (R_{1}+jX_{1})//jX_{M}$$
@@ -211,7 +212,7 @@ We can use the same tests as we use for transformers to determine motor paramete
 ## DC Test
 - Used to determine $R_{1}$
 - Connect a variable DC voltage between two stator terminals
-![[Attachments/Pasted image 20230904204421.png]]
+![Pasted image 20230904204421](Attachments/Pasted%20image%2020230904204421.png)
 Since $R_{DC} = \frac{V_{DC}}{I_{DC}}$
 If the stator is **Y-Connected**, the per phase stator resistance is:
 $$R_{1}= \frac{R_{DC}}{2}$$
@@ -219,14 +220,14 @@ $$R_{1}= \frac{R_{DC}}{2}$$
 If the stator is **delta-connected** the per phase stator resistance is:
 $$R_{1}= \frac{3}{2}R_{DC}$$
 
-To include the effects of the [[../../../Distilled Notes/Skin Effect|Skin Effect]] the AC resistance is taken as higher than the DC resistance. ($R_{AC} = 1.1$ to $1.15$ times $R_{DC}$)
+To include the effects of the [Skin Effect](../../../Distilled%20Notes/Skin%20Effect.md) the AC resistance is taken as higher than the DC resistance. ($R_{AC} = 1.1$ to $1.15$ times $R_{DC}$)
 
 ## No-Load Test
-![[Attachments/Pasted image 20230904210940.png||500]]
+![|500](Attachments/Pasted%20image%2020230904210940.png)
 1. Motor is allowed to spin freely
 2. Only load on the motor is friction and windage loss. All $P_{conv}$ is consumed by mechanical losses.
 3. Very small slip
-![[Attachments/Pasted image 20230904211143.png]]
+![Pasted image 20230904211143](Attachments/Pasted%20image%2020230904211143.png)
 $S \approx 0$ Since slip is very small
 Let $X_{nl}=X_{1}+X_{m}$
 
@@ -249,7 +250,7 @@ $$P_{nl} = P_{rot} + SCL$$
 
 ## Blocked-Rotor Test
 Rotor is locked in place and a **low frequency voltage** is applied to the motor and the resulting voltage, current and power.
-![[Attachments/Pasted image 20230904212234.png]]
+![Pasted image 20230904212234](Attachments/Pasted%20image%2020230904212234.png)
 - AC voltage applied to the stator is adjusted so the **current flow is approximately full load value**
 
 **Locked rotor power factor:**
@@ -281,7 +282,7 @@ $$X_{LR} = \frac{f_{rated}}{f_{test}}X'_{LR}=X_{1}+X_{2}$$
 # -
 --- 
 # Induction Motor Construction
-![[Attachments/article-Types-and-Constructi-0QP.jpg||500]]
+![|500](Attachments/article-Types-and-Constructi-0QP.jpg)
 Induction motors have **two main parts:**
 - *Stator*
 	- A steel frame that supports a hollow cylindrical core
@@ -291,9 +292,9 @@ Induction motors have **two main parts:**
 	- There are **two types of rotor windings:**
 
 *Wound Rotor*: Conventional **three phase winding** made of insulated wire.
-![[Attachments/maxresdefault 1.jpg||500]]
+![|500](Attachments/maxresdefault%201.jpg)
 *Squirrel Cage*: Aluminium bars shorted together at the end by two aluminium rings. Forming a **squirrel-cage** shaped circuit.
-![[Attachments/squirrel-cage-induction-motor-rotor.jpg]]
+![squirrel-cage-induction-motor-rotor](Attachments/squirrel-cage-induction-motor-rotor.jpg)
 
 These rotor configurations lend themselves to two basic designs:
 - *Squirrel Cage:* Conducting bars are laid into the slots in the stator and shorted with the end ring.
@@ -320,7 +321,7 @@ $k$ is a **constant that depends on the motor**
 - Once it falls, current is induced again, and torque is generated.
 
 ## Induction Motors and Transformers
-Both Induction Motors and [[../../../Distilled Notes/Transformers (Not the funny robot)|Transformers (Not the funny robot)]] work on the principle of induced voltage.
+Both Induction Motors and [Transformers (Not the funny robot)](../../../Distilled%20Notes/Transformers%20(Not%20the%20funny%20robot).md) work on the principle of induced voltage.
 
 **Transformer:** Voltage applied to the **primary** windings produce an induced voltage in the *secondary*.
 **Induction Motors:** Voltage applied to the **stator** windings produce an induced voltage in the *rotor* windings.
@@ -328,7 +329,7 @@ Both Induction Motors and [[../../../Distilled Notes/Transformers (Not the funny
 The difference is that our rotor is able to move. Due to the rotation of the rotor, its induced voltage **is not the same as the frequency of the stator*.
 
 ## Torque-Speed Characteristics
-![[Attachments/Pasted image 20230904013502.png]]
+![Pasted image 20230904013502](Attachments/Pasted%20image%2020230904013502.png)
 1. The curve is **nearly linear** between **no-load** and **full load**. In this range the **rotor resistance is much greater than reactance** so the rotor current and torque increase linearly with slip.
 2. Pull-out torque is the **maximum** amount of torque. And is **2 to 3 times the rated full load torque.**
 3. The **torque of the motor** for a given slip **varies as a square of the applied voltage**
@@ -346,7 +347,7 @@ But **the speed at which it occurs can be controlled**
 ```
 
 Speed that max torque occurs is dependent on **rotor resistance**
-![[Attachments/Pasted image 20230904200941.png]]
+![Pasted image 20230904200941](Attachments/Pasted%20image%2020230904200941.png)
 
 
 
@@ -364,7 +365,7 @@ $X_{(\text{Reactance})} = \omega_r L_r = 2\pi f_r L_r$
 
 ## Rotor
 Rotor equivalent circuit is as follows:
-![[Attachments/Pasted image 20230904004330.png]]
+![Pasted image 20230904004330](Attachments/Pasted%20image%2020230904004330.png)
 **Where:**
 $E_{R}$ is the induced voltage in the rotor
 $R_R$ is the rotor (winding) resistance
@@ -380,7 +381,7 @@ $E_{R0}$ is the induced voltage and $X_{R0}$ is the rotor reactance at s=1.
 
 ## All in One
 We can combine the stator and rotor circuit in one equivalent circuit.
-![[Attachments/Pasted image 20230904004437.png]]
+![Pasted image 20230904004437](Attachments/Pasted%20image%2020230904004437.png)
 **With the following properties:**
 $$X_{2}= a^{2}_{eff} X_{R0}$$
 $$R_{2}= a^{2}_{eff}R_{R}$$
@@ -391,7 +392,7 @@ $$a_{eff} = \frac{N_S}{N_R}$$
 
 # Power Losses and Power Flow
 Here's a flow chart of power losses on a motor
-![[Attachments/Pasted image 20230904005142.png]]
+![Pasted image 20230904005142](Attachments/Pasted%20image%2020230904005142.png)
 **With the following relations:**
 $$P_{in}= \sqrt{3} V_{L}I_{L} \cos \theta = 3 V_{ph}I_{ph} \cos \theta$$
 $$P_{SCL}= 3I^{2}_{1}R_{1}$$
@@ -405,7 +406,7 @@ $$\tau_{induced}= \frac{P_{conv}}{\omega_{m}}$$
 
 
 # Bonus Round: Load Coupling
-![[Attachments/Pasted image 20230904214044.png]]
+![Pasted image 20230904214044](Attachments/Pasted%20image%2020230904214044.png)
 Pretty self explanitory, we have:
 **Drive Shaft**
 **Jaw Coupling**
@@ -424,7 +425,7 @@ A 208-V, 10hp, four pole, 60 Hz, Y-connected induction motor has a full-load sli
 2. What is the rotor speed of this motor at rated load? 
 3. What is the rotor frequency of this motor at rated load? 
 4. What is the shaft torque of this motor at rated load?
-![[Attachments/Pasted image 20230904000412.png]]
+![Pasted image 20230904000412](Attachments/Pasted%20image%2020230904000412.png)
 
 ## Example 2: Power and Efficiency
 A 480-V, 60 Hz, 50-hp, three phase induction motor is drawing 60A at 0.85 PF lagging. The stator copper losses are 2 kW, and the rotor copper losses are 700 W. The friction and windage losses are 600 W, the core losses are 1800 W, and the stray losses are negligible. Find the following quantities:
@@ -432,8 +433,8 @@ A 480-V, 60 Hz, 50-hp, three phase induction motor is drawing 60A at 0.85 PF lag
 2. The power converted Pconv. 
 3. The output power Pout. 
 4. The efficiency of the motor.
-![[Attachments/Pasted image 20230904010521.png]]
-![[Attachments/Pasted image 20230904010530.png]]
+![Pasted image 20230904010521](Attachments/Pasted%20image%2020230904010521.png)
+![Pasted image 20230904010530](Attachments/Pasted%20image%2020230904010530.png)
 
 ## Example 3: Speed, Current, Power, and Torque using Equivalent Circuit
 A 460-V, 25-hp, 60 Hz, four-pole, Y-connected induction motor has the following impedances in ohms per phase referred to the stator circuit:
@@ -449,9 +450,9 @@ The total rotational losses are 1100 W and are assumed to be constant. The core 
 4. Pconv and Pout 
 5. t ind and t load 
 6. Efficiency
-![[Attachments/Pasted image 20230904010846.png]]
-![[Attachments/Pasted image 20230904010856.png]]
-![[Attachments/Pasted image 20230904010906.png]]
+![Pasted image 20230904010846](Attachments/Pasted%20image%2020230904010846.png)
+![Pasted image 20230904010856](Attachments/Pasted%20image%2020230904010856.png)
+![Pasted image 20230904010906](Attachments/Pasted%20image%2020230904010906.png)
 
 ## Example 4: Slip, Torque, operating speed, and power
 A two-pole, 50-Hz induction motor supplies 15kW to a load at a speed of 2950 rpm. 
@@ -459,8 +460,8 @@ A two-pole, 50-Hz induction motor supplies 15kW to a load at a speed of 2950 rpm
 2. What is the induced torque in the motor in N.m under these conditions? 
 3. What will be the operating speed of the motor if its torque is doubled? 
 4. How much power will be supplied by the motor when the torque is doubled?
-![[Attachments/Pasted image 20230904201354.png]]
-![[Attachments/Pasted image 20230904201407.png]]
+![Pasted image 20230904201354](Attachments/Pasted%20image%2020230904201354.png)
+![Pasted image 20230904201407](Attachments/Pasted%20image%2020230904201407.png)
 
 ## Example 5: Max torque, starting torque, rotor resistance and Torque Speed Plot
 A 460-V, 25-hp, 60-Hz, four-pole, Y-connected wound-rotor induction motor has the following impedances in ohms per phase referred to the stator circuit 
@@ -473,12 +474,12 @@ XM= 26.3 Ohms
 2. What is the starting torque of this motor? 
 3. If the rotor resistance is doubled, what is the speed at which the maximum torque now occur? What is the new starting torque of the motor? 
 4. Calculate and plot the T-s c/c for both cases.
-![[Attachments/Pasted image 20230904201626.png]]
-![[Attachments/Pasted image 20230904201635.png]]
-![[Attachments/Pasted image 20230904201649.png]]
-![[Attachments/Pasted image 20230904201705.png]]
-![[Attachments/Pasted image 20230904201714.png]]
-![[Attachments/Pasted image 20230904201725.png]]
+![Pasted image 20230904201626](Attachments/Pasted%20image%2020230904201626.png)
+![Pasted image 20230904201635](Attachments/Pasted%20image%2020230904201635.png)
+![Pasted image 20230904201649](Attachments/Pasted%20image%2020230904201649.png)
+![Pasted image 20230904201705](Attachments/Pasted%20image%2020230904201705.png)
+![Pasted image 20230904201714](Attachments/Pasted%20image%2020230904201714.png)
+![Pasted image 20230904201725](Attachments/Pasted%20image%2020230904201725.png)
 
 
 

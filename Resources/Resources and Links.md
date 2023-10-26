@@ -8,12 +8,12 @@
 
 | Name                                                 | Link                                                                                                            | File | 
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --- |
-| Introduction to Mechatronics and Measurement Systems | https://agromet.sanru.ac.ir/wp-content/uploads/2018/11/Introduction-to-Mechatronics-and-Measurement-Systems.pdf | [[Resources/Attachments/Introduction-to-Mechatronics-and-Measurement-Systems.pdf]]|
+| Introduction to Mechatronics and Measurement Systems | https://agromet.sanru.ac.ir/wp-content/uploads/2018/11/Introduction-to-Mechatronics-and-Measurement-Systems.pdf | [Introduction-to-Mechatronics-and-Measurement-Systems](Attachments/Introduction-to-Mechatronics-and-Measurement-Systems.pdf)|
 # Logic Circuits and Combinational Logic
 
 | Name                                                       | Link                                                                                          | File                                                                                     |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Introduction to Logic Circuits and Logic Design in Verilog | https://link-springer-com.simsrad.net.ocs.mq.edu.au/content/pdf/10.1007/978-3-030-13605-5.pdf | [[Resources/Attachments/Introduction-to-Logic-Circuits-And-Logic-Design-In-Verilog.pdf]] |
+| Introduction to Logic Circuits and Logic Design in Verilog | https://link-springer-com.simsrad.net.ocs.mq.edu.au/content/pdf/10.1007/978-3-030-13605-5.pdf | [Introduction-to-Logic-Circuits-And-Logic-Design-In-Verilog](Attachments/Introduction-to-Logic-Circuits-And-Logic-Design-In-Verilog.pdf) |
 | Karnaugh Map Builder and Solver                            | https://ictlab.kz/extra/Kmap/                                                                 | N/A                                                                                      |
 |                                                            |                                                                                               |                                                                                          |
 
@@ -22,8 +22,8 @@
 
 | Name                                   | Link | File                                                                                                        |
 | -------------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------- |
-| UNO R3, MEGA, NANO DRIVER FAQ          | N/A  | [[Resources/Attachments/ELEGOO UNO R3 Starter Kit/UNO R3, MEGA, NANO DRIVER FAQ.pdf]]                       |
-| The Most Complete Starter Kit Tutorial | N/A  | [[Resources/Attachments/ELEGOO UNO R3 Starter Kit/The Most Complete Starter Kit for UNO V1.0.19.09.18.pdf]] |
+| UNO R3, MEGA, NANO DRIVER FAQ          | N/A  | [UNO R3, MEGA, NANO DRIVER FAQ](Attachments/ELEGOO%20UNO%20R3%20Starter%20Kit/UNO%20R3,%20MEGA,%20NANO%20DRIVER%20FAQ.pdf)                       |
+| The Most Complete Starter Kit Tutorial | N/A  | [The Most Complete Starter Kit for UNO V1.0.19.09.18](Attachments/ELEGOO%20UNO%20R3%20Starter%20Kit/The%20Most%20Complete%20Starter%20Kit%20for%20UNO%20V1.0.19.09.18.pdf) |
 | Starter Kit Code Bank                  | N/A     | **Find Files in Attachments**                                                            |
 
 # Raspberry Pi

@@ -1,5 +1,5 @@
 #MTRN/2060 #Circuits 
-![[UNI 2022/MTRN2060/Attachments/MTRN2060 Strain Gauges and Amplifiers.pptx]]
+![MTRN2060 Strain Gauges and Amplifiers](Attachments/MTRN2060%20Strain%20Gauges%20and%20Amplifiers.pptx)
 
 **Stress (s)**: The instantaneous load applied to a specimen divided by its cross sectional area before any deformation. SI unit (MPa).
 
@@ -18,10 +18,10 @@ $E(GPa) = Stress/Strain$
 $v=-ε_{lateral}/ε_{axial}$
 
 # Elastic VS Plastic Deformation:
-![[UNI 2022/MTRN2060/Attachments/StressStrain.png]]
+![StressStrain](Attachments/StressStrain.png)
 
 ## Strain Gauges and Gauge Factor:
-![[UNI 2022/MTRN2060/Attachments/StrainGauge.png]]
+![StrainGauge](Attachments/StrainGauge.png)
 
 Gauge Factor relates resistance to strain in order to determine force applied to the strain gauge given a known area.
 
@@ -33,12 +33,12 @@ F = Gauge Factor
 
 # Strain Gauge Circuits:
 Wheatstone bridge:
-![[UNI 2022/MTRN2060/Attachments/Wheatstone.png]]
+![Wheatstone](Attachments/Wheatstone.png)
 
 R2 and R3 are high precision resistors of equal value.
 R4 is high precision pot. Adjust pot until VA = VB
 
-![[UNI 2022/MTRN2060/Attachments/Strain Gauge.png]]
+![Strain Gauge](Attachments/Strain%20Gauge.png)
 
 Above is a simple strain gauge, which relates force to resistance.
 
@@ -46,7 +46,7 @@ Above is a simple strain gauge, which relates force to resistance.
 •Calibrated strain gauges bonded to a deformable material.
 •Use Hooke’s Law s=Ee to convert strain to stress to force. E is modulus of elasticity
 •Used in scales and test equipment such as the one you will use in lab.
-![[UNI 2022/MTRN2060/Attachments/LoadCells.png]]
+![LoadCells](Attachments/LoadCells.png)
 
 # Operational Amplifiers - Op Amps:
 
@@ -62,8 +62,8 @@ Above is a simple strain gauge, which relates force to resistance.
 
 •We will only consider the ideal Op-Amp, which is not the same as the real Op-Amp
 
-![[UNI 2022/MTRN2060/Attachments/Op Amp.png]]
-![[UNI 2022/MTRN2060/Attachments/OpAmp2.png]]
+![Op Amp](Attachments/Op%20Amp.png)
+![OpAmp2](Attachments/OpAmp2.png)
 ## The Ideal Op Amp
 
 1. Infinite input impedance: I+ = I- = 0
@@ -73,19 +73,19 @@ Above is a simple strain gauge, which relates force to resistance.
 # Inverting Amp: 
 #Video 
 [https://youtu.be/vjY4ikMxwGw](https://youtu.be/vjY4ikMxwGw)
-![[UNI 2022/MTRN2060/Attachments/InvertingAmp.png]]
+![InvertingAmp](Attachments/InvertingAmp.png)
 
 # Non Inverting Amp:
 #Video 
 [https://youtu.be/gjfCGhaMttc](https://youtu.be/gjfCGhaMttc)
-![[UNI 2022/MTRN2060/Attachments/NonInvertingAmp.png]]
+![NonInvertingAmp](Attachments/NonInvertingAmp.png)
 
 # Summer Amp:
-![[UNI 2022/MTRN2060/Attachments/Summer Amp.png]]
+![Summer Amp](Attachments/Summer%20Amp.png)
 Superposition Principle: For a linear system, we can analyze the inputs separately and sum their results
 
 # Difference Amp:
-![[UNI 2022/MTRN2060/Attachments/Difference Amp.png]]
+![Difference Amp](Attachments/Difference%20Amp.png)
 When R1=R2=R,
 
 $V_{out}=Rf/R (V2-V1)$

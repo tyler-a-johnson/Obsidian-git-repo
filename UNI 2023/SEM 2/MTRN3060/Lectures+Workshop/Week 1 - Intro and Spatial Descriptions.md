@@ -1,7 +1,7 @@
 #MTRN/3060 
 
 **Slides:**
-[[Attachments/Week 1-iearn-1 1.pdf]]
+[Week 1-iearn-1 1](Attachments/Week%201-iearn-1%201.pdf)
 
 **Recent Robots:**
 Industrial robotics:
@@ -17,11 +17,11 @@ Hexapod Robot:
 http://www.youtube.com/watch?v=-uKIDyFMTyQ&feature=related
 
 # Description of position and orientation (chapter 2)
-![[Attachments/Pasted image 20230805210746.png]]
+![Pasted image 20230805210746](Attachments/Pasted%20image%2020230805210746.png)
 Coordinate systems or "frames" are attached to the manipulator and to objects in the environment.
 
 ## Kinematics
-![[Attachments/Pasted image 20230805211052.png]]
+![Pasted image 20230805211052](Attachments/Pasted%20image%2020230805211052.png)
 ```ad-note
 **Kinematics** is the science of motion that treats motion without regard to the forces which cause it.
 Within the science of kinematics, one studies position, velocity, acceleration, and all higher order derivatives of the position variables.
@@ -29,7 +29,7 @@ Within the science of kinematics, one studies position, velocity, acceleration, 
 ```
 
 ## Inverse Kinematics
-![[Attachments/Pasted image 20230805215311.png]]
+![Pasted image 20230805215311](Attachments/Pasted%20image%2020230805215311.png)
 ```ad-note
 Is used when we aim to use a given position and orientation of the end-effector of the manipulator to calculate all possible sets of joint angles that could be used to attain this given position and orientation.
 

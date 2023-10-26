@@ -4,7 +4,7 @@ tags:
   - ELEC/2005
 status: Complete
 Relevant Docs:
-  - "[[Attachments/ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED.pdf]]"
+  - "[ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED](Attachments/ELEC2005%20Week%205%20Lecture%20MOSFETs%20Part%201_2023_UPDATED.pdf)"
 Relevant Questions: []
 Relevant Notes: []
 ---
@@ -28,23 +28,23 @@ Relevant Notes: []
 
 ## Structure
 
-![[Attachments/Pasted image 20231002210216.png]]
+![Pasted image 20231002210216](Attachments/Pasted%20image%2020231002210216.png)
 
-![[Attachments/Pasted image 20231002210236.png]]
+![Pasted image 20231002210236](Attachments/Pasted%20image%2020231002210236.png)
 - **MOSFETs** consist of two PN Junctions
 	- Essentially two back to back diodes as shown
 - Diodes between drain and source prevent current when voltage $V_{DS}$ is applied
 	- Yields very high resistance ($10^{12}$ ohms)
 
 ### Creating a Channel
-![[Attachments/Pasted image 20231002210658.png]]
+![Pasted image 20231002210658](Attachments/Pasted%20image%2020231002210658.png)
 
 *What happens if (1) Source and drain are grounded and (2) positive voltage is applied to the gate*
 1. $V_{GS}$ is applied to the gate terminal, causing positive charge build-up along the metal electrode
 2. This charge buildup causes free holes to be repelled from region of p-type substrate under gate
 3. This migration results in the uncovering of negative bound charges, originally neutralized by the free holes
 4. The positive gate voltage also attracts electrons from the $n^+$ source and drain regions into the channel.
-![[Attachments/Pasted image 20231002211439.png]]
+![Pasted image 20231002211439](Attachments/Pasted%20image%2020231002211439.png)
 5. Once a sufficient number of electrons accumulate, an n-region is created between S and D. This allows current through the semiconductor
 
 
@@ -52,7 +52,7 @@ Relevant Notes: []
 
 ## Device Operation
 
-![[Attachments/Pasted image 20231002212203.png]]
+![Pasted image 20231002212203](Attachments/Pasted%20image%2020231002212203.png)
 
 - Channel is induced when **gate source voltage exceeds the threshold voltage** (Given, around 1V)
 - Additional voltage beyond the threshold point is the **overdrive**
@@ -85,17 +85,17 @@ Complimentary MOS (**CMOS**) Is the tech of both NMOS and PMOS on the same chip
 ## nMOSFETs
 ### nMOSFET Circuit Symbols
 
-![[Attachments/Pasted image 20231002212944.png]]
+![Pasted image 20231002212944](Attachments/Pasted%20image%2020231002212944.png)
 - Numerous circuit symbols used
 - There are four terminals: Drain (D), Gate (G), Body (B), and Source (S)
 
 ### Regions of Operation
-![[Attachments/Pasted image 20231002213343.png]]
-![[Attachments/Pasted image 20231002213643.png]]
-![[Attachments/Pasted image 20231002213719.png]]
-![[Attachments/Pasted image 20231002213736.png]]
+![Pasted image 20231002213343](Attachments/Pasted%20image%2020231002213343.png)
+![Pasted image 20231002213643](Attachments/Pasted%20image%2020231002213643.png)
+![Pasted image 20231002213719](Attachments/Pasted%20image%2020231002213719.png)
+![Pasted image 20231002213736](Attachments/Pasted%20image%2020231002213736.png)
 
-![[Attachments/Pasted image 20231002213954.png]]
+![Pasted image 20231002213954](Attachments/Pasted%20image%2020231002213954.png)
 **Triode Mode when**
 $$V_{DS}<V_{OV}$$
 
@@ -108,24 +108,24 @@ $$V_{DS}\geq V_{OV}$$
 
 
 ### MOSFET Example
-![[Attachments/Pasted image 20231002214207.png]]
-![[Attachments/Pasted image 20231002214257.png]]
-![[Attachments/Pasted image 20231002214314.png]]
-![[Attachments/Pasted image 20231002214338.png]]
-![[Attachments/Pasted image 20231002214354.png]]
+![Pasted image 20231002214207](Attachments/Pasted%20image%2020231002214207.png)
+![Pasted image 20231002214257](Attachments/Pasted%20image%2020231002214257.png)
+![Pasted image 20231002214314](Attachments/Pasted%20image%2020231002214314.png)
+![Pasted image 20231002214338](Attachments/Pasted%20image%2020231002214338.png)
+![Pasted image 20231002214354](Attachments/Pasted%20image%2020231002214354.png)
 
 ## pMOSFETs
 
 ### Circuit Symbols
-![[Attachments/Pasted image 20231002214522.png]]
-![[Attachments/Pasted image 20231002214612.png]]
+![Pasted image 20231002214522](Attachments/Pasted%20image%2020231002214522.png)
+![Pasted image 20231002214612](Attachments/Pasted%20image%2020231002214612.png)
 
 ### Operating Mode Voltages
-![[Attachments/Pasted image 20231002214659.png]]
+![Pasted image 20231002214659](Attachments/Pasted%20image%2020231002214659.png)
 
 ## Operating Mode Summary
 This is on the formula sheet
-![[Attachments/Pasted image 20231002214737.png]]
+![Pasted image 20231002214737](Attachments/Pasted%20image%2020231002214737.png)
 
 
 

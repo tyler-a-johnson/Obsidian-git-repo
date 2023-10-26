@@ -1,8 +1,8 @@
 #Communication/SignalProcessing #Communication #ELEC/2040 #UniNotes
 
 **Slides/Audio:**
-[[Attachments/Week 8 Laplace TF.pptx]]
-[[Attachments/Week 8 Laplace TF.pdf]]
+[Week 8 Laplace TF](Attachments/Week%208%20Laplace%20TF.pptx)
+[Week 8 Laplace TF](Attachments/Week%208%20Laplace%20TF.pdf)
 
 **Relevant Videos:**
 - [Laplace Transform Explained with an Example](https://youtu.be/wvs8jhW-Z1I)

@@ -14,7 +14,7 @@ $$Powerfactor=\frac{Activepower}{Apparentpower}$$
 There are two major terms are associated with the power factor of an AC circuit viz. **Lagging** and **Leading**. These two terms show the relation between the current and voltage in the circuit.
 
 # Leading
-![[Attachments/Leading Power Factor.png]]
+![Attachments/Leading Power Factor.png](Attachments/Leading%20Power%20Factor.png)
 
 In an AC system, when load current leads (or advances in phase) the supply voltage, then the load is said to have a **leading power factor**. *In practice, the **capacitive loads cause a leading power factor**, i.e. a leading power factor signifies that the load is capacitive as the load will deliver reactive power.*
 
@@ -23,7 +23,7 @@ The leading power factor can also be described as the load current that attains 
 
 # Lagging
 When the load current lags behind the supply voltage, then the load is said to have **lagging power factor**. In other words, power factor of the load is said to be lagging if the **current waveform is behind the voltage waveform**.
-![[Attachments/Lagging Power Factor.png]]
+![Lagging Power Factor](Attachments/Lagging%20Power%20Factor.png)
 The **lagging power factor of the load signifies that the load is inductive** and it will consume reactive power. The lagging power factor can also be described as the **load current that attains its peak value upto 90° later of the voltage**. In order to correct the lagging power factor capacitive loads are employed.
 
 # Difference between Leading and Lagging

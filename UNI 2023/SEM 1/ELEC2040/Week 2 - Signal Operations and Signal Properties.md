@@ -1,7 +1,7 @@
 #ELEC/2040 #Communication #Communication/SignalProcessing #UniNotes
 
 **Slides/Audio:**
-[[Attachments/Audio Book Week 2.pptx]]
+[Audio Book Week 2](Attachments/Audio%20Book%20Week%202.pptx)
 
 **Relevant Videos:**
 - [Shifting Functions](https://www.youtube.com/watch?v=mPo6LkaIKAY&feature=youtu.be)

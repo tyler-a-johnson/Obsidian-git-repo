@@ -6,7 +6,7 @@ Relevant Notes: []
 Relevant Links:
 ---
 **Ampere's Law:** Since a current produces and magnetic field, the line integral of magnetic field intensity H equals total enclosed current.
-![[Attachments/Pasted image 20231019221101.png]]
+![Pasted image 20231019221101](Attachments/Pasted%20image%2020231019221101.png)
 
 $\oint H * d l = \sum\limits i$     $\sum\limits_{k}H_{k}l_{k}=\sum\limits_{m}N_{m}i_{m}$
 	^ line integral of H

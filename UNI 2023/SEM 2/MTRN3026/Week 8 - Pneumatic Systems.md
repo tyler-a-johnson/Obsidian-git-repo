@@ -4,8 +4,8 @@ tags:
   - MTRN/3026
 status: Incomplete
 Relevant Docs:
-  - "[[Attachments/Week-8(Pneumatic system).pdf]]"
-  - "[[Attachments/pneumatics_system-notes.pdf]]"
+  - "[Week-8(Pneumatic system)](Attachments/Week-8(Pneumatic%20system).pdf)"
+  - "[pneumatics_system-notes](Attachments/pneumatics_system-notes.pdf)"
 Relevant Questions: 
 Relevant Notes: 
 Practical Docs: 
@@ -24,8 +24,8 @@ Relevant Links:
 **General Gas Law:** Combination of all is the general law $$\frac{p1V1}{T1}=\frac{p2V2}{T2}$$
 
 
-## [[Compressors - Gas]]
-![[Attachments/Pasted image 20231017160356.png]]
+## [Compressors - Gas](../../../Distilled%20Notes/Compressors%20-%20Gas.md)
+![Pasted image 20231017160356](Attachments/Pasted%20image%2020231017160356.png)
 Air capacity of air compressors are generally rated at atmospheric conditions. Equation used for the calculation is $$V1=\frac{p2*V2*T1}{p1*T2}$$
 Power required to drive compressors:
 $$kW Required = \frac{p_{in}Q}{17.1}[(p_{in}/p_{out})^{0.286}-1]$$
@@ -45,7 +45,7 @@ Pmax = Maximum pressure in reservoir (kPa)
 Pmin = Minimum pressure level in reservoir (kPa)
 
 ## Typical Pneumatic System
-![[Attachments/Pasted image 20231017180316.png]]
+![Pasted image 20231017180316](Attachments/Pasted%20image%2020231017180316.png)
 
 **Actuating systems:** Either it can be manual or solenoid based
 
@@ -89,9 +89,9 @@ $1,000,000$ Ba (bayre)
 750.06 Torr
 1019.72 Centimetres of water (cmH2O)
 
-## [[Compressors - Gas]]
+## [Compressors - Gas](../../../Distilled%20Notes/Compressors%20-%20Gas.md)
 Compresses gas from a low inlet pressure (usually atmosphere) to a higher desired pressure. This is done with a cam and piston to physically compress the gas.
-![[Attachments/Pasted image 20231017160356.png]]
+![Pasted image 20231017160356](Attachments/Pasted%20image%2020231017160356.png)
 Air capacity of air compressors are generally rated at atmospheric conditions. Equation used for the calculation is $$V1=\frac{p2*V2*T1}{p1*T2}$$
 Power required to drive compressors:
 $$kW Required = \frac{p_{in}Q}{17.1}[(p_{in}/p_{out})^{0.286}-1]$$
@@ -100,8 +100,8 @@ $p_{out}$ is the outlet atmospheric pressure (psia, kPa abs)
 $Q$ is the flow rate (SCFM. standard m3/min)'
 
 ### Air Filter
-![[Attachments/Pasted image 20231017161939.png|600]]
-![[Attachments/Pasted image 20231017160958.png|300]]
+![600](Attachments/Pasted%20image%2020231017161939.png)
+![300](Attachments/Pasted%20image%2020231017160958.png)
 Inlet air is filtered before use. Air needs to be free of moisture and contamination. (5 micron filter or less)
 
 **Particulate Matter, or PM**: Term for particles found in the air, including *dust, dirt, soot, smoke, and liquid droplets.* Particles can be suspended in the air for long periods. Some can get so small you need an electron microscope.
@@ -121,29 +121,29 @@ Pmin = Minimum pressure level in reservoir (kPa)
 ## Pneumatic System Components
 
 **Air pressure regulator:** Used to adjust the pressure of the pneumatic system.
-![[Attachments/Pasted image 20231017174439.png]]
+![Pasted image 20231017174439](Attachments/Pasted%20image%2020231017174439.png)
 
 **Air Lubricator:** Ensures proper lubrication of the system
-![[Attachments/Pasted image 20231017174548.png]]
+![Pasted image 20231017174548](Attachments/Pasted%20image%2020231017174548.png)
 
 **Air service unit:** The function is to ensure preparation of optimum compressed air for a specific pneumatic system.
-![[Attachments/Pasted image 20231017174701.png]]
-![[Attachments/Pasted image 20231017174709.png]]
+![Pasted image 20231017174701](Attachments/Pasted%20image%2020231017174701.png)
+![Pasted image 20231017174709](Attachments/Pasted%20image%2020231017174709.png)
 
 **Pneumatic Silencer:** A silencer may be used to decrease the noise in the outlet of valves. Usually they are made from porous plastic or bronze.
-![[Attachments/Pasted image 20231017175232.png]]
+![Pasted image 20231017175232](Attachments/Pasted%20image%2020231017175232.png)
 
 **Pneumatic Cylinder:** The cylinders convert energy of the compressed air into linear motion which extend or retract the piston rod.
-![[Attachments/Pasted image 20231017175339.png|800]]
-![[Attachments/Pasted image 20231017175408.png|600]]
+![800](Attachments/Pasted%20image%2020231017175339.png)
+![600](Attachments/Pasted%20image%2020231017175408.png)
 **Pneumatic Rotary Actuator:** Convert energy of the compressed air into rotary motion. Most of them are Vain air monitor.
-![[Attachments/Pasted image 20231017175607.png]]
+![Pasted image 20231017175607](Attachments/Pasted%20image%2020231017175607.png)
 
 **Pneumatic Valves:** The valves are used to control flow, pressure and direction of airflow.
-![[Attachments/Pasted image 20231017175701.png]]
+![Pasted image 20231017175701](Attachments/Pasted%20image%2020231017175701.png)
 
 ### Pipes
-![[Attachments/Pasted image 20231017175740.png]]
+![Pasted image 20231017175740](Attachments/Pasted%20image%2020231017175740.png)
 **Pipe materials and size:** Air systems are normally plumbed with Schedule 40 black iron pipe. (*galvanized pipe is not recommended because some galvanizing material may flake off and get into moving parts*)
 Several other available plumbing materials could be used for air piping because pressure us relatively low.
 
@@ -151,7 +151,7 @@ Some mechanics recommend plastic pipe, but be aware a few synthetic compressor l
 *Never use any piping material not specifically designate by code.*
 
 ## Typical Pneumatic System
-![[Attachments/Pasted image 20231017180316.png]]
+![Pasted image 20231017180316](Attachments/Pasted%20image%2020231017180316.png)
 
 **Actuating systems:** Either it can be manual or solenoid based
 
@@ -179,27 +179,27 @@ $$c = \frac{0.1205}{d^{31}}$$
 • **Cylinders can be drawn to show their extreme or intermediate positions of stroke** and any length above their width 
 • **Valves show all states in the one symbol.** The prevailing state is shown with the port connections 
 • **Other components are single state symbols**
-![[Attachments/Pasted image 20231017181225.png|500]]
-![[Attachments/Pasted image 20231017181250.png||600]]
-![[Attachments/Pasted image 20231017181313.png|700]]
-![[Attachments/Pasted image 20231017181403.png]]
+![500](Attachments/Pasted%20image%2020231017181225.png)
+![|600](Attachments/Pasted%20image%2020231017181250.png)
+![700](Attachments/Pasted%20image%2020231017181313.png)
+![Pasted image 20231017181403](Attachments/Pasted%20image%2020231017181403.png)
 #todo Find higher rez
 
 
 **Symbols single acting actuators**
-![[Attachments/Pasted image 20231017181459.png]]
+![Pasted image 20231017181459](Attachments/Pasted%20image%2020231017181459.png)
 
 **Symbols double acting actuators**
-![[Attachments/Pasted image 20231017181531.png]]
+![Pasted image 20231017181531](Attachments/Pasted%20image%2020231017181531.png)
 
 **Symbols rotary actuators**
-![[Attachments/Pasted image 20231017181559.png]]
+![Pasted image 20231017181559](Attachments/Pasted%20image%2020231017181559.png)
 - Semi-rotary double acting
 - Rotary motor single direction of rotation
 - Rotary motor bi-directional
 
 **Symbols valves**
-![[Attachments/Pasted image 20231017181655.png]]
+![Pasted image 20231017181655](Attachments/Pasted%20image%2020231017181655.png)
 - 2/2 Valve Push button / spring
 - 3/3 Valve Push button / spring
 - 3/2 Valve lever operated
@@ -211,9 +211,9 @@ A valve function is known by a pair of numbers e.g. 3/2. This indicates the valv
 - Port numbering is to CETOP RP68P and shows:
 	- When valve is operated at the 12 end port 1 is connected to port 2
 	- When reset to the normal state at the 10 end port 1 is connected to nothing (0); port 3 is connected to port 2.
-![[Attachments/Pasted image 20231017182041.png]]
+![Pasted image 20231017182041](Attachments/Pasted%20image%2020231017182041.png)
 **Example 2**
-![[Attachments/Pasted image 20231017182323.png]]
+![Pasted image 20231017182323](Attachments/Pasted%20image%2020231017182323.png)
 - This is a 5/2 valve
 - This has 5 main ports and 2 states
 - When the valve is operated at the 14 end port 1 is connected to port 4 (port 2 is connected to port 3)
@@ -221,26 +221,26 @@ A valve function is known by a pair of numbers e.g. 3/2. This indicates the valv
 
 
 **Example 3**
-![[Attachments/Pasted image 20231017182405.png]]
+![Pasted image 20231017182405](Attachments/Pasted%20image%2020231017182405.png)
 • This example is for a 5/2 valve 
 • This has 5 main ports and 2 states 
 • When the valve is operated at the 14 end port 1 is connected to port 4 (also port 2 is connected to port 3)
 • When reset to the normal state at the 12 end port 1 is connected to port 2 (also port 4 is connected to port 5)
 
 **Example 5/3 Valves**
-![[Attachments/Pasted image 20231017182457.png]]
+![Pasted image 20231017182457](Attachments/Pasted%20image%2020231017182457.png)
 
 ## Symbol Operators
 ### Manual
-![[Attachments/Pasted image 20231017182523.png]]
+![Pasted image 20231017182523](Attachments/Pasted%20image%2020231017182523.png)
 ### Mechanical
-![[Attachments/Pasted image 20231017182552.png]]
+![Pasted image 20231017182552](Attachments/Pasted%20image%2020231017182552.png)
 
 ### Function Components
-![[Attachments/Pasted image 20231017182633.png]]
+![Pasted image 20231017182633](Attachments/Pasted%20image%2020231017182633.png)
 
 ### Air Line Equipment
-![[Attachments/Pasted image 20231017182652.png]]
+![Pasted image 20231017182652](Attachments/Pasted%20image%2020231017182652.png)
 
 ### Component Identification
 The ISO suggested component numbering system is suited for large circuits and those drawn on several pages 
@@ -250,10 +250,10 @@ The ISO suggested component numbering system is suited for large circuits and th
 • For cylinder B: b0 and b1
 
 *Note: the a0 valve symbol is drawn in the operated position because the actuator A is unstroked*
-![[Attachments/Pasted image 20231017192630.png]]
+![Pasted image 20231017192630](Attachments/Pasted%20image%2020231017192630.png)
 
 ### Example Circuit
-![[Attachments/Pasted image 20231017192708.png]]
+![Pasted image 20231017192708](Attachments/Pasted%20image%2020231017192708.png)
 
 
 ## 2/2 Valve Control

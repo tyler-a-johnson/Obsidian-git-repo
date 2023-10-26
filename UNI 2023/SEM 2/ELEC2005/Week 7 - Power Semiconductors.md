@@ -4,7 +4,7 @@ tags:
   - "#ELEC/2005"
 status: Complete
 Relevant Docs:
-  - "[[Attachments/ELEC2005 Week 7 Lecture Power Semiconductors_2023_UPDATED.pdf]]"
+  - "[ELEC2005 Week 7 Lecture Power Semiconductors_2023_UPDATED](Attachments/ELEC2005%20Week%207%20Lecture%20Power%20Semiconductors_2023_UPDATED.pdf)"
 Relevant Questions: []
 Relevant Notes: []
 Practical Docs: 
@@ -21,11 +21,11 @@ Relevant Links:
 	- No switching delay, no voltage drop across the switch
 	- No voltage or current limit
 
-![[Attachments/Pasted image 20231002232218.png]]
+![Pasted image 20231002232218](Attachments/Pasted%20image%2020231002232218.png)
 
 ## Power Diodes
 Power diodes differ from signal diodes in their construction, instead of a simple PN junction, there are extra layers with different doping
-![[Attachments/Pasted image 20231002232501.png]]
+![Pasted image 20231002232501](Attachments/Pasted%20image%2020231002232501.png)
 
 ### Parameters
 - Diodes have several key parameters, some of which are constant and some which vary with condition
@@ -40,7 +40,7 @@ Power diodes differ from signal diodes in their construction, instead of a simpl
 - There is an **additional charge** $Q_\pi$ that needs to be supplied to complete turn-off. The diode conducts a **negative current for duration** $t_\pi$ .
 - Known as **Reverse Recovery**
 - Power diodes are classified based on their reverse recovery characteristics. General/Fast-Recovery/Shottky
-![[Attachments/Pasted image 20231002234146.png]]
+![Pasted image 20231002234146](Attachments/Pasted%20image%2020231002234146.png)
 
 ### Diode Types
 
@@ -73,14 +73,14 @@ Power diodes differ from signal diodes in their construction, instead of a simpl
 - BJTs can be used for amplifiers and switches
 - For **power switching** applications the **cut-off and saturation regions** are used
 - Similar to power diodes **high power rated BJTs have an additional n-region**
-![[Attachments/Pasted image 20231002234623.png]]
+![Pasted image 20231002234623](Attachments/Pasted%20image%2020231002234623.png)
 - Generally superseded by other tech. Cheaper than MOSFETs
 - Used in output stages of audio amps, touch sensitive switches, computer controlled relays, low power AC/DC supplies
 
 ### Circuit Configs
 - Usually used in the common emitter configuration
 - To handle higher switching currents a darlington pair/triple darlington config can be used.
-![[Attachments/Pasted image 20231002234843.png]]
+![Pasted image 20231002234843](Attachments/Pasted%20image%2020231002234843.png)
 - This config can be generally treated just like a single transistor but with
 $$\beta_{Darlington} = \beta_{1}*\beta_{2} +\beta_{1}+\beta_{2}$$
 
@@ -97,7 +97,7 @@ $$V_{BE} = V_{BE1}+V_{BE2}$$
 - Often low gain
 - Commonly used for "low voltage" switching (<200V)
 ### Structure
-![[Attachments/Pasted image 20231002235746.png]]
+![Pasted image 20231002235746](Attachments/Pasted%20image%2020231002235746.png)
 
 - Made using silicon and fabricated as a vertical diffused MOS structure
 - Source is above the drain, current flow is primarily vertical
@@ -115,14 +115,14 @@ $$V_{BE} = V_{BE1}+V_{BE2}$$
 ## IGBT (Insulated Gate Bipolar Transistor)
 - Combine the ease of control of a MOSFET even at higher voltages (>200V)
 - Circuit symbol is similar to BJT but with an extra line
-![[Attachments/Pasted image 20231003000530.png]]
+![Pasted image 20231003000530](Attachments/Pasted%20image%2020231003000530.png)
 
 ### Parameters
 - Voltage ratings up to ~5kV and current ratings up to ~2000A
 - Most commercial designs do not block reverse polarity voltages
 - Typically used for converters over a wide power range (1kW up to >1MW)
 - Used in motor drive circuits, UPS, induction cooktops
-![[Attachments/Pasted image 20231003000726.png]]
+![Pasted image 20231003000726](Attachments/Pasted%20image%2020231003000726.png)
 
 ## Thyristors
 - Four layer semiconductor devices with alternating doping region e.g. PNPN
@@ -131,7 +131,7 @@ $$V_{BE} = V_{BE1}+V_{BE2}$$
 - Various types of thyristors are available. Most common is the **Silicon Controlled Rectifier** (SCR)
 - Work as a **bistable switch**, **conducting when there is a current trigger at the gate**, *they keep conducting until a reverse bias is applied.*
 - *Only a short pulse is needed to turn diode on*
-![[Attachments/Pasted image 20231003001222.png]]
+![Pasted image 20231003001222](Attachments/Pasted%20image%2020231003001222.png)
 - SCR is the most common type of Thyristor
 - Like a modified diode, SCRs are unidirectional they only conduct current in one direction
 
@@ -145,17 +145,17 @@ SCRs are typically used in medium-high voltage control (power regulator light di
 - Provides additional control
 - GTO the gate can be used to turn off the device (unlike with a regular SCR)
 - Requires a negative signal at the gate to turn-off
-- Has the drawback of long switch off times, use for low switching speed (up to 1kHz) - can use a [[Snubber Circuit]] to reduce turn off time.
+- Has the drawback of long switch off times, use for low switching speed (up to 1kHz) - can use a [Snubber Circuit](../../../Distilled%20Notes/Snubber%20Circuit.md) to reduce turn off time.
 - Applications include high speed motor drives and high power inverters
-![[Attachments/Pasted image 20231003002231.png]]
+![Pasted image 20231003002231](Attachments/Pasted%20image%2020231003002231.png)
 
 
 ### MOS Controlled Thyristors (MCT)
 - Essentially consisting of a thyristor with two MOSFETs built into the gate
 - These MOSFETs are used to turn the gate on and off
 - A negative pulse (relative to anode) turns the device on
-![[Attachments/Pasted image 20231003002546.png]]
-![[Attachments/Pasted image 20231003002604.png]]
+![Pasted image 20231003002546](Attachments/Pasted%20image%2020231003002546.png)
+![Pasted image 20231003002604](Attachments/Pasted%20image%2020231003002604.png)
 MCTs offer
 - Low forward conduction loss
 - Fast switching
@@ -165,11 +165,11 @@ MCTs offer
 ## Summary
 - Wide range of devices exist
 - Consider Voltage Rating, Current Rating, Frequency, Efficiency, Cost
-![[Attachments/Pasted image 20231003002831.png]]
+![Pasted image 20231003002831](Attachments/Pasted%20image%2020231003002831.png)
 
 
 ## Relative Graph
-![[Attachments/Pasted image 20231003002913.png]]
+![Pasted image 20231003002913](Attachments/Pasted%20image%2020231003002913.png)
 
 
 # Maths

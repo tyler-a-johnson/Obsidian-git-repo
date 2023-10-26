@@ -8,4 +8,4 @@ Relevant Links:
 
 
 # Pushbuttons
-![[Attachments/Pasted image 20230920000442.png]]
+![Pasted image 20230920000442](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230920000442.png)

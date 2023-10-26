@@ -4,7 +4,7 @@ tags:
   - "#MTRN/3060"
 status: Incomplete
 Relevant Docs:
-  - "[[Attachments/Week 10, Lecture workshop.pdf]]"
+  - "[Week 10, Lecture workshop](Attachments/Week%2010,%20Lecture%20workshop.pdf)"
 Relevant Questions: []
 Relevant Notes: []
 Practical Docs: 
@@ -46,22 +46,22 @@ Relevant Links:
 
 **Cat 4: Robot For Social Interaction**
 Useful for:
-![[Attachments/Pasted image 20231012133349.png]]
+![Pasted image 20231012133349](Attachments/Pasted%20image%2020231012133349.png)
 
 
 ## Define Human Robot Integration (HRI)
 
 **Levels of Control**
-![[Attachments/Pasted image 20231012134808.png]]
+![Pasted image 20231012134808](Attachments/Pasted%20image%2020231012134808.png)
 
 **Levels of Autonomy**
-![[Attachments/Pasted image 20231012134840.png]]
+![Pasted image 20231012134840](Attachments/Pasted%20image%2020231012134840.png)
 **The measures of efficacy of an interaction**
 - The way in which the information exchange supports the human situational awareness of that system and of the progress through the task.
 - The extent to which the interface and information exchange can enable a common ground or understanding.
 
 ### Attributes Affecting HRI
-![[Attachments/Pasted image 20231012135233.png]]
+![Pasted image 20231012135233](Attachments/Pasted%20image%2020231012135233.png)
 **Information Exchange between Human and Robot**
 
 
@@ -72,10 +72,10 @@ Useful for:
 | Gestures        | Nonspeech audio       | Haptics       |
 
 **Structure of the Team**
-![[Attachments/Pasted image 20231012135618.png]]
+![Pasted image 20231012135618](Attachments/Pasted%20image%2020231012135618.png)
 
 **Adaptation, Learning and Training**
-![[Attachments/Pasted image 20231012135727.png]]
+![Pasted image 20231012135727](Attachments/Pasted%20image%2020231012135727.png)
 
 **Shaping the task and environment**
 
@@ -94,7 +94,7 @@ Introducing tech fundamentally changes the way that humans do tasks that they mi
 ## Metrics for Human-Robot Interaction (HRI)
 - Metrics help determine how and to what extent a system is compatible with people who interact with it through its design and life cycle.
 - *The human-robot interaction community has not reached a strong consensus on standard metrics or benchmarks*
-![[Attachments/Pasted image 20231012140244.png]]
+![Pasted image 20231012140244](Attachments/Pasted%20image%2020231012140244.png)
 
 
 ## Singularity

@@ -4,7 +4,7 @@ tags:
   - "#ELEC/2005"
 status: Incomplete
 Relevant Docs:
-  - "[[Attachments/ELEC2005 Lecture 9 - Three-Phase Systems_ANNOTATED.pdf]]"
+  - "[ELEC2005 Lecture 9 - Three-Phase Systems_ANNOTATED](Attachments/ELEC2005%20Lecture%209%20-%20Three-Phase%20Systems_ANNOTATED.pdf)"
 Relevant Questions: []
 Relevant Notes: []
 Practical Docs: 
@@ -13,7 +13,7 @@ Relevant Links:
 # Maths and Distilled Info
 ---
 ## Balanced 3 Phase Circuits
-![[Attachments/Pasted image 20231005235423.png]]
+![Pasted image 20231005235423](Attachments/Pasted%20image%2020231005235423.png)
 $$\bar{E}_{an}=Ee^{j0}$$
 $$\bar{E}_{bn}=Ee^{-j \frac{2}{3} \pi}$$
 $$\bar{E}_{cn}= Ee^{j \frac{2}{3}\pi}$$
@@ -24,7 +24,7 @@ $$Z_{AN}=Z_{BN}=Z_{CN}=Z_{Y}$$
 	- Equal impedance on the lines connecting the generators to the loads
 
 ## Line to Neutral and Line to Line Voltages
-![[Attachments/Pasted image 20231006000226.png]]
+![Pasted image 20231006000226](Attachments/Pasted%20image%2020231006000226.png)
 
 | Balanced line to neutral voltages       | Balanced line to line voltages                                                         |
 | --------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -32,10 +32,10 @@ $$Z_{AN}=Z_{BN}=Z_{CN}=Z_{Y}$$
 | $\bar{E}_{bn}=Ee^{-j \frac{2}{3} \pi}$  | $\bar{V}_{bc}=\bar{E}_{bn}-\bar{E}_{cn} = \sqrt{3}\bar{E}_{bn}e^{j \frac{\pi}{6}}$     |
 | $\bar{E}_{cn} = Ee^{j \frac{2}{3} \pi}$ | $\bar{V}_{ca}= \bar{E}_{cn} - \bar{E}_{an} = \sqrt{3}\bar{E}_{cn}e^{j \frac{\pi}{6}}$                                                                                        |
 
-![[Attachments/Pasted image 20231006001213.png]]
+![Pasted image 20231006001213](Attachments/Pasted%20image%2020231006001213.png)
 
 ### Balanced Line to Neutral Voltages
-![[Attachments/Pasted image 20231006001339.png]]
+![Pasted image 20231006001339](Attachments/Pasted%20image%2020231006001339.png)
 **Balanced Conditions:**
 $$\bar{E}_{an}+\bar{E}_{bn}+\bar{E}_{cn}= 0$$
 
@@ -44,8 +44,8 @@ $$\bar{V}_{ab}+\bar{V}_{bc}+ \bar{V}_{ca}= 0$$
 Sum of line to line voltage is **always zero**.
 
 ### Balanced Line Currents
-![[Attachments/Pasted image 20231006001657.png]]
-![[Attachments/Pasted image 20231006001709.png]]
+![Pasted image 20231006001657](Attachments/Pasted%20image%2020231006001657.png)
+![Pasted image 20231006001709](Attachments/Pasted%20image%2020231006001709.png)
 $$\bar{I}_{a} = \frac{\bar{E}_{an}}{Z_{Y}}, \bar{I}_{b}= \frac{\bar{E}_{bn}}{Z_{Y}},\bar{I}_{c}=\frac{\bar{E}_{cn}}{Z_{Y}}$$
 
 **KCL** node N : $\bar{I}_{a}+\bar{I}_{b}+\bar{I}_{c}-\bar{I}_{N}=0$
@@ -53,19 +53,19 @@ $$\bar{I}_{a} = \frac{\bar{E}_{an}}{Z_{Y}}, \bar{I}_{b}= \frac{\bar{E}_{bn}}{Z_{
 
 
 ### Balanced $\Delta$ loads
-![[Attachments/Pasted image 20231006002846.png]]
+![Pasted image 20231006002846](Attachments/Pasted%20image%2020231006002846.png)
 **Load** currents under balanced conditions:
 $$\bar{I}_{AB}= \frac{\bar{V}_{AB}}{Z\Delta}, \bar{I}_{BC}= \frac{\bar{V}_{BC}}{Z\Delta},\bar{I}_{CA}= \frac{\bar{V}_{CA}}{Z \Delta}$$
 **Line** current equations:
 *KCL (A)*: $\bar{I}_{a}=\bar{I}_{AB}-\bar{I}_{CA}=\sqrt{3}\bar{I}_{AB}e^{-j \frac{\pi}{6}}$
 *KCL (B)*: $\bar{I}_{b} = \bar{I}_{BC}-\bar{I}_{AB}=\sqrt{3}\bar{I}_{BC}e^{-j \frac{\pi}{6}}$
 *KCL (C)*: $\bar{I}_{c}=\bar{I}_{CA}-\bar{I}_{BC}=\sqrt{3}\bar{I}_{CA}e^{-j \frac{\pi}{6}}$
-![[Attachments/Pasted image 20231006003624.png]]
-![[Attachments/Pasted image 20231006003821.png]]
+![Pasted image 20231006003624](Attachments/Pasted%20image%2020231006003624.png)
+![Pasted image 20231006003821](Attachments/Pasted%20image%2020231006003821.png)
 
 
 ## $\Delta$ - Y Conversion for Balanced Loads
-![[Attachments/Pasted image 20231006003953.png]]
+![Pasted image 20231006003953](Attachments/Pasted%20image%2020231006003953.png)
 Posing equality of **line** currents for the circuit on the left and on the right:
 $$\bar{I}_{a}= \frac{\bar{E}_{an}}{Z_{Y}}=\frac{\bar{V}_{AB}}{\sqrt{3}Z_{Y}}e^{-j \frac{\pi}{6}}$$
 $$\bar{I}_{a}= \sqrt{3}_{AB}e^{-j \frac{\pi}{6}}= \sqrt{3} \frac{\bar{V}_{AB}}{Z \Delta}e^{-j \frac{\pi}{6}}$$
@@ -76,7 +76,7 @@ $\bar{I}_{a}$ is the same in both circuits if: $Z_{Y}=\frac{Z \Delta}{3}$
 
 ### Instantaneous Power
 Instantaneous power for phase a:
-![[Attachments/Pasted image 20231006005034.png||600]]
+![|600](Attachments/Pasted%20image%2020231006005034.png)
 $$v_{an}(t) = \sqrt{2}V_{LN}\cos(\omega t + \delta)$$
 $$i_{a}(t) = \sqrt{2}I\cos(\omega t + \beta)$$
 $$p_{a}(t) = v_{an}(t)i_{a}(t)$$
@@ -94,7 +94,7 @@ $3 \phi$ is instant. **POWER IS NOT A FUNCTION OF TIME**
 ### Complex Power
 
 #### Complex power in balanced $3 \phi$ Connected Circuits
-![[Attachments/Pasted image 20231006010325.png|600]]
+![600](Attachments/Pasted%20image%2020231006010325.png)
 **Complex Power for Phase A:**
 $$\bar{V}_{an}=V_{LN}e^{j \delta},\bar{I}_{a}=Ie^{j \beta}$$
 $$\bar{S}_{a}=\bar{V}_{an}\bar{I}_{a}*=V_{LN}e^{j \delta}Ie^{-j \beta}=V_{LN}Ie^{j(\delta-\beta)}$$
@@ -113,7 +113,7 @@ $$|\bar{S}_{3\phi}| = S_{3\phi}= \sqrt{P_{3\phi}^{2}+P_{3\phi}^{2}}=3V_{LN}I=\sq
 
 
 #### Complex power in balanced $3 \phi$ $\Delta$ connected circuits
-![[Attachments/Pasted image 20231006012210.png|600]]
+![600](Attachments/Pasted%20image%2020231006012210.png)
 $$\bar{V}_{ab}$$
 
 
@@ -128,7 +128,7 @@ $$\bar{V}_{ab}$$
 - 3 phase machines use less material for same power rating
 - 3 phase machines start more easily than 1phase machines
 
-![[Attachments/Pasted image 20231005234924.png]]
+![Pasted image 20231005234924](Attachments/Pasted%20image%2020231005234924.png)
 - **Balanced 3 phase circuit has**
 	- 3 voltage sources with equal magnitude, but with an angle shift of $120 \degree$ 
 	- Equal loads on each phase
@@ -143,7 +143,7 @@ With balanced three-phase circuits, only one phase needs to be analysed.
 - All source and load neutrals connected with a zero ohm neutral wire without changing the solution
 - One phase of the circuit can be solved
 	- Voltage and current in remaining phases are equal in magnitude and $\pm 120 \degree$ out of phase with those of the phase solved.
-![[Attachments/Pasted image 20231006004750.png]]
+![Pasted image 20231006004750](Attachments/Pasted%20image%2020231006004750.png)
 
 
 

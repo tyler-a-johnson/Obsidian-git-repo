@@ -1,17 +1,17 @@
  #Circuits #ELEC/2070 #Communication #UniNotes 
  
 **Slides:**
-[[Attachments/ELEC2070 Week 2 2023 Power Transfer and Energy Storage Elements.pdf]]
+[ELEC2070 Week 2 2023 Power Transfer and Energy Storage Elements](Attachments/ELEC2070%20Week%202%202023%20Power%20Transfer%20and%20Energy%20Storage%20Elements.pdf)
 
 # Instantaneous Power
-![[Attachments/Pasted image 20230305214159.png]]
+![Pasted image 20230305214159](Attachments/Pasted%20image%2020230305214159.png)
 $$p(t) = v(t) * i(t)$$ Power is measured in Watts (W)
 
-![[Attachments/Pasted image 20230305214247.png]]
+![Pasted image 20230305214247](Attachments/Pasted%20image%2020230305214247.png)
 
 ## Power has direction
 Current has direction relative to voltage
-![[Attachments/Pasted image 20230305214447.png]]
+![Pasted image 20230305214447](Attachments/Pasted%20image%2020230305214447.png)
 
 In this example power is transferred from left to right (assuming voltage and current are positive in the direction shown).
 
@@ -32,7 +32,7 @@ They can also be the two parts of the same circuit.
 **We can calculate power transferred from any part to any other part if we know the voltage and the current at the intersection between the 2 circuits.**
 
 # Employing our other equivalent circuits
-![[Attachments/Pasted image 20230305215221.png]]
+![Pasted image 20230305215221](Attachments/Pasted%20image%2020230305215221.png)
 
 To find the power received by R we need to know its voltage and current but not the other voltages and currents in the circuit.
 
@@ -42,7 +42,7 @@ If there are current or voltage sources in the rest of the circuit, we can use T
 
 ## Example
 **Question: Find power transferred to R (=16 ohms)**
-![[Attachments/Pasted image 20230305225524.png]]
+![Pasted image 20230305225524](Attachments/Pasted%20image%2020230305225524.png)
 Connect the equivalent circuit to R
 
 Use voltage divider rule: $v = \frac{R}{R+R_{t}}= 32V$
@@ -51,8 +51,8 @@ Next use Ohm's Law to find Current: $i = \frac{v_{oc}}{R+R_{t}}= 2A$
 Therefore the transferred power is: $p = 64W$
 
 # Maximum Power Transfer
-![[Attachments/Pasted image 20230307120815.png|400]]
-![[Attachments/Pasted image 20230306000948.png|400]]
+![400](Attachments/Pasted%20image%2020230307120815.png)
+![400](Attachments/Pasted%20image%2020230306000948.png)
 
 **We want to find the value of $R_l$ that results in the maximum power delivered to it.
 
@@ -69,21 +69,21 @@ Now the maximum power is when $\frac{\Delta p}{\Delta R_{L}}=0$ Or
 $$(R_{t}+ R_{L})^{2} -2(R_{t}+ R_{L})R_{L} = 0$$$$R_{L}=R_{t}$$A component connected to a circuit will receive the maximum power from Circuit A when its resistance is equal to the Thevenin Resistance of Circuit A.
 
 ## Maximum Power Transfer
-![[Attachments/Pasted image 20230313152411.png]]
+![Pasted image 20230313152411](Attachments/Pasted%20image%2020230313152411.png)
 Since the power is given by : $p =(\frac{v_{s}}{R_{t}+R_{L}})^{2}R_{L}$
 Substituting $R_{L}=R_{t}$ we get the maximum power $p_{max} = \frac{v_{s}^{2}}{4R_t}$
 
 Using $R_{L}= R_{t}$ and $R_{t}= \frac{v_{oc}}{i_{sc}}$
 
 You can calculate the following (and more)
-![[Attachments/Pasted image 20230313152358.png]]
+![Pasted image 20230313152358](Attachments/Pasted%20image%2020230313152358.png)
 
 You can also use this to find the max possible power a circuit can supply. *Maximum available power*
 
 ## Example Problems
-![[Attachments/Pasted image 20230313152514.png]]
-![[Attachments/Pasted image 20230313152526.png]]
-![[Attachments/Pasted image 20230313152542.png]]
+![Pasted image 20230313152514](Attachments/Pasted%20image%2020230313152514.png)
+![Pasted image 20230313152526](Attachments/Pasted%20image%2020230313152526.png)
+![Pasted image 20230313152542](Attachments/Pasted%20image%2020230313152542.png)
 
 # Energy Storage Elements
 - *Capacitors* and *Inductors* store energy (as opposed to resistors which dissipate energy) - they are PASSIVE elements.
@@ -94,7 +94,7 @@ You can also use this to find the max possible power a circuit can supply. *Maxi
 - Signals can be integrated or differentiated using circuits that contain capacitors or inductors
 - 
 ## Capacitors
-![[Attachments/Pasted image 20230313153122.png]]
+![Pasted image 20230313153122](Attachments/Pasted%20image%2020230313153122.png)
 > Capacitors ONLY let current pass if there is a change in voltage
 
 A capacitor is a two terminal element which can be modelled as two parallel conducting plates separated by a non-conducting **dielectric** material. Electric charge is stored on the plates and in the electric field.
@@ -107,7 +107,7 @@ $\varepsilon_0$ = Permittivity of free space ($\varepsilon = 8.854 pF/m$)
 $d$ = Distance between plates
 
 ## Energy is Stored in the Electric Field between the Plates
-![[Attachments/Pasted image 20230313153718.png]]
+![Pasted image 20230313153718](Attachments/Pasted%20image%2020230313153718.png)
 
 **Reference Link: www.physics.sjsu.edu/becker/physics51/capacitors.htm**
 

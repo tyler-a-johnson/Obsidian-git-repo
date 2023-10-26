@@ -3,7 +3,7 @@ date: 2023-10-19
 tags: 
 status: Incomplete
 Relevant Docs:
-  - "[[Attachments/wk10 2023.pdf]]"
+  - "[wk10 2023](Attachments/wk10%202023.pdf)"
 Relevant Questions: 
 Relevant Notes: 
 Practical Docs: 
@@ -19,12 +19,12 @@ Relevant Links:
 
 ## Basics
 
-![[Right Hand Rule]]
+![Right Hand Rule](../../../Distilled%20Notes/Right%20Hand%20Rule.md)
 
-![[Amperes Law]]
+![Amperes Law](../../../Distilled%20Notes/Amperes%20Law.md)
 
 ## Magnetic field intensity H, field density B, flux $\Phi$
-![[Attachments/Pasted image 20231019221649.png]]
+![Pasted image 20231019221649](../../../Distilled%20Notes/Attachments/Pasted%20image%2020231019221649.png)
 Flux density (magnetic induction) or B-Field
 
 $$B = \mu H = \mu_{0}\mu_{r}H$$
@@ -32,25 +32,25 @@ $$B = \mu H = \mu_{0}\mu_{r}H$$
 $\mu$ = Magnetic Permeability (material)
 $\mu_{0}$ = Air Permeability
 $\mu_r$ = Relative Permeability
-![[Attachments/Pasted image 20231019221927.png]]
+![Pasted image 20231019221927](../../../Distilled%20Notes/Attachments/Pasted%20image%2020231019221927.png)
 
 
 Flux is the amount of B passing through and area $A_c$
 $$\Phi=\int \int_{A_{c}} B*dA$$
 
-![[../../../Distilled Notes/Faraday's Law#Coil Around a Core|Faraday's Law]]
+![](../../../Distilled%20Notes/Faraday's%20Law.md#Coil%20Around%20a%20Core|Faraday's%20Law)
 
 ### Inductance Definition
 $$v(t) = n \frac{\Delta \Phi}{\Delta t}= nA_{c} \frac{\Delta B}{\Delta t} = nA_{c} \mu \frac{\Delta H}{\Delta t}$$
 $$= \frac{n^{2}A_{c}\mu}{l_{m}} \frac{\Delta i}{\Delta t} = L \frac{\Delta i}{\Delta t}$$
-![[Attachments/Pasted image 20231019223844.png]]
+![Pasted image 20231019223844](Attachments/Pasted%20image%2020231019223844.png)
 **Inductance L, depends on**
 - Number of turns: $n$
 - Geometry: $A_{c}l_{m}$
 - Material: $\mu$
 If the core is saturated $\frac{\Delta B}{\Delta t}=0$, Hence $v(t) = 0$ (inductance behaves like a short circuit)
-![[Attachments/Pasted image 20231019224108.png]]
-![[Attachments/Pasted image 20231019224129.png]]
+![Pasted image 20231019224108](Attachments/Pasted%20image%2020231019224108.png)
+![Pasted image 20231019224129](Attachments/Pasted%20image%2020231019224129.png)
 
 
 We know that $v = L \frac{\Delta i}{\Delta t}$ where L is constant.
@@ -63,7 +63,7 @@ Inductance Definition:
 
 $$\lambda = Li$$
 ```
-![[Attachments/Pasted image 20231019224736.png]]
+![Pasted image 20231019224736](Attachments/Pasted%20image%2020231019224736.png)
 
 ### Magnetic Energy Stored
 
@@ -88,7 +88,7 @@ $$w = \frac{1}{2} \frac{B^{2}}{\mu}$$
 
 
 ## Magnetic Circuits
-![[Attachments/Pasted image 20231019225555.png]]
+![Pasted image 20231019225555](Attachments/Pasted%20image%2020231019225555.png)
 (Magneto-motive Force) $\mathscr{F} = \mathscr{R} \Phi \leftrightarrow$ Electro-motive force $V = Ri$
 *$\mathscr{R}$ is similar to Resistance R in electric circuits*
 
@@ -97,12 +97,12 @@ $$H = \frac{B}{\mu}$$
 $$B = \frac{\Phi}{A_c}$$
 $$\mathscr{F} = \mathscr{R} \Phi = \frac{\mathscr{l}}{\mu A_{c}}\Phi$$
 
-[[../../../Distilled Notes/Kirchhoff's Laws|Kirchhoff's Laws]]
+[Kirchhoff's Laws](../../../Distilled%20Notes/Kirchhoff's%20Laws.md)
 Current law for a magnetic circuit, for one node: $\sum\limits_{Node} \Phi_{k}= 0$
-![[Attachments/Pasted image 20231020001904.png]]
+![Pasted image 20231020001904](Attachments/Pasted%20image%2020231020001904.png)
 
 Kirchoff's Voltage Law for Magnetic Circuit:
-![[Attachments/Pasted image 20231020002247.png|500]]
+![500](Attachments/Pasted%20image%2020231020002247.png)
 $H_{m}\mathscr{l}_{m}+ H_{g}\mathscr{l}_g = ni$
 
 $\mathscr{F}_{m}+\mathscr{F}_{g}= ni$
@@ -111,7 +111,7 @@ $(\mathscr{R}_{m}+\mathscr{R}_{g})\Phi = ni$
 
 $$\sum\limits_{loop}\mathscr{R}\Phi=\sum\limits_{loop}ni$$
 
-![[Attachments/Pasted image 20231020002442.png]]
+![Pasted image 20231020002442](Attachments/Pasted%20image%2020231020002442.png)
 
 $$\mathscr{R}_{c}= \frac{\mathscr{l}_{m}}{\mu A_{c}}$$
 $$\mathscr{R}_{g}= \frac{\mathscr{l}_{g}}{\mu_{0}A_{c}}$$
@@ -120,7 +120,7 @@ $$\sum\limits_{loop}\mathscr{R} \Phi = \sum\limits_{loop}ni$$
 
 
 ### Inductance and Core Reluctance
-![[Attachments/Pasted image 20231020002722.png]]
+![Pasted image 20231020002722](Attachments/Pasted%20image%2020231020002722.png)
 The inductance can be determined using magnetic circuit relations:
 
 $$(\mathscr{R}_{c}+\mathscr{R}_{g})\Phi=n*i(t)$$
@@ -142,7 +142,7 @@ $v(t) = \left(\frac{n^{2}}{\mathscr{R}_{c}+\mathscr{R}_{g}}\right) \frac{\Delta 
 
 
 ## Transformer Modelling
-![[Attachments/Pasted image 20231020004042.png]]
+![Pasted image 20231020004042](Attachments/Pasted%20image%2020231020004042.png)
 the **dot convention** (•) on transformer windings
 1. current entering the • produces flux in the direction shown (right hand thumb rule)
 2. Current **entering** / *leaving* the • in one winding induces **+ve**/*-ve* voltage at the • of the other winding.

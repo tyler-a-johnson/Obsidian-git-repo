@@ -1,8 +1,8 @@
 #Communication  #ELEC/2040 #Communication/SignalProcessing #UniNotes
 
 **Slides/Audio**
-[[Attachments/WorldOfSignals.pptx]]
-[[Attachments/1 Review Complex Numbers.pdf]]
+[WorldOfSignals](Attachments/WorldOfSignals.pptx)
+[1 Review Complex Numbers](Attachments/1%20Review%20Complex%20Numbers.pdf)
 
 **Relevant Videos:**
 - Visualising Complex Numbers with an Example
@@ -10,10 +10,10 @@
 - Why are Complex Numbers written with Exponentials?
 
 **Practical**
-[[Attachments/Practical Week 1.pdf]]
+[Practical Week 1](Attachments/Practical%20Week%201.pdf)
 
 **Practice Quiz**
-[[Attachments/Practice Quiz.docx]]
+[Practice Quiz](Attachments/Practice%20Quiz.docx)
 
 **Weekly Project**
 
@@ -39,7 +39,7 @@ axis('square')
 grid
 ```
 
-![[Attachments/Pasted image 20230227135954.png]]
+![Pasted image 20230227135954](Attachments/Pasted%20image%2020230227135954.png)
 
 ## Why though?
 Complex numbers are a succinct and easy way to manipulate and describe both phase and magnitude. Useful especially in electronics(j), physics(i), and engineering(j). Essentially, the name "Imaginary" is a bit of a misnomer.
@@ -58,20 +58,20 @@ conj(z1) = 5 - 4j;
 ```
 
 ## Complex Number Operations
-![[Attachments/Pasted image 20230227144146.png]]
-![[Attachments/Pasted image 20230227144204.png]]
-![[Attachments/Pasted image 20230227144223.png]]
-![[Attachments/Pasted image 20230227144238.png]]
+![Pasted image 20230227144146](Attachments/Pasted%20image%2020230227144146.png)
+![Pasted image 20230227144204](Attachments/Pasted%20image%2020230227144204.png)
+![Pasted image 20230227144223](Attachments/Pasted%20image%2020230227144223.png)
+![Pasted image 20230227144238](Attachments/Pasted%20image%2020230227144238.png)
 
 # Formats
 ## Rectangular/Cartesian
 This is the one most would be familiar with. Complex numbers in Rectangular format follow the form:
 $$ z = a + ib$$
 Where *a* and *b* are both real numbers and *i* is the imaginary number (root -1)
-![[Attachments/Pasted image 20230227141446.png]]
+![Pasted image 20230227141446](Attachments/Pasted%20image%2020230227141446.png)
 
 The Cartesian form can be plotted as such:
-![[Attachments/Pasted image 20230227141558.png]]
+![Pasted image 20230227141558](Attachments/Pasted%20image%2020230227141558.png)
 Both the real part and the imaginary part can be isolated in MATLAB (and obviously in regular handwritten maths). The notation for which is as such:
 
 Let $z = a + ib$
@@ -86,8 +86,8 @@ $b = imag(z)$
 
 ## Polar
 Polar format is represented as such:
-![[Attachments/Pasted image 20230227142246.png]]
-![[Attachments/Pasted image 20230227142317.png]]
+![Pasted image 20230227142246](Attachments/Pasted%20image%2020230227142246.png)
+![Pasted image 20230227142317](Attachments/Pasted%20image%2020230227142317.png)
 
 Magnitude can also be called:
 - Modulus
@@ -118,21 +118,21 @@ The Polar form is particularly useful as it is much easier to 'rotate' by simply
 
 
 ## Exponential
-![[Attachments/Pasted image 20230227143535.png]]
-![[Attachments/Pasted image 20230227143649.png]]
-![[Attachments/Pasted image 20230227143721.png]]
+![Pasted image 20230227143535](Attachments/Pasted%20image%2020230227143535.png)
+![Pasted image 20230227143649](Attachments/Pasted%20image%2020230227143649.png)
+![Pasted image 20230227143721](Attachments/Pasted%20image%2020230227143721.png)
 
 # Format Conversions
-![[Attachments/Pasted image 20230227143750.png]]
-![[Attachments/Pasted image 20230227143805.png]]
-![[Attachments/Pasted image 20230227143852.png]]
-![[Attachments/Pasted image 20230227143909.png]]
-![[Attachments/Pasted image 20230227143935.png]]
-![[Attachments/Pasted image 20230227143951.png]]
+![Pasted image 20230227143750](Attachments/Pasted%20image%2020230227143750.png)
+![Pasted image 20230227143805](Attachments/Pasted%20image%2020230227143805.png)
+![Pasted image 20230227143852](Attachments/Pasted%20image%2020230227143852.png)
+![Pasted image 20230227143909](Attachments/Pasted%20image%2020230227143909.png)
+![Pasted image 20230227143935](Attachments/Pasted%20image%2020230227143935.png)
+![Pasted image 20230227143951](Attachments/Pasted%20image%2020230227143951.png)
 
 # Properties
-![[Attachments/Pasted image 20230227144312.png]]
+![Pasted image 20230227144312](Attachments/Pasted%20image%2020230227144312.png)
 
 # Notes and Examples
 #Examples 
-![[Attachments/Practice Quiz.pdf]]
+![Practice Quiz](Attachments/Practice%20Quiz.pdf)

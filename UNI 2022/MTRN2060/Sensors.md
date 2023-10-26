@@ -1,8 +1,8 @@
 #MTRN/2060  #Circuits #Logic 
-[[UNI 2022/MTRN2060/Attachments/amt10_v-1775837.pdf]]
-[[UNI 2022/MTRN2060/Attachments/EE-SX1042.pdf]]
-[[UNI 2022/MTRN2060/Attachments/HLMP  LED Datasheet.pdf]]
-![[UNI 2022/MTRN2060/Attachments/MTRN2060 Sensors.pptx]]
+[amt10_v-1775837](Attachments/amt10_v-1775837.pdf)
+[EE-SX1042](Attachments/EE-SX1042.pdf)
+[HLMP  LED Datasheet](Attachments/HLMP%20%20LED%20Datasheet.pdf)
+![MTRN2060 Sensors](Attachments/MTRN2060%20Sensors.pptx)
 # Simple Electromechanical Sensors:
 •Proximity sensors and switches
 •Potentiometers
@@ -20,10 +20,10 @@ http://video_demos.colostate.edu/mechatronics/switch_bounce.wmv
 Switches always have the potential to bounce. Your CPU may check the state of the switch many times during the bounce. Circuits and code an accommodate this preventing a single switch throw from being read as a bunch of switches.
 
 # Gray Code:
-![[UNI 2022/MTRN2060/Attachments/GreyCode.png]]
+![GreyCode](Attachments/GreyCode.png)
 
 # Binary Code:
-![[UNI 2022/MTRN2060/Attachments/BinaryCode.png]]
+![BinaryCode](Attachments/BinaryCode.png)
 
 # Accelerometer and Gyroscope:
 •Modern ones are tiny vibrating pieces of silicon or other crystal.

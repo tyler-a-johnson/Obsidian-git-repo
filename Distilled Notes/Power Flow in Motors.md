@@ -1,6 +1,6 @@
 
 
-![[Attachments/Pasted image 20230901202859.png]]
+![Pasted image 20230901202859](Attachments/Pasted%20image%2020230901202859.png)
 **Power Output = Power input - Losses**
 
 # Power Input
@@ -26,4 +26,4 @@ $I^{2}R$ *loss* (*Copper loss*): Motor winding (both in stator and rotor)
 *Friction and windage loss*: Also known as rotational loss or mechanical loss.
 
 # Induction Motors
-![[Attachments/Pasted image 20230901220130.png]]
+![Pasted image 20230901220130](Attachments/Pasted%20image%2020230901220130.png)

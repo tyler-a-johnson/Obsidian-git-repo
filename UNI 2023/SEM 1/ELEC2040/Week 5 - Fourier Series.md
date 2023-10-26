@@ -10,8 +10,8 @@
 - [Time and Frequency Scaling](https://youtu.be/7M0js8Y9EyY)
 
 **Slides:**
-[[Attachments/Week 5 Fourier Transform.pptx]]
-[[Attachments/Week 5 Fourier Transform.pdf]]
+[Week 5 Fourier Transform](Attachments/Week%205%20Fourier%20Transform.pptx)
+[Week 5 Fourier Transform](Attachments/Week%205%20Fourier%20Transform.pdf)
 
 # The Fourier Transform
 $$f(t) \rightarrow_{F}F(\omega)$$
@@ -30,8 +30,8 @@ This takes $f(t)$ and gives us $F(\omega)$
 
 *Both the fourier and inverse fourier transforms are linear*
 
-![[Attachments/Pasted image 20230612170053.png]]
-![[Attachments/Pasted image 20230612170107.png]]
+![Pasted image 20230612170053](Attachments/Pasted%20image%2020230612170053.png)
+![Pasted image 20230612170107](Attachments/Pasted%20image%2020230612170107.png)
 
 # Energy Spectral Density (Huh)
 For an energy signal $x(t)$ with Fourier Transform $X(\omega)$ we can interpret $\frac{1}{2\pi}|X(\omega)|^{2}$ as the energy density at frequency $\omega$.
@@ -55,18 +55,18 @@ There is no energy density for signals like $x(t) = cos(\omega_{0}t)$ but there 
 # Properties
 
 ## Linearity
-![[Attachments/Pasted image 20230612171315.png]]
+![Pasted image 20230612171315](Attachments/Pasted%20image%2020230612171315.png)
 
 ## Time Reversal
-![[Attachments/Pasted image 20230612171340.png]]
+![Pasted image 20230612171340](Attachments/Pasted%20image%2020230612171340.png)
 
 ## Time Scaling
-![[Attachments/Pasted image 20230612171437.png]]
-![[Attachments/Pasted image 20230612171503.png]]
+![Pasted image 20230612171437](Attachments/Pasted%20image%2020230612171437.png)
+![Pasted image 20230612171503](Attachments/Pasted%20image%2020230612171503.png)
 
 ## Time Shift
-![[Attachments/Pasted image 20230612171519.png]]
+![Pasted image 20230612171519](Attachments/Pasted%20image%2020230612171519.png)
 
 ## Frequency Shift
-![[Attachments/Pasted image 20230612171539.png]]
+![Pasted image 20230612171539](Attachments/Pasted%20image%2020230612171539.png)
 

@@ -1,6 +1,6 @@
 #ELEC/2070 #Circuits #Communication #UniNotes
 
-[[Attachments/ELEC2070 Week 7 2023 Sinusoidal Steady State - Impedance.pdf]]
+[ELEC2070 Week 7 2023 Sinusoidal Steady State - Impedance](Attachments/ELEC2070%20Week%207%202023%20Sinusoidal%20Steady%20State%20-%20Impedance.pdf)
 
 # Time Domain vs Frequency Domain
 *Finally, a use for Pythagoras' theorem*
@@ -13,12 +13,12 @@ Up until now we have considered:
 Fourier Transform converts time-domain functions into frequency-domain functions
 If the time-domain signal is periodic, the frequency domain is a superposition of sinusoids.
 ```
-![[Attachments/Pasted image 20230419205232.png]]
+![Pasted image 20230419205232](Attachments/Pasted%20image%2020230419205232.png)
 
 ## Period Signals
 Typical periodic signals in time domain and frequency domain
-![[Attachments/Pasted image 20230419205509.png]]
-![[Attachments/Pasted image 20230419205525.png]]
+![Pasted image 20230419205509](Attachments/Pasted%20image%2020230419205509.png)
+![Pasted image 20230419205525](Attachments/Pasted%20image%2020230419205525.png)
 
 # AC Circuits and Sinusoidal Functions
 Consider a circuit having a sinusoidal input. The complete response will be:
@@ -39,7 +39,7 @@ Traditionally, sinusoidal currents have been called alternating currents (AC) an
 
 ## Sinusoidal Sources
 We are going to examine all what we have covered so far in the unit when the independent forcing function is a sinusoidal function - AC circuits analysis (always in a steady state)
-![[Attachments/Pasted image 20230419210741.png]]
+![Pasted image 20230419210741](Attachments/Pasted%20image%2020230419210741.png)
 $$v(t) = A*sin(\omega t)$$
 From RL, RC and RLC circuit analysis, we know that the forced response part of the complete response will be a sinusoidal with the same frequency!
 
@@ -57,7 +57,7 @@ Where the frequency (in $s^{-1}$) is given by: $f = \frac{1}{T}=\frac{\omega}{2\
 
 ## Time advance, delay and phase angle
 Consider the effect of replacing $t$ with $t + t_a$ 
-![[Attachments/Pasted image 20230419211933.png]]
+![Pasted image 20230419211933](Attachments/Pasted%20image%2020230419211933.png)
 $$v(t +t_{a})=A*sin[\omega(t+t_{a})] = A*sin[\omega t + \omega t_{a}]=A*sin[\omega t + \theta]$$
 
 Where:
@@ -98,17 +98,17 @@ The phasors are functions of the input frequency. In an AC circuit, the input fr
 $$v(t) = A\cos[\omega t +\theta] \leftrightarrow V_{bold}(\omega) = V_{bold} = A\angle \theta$$
 
 ## Example
-![[Attachments/Pasted image 20230419231500.png]]
+![Pasted image 20230419231500](Attachments/Pasted%20image%2020230419231500.png)
 ## Important Trig Functions
 $\sin(-\theta) = -sin(\theta)$
 $\cos(-\theta) = \cos(\theta)$
 $\tan(-\theta) = -\tan(\theta)$
-![[Attachments/Pasted image 20230419231745.png]]
+![Pasted image 20230419231745](Attachments/Pasted%20image%2020230419231745.png)
 ## Defining phasors as complex numbers
 We can represent our phasor in the complex plane as:
-![[Attachments/Pasted image 20230419231940.png]]
+![Pasted image 20230419231940](Attachments/Pasted%20image%2020230419231940.png)
 Which has complex coordinates:
-![[Attachments/Pasted image 20230419232014.png]]
+![Pasted image 20230419232014](Attachments/Pasted%20image%2020230419232014.png)
 **A** is the magnitude and $\theta$ is the angle of the phasor: $A = |V_{bold}|$ and $\theta = \angle V_{bold}$
 The phasor can be represented as a complex number: $a = Re(V_{bold})$ and $b = Im(V_{bold})$ 
 
@@ -118,7 +118,7 @@ Phasor arithmetic can be easily accomplished using the two forms of the phasor. 
 
 ## Phasor Angle Direction
 A phasor **V** with $Re(V)<0$:
-![[Attachments/Pasted image 20230419234827.png]]
+![Pasted image 20230419234827](Attachments/Pasted%20image%2020230419234827.png)
 $$V_{bold}= A\angle \theta = a+jb$$
 Two important observations: $a = a\angle 0 \degree$ and $jb=b\angle90\degree$
 Because $\phi \neq \theta$ we reference the phasor angle ALWAYS from the POSITIVE real axis
@@ -136,7 +136,7 @@ $1 = 1 \angle 0\degree, j=1\angle 90\degree, -1=1\angle \pm180\degree, -j = 1\an
 
 ## Complex Algebra
 *Look man, I ain't writing all this shit out*
-![[Attachments/Pasted image 20230420000421.png]]
+![Pasted image 20230420000421](Attachments/Pasted%20image%2020230420000421.png)
 ## The exponential form of a phasor
 Euler's formula is given by:
 $$e^{j\theta}=\cos(\theta)+j\sin(\theta), \cos(\theta)=\frac{e^{j\theta}+e^{-j\theta}}{2}, \sin(\theta)=\frac{e^{j\theta}-e^{-j\theta}}{2j}$$
@@ -150,7 +150,7 @@ $$Ae^{j\phi}=A\angle \phi$$
 Conversion between polar and exponential form of phasors is immediate.
 
 ### Forms of complex voltage or current
-![[Attachments/Pasted image 20230420001444.png]]
+![Pasted image 20230420001444](Attachments/Pasted%20image%2020230420001444.png)
 
 ## KVL and KCL with complex values
 
@@ -163,12 +163,12 @@ If a set of sinusoidal currents $i_{i}(t)$ satisfy KCL for an AC circuit, the co
 # Circuit elements in the time and frequency domains
 
 ## Voltage and Current Sources
-![[Attachments/Pasted image 20230420003246.png]]
+![Pasted image 20230420003246](Attachments/Pasted%20image%2020230420003246.png)
 **Voltage:** $v(t) = V_{m} \cos[\omega t + \theta] \leftrightarrow V_{bold}(\omega)=V_{m}\angle \theta$
 **Current:** $i(t) = I_{m} \cos[\omega t + \phi] \leftrightarrow I_{bold}(\omega) = I_{m}\angle\phi$
 
 ## Capacitors
-![[Attachments/Pasted image 20230420003635.png]]
+![Pasted image 20230420003635](Attachments/Pasted%20image%2020230420003635.png)
 **Voltage:** $v_{c}(t) = V_{Cm}\cos[\omega t + \theta] \leftrightarrow V_{bold_{c}}(\omega) = V_{Cm}\angle \theta$
 **Current:** $i_{C}(t) = C \frac{\Delta v_{c}(t)}{\Delta t}=-C\omega V_{Cm}\sin[\omega t + \theta]=C\omega V_{Cm}\cos[\omega t + \theta + 90\degree]$
 
@@ -179,7 +179,7 @@ Voltage and current are **not** in phase
 ```
 
 ## Inductors
-![[Attachments/Pasted image 20230420005254.png]]
+![Pasted image 20230420005254](Attachments/Pasted%20image%2020230420005254.png)
 
 **Current:** $i_{L}(t) = I_{Lm}\cos[\omega t + \phi] \leftrightarrow I_{bold_{L}}(\omega) = I_{Lm}\angle \phi$
 **Voltage:** $v_{L}(t) = L \frac{\Delta i_{L}(t)}{\Delta t}=-L\omega I_{Lm}\sin[\omega t + \phi] = L\omega I_{Lm}\cos[\omega t + \phi + 90\degree]$
@@ -194,7 +194,7 @@ Voltage and current are **not** in phase
 ```
 
 ## Resistors
-![[Attachments/Pasted image 20230420010344.png]]
+![Pasted image 20230420010344](Attachments/Pasted%20image%2020230420010344.png)
 **Current:** $i_{R}(t) = I_{Rm}\cos[\omega t + \phi] \leftrightarrow I_{bold_{R}}(\omega)=I_{Rm}\angle \phi$
 **Voltage:** $v_{R}(t) = Ri_{R}(t) = RI_{Rm}\cos[\omega t + \phi] \leftrightarrow V_{bold_{R}}(\omega)=RI_{Rm}\angle\phi = RI_{bold_{L}}(\omega)$
 
@@ -270,7 +270,7 @@ This means that the value of the impedance **CHANGES** with frequency. For every
 ```
 
 # What does Impedance Mean?
-![[Attachments/Pasted image 20230425185101.png]]
+![Pasted image 20230425185101](Attachments/Pasted%20image%2020230425185101.png)
 Impedance is a property of a circuit element
 #todo
 - [x] Write a good definition of impedance
@@ -283,24 +283,24 @@ Therefore they work for sinusoidal voltages and currents.
 
 Hence they work in the frequency domain.
 ```
-![[Attachments/Pasted image 20230425185717.png]]
-![[Attachments/Pasted image 20230425185727.png]]
+![Pasted image 20230425185717](Attachments/Pasted%20image%2020230425185717.png)
+![Pasted image 20230425185727](Attachments/Pasted%20image%2020230425185727.png)
 **Voltage Division:**
-![[Attachments/Pasted image 20230425185759.png]]
+![Pasted image 20230425185759](Attachments/Pasted%20image%2020230425185759.png)
 
 ## Current and Voltage Division
-![[Attachments/Pasted image 20230425185949.png]]
+![Pasted image 20230425185949](Attachments/Pasted%20image%2020230425185949.png)
 
 ## Time VS Frequency Domains
-![[Attachments/Pasted image 20230425190248.png]]
-![[Attachments/Pasted image 20230425191243.png]]
-![[Attachments/Pasted image 20230425191305.png]]
+![Pasted image 20230425190248](Attachments/Pasted%20image%2020230425190248.png)
+![Pasted image 20230425191243](Attachments/Pasted%20image%2020230425191243.png)
+![Pasted image 20230425191305](Attachments/Pasted%20image%2020230425191305.png)
 
 # Dependent sources in the time and frequency domains
-![[Attachments/Pasted image 20230425191421.png]]
+![Pasted image 20230425191421](Attachments/Pasted%20image%2020230425191421.png)
 
 ### Example
-![[Attachments/Pasted image 20230425222251.png]]
+![Pasted image 20230425222251](Attachments/Pasted%20image%2020230425222251.png)
 
 # Node Voltage and Mesh Current Analysis using Phasors
 
@@ -309,19 +309,19 @@ Hence they work in the frequency domain.
 - Same as DC case, but using **phasors**
 - Apply **Kirchhoff's Current Law at each node.**
 - Solve simultaneous equations to **find each node voltage.**
-![[Attachments/Pasted image 20230425222630.png]]
+![Pasted image 20230425222630](Attachments/Pasted%20image%2020230425222630.png)
 
 ## Mesh equations in the frequency domain
 - Express element voltages and currents in terms of mesh currents.
 - Same as the DC case, but using **phasors.**
 - Apply **Kirchhoff's Voltage Law for each current.**
 - Solve simultaneous equations to **find each mesh current.**
-![[Attachments/Pasted image 20230425222915.png]]
+![Pasted image 20230425222915](Attachments/Pasted%20image%2020230425222915.png)
 
 ### Example
-![[Attachments/Pasted image 20230425222941.png]]
-![[Attachments/Pasted image 20230425222953.png]]
-![[Attachments/Pasted image 20230425223005.png]]
+![Pasted image 20230425222941](Attachments/Pasted%20image%2020230425222941.png)
+![Pasted image 20230425222953](Attachments/Pasted%20image%2020230425222953.png)
+![Pasted image 20230425223005](Attachments/Pasted%20image%2020230425223005.png)
 ### Example 2
-![[Attachments/Pasted image 20230425223035.png]]
-![[Attachments/Pasted image 20230425223047.png]]
+![Pasted image 20230425223035](Attachments/Pasted%20image%2020230425223035.png)
+![Pasted image 20230425223047](Attachments/Pasted%20image%2020230425223047.png)

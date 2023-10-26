@@ -4,7 +4,7 @@ tags:
   - "#MTRN/3026"
 status: Incomplete
 Relevant Docs:
-  - "[[Attachments/Briefing for Motor Control Assignment 1.pdf]]"
+  - "[Briefing for Motor Control Assignment 1](Attachments/Briefing%20for%20Motor%20Control%20Assignment%201.pdf)"
 Relevant Questions: []
 Relevant Notes: []
 Practical Docs: 

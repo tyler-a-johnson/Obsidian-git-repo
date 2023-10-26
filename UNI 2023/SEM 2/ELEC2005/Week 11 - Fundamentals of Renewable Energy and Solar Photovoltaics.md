@@ -175,7 +175,8 @@ $V-V_{SH} = \Delta V : PV$ Module voltage reduction due to shading on one cell
 
 ![](Attachments/Pasted%20image%2020231026210833.png)
 
-#### Shading effect mitigation: Bypass diodes
+#### Bypass diodes
+*Shading effect mitigation:* 
 ![](Attachments/Pasted%20image%2020231026210923.png)
 **Without Bypass Diode:**
 - Current flows through $R_{p}+R_{s}$
@@ -188,7 +189,13 @@ $V-V_{SH} = \Delta V : PV$ Module voltage reduction due to shading on one cell
 - Shaded cell voltage is small (typically 0.5 - 1V)
 
 ![](Attachments/Pasted%20image%2020231026211256.png)
-- impractical to use one bypass diode per cell in a PV mod
+- impractical to use one bypass diode per cell in a PV module
+- Modules with 72 cells may use 3 diodes (1 per 24)
+
+#### Blocking Diodes
+Placed at the end of each PV string to avoid negative current in strings with shaded modules.
+![](Attachments/Pasted%20image%2020231026211503.png)
+
 
 # Conceptual Info
 ---

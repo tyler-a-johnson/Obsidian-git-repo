@@ -19,7 +19,9 @@ Relevant Links:
 # Conceptual Info
 ---
 
-
+## Renewable Energy
+- Electric and electronic systems are fundamentals in renewable energy.
+- Variable speed drives are used to change the speed of electric motors.
 
 # Additional Content
 ---

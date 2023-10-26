@@ -60,9 +60,19 @@
                 "file": "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf"
               }
             }
+          },
+          {
+            "id": "53ec1e5bf993dca4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk11 2023.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -267,8 +277,8 @@
   "active": "49af9ef2465c9402",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk11 2023.pdf",
-    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026180742.png",
@@ -306,7 +316,6 @@
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/New WinRAR ZIP archive.zip",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/pptA199.tmp",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/Automated Car Wash.pptx",
-    "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/Media1.mp4",
     "Distilled Notes/Kirchhoff's Laws.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Distilled Notes/Amperes Law.md",

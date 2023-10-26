@@ -14,6 +14,8 @@ Relevant Links:
 # Maths and Distilled Info
 ---
 
+## Solar Cell Fundamentals
+Photovoltai
 
 
 # Conceptual Info
@@ -37,7 +39,7 @@ Relevant Links:
 - Renewables (Wind, Solar, Hydro) Contributed to more than 35% of all electricity generated in Australia (NEM System, Oct 2022-23)
 - Proportion electricity generated from renewables is set to increase steeply
 - Australian Energy Market Operator declared to be working on a grid capable to handle 100% renewable energy penetration by 2025
-- 
+- Solar (Photovoltaic) energy is going to be one of the major sources of electricity in Australia
 
 # Additional Content
 ---

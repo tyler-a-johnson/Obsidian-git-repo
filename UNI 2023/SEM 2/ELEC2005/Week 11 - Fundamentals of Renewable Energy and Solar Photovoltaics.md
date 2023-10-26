@@ -118,7 +118,7 @@ Typical curves found in a PV module datasheet (120W Kyocera KC120-1)
 $$T_{\text{cell}}[C]=T_{amb}+\left( NOCT-\frac{20C}{0.8} \right)S $$
 S in kW/m^2
 
-### Equivalent Circuit
+## Equivalent Circuit
 Consider the ideal single diode model for each cell, and two cells connected in series, where one is partially shaded. According to the diagram using ideal PV cell equivalent.
 ![](Attachments/Pasted%20image%2020231026203622.png)
 - The shaded cell produces no current
@@ -134,7 +134,7 @@ Consider the ideal single diode model for each cell, and two cells connected in 
 
 
 
-**Inclusion of series resistance $R_{s}$ assuming $R_{p} = \infty$**
+### Inclusion of series resistance $R_{s}$ assuming $R_{p} = \infty$
 ![](Attachments/Pasted%20image%2020231026204159.png)
 $$I = I_{sc} - I_{d} = I_{sc} - I_{0} (e^{\frac{qV_{d}}{kT}}-1)$$
 $$=I_{sc} - I_{0} (e^{\frac{q(V+R_{s}I)}{kT}}-1)$$
@@ -143,7 +143,8 @@ $$=I_{sc} - I_{0} (e^{\frac{q(V+R_{s}I)}{kT}}-1)$$
 - for a large cell, typical $V_{oc} = 0.6V, I_{sc} = 7A, R_{s} = 1*10^{-3}\Omega$
 - Inclusion of $R_{s}$ causes an "algebraic loop" **where the PV cell output, I, depends on itself**. $I = f(V,I)$
 
-
+### Inclusion of $R_{s}$ and $R_{p}$: PV Module i-v curve
+![](Attachments/Pasted%20image%2020231026205101.png)
 
 
 # Conceptual Info

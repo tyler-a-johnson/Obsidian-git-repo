@@ -73,7 +73,6 @@ $V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
 ![](Attachments/Pasted%20image%2020231026194635.png)
 
 ## I-V Characteristics of Series/Parallel connected cells
-
 ![](Attachments/Pasted%20image%2020231026195149.png)
 ![](Attachments/Pasted%20image%2020231026195224.png)
 
@@ -123,6 +122,34 @@ $V = V_{R}, I=I_{R}$
 ![](Attachments/Pasted%20image%2020231026194941.png)
 
 ## Typical PV Module Specifications
+![](Attachments/Pasted%20image%2020231026200718.png)
+**Specs at Standard Test Conditions (STC):**
+- Cell temp 25C
+- Solar irradiation 1000 W/$m^2$
+- Air mass 1.5 (relates to sunlight inclination)
+
+- Rated power is the power at the MPP (Maximum power point/Operating point)
+- Commercial PV modules have efficiencies $\eta \approx 20$% (2023)
+- Area A (m^2) $\rightarrow$ number of hours $n_{h}$ at 1kW/$m^2$ $\rightarrow P_{Sun} = A*n_{h}$ kW
+- $P_{pv} = P_{sun} * \frac{\eta}{100} [kW] \rightarrow$ number of PV modules = $\frac{P_{pv}}{P_{\text{module}}}$
+
+
+
 
 # Additional Content
 ---
+
+## Energy markets and supply in Australia
+![](Attachments/Pasted%20image%2020231026184627.png)
+- Adjacent coloured areas are interconnected
+- Tasmania is connected to Victoria via an Undersea DC Cable
+- Biggest electricity market are NEM (QLD, NSW, VIC, SA, TAS) and SWIS (WA)
+
+**NEM (Eastern Australia) Energy Generation**
+![](Attachments/Pasted%20image%2020231026190337.png)
+![](Attachments/Pasted%20image%2020231026185552.png)
+
+- Renewables (Wind, Solar, Hydro) Contributed to more than 35% of all electricity generated in Australia (NEM System, Oct 2022-23)
+- Proportion electricity generated from renewables is set to increase steeply
+- Australian Energy Market Operator declared to be working on a grid capable to handle 100% renewable energy penetration by 2025
+- Solar (Photovoltaic) energy is going to be one of the major sources of electricity in Australia

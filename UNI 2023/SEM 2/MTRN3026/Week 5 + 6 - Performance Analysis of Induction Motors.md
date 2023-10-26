@@ -31,7 +31,7 @@ Three phase induction motors are the **most common and frequently encountered ma
 # Rotating Magnetic Field and Synchronous Speed
 - Equidistant three phase windings (*i.e. mechanically displaced 120 degrees from each other, fed by balanced three phase source.*)
 - A rotating **magnetic field of constant magnitude** is produced, **rotating at speed $n_{sync}$**
-![|400](Attachments/Pasted%20image%2020230901222628.png)
+![](Attachments/Pasted%20image%2020230901222628.png)
 $$n_{sync} = \frac{120 f_{e}}{P}\text{  RPM}$$
 Where:
 $f_{e}$ Is the supply frequency

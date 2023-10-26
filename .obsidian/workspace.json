@@ -50,8 +50,19 @@
                 "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf"
               }
             }
+          },
+          {
+            "id": "0c94c6e9e145d125",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf"
+                "file": "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf"
               }
             }
           },
@@ -253,10 +264,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca0c23de5e053625",
+  "active": "0c94c6e9e145d125",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026180742.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026175328.png",
     "Distilled Notes/Dot Convention (Transformers).md",

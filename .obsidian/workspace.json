@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c2e4682e2d14481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Markdown Latex Reference Sheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -102,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -241,10 +253,11 @@
   },
   "active": "49af9ef2465c9402",
   "lastOpenFiles": [
+    "Resources/Markdown Latex Reference Sheet.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026170955.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/TEST_EQUATIONS.pdf",
@@ -280,7 +293,6 @@
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231019225555.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231019224736.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231019224129.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231019224108.png",
     "Distilled Notes/Amperes Law.md",
     "Distilled Notes/Right Hand Rule.md",
     "Distilled Notes/Compressors - Gas.md",

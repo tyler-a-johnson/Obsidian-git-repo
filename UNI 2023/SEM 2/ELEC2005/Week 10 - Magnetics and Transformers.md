@@ -150,7 +150,15 @@ the **dot convention** (•) on transformer windings
 
 ### Ideal Transformer $\mathscr{R} =0$
 ![](Attachments/Pasted%20image%2020231026170955.png)
-$0 = n_{1} i_{1} + n_{2}i_{2}}$
+$0 = n_{1} i_{1} + n_{2} i_{2}$
+
+
+**Faraday's Law:**$$
+ \delta(t) = \begin{cases} 
+      v_{1}=n_{1} \Delta \Phi \\
+      0 & \textrm{Everywhere Else} \\
+   \end{cases} 
+$$
 
 
 # Additional Content

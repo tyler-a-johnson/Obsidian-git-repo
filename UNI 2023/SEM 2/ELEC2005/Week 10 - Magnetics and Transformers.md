@@ -172,7 +172,7 @@ $$\Phi= \frac{n_{1}i_{1}+n_{2}i_{2}}{\mathscr{R}}$$
 ![](Attachments/Pasted%20image%2020231026172014.png)
 
 **Faraday's Law**
-$$v_{1}=n_{1} \frac{\Delta \Phi}{\Delta t} = \frac{n_{1}^{2}}{}$$
+$$v_{1}=n_{1} \frac{d \Phi}{d t} = \frac{n_{1}^{2}}{\mathscr{R}} \frac{d}{d t} \left( i_{1} + \frac{n_{2}}{n_{1}})$$
 
 # Additional Content
 ---

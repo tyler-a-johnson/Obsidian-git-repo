@@ -115,8 +115,8 @@ Typical curves found in a PV module datasheet (120W Kyocera KC120-1)
 - Curves at difference irradiance and cell temp
 - Cell temp not to be confused with ambient
 - NOCT (Datasheet) cell tem at $T_{amb} = 20$C and $S = 0.8$ kW/m^2
-$$T_{\text{cel}}$$
-
+$$T_{\text{cell}}[C]=T_{amb}+\left( NOCT-\frac{20C}{0.8} \right)S $$
+S in kW/m^2
 
 
 

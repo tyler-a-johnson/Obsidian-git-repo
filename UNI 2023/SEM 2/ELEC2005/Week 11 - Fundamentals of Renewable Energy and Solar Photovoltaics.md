@@ -53,6 +53,8 @@ $V_{T} = \frac{kT}{q}$ V: Thermal Voltage
 
 $T$: Temperature in **K**
 
+at $25 \deg\mathrm{Re}e$
+
 
 # Conceptual Info
 ---

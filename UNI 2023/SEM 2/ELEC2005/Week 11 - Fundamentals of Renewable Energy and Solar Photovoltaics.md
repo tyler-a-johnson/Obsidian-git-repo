@@ -66,6 +66,11 @@ $0=I_{sc}-I_{0}(e^{38.9V_{oc}}-1)$
 $V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
 
 - Isc varies proportionally with irradiation
+- Voc varies logarithmically with irradiation (does not change much)
+
+## Impact of Solar Irradiance and Temperature
+*Note: the area under the i-v curve is the power generated*
+![](Attachments/Pasted%20image%2020231026194635.png)
 
 
 

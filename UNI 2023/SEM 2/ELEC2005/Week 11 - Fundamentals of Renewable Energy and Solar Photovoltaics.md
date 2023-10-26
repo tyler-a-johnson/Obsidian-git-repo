@@ -76,12 +76,27 @@ $V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
 
 ![](Attachments/Pasted%20image%2020231026195149.png)
 ![](Attachments/Pasted%20image%2020231026195224.png)
+
+```ad-note
+
+- **Voltages add in series**
+- **Current adds in parallel**
+```
+
+
 ![](Attachments/Pasted%20image%2020231026195236.png)
 
 
-![](Attachments/Pasted%20image%2020231026195251.png)
-At 
 
+
+
+
+![](Attachments/Pasted%20image%2020231026195251.png)
+At open-circuit (a) and short-circuit (b) the PV module delivers no power.
+
+
+![](Attachments/Pasted%20image%2020231026195446.png)
+The PV module delivers the maxi
 
 
 

@@ -61,8 +61,11 @@ $$V_{oc} = \frac{kT}{q}\ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$$
 
 ![](Attachments/Pasted%20image%2020231026194215.png)
 
+At 25C for $I=0$
+$0=I_{sc}-I_{0}(e^{38.9V_{oc}}-1)$
+$V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
 
-
+- Isc varies proportionally with irradiation
 
 
 

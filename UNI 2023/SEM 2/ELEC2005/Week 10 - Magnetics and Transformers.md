@@ -148,6 +148,9 @@ the **dot convention** (•) on transformer windings
 1. current entering the • produces flux in the direction shown (right hand thumb rule)
 2. Current **entering** / *leaving* the • in one winding induces **+ve**/*-ve* voltage at the • of the other winding.
 
+### Ideal Transformer $\mathscr{R} =0$
+![](Attachments/Pasted%20image%2020231026170955.png)
+$0 = n_{1} i_{1} + n_{2}i_{2}}$
 
 
 # Additional Content

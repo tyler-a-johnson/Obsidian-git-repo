@@ -281,11 +281,18 @@ Area is on the datasheet
 
 ## Readings
 From Masters (2004), Renewable and Ecient Electric Power Systems Chapter 8: Photovoltaic Materials and Electrical Characteristics (link) 
-I 8.1: Introduction 
-I 8.2: Basic Semiconductor Physics F 
+8.1: Introduction 
+8.2: Basic Semiconductor Physics
 	8.2.5: The p-n Junction Diode 
-I 8.3: A Generic Photovoltaic Cell 
-	F 8.3.1: The Simplest Equivalent Circuit for a Photovoltaic Cell 
-	F 8.3.2: A More Accurate Equivalent Circuit for a PV Cell 
-I 8.4: From Cells to Modules to Arrays 
-	F 8.4.1: From Cells to a Module F 8.4.2: From Modules to Arrays I 8.5: The PV I–V Curve Under Standard Test Conditions (STC) I 8.6: Impacts of Temperature and Insolation on I–V Curves I 8.7: Shading Impacts on I – V Curves F 8.7.1: Physics of Shading F 8.7.2: Bypass Diodes for Shade Mitigation F 8.7.3: Blocking Diodes
+8.3: A Generic Photovoltaic Cell 
+	8.3.1: The Simplest Equivalent Circuit for a Photovoltaic Cell 
+	8.3.2: A More Accurate Equivalent Circuit for a PV Cell 
+8.4: From Cells to Modules to Arrays 
+	8.4.1: From Cells to a Module 
+	8.4.2: From Modules to Arrays 
+8.5: The PV I–V Curve Under Standard Test Conditions (STC) 
+8.6: Impacts of Temperature and Insolation on I–V Curves 
+8.7: Shading Impacts on I – V Curves 
+	8.7.1: Physics of Shading 
+	8.7.2: Bypass Diodes for Shade Mitigation 
+	8.7.3: Blocking Diodes

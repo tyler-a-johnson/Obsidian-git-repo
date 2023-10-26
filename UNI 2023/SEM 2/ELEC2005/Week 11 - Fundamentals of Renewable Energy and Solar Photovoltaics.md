@@ -206,7 +206,10 @@ A partially shaded PV string's i-v and p-v characteristics
 - We want to operate the array at the max power point (MPP)
 - The maximum power is extracted by the PV module as long as it operates at $V_{mpp}$
 
+![](Attachments/Pasted%20image%2020231026212745.png)
+$$\eta = \frac{V_{mpp}*I_{mpp}[W]}{1000\left[ \frac{W}{m^{2}} \right] * \text{Area}[m^{2}]}$$ Typical < 20% for commercial models
 
+Area is on the 
 
 
 # Conceptual Info

@@ -141,7 +141,9 @@ $$=I_{sc} - I_{0} (e^{\frac{q(V+R_{s}I)}{kT}}-1)$$
 - The higher the load current I, the higher the voltage drop $\Delta V$ on $R_{s}$
 - This voltage drop as the current rises is represented by a vertical slope in the i-v curve
 - for a large cell, typical $V_{oc} = 0.6V, I_{sc} = 7A, R_{s} = 1*10^{-3}\Omega$
-- 
+- Inclusion of $R_{s}$ causes an "algebraic loop" **where the PV cell output, I, depends on itself**. $I = f(V,I)$
+
+
 
 
 # Conceptual Info

@@ -165,7 +165,13 @@ $$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V+R_{s}I}{R_
 **Full sun**
 - All cells produce I
 - PV module voltage V
-- 
+
+**One cell is shaded**
+- Shaded cell produces no current $I_{sc} = 0$
+- Shaded cell diode is reverse biased
+- PV module voltage $V_{SH}<V$
+
+$V-V_{SH} = \Delta V : PV$ Module volt
 
 
 

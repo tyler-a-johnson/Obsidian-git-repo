@@ -5,13 +5,13 @@ tags:
 status: Incomplete
 Relevant Docs:
   - "[pneumatics_system-notes](Attachments/pneumatics_system-notes.pdf)"
-  - "![](Attachments/Week-8(Pneumatic%20system).pdf)"
+  - "[](Attachments/Week-8(Pneumatic%20system).pdf)"
 Relevant Questions: 
 Relevant Notes: 
 Practical Docs: 
 Relevant Links:
 ---
-![](Attachments/Week-8(Pneumatic%20system).pdf)
+
 # Maths and Distilled Info
 ---
 

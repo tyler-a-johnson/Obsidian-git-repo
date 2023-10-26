@@ -19,13 +19,13 @@ Photovoltaic cells energy conversion:[How do solar panels work? - Richard Komp -
 
 ### Load Convention
 **Without Light**
-$i = I_{0}(e^{x}-1)$
+$$i = I_{0}(e^{x}-1)$$
 note that $x \propto v$
 ![](Attachments/Pasted%20image%2020231026190935.png)
 ![](Attachments/Pasted%20image%2020231026190950.png)
 
 **When light is shone on the "diode"**
-$i = I_{0}(e^{x}-1) - \text{const}$
+$$i = I_{0}(e^{x}-1) - \text{const}$$
 
 $\text{const} = I_{sc}$
 ![](Attachments/Pasted%20image%2020231026191127.png)
@@ -36,7 +36,8 @@ $\text{const} = I_{sc}$
 $$i = -I_{0}(e^{x}-1) +I_{sc}$$
 ![](Attachments/Pasted%20image%2020231026191715.png)
 
-
+$$i = I_{sc}-I_{0}(e^{x}-1)$$
+![](Attachments/Pasted%20image%2020231026192156.png)
 
 
 # Conceptual Info

@@ -158,7 +158,9 @@ $$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V+R_{s}I}{R_
 ![](Attachments/Pasted%20image%2020231026205739.png)
 
 - Note the different curve when $R_s$ and $R_{p}$ are considered
-- It is desired to have high $R_p$ and low $R_{s}$ for better perfo
+- It is desired to have high $R_p$ and low $R_{s}$ for better performance
+
+### Impact of Shading (using non-ideal PV cell circuit)
 
 
 

@@ -215,8 +215,11 @@ Area is on the datasheet
 *DC-DC converter with MPPT control ensures PV module works at MPP*
 ![](Attachments/Pasted%20image%2020231026213046.png)
 - Battery voltage $V_{B} = PV$ voltage
-- Low power delv
+- Low power delivered to battery $P_{B}<P_{mpp}$
+- Battery Voltage $V_{B} \neq PV$ voltage
+- Max power to battery $P_{B} = P_{mpp}$
 
+![](Attachments/Pasted%20image%2020231026213341.png)
 
 # Conceptual Info
 ---

@@ -189,6 +189,8 @@ Secondary Disconnected $(i_{2}=0)$
 - Transformers change voltage/current level between two circuits
 - Ideal transformer ($\mathscr{R} = 0$): $n_{1}+i_{1}+n_{2}i_{2} = 0$
 - Actual transformer ($\mathscr{R} > 0$): $n_{1}i_{1}+n_{2}i_{2} = \mathscr{R} \Phi \rightarrow \mathscr{R} \Phi = n_{1}i_{M}$
+	- $n_{1}i_{M}$ is the magneto motive force establishing flux $\Phi$ in the core
+	- $n_{1}i_{M}$ is the amount of by which $n_1$
 
 ```
 

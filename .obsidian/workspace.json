@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Lecture 9 - Three-Phase Systems_ANNOTATED.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Lecture 9 - Three-Phase Systems_ANNOTATED.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Lecture 9 - Three-Phase Systems_ANNOTATED.pdf"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md"
               }
             }
           },
@@ -247,10 +247,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "b848a35782290e57",
+  "active": "f79040e5cb5fe645",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Lecture 9 - Three-Phase Systems_ANNOTATED.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk11 2023.pdf",

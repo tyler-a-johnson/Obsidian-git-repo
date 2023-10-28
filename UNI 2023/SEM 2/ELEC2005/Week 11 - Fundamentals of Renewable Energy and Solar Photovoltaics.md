@@ -170,9 +170,22 @@ $$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V+R_{s}I}{R_
 - Fully shaded cell produces no current $I_{sc} = 0$
 - Shaded cell diode is reverse biased
 - PV module voltage
+- 
 $V_{SH}<V$
 
-$V-V_{SH} = \Delta V : PV$ Module voltage reduction due to shading on one cell
+$V-V_{SH} = \Delta V$: PV Module voltage reduction due to shading on one cell
+
+- n-1 cells in full sun: Generator.
+
+$V_{n-1} = V (\frac{n-1}{n})
+
+- n-th shaded cell: $R_{p} + R_{s}$ load resistor (Rp>>Rs)
+  
+-  Shaded cell absorbs power $R_{p}I^{2}$
+
+- Shaded cells heat up because of power absorption
+
+$$\Delta V = V - V_{SH} = V - V (\frac{n-1}{n}) + (R_{p} + R_{s})I = V/n + (R_{p} + R_{s}) = I$$
 
 ![](Attachments/Pasted%20image%2020231026210833.png)
 

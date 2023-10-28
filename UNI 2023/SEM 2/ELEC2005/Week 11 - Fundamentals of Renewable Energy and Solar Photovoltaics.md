@@ -169,9 +169,7 @@ $$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V+R_{s}I}{R_
 **One cell is shaded**
 - Fully shaded cell produces no current $I_{sc} = 0$
 - Shaded cell diode is reverse biased
-- PV module voltage
-- 
-$V_{SH}<V$
+- PV module voltage V < Vsh
 
 $V-V_{SH} = \Delta V$: PV Module voltage reduction due to shading on one cell
 

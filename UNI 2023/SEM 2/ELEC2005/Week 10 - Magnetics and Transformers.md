@@ -233,10 +233,16 @@ $$Z_{2}' = \frac{\bar{V}_{1}}{\bar{I}_{1}} = \frac{a_{t}\bar{V}_{2}}{\frac{\bar{
 ![](Attachments/Pasted%20image%2020231029143042.png)
 
 $$\bar{V} = n \frac{d \bar{\Phi}}{dt} \rightarrow \frac{\bar{V}_{1}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}} = a_{t}$$
-$$n_{1} \bar{I}^{'}_{1} = n_{2} \bar{I_{2}} \rightarrow \frac{\bar{I}_{1}}{\bar{I}_{2}} = \frac{n_{2}}{n_{1}} = \frac{1}{}$$
+$$n_{1} \bar{I}^{'}_{1} = n_{2} \bar{I_{2}} \rightarrow \frac{\bar{I}_{1}}{\bar{I}_{2}} = \frac{n_{2}}{n_{1}} = \frac{1}{a_{t}}$$
 
+*With Reluctance>0 and windings leak some flux outside core.*
+
+- Flux is leaked outside the core by each winding $\Phi_{l_{1}}$, ${\Phi_{l_{2}}}$
+- Leaed flux is modelled 
 
 
 
 # Additional Content
 ---
+
+## Readings

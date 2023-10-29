@@ -200,6 +200,8 @@ Often its posed $i_{1}-i_{M}=i_{1}'$
 ```
 
 ## Transformers in AC Circuits
+
+### Ideal Transformers
 ![](Attachments/Pasted%20image%2020231026173847.png)
 $$\bar{V}_{1} = n_{1} \frac{d \bar{\Phi}}{dt} = j \omega n_{1} \bar{\Phi}$$
 $$\bar{V}_{2}=n_{2} \frac{d \bar{\Phi}}{dt} = j \omega n_{2} \bar{\Phi}$$
@@ -225,7 +227,10 @@ $$n_{1}\bar{I}_{1}=n_{2}\bar{I}_{2}\rightarrow \frac{\bar{I}_{1}}{\bar{I}_{2}} =
 *Impedance $Z_{2}=\frac{\bar{V}_{2}}{\bar{I}_{2}}$ seen from winding 1
 $$Z_{2}' = \frac{\bar{V}_{1}}{\bar{I}_{1}} = \frac{a_{t}\bar{V}_{2}}{\frac{\bar{I}_{2}}{a_{_{t}}}} = a_{t}^{2}Z_{2}$$
 
-### Practical AC Transformers
+### Practical Transformers
+*Magnetic core reluctance $\mathscr{R}>0$*
+
+
 
 
 

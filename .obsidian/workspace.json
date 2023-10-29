@@ -8,43 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49af9ef2465c9402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f79040e5cb5fe645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "336c8b5f28a4d8f6",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b848a35782290e57",
+            "id": "a6bd24f228140510",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Lecture 9 - Three-Phase Systems_ANNOTATED.pdf"
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md"
               }
             }
           },
@@ -249,9 +241,11 @@
   },
   "active": "f79040e5cb5fe645",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Lecture 9 - Three-Phase Systems_ANNOTATED.pdf",
-    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Lecture 9 - Three-Phase Systems_ANNOTATED.pdf",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk11 2023.pdf",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026213526.png",
@@ -265,9 +259,7 @@
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026210923.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026210833.png",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
     "Distilled Notes/Dot Convention (Transformers).md",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",

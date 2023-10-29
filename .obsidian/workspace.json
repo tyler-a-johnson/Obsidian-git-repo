@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fa5a87fdc23266ea",
+        "id": "f35a931b89b6f66d",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 -.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 -.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 -.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 -.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   },
   "active": "126f5ea06cff6455",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 12 -.md",
     "UNI 2023/SEM 2/Weekly Work.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
@@ -249,12 +250,10 @@
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/ppt3A39.tmp",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~$Automated Car Wash.pptx",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes.zip",
-    "UNI 2023/SEM 2/MTRN3026/Self Sucky/New WinRAR ZIP archive.zip",
     "Distilled Notes/Kirchhoff's Laws.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Distilled Notes/Amperes Law.md",
     "Distilled Notes/Right Hand Rule.md",
-    "Distilled Notes/Compressors - Gas.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

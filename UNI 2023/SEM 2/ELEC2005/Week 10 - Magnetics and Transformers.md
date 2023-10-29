@@ -230,7 +230,9 @@ $$Z_{2}' = \frac{\bar{V}_{1}}{\bar{I}_{1}} = \frac{a_{t}\bar{V}_{2}}{\frac{\bar{
 ### Practical Transformers
 *Magnetic core reluctance $\mathscr{R}>0$*
 
+![](Attachments/Pasted%20image%2020231029143042.png)
 
+$$\bar{V} = n \frac{d \bar{\Phi}}{dt} \rightarrow \frac{\bar{V}_{1}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}} = $$
 
 
 

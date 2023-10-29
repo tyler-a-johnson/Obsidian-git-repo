@@ -4,34 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3aa0fc4e98112e9b",
+        "id": "fa5a87fdc23266ea",
         "type": "tabs",
-        "dimension": 53.74149659863946,
         "children": [
           {
-            "id": "f79040e5cb5fe645",
+            "id": "126f5ea06cff6455",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "336c8b5f28a4d8f6",
-        "type": "tabs",
-        "dimension": 46.25850340136054,
-        "children": [
-          {
-            "id": "a6bd24f228140510",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +95,7 @@
       {
         "id": "371dfface0d3aee2",
         "type": "tabs",
-        "dimension": 62.16955332725615,
+        "dimension": 74.28180574555402,
         "children": [
           {
             "id": "7fe9face60d34d2d",
@@ -144,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md"
               }
             }
           },
@@ -196,12 +181,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "94c37083c6cbb0fc",
         "type": "tabs",
-        "dimension": 37.83044667274385,
+        "dimension": 25.718194254445965,
         "children": [
           {
             "id": "c4b450c7f663afdd",
@@ -215,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 574.5,
-    "collapsed": true
+    "width": 669.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,14 +221,15 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f79040e5cb5fe645",
+  "active": "12db1fcb88c87871",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf",
+    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231029144435.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231029144421.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231029144118.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231029143738.png",
@@ -278,7 +263,6 @@
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~$Automated Car Wash.pptx",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes.zip",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/New WinRAR ZIP archive.zip",
-    "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/pptA199.tmp",
     "Distilled Notes/Kirchhoff's Laws.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Distilled Notes/Amperes Law.md",

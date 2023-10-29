@@ -6,31 +6,31 @@ kanban-plugin: basic
 
 ## LONG WAY OFF
 
-- [ ] MTRN3060 Major Project Due 40% #MTRN/3060  @{30-10-2023}
-- [ ] MTRN3026 Lab Report 3 - 10% Hurdle Wk13 #MTRN/3026
-- [ ] ENG3000 - Portfolio #ENGG/3000  @{05-11-2023}
-- [ ] Testing Document #ENGG/3000 @{29-10-2023}
-- [ ] ENGG3000 - Perspective Essay #ENGG/3000  @{15-10-2023}
-- [ ] Statement of Work #ENGG/3000 @{29-10-2023}
-- [ ] Project Presentation #ENGG/3000 @{07-11-2023}
-- [ ] ENGG3000 - Reflective Writing 2 #ENGG/3000  @{05-11-2023}
 
 
 ## TO DO
 
-- [ ] ENGG3000 - Quiz 4 #ENGG/3000  @{29-09-2023}
+- [ ] MTRN3060 Major Project Due 40% #MTRN/3060  @{30-10-2023}
+- [ ] MTRN3026 Lab Report 3 - 10% Hurdle Wk13 #MTRN/3026
+- [ ] ENG3000 - Portfolio #ENGG/3000  @{05-11-2023}
+- [ ] Testing Document #ENGG/3000 @{05-11-2023}
+- [ ] Statement of Work #ENGG/3000 @{05-11-2023}
+- [ ] Project Presentation #ENGG/3000 @{07-11-2023}
+- [ ] ENGG3000 - Reflective Writing 2 #ENGG/3000  @{05-11-2023}
 
 
 ## IM WORKIN ON IT
 
-- [ ] Distill Notes for ELEC2005 and MTRN3026
-- [ ] Look into GPT paid or Github Copilot
 - [ ] MTRN3026 Lab Report 2  - 10% (Hurdle?) Wk9 #MTRN/3026
 
 
 ## DONE AND DUSTED
 
 **Complete**
+- [x] Distill Notes for ELEC2005 and MTRN3026
+- [x] Look into GPT paid or Github Copilot
+- [x] ENGG3000 - Perspective Essay #ENGG/3000  @{15-10-2023}
+- [x] ENGG3000 - Quiz 4 #ENGG/3000  @{29-09-2023}
 - [x] MTRN3026 Test 2 - WEEK 8 10% #MTRN/3026 #Important
 - [x] ENGG3000 - Reflective Writing 1 #ENGG/3000  @{17-09-2023}
 - [x] ENGG3000 - Quiz 2 #ENGG/3000  @{10-09-2023}

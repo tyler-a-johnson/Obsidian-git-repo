@@ -29,9 +29,19 @@
                 "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf"
               }
             }
+          },
+          {
+            "id": "22a0e5379545ae08",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban Schedule.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CAD",
+                "query": "tag:#ENGG/3000",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -78,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7179793503f86be",
@@ -125,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
+                "file": "Kanban Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
+                "file": "Kanban Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf"
+                "file": "Kanban Schedule.md"
               }
             }
           },
@@ -218,11 +229,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "82b195814a0ba710",
+  "active": "9c0894b8c9bff8ed",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2023/SEM 2/Weekly Work.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",

@@ -244,7 +244,11 @@ $$n_{1} \bar{I}^{'}_{1} = n_{2} \bar{I_{2}} \rightarrow \frac{\bar{I}_{1}}{\bar{
 ![](Attachments/Pasted%20image%2020231029143738.png)
 
 
-*Core reluctance R*
+*Core reluctance > 0, windings leak flux, and core dissipates active power (Hysteresis)*
+
+- Due to Hysteresis of the B-H curve, energy is disipated inside the core to create magnetizing flux
+- Energy loss in the magnertization process is representedby 
+
 
 # Additional Content
 ---

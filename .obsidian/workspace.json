@@ -154,6 +154,16 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "cc6bbf2ecffe5901",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -161,7 +171,7 @@
       {
         "id": "94c37083c6cbb0fc",
         "type": "tabs",
-        "dimension": 25.718194254445965,
+        "dimension": 25.718194254445972,
         "children": [
           {
             "id": "c4b450c7f663afdd",

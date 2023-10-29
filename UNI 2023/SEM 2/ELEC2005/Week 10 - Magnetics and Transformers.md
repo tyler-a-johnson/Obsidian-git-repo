@@ -30,6 +30,7 @@ Flux density (magnetic induction) or B-Field
 
 $$B = \mu H = \mu_{0}\mu_{r}H$$
 **Where:**
+H = Field intensity
 $\mu$ = Magnetic Permeability (material)
 $\mu_{0}$ = Air Permeability
 $\mu_r$ = Relative Permeability

@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f35a931b89b6f66d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "126f5ea06cff6455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "0ee2fea25f15c058",
         "type": "tabs",
         "children": [
@@ -30,9 +11,12 @@
             "id": "5215886843298cd7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -131,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md"
               }
             }
           },
@@ -202,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5
+    "width": 535.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,10 +208,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c08e9b789a4c1123",
+  "active": "5215886843298cd7",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2023/SEM 2/Weekly Work.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",

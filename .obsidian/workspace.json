@@ -6,6 +6,7 @@
       {
         "id": "3aa0fc4e98112e9b",
         "type": "tabs",
+        "dimension": 53.74149659863946,
         "children": [
           {
             "id": "f79040e5cb5fe645",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -25,6 +26,7 @@
       {
         "id": "336c8b5f28a4d8f6",
         "type": "tabs",
+        "dimension": 46.25850340136054,
         "children": [
           {
             "id": "a6bd24f228140510",
@@ -102,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.51240158081055,
-    "collapsed": true
+    "width": 296.51240158081055
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf"
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md"
               }
             }
           },
@@ -239,11 +240,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a6bd24f228140510",
+  "active": "f79040e5cb5fe645",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231029144421.png",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231029144435.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231029144421.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231029144118.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231029143738.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231029143117.png",
@@ -257,7 +259,6 @@
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026213341.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026213046.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026212745.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231026212620.png",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
     "Distilled Notes/Dot Convention (Transformers).md",

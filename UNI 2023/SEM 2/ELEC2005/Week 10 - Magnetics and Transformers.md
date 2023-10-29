@@ -272,3 +272,5 @@ From Glover (2017), Power System Analysis & Design
 ## Done Examples
 ![](Attachments/Pasted%20image%2020231029144421.png)
 
+![](Attachments/Pasted%20image%2020231029144435.png)
+

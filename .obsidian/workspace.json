@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "94c37083c6cbb0fc",
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 606.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +196,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "126f5ea06cff6455",
+  "active": "c08e9b789a4c1123",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/Weekly Work.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",

@@ -104,7 +104,7 @@ $V = V_{R}, I=I_{R}$
 - $FF = 70 - 75$% for cristalline Silicon (cSi) 
 - $FF = 50-60$% for amorphous and multicristalline silicon PV Modules
 
-## PV Module Data
+### PV Module Data
 - Rated power is the power at the MPP (Maximum power point/Operating point)
 - Commercial PV modules have efficiencies $\eta \approx 20$% (2023)
 - Area A (m^2) $\rightarrow$ number of hours $n_{h}$ at 1kW/$m^2$ $\rightarrow P_{Sun} = A*n_{h}$ kW

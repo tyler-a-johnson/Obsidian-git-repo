@@ -246,11 +246,21 @@ $$n_{1} \bar{I}^{'}_{1} = n_{2} \bar{I_{2}} \rightarrow \frac{\bar{I}_{1}}{\bar{
 
 *Core reluctance > 0, windings leak flux, and core dissipates active power (Hysteresis)*
 
-- Due to Hysteresis of the B-H curve, energy is disipated inside the core to create magnetizing flux
-- Energy loss in the magnertization process is representedby 
+- Due to Hysteresis of the B-H curve, energy is dissipated inside the core to create magnetizing flux
+- Energy loss in the magnetization process is represented by an additional shunt resistance $R_{M}$ in parallel with $L_{m}$
+![](Attachments/Pasted%20image%2020231029144118.png)
+
+
 
 
 # Additional Content
 ---
 
 ## Readings
+From Mohan (2011), Power Electronics - A First Course 
+- Chapter 7: Magnetic Circuit Concepts Fundamentals (MQ library link) 
+	- I 7.1: Ampere-Turns and Flux 
+	- I 7.2: Inductance L 
+	- I 7.3: Faraday’s Law: Induced Voltage in a Coil Due to Time-Rate of Change of Flux Linkage
+	- I 7.5: Transformers From Glover (2017), Power System Analysis & Design Chapter 3: Power Transformers (MQ library link) 
+	- I 3.1: The Ideal Transformer F Example 3.1: Ideal, single-phase two windings transformer I 3.2: Equivalent Circuits for Practical Transformers F Example 3.2 (optional): Transformer short-circuit and open-circuit tests

@@ -98,21 +98,6 @@
         "dimension": 74.28180574555402,
         "children": [
           {
-            "id": "7fe9face60d34d2d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2023/SEM 2/Weekly Work.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "55715e4c07a4d5a4",
             "type": "leaf",
             "state": {
@@ -163,16 +148,6 @@
             }
           },
           {
-            "id": "2c5624583de78442",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
             "id": "c08e9b789a4c1123",
             "type": "leaf",
             "state": {
@@ -181,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "94c37083c6cbb0fc",
@@ -200,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 669.5
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,10 +196,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "12db1fcb88c87871",
+  "active": "126f5ea06cff6455",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
+    "UNI 2023/SEM 2/Weekly Work.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf",
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",

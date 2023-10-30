@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ENGG/3000",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f7179793503f86be",
@@ -229,8 +228,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9c0894b8c9bff8ed",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~$tomated Car Wash Systems.docx",
+    "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~WRL0001.tmp",
+    "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~WRD0000.tmp",
+    "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/Automated Car Wash Systems.docx",
     "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
@@ -270,9 +273,6 @@
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
     "Kanban Schedule.md",
     "Study Plan (Macquarie University).canvas",
-    "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/ppt3A39.tmp",
-    "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~$Automated Car Wash.pptx",
-    "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes.zip",
     "Distilled Notes/Kirchhoff's Laws.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Distilled Notes/Amperes Law.md",

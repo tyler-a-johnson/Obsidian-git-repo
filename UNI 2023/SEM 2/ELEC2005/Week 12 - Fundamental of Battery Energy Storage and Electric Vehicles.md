@@ -90,8 +90,14 @@ De Rosa, A. V., Fundamentals of Renewable Energy Processes, 3rd edn, Elsevier, 2
 #todo 
 
 
-## Typical battery cell voltages and discha
+## Typical battery cell voltages and discharge curves
 
+![](Attachments/Pasted%20image%2020231031144419.png)
+- Cell voltage depends on chemistry
+- Cell voltage is not constant
+	- Cell voltage depends on capacity discharged (state of charge) SoC
+
+### State of Charge (SoC)
 
 
 

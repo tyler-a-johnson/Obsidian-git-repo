@@ -127,7 +127,12 @@ Battery specs usually use Ah or Wh
 	- $Q = It$ (ie) constant current delivered for a certain time
 - It is a measure of the energy delivered by the battery
 ![](Attachments/Pasted%20image%2020231031145957.png)
-A 200Ah
+A 200Ah battery
+- Delivers 10A for 20h
+- Delivers 50A for 4h
+According to this chart
+
+Battery capacity is determined discharging the battery at a constant current, for a fixed time ,
 
 # Additional Content
 ---

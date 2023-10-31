@@ -118,7 +118,11 @@ $$E = \int^{t_{2}}_{t_{1}} VI \, dt $$
 Battery specs usually use Ah or Wh
 12V lead acid battery may be specified as a 165Ah battery. What is the energy deliverable by the battery?
 
-### Ragone Plot for D
+### Ragone Plot for different battery tech
+![](Attachments/Pasted%20image%2020231031145427.png)
+
+
+
 
 
 # Additional Content

@@ -58,6 +58,7 @@ $\frac{P_{max}}{m} = 32 \frac{W}{kg}$ **Specific power (power density)**
 
 
 ## Electrochemical Cells
+![](Attachments/Pasted%20image%2020231031144806.png)
 ### Terminology
 -  **Electrochemistry** is a branch of chemistry dealing with the *conversion of chemical energy into electricity and vice versa* Energy conversion occurs through reduction-oxidation Redox reactions inside electrochemical cells
 	- **Oxidation:** Loss of electrons (anode)
@@ -100,6 +101,11 @@ De Rosa, A. V., Fundamentals of Renewable Energy Processes, 3rd edn, Elsevier, 2
 ### State of Charge (SoC)
 ![](Attachments/Pasted%20image%2020231031144718.png)
 
+
+## Equivalent Circuit
+![](Attachments/Pasted%20image%2020231031144834.png)
+- Battery equivalent circuit: **Ideal voltage source in series with a small resistance**
+- Current changes direction depending on charging or discharging
 
 
 

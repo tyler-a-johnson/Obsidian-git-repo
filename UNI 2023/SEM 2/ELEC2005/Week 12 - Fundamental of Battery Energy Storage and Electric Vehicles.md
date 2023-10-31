@@ -23,7 +23,9 @@ Relevant Links:
 - **Safety:** Behaviour at high temp (fire risk)
 - **Cost**
 
-### Typical Values for Popular Battery Technoll
+### Typical Values for Popular Battery Technologies
+![](Attachments/Pasted%20image%2020231031142815.png)
+- Charging rate of valve-regulated Lead-Acid (VRLA) batteries is constrained and is much 
 
 
 # Conceptual Info

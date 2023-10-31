@@ -45,22 +45,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "11c0f54c775603d2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "31361d5cd80f13a5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

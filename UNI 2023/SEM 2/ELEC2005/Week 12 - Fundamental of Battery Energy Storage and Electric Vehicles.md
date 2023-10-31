@@ -219,7 +219,7 @@ For EV are powered using electricity, much more efficient than internal combusti
 
 
 ## Readings
-Masters (2004), Renewable and Ecient Electric Power Systems
+Masters (2004), Renewable and Efficient Electric Power Systems
 Chapter 9 (extract): Photovoltaic Systems
 9.5.3 Batteries 
 -  9.5.4 Basics of Lead-Acid Batteries 

@@ -48,5 +48,10 @@ Essentially the water acts as a large battery that is recharged in downtime.
 
 
 
+
 # Additional Content
 ---
+
+## South Australia Hornsdale Power Reserve
+![](Attachments/Pasted%20image%2020231031135653.png)
+Rated at 100 MW/129MWh, it was the largest Li-Ion battery in the world at time of installation. When at peak output, can provide enough electricity to power th

@@ -34,14 +34,33 @@
             "id": "22a0e5379545ae08",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "11c0f54c775603d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31361d5cd80f13a5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md"
               }
             }
           },
@@ -230,12 +249,13 @@
   },
   "active": "22a0e5379545ae08",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
+    "Kanban Schedule.md",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~$tomated Car Wash Systems.docx",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~WRL0001.tmp",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~WRD0000.tmp",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/Automated Car Wash Systems.docx",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2023/SEM 2/Weekly Work.md",
@@ -270,7 +290,6 @@
     "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
     "README.md",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
-    "Kanban Schedule.md",
     "Study Plan (Macquarie University).canvas",
     "Distilled Notes/Kirchhoff's Laws.md",
     "Resources/Ender 3 V2 G-Code.md",

@@ -215,4 +215,16 @@ Essentially the water acts as a large battery that is recharged in downtime.
 
 ![](Attachments/Pasted%20image%2020231031152602.png)
 
-For EV are powered using electricity, much more efficient than internal combustion. However for EVs to be truly positive for the environment they need to be powered using renewable 
+For EV are powered using electricity, much more efficient than internal combustion. However for EVs to be truly positive for the environment they need to be powered using renewable resources such as wind and solar.
+
+
+## Readings
+Masters (2004), Renewable and Ecient Electric Power Systems
+Chapter 9 (extract): Photovoltaic Systems
+9.5.3 Batteries 
+-  9.5.4 Basics of Lead-Acid Batteries 
+-  9.5.5 Battery Storage Capacity 
+-  9.5.6 Coulomb Efficiency Instead of Energy Efficiency
+-  9.5.7 Battery Sizing
+
+FESTO Didactic, Student Manual 579343: Lead-acid batteries

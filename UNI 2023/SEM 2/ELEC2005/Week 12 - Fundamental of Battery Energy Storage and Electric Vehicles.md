@@ -149,7 +149,14 @@ Battery capacity is determined discharging the battery at a constant current, fo
 How much of the battery is discharged with each cycle
 - Deeper the discharge every cycle, the shorter the number of cycles it can do (the shorter its lifetime)
 - battery design takes this into account
-	- batteries for stand-alone power systems are desigb
+	- batteries for stand-alone power systems are designed for deep discharging and need to endure high number of cycles
+
+### Effect of temperature on the availability capacity
+![](Attachments/Pasted%20image%2020231031151850.png)
+- lower temp decreases available capacity, but higher temps mean fire risk or failure
+
+
+
 
 
 # Additional Content

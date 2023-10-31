@@ -134,6 +134,9 @@ According to this chart
 
 Battery capacity is determined discharging the battery at a constant current, for a fixed time, until allowed minimum voltage is reached
 
+### Discharge Rate
+- Rate at which charge is taken out of the battery 
+
 # Additional Content
 ---
 

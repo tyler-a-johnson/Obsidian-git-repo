@@ -53,8 +53,10 @@ Relevant Links:
 ### Secondary Cells
 *Conversion of chemical energy into electricity is reversible (rechargeable cells/batteries)*
 
-- Electrochemical reactions are reversible: chemical energy <--> electricity
-- After cell is discharged, an external electrical force is applied to reverse the flo
+- Electrochemical **reactions are reversible**: chemical energy <--> electricity
+- After cell is discharged, an external electrical force is applied to reverse the flow of electrons and re-establish the charged condition
+- One discharge and charge operation is called a cycle
+- A secondary cell can endure hundreds or thousands of charge/discharge cycles before losing original properties.
 
 
 

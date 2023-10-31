@@ -54,9 +54,13 @@ Relevant Links:
 *Conversion of chemical energy into electricity is reversible (rechargeable cells/batteries)*
 
 - Electrochemical **reactions are reversible**: chemical energy <--> electricity
-- After cell is discharged, an external electrical force is applied to reverse the flow of electrons and re-establish the charged condition
-- One discharge and charge operation is called a cycle
-- A secondary cell can endure hundreds or thousands of charge/discharge cycles before losing original properties.
+- After cell is discharged, an **external electrical force is applied to reverse the flow of electrons** and re-establish the charged condition
+- One discharge and charge operation is called a **cycle**
+- A secondary cell can endure **hundreds or thousands** of charge/discharge cycles before losing original properties.
+
+*For more info on reversible lead acid batteries:*
+De Rosa, A. V., Fundamentals of Renewable Energy Processes, 3rd edn, Elsevier, 2013, pp. 833-834
+#todo 
 
 
 

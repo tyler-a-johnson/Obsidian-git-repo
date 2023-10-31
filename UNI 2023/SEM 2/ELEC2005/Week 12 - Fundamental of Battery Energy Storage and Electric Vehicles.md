@@ -155,7 +155,9 @@ How much of the battery is discharged with each cycle
 ![](Attachments/Pasted%20image%2020231031151850.png)
 - lower temp decreases available capacity, but higher temps mean fire risk or failure
 
-
+### Typical charging profile
+Constant current - constant voltage charging profile (CC-CV)
+![](Attachments/Pasted%20image%2020231031152100.png)
 
 
 
@@ -189,3 +191,6 @@ Essentially the water acts as a large battery that is recharged in downtime.
 
 ## Comparison Between Electrochem Storage Tech
 ![](Attachments/Pasted%20image%2020231031142305.png)
+
+
+## Simulink Battery Models

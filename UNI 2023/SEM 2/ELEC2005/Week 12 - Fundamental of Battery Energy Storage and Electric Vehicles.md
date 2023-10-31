@@ -194,3 +194,7 @@ Essentially the water acts as a large battery that is recharged in downtime.
 
 
 ## Simulink Battery Models
+![](Attachments/Pasted%20image%2020231031152220.png)
+- Battery model used in Simulink (Simscape Electrical)
+- Model embeds all the characteristics explained in this lecture
+

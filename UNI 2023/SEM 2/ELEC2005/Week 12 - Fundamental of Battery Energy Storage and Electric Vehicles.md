@@ -122,6 +122,7 @@ Battery specs usually use Ah or Wh
 ![](Attachments/Pasted%20image%2020231031145427.png)
 
 
+## Battery Specs
 
 
 

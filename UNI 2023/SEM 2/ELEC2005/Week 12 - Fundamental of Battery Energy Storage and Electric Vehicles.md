@@ -37,7 +37,10 @@ Notice the peak load and peak generation do not line up.
 ![](Attachments/Pasted%20image%2020231031134914.png)
 Another case of peak demand not meeting peak production
 
+## Energy Storage Locations
 ![](Attachments/Pasted%20image%2020231031134959.png)
+
+**Pumped hydro:** Large amounts of water are pumped to a large reservoir in a high location during 
 
 
 

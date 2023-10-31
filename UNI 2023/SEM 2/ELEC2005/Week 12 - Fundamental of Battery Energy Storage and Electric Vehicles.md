@@ -27,7 +27,9 @@ Relevant Links:
 - Additional investment costs
 - Safety requirement (fire hazard)
 
-
+## Storage of Compound intermittency of renewable sources
+*PV Energy*
+Solar power generation and load demand for a South Australian home.
 
 
 # Additional Content

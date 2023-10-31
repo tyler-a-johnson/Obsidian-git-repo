@@ -30,6 +30,16 @@ Relevant Links:
 ## Storage of Compound intermittency of renewable sources
 *PV Energy*
 Solar power generation and load demand for a South Australian home.
+![](Attachments/Pasted%20image%2020231031134807.png)
+Notice the peak load and peak generation do not line up.
+
+*Wind energy*
+![](Attachments/Pasted%20image%2020231031134914.png)
+Another case of peak demand not meeting peak production
+
+![](Attachments/Pasted%20image%2020231031134959.png)
+
+
 
 
 # Additional Content

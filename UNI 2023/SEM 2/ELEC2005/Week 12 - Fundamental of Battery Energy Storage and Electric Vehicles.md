@@ -34,7 +34,10 @@ $Q = 80Ah$  $V = 12V$  $m = 31kg$  $v=10dm^{3}$   $R_{int}=37.5 m \Omega$
 ![](Attachments/Pasted%20image%2020231031143628.png)
 $W = 12V 80Ah = 960Wh$
 
-$\frac{W}{m} = \frac{960Wh}{31kg} = 31 \frac{Wh}{kg}$
+$\frac{W}{m} = \frac{960Wh}{31kg} = 31 \frac{Wh}{kg}$ **Specific Energy (energy density)**
+
+$P_{max} = \frac{\left( \frac{V}{2} \right)^{2}}{R_{load}} \approx 1kW$ **theoretical max power when $R_{load} = R_{\int  \, dx}$**
+
 
 
 

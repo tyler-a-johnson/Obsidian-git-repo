@@ -141,7 +141,13 @@ Battery capacity is determined discharging the battery at a constant current, fo
 	- 10h is 0.1C = 20A (0.1C --> 0.1 * 200A = 20A in 10hrs)
 	- 0.5h is 2C = 400A (2C --> 2 * 200A = 400A in 0.5h)
 ![](Attachments/Pasted%20image%2020231031151346.png)
-- min voltage dep
+- Min voltage depends on discharge rate
+- Higher discharge rates imply lower min voltage
+- Higher discharge rates imply lower discharge times
+
+### Depth of Discharge (DoD)
+How much of the battery is discharged with each cycle
+- Deeper the discharge every cycle
 
 
 # Additional Content

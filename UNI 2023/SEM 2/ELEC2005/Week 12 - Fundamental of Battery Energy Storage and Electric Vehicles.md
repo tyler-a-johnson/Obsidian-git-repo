@@ -21,7 +21,9 @@ Relevant Links:
 - **Life:** number of discharge/recharge cycles at the rated capacity
 - **Electrical Efficiency:** Ratio of the energy required to charge a battery compared to the available energy during discharge is the efficiency. (Approx 95% for Li-Ion, 75% for Lead Acid
 - **Safety:** Behaviour at high temp (fire risk)
-- **Cost:**
+- **Cost**
+
+### Typical 
 
 
 # Conceptual Info
@@ -54,8 +56,6 @@ Relevant Links:
 
 **Deniell's Cell Principle (1836)**
 ![](Attachments/Pasted%20image%2020231031140847.png)
-
-
 
 
 
@@ -105,3 +105,5 @@ Essentially the water acts as a large battery that is recharged in downtime.
 
 
 
+## Comparison Between Electrochem Storage Tech
+![](Attachments/Pasted%20image%2020231031142305.png)

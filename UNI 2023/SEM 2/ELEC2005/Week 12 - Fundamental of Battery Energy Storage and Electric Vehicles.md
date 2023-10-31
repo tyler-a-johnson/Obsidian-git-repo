@@ -109,7 +109,16 @@ De Rosa, A. V., Fundamentals of Renewable Energy Processes, 3rd edn, Elsevier, 2
 
 ## Energy Stored in a Battery
 
-$$E = \int^{Q}  \, dt $$
+$$E = \int^{Q}_{0} V  \, dQ $$
+
+OR
+
+$$E = \int^{t_{2}}_{t_{1}} VI \, dt $$
+
+Battery specs usually use Ah or Wh
+12V lead acid battery may be specified as a 165Ah battery. What is the energy deliverable by the battery?
+
+### Ragone Plot for D
 
 
 # Additional Content

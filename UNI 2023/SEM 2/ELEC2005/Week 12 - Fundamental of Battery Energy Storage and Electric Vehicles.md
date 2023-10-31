@@ -32,6 +32,8 @@ Relevant Links:
 **Lead Acid**
 $Q = 80Ah$  $V = 12V$  $m = 31kg$  $v=10dm^{3}$   $R_{int}=37.5 m \Omega$
 
+$W = 12V 80Ah = 960Wh$
+
 
 
 # Conceptual Info

@@ -43,13 +43,21 @@ Relevant Links:
 ### Primary Cells
 *Conversion of chemical energy into electricity is not reversible (non rechargeable cells/batteries)*
 
-**Deniell's Cell Pri**
+**Deniell's Cell Principle (1836)**
+![](Attachments/Pasted%20image%2020231031140847.png)
+
 
 
 
 
 ### Secondary Cells
 *Conversion of chemical energy into electricity is reversible (rechargeable cells/batteries)*
+
+- Electrochemical reactions are reversible: chemical energy <--> electricity
+- After cell is discharged, an external electrical force is applied to reverse the flo
+
+
+
 
 
 # Additional Content

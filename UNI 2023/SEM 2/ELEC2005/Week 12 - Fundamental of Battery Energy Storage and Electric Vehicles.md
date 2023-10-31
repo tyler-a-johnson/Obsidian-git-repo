@@ -137,8 +137,12 @@ Battery capacity is determined discharging the battery at a constant current, fo
 ### Discharge Rate
 - Rate at which charge is taken out of the battery
 - Example: discharge rate for 200Ah battery
-	- 1h is 1C = 200Ah (1C --> 1 * 200A = 200A in 1 hr
-	- 10h is 0.1C = 20A (0.1C --> 0.1 * 200
+	- 1h is 1C = 200Ah (1C --> 1 * 200A = 200A in 1 hr)
+	- 10h is 0.1C = 20A (0.1C --> 0.1 * 200A = 20A in 10hrs)
+	- 0.5h is 2C = 400A (2C --> 2 * 200A = 400A in 0.5h)
+![](Attachments/Pasted%20image%2020231031151346.png)
+- min voltage dep
+
 
 # Additional Content
 ---

@@ -40,7 +40,8 @@ Another case of peak demand not meeting peak production
 ## Energy Storage Locations
 ![](Attachments/Pasted%20image%2020231031134959.png)
 
-**Pumped hydro:** Large amounts of water are pumped to a large reservoir in a high location during 
+**Pumped hydro:** Large amounts of water are pumped to a large reservoir in a high location during low power demand periods using renewable or non renewable sources (depending on renewable effectiveness). When power demand peaks the water is released through a turbine into a lower reservoir, generating energy. 
+Essentially 
 
 
 

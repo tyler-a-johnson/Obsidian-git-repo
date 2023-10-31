@@ -41,8 +41,10 @@ Another case of peak demand not meeting peak production
 ![](Attachments/Pasted%20image%2020231031134959.png)
 
 **Pumped hydro:** Large amounts of water are pumped to a large reservoir in a high location during low power demand periods using renewable or non renewable sources (depending on renewable effectiveness). When power demand peaks the water is released through a turbine into a lower reservoir, generating energy. 
-Essentially 
+Essentially the water acts as a large battery that is recharged in downtime.
 
+### Battery energy storage by application
+![](Attachments/Pasted%20image%2020231031135558.png)
 
 
 

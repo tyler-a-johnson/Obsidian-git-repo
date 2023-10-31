@@ -34,8 +34,15 @@ Relevant Links:
 	- **Oxidation:** Loss of electrons (anode)
 	- **Reduction:** Acquisition of electrons (cathode)
 - Types of electrochemical cells:
-	- *Galvanic:* Chemical energy --> electricity (dry cells, Pb Acid, Ni-Cd)
-	- *Electrolytic:* Electricity --> 
+	- *Galvanic:* Chemical energy --> Electricity (dry cells, Pb Acid, Ni-Cd)
+	- *Electrolytic:* Electricity --> Chemical energy (Nelson's cell, Down's Cell)
+- An electrochemical cell is typically formed by **two electronic conductors (electrodes)** and **one proton conductor (electrolyte)**
+
+## Galvanic Cells
+
+### Primary Cells
+*Conversion of chemical energy into electricity is not reversible (n*
+
 
 # Additional Content
 ---

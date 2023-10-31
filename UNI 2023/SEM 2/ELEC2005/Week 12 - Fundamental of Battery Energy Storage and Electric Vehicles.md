@@ -147,7 +147,9 @@ Battery capacity is determined discharging the battery at a constant current, fo
 
 ### Depth of Discharge (DoD)
 How much of the battery is discharged with each cycle
-- Deeper the discharge every cycle
+- Deeper the discharge every cycle, the shorter the number of cycles it can do (the shorter its lifetime)
+- battery design takes this into account
+	- batteries for stand-alone power systems are desigb
 
 
 # Additional Content

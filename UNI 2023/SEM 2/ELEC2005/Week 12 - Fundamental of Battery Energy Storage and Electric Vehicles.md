@@ -17,7 +17,9 @@ Relevant Links:
 
 - **Energy Density:** Energy stored per unit of mass volume, in $Wh/kg$ or $Wh/m^3$
 - **Power Density:** Max rate of energy discharge per unit mass or volume in $W/kg$ or $W/m^3$
-- **Capacity:** Amount of charge deliv
+- **Capacity:** Amount of charge deliverable by a battery in a discharge cycle in $Ah$
+- **Life:** number of discharge/recharge cycles at the rated capacity
+- **Electrical Efficiency:** Ratio of the energy required to charge a battery compared to the available energy during discharge
 
 
 # Conceptual Info

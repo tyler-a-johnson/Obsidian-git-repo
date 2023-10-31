@@ -25,7 +25,11 @@ Relevant Links:
 
 ### Typical Values for Popular Battery Technologies
 ![](Attachments/Pasted%20image%2020231031142815.png)
-- Charging rate of valve-regulated Lead-Acid (VRLA) batteries is constrained and is much 
+- Charging rate of valve-regulated Lead-Acid (VRLA) batteries is constrained and is much smaller than discharging rate, resulting in longer charge time.
+- Charging rate of Li-Ion batteries is not constrained, allowing fast charging.
+
+## Energy Density and Power Density
+
 
 
 # Conceptual Info

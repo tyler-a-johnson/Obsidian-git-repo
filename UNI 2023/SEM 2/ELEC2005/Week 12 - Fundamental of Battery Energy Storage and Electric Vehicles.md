@@ -31,7 +31,7 @@ Relevant Links:
 ## Energy Density and Power Density
 **Lead Acid**
 $Q = 80Ah$  $V = 12V$  $m = 31kg$  $v=10dm^{3}$   $R_{int}=37.5 m \Omega$
-
+![](Attachments/Pasted%20image%2020231031143628.png)
 $W = 12V 80Ah = 960Wh$
 
 

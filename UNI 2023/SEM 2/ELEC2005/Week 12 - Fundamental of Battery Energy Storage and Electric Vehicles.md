@@ -27,6 +27,17 @@ Relevant Links:
 - Additional investment costs
 - Safety requirement (fire hazard)
 
+
+## Electrochemical Cells
+
+
+# Additional Content
+---
+
+## South Australia Hornsdale Power Reserve
+![](Attachments/Pasted%20image%2020231031135653.png)
+Rated at 100 MW/129MWh, it was the largest Li-Ion battery in the world at time of installation. When at peak output, can provide enough electricity to power the equivalent of 45,000 homes.
+
 ## Storage of Compound intermittency of renewable sources
 *PV Energy*
 Solar power generation and load demand for a South Australian home.
@@ -48,10 +59,3 @@ Essentially the water acts as a large battery that is recharged in downtime.
 
 
 
-
-# Additional Content
----
-
-## South Australia Hornsdale Power Reserve
-![](Attachments/Pasted%20image%2020231031135653.png)
-Rated at 100 MW/129MWh, it was the largest Li-Ion battery in the world at time of installation. When at peak output, can provide enough electricity to power th

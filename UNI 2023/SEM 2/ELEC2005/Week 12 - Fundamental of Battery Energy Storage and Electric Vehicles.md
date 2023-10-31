@@ -132,7 +132,7 @@ A 200Ah battery
 - Delivers 50A for 4h
 According to this chart
 
-Battery capacity is determined discharging the battery at a constant current, for a fixed time ,
+Battery capacity is determined discharging the battery at a constant current, for a fixed time, until allowed minimum voltage is reached
 
 # Additional Content
 ---

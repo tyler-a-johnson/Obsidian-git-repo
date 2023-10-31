@@ -36,8 +36,11 @@ $W = 12V 80Ah = 960Wh$
 
 $\frac{W}{m} = \frac{960Wh}{31kg} = 31 \frac{Wh}{kg}$ **Specific Energy (energy density)**
 
-$P_{max} = \frac{\left( \frac{V}{2} \right)^{2}}{R_{load}} \approx 1kW$ **theoretical max power when $R_{load} = R_{\int  \, dx}$**
+$P_{max} = \frac{\left( \frac{V}{2} \right)^{2}}{R_{load}} \approx 1kW$ **theoretical max power when $R_{load} = R_{int}$**
 
+$\frac{P_{max}}{m} = 32 \frac{W}{kg}$ **Specific power (power density)**
+
+![](Attachments/Pasted%20image%2020231031144307.png)
 
 
 
@@ -87,7 +90,7 @@ De Rosa, A. V., Fundamentals of Renewable Energy Processes, 3rd edn, Elsevier, 2
 #todo 
 
 
-
+## Typical battery cell voltages and discha
 
 
 

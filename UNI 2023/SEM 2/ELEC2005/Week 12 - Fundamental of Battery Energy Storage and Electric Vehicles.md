@@ -13,6 +13,9 @@ Relevant Links:
 # Maths and Distilled Info
 ---
 
+## Electrochem energy: Key Attributes
+**Energy Density:**
+
 
 
 # Conceptual Info
@@ -61,6 +64,8 @@ Relevant Links:
 *For more info on reversible lead acid batteries:*
 De Rosa, A. V., Fundamentals of Renewable Energy Processes, 3rd edn, Elsevier, 2013, pp. 833-834
 #todo 
+
+
 
 
 

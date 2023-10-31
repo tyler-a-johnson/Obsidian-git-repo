@@ -41,7 +41,15 @@ Relevant Links:
 ## Galvanic Cells
 
 ### Primary Cells
-*Conversion of chemical energy into electricity is not reversible (n*
+*Conversion of chemical energy into electricity is not reversible (non rechargeable cells/batteries)*
+
+**Deniell's Cell Pri**
+
+
+
+
+### Secondary Cells
+*Conversion of chemical energy into electricity is reversible (rechargeable cells/batteries)*
 
 
 # Additional Content

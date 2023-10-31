@@ -34,6 +34,8 @@ $Q = 80Ah$  $V = 12V$  $m = 31kg$  $v=10dm^{3}$   $R_{int}=37.5 m \Omega$
 ![](Attachments/Pasted%20image%2020231031143628.png)
 $W = 12V 80Ah = 960Wh$
 
+$\frac{W}{m} = \frac{960Wh}{31kg} = 31 \frac{Wh}{kg}$
+
 
 
 # Conceptual Info

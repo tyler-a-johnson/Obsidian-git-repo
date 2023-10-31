@@ -200,17 +200,19 @@ Essentially the water acts as a large battery that is recharged in downtime.
 
 ### EVs and efficiency
 - Traction battery pack 
-stores electricity for use by the electric traction motor 
+	- stores electricity for use by the electric traction motor 
 
 - Power electronic controller 
-manages the energy flows to/from motor and batteries 
-allows to control speed and torque of the electric motor 
-increases reliability and battery lifetime
+	- manages the energy flows to/from motor and batteries 
+	- allows to control speed and torque of the electric motor 
+	- increases reliability and battery lifetime
 
 - DC/DC converter 
-converts higher-voltage DC power from the traction battery pack to the lower-voltage DC power needed to run vehicle accessories and recharge the auxiliary battery
+	- converts higher-voltage DC power from the traction battery pack to the lower-voltage DC power needed to run vehicle accessories and recharge the auxiliary battery
 
 - Charge port 
-the charge port allows the vehicle to connect to an external power supply in order to charge the traction battery pack
+	- the charge port allows the vehicle to connect to an external power supply in order to charge the traction battery pack
 
 ![](Attachments/Pasted%20image%2020231031152602.png)
+
+For EV are powered using electricity, much more efficient than internal combustion. However for EVs to be truly positive for the environment they need to be powered using renewable 

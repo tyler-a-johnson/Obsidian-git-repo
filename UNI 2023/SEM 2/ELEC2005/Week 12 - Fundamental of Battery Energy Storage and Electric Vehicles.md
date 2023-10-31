@@ -123,8 +123,11 @@ Battery specs usually use Ah or Wh
 
 
 ## Battery Specs
-
-
+- Electric charge Q delivered by the battery when fully charged
+	- $Q = It$ (ie) constant current delivered for a certain time
+- It is a measure of the energy delivered by the battery
+![](Attachments/Pasted%20image%2020231031145957.png)
+A 200Ah
 
 # Additional Content
 ---

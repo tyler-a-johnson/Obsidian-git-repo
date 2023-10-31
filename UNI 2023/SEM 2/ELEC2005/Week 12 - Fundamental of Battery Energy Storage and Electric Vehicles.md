@@ -29,7 +29,10 @@ Relevant Links:
 
 
 ## Electrochemical Cells
-
+### Terminology
+-  **Electrochemistry** is a branch of chemistry dealing with the *conversion of chemical energy into electricity and vice versa* Energy conversion occurs through reduction-oxidation Redox reactions inside electrochemical cells
+	- **Oxidation:** Loss of electrons (anode)
+	- **Reduction:** Aquisi
 
 # Additional Content
 ---

@@ -18,7 +18,9 @@ Relevant Links:
 # Conceptual Info
 ---
 ## Advantages and Disadvantages
-
+**Advantages:**
+- Storage allows using electricity at a different time that when it was generated
+-  Using your own (stored) energy when electricity from the grid is expensive
 
 
 # Additional Content

@@ -14,8 +14,10 @@ Relevant Links:
 ---
 
 ## Electrochem energy: Key Attributes
-**Energy Density:**
 
+- **Energy Density:** Energy stored per unit of mass volume, in $Wh/kg$ or $Wh/m^3$
+- **Power Density:** Max rate of energy discharge per unit mass or volume in $W/kg$ or $W/m^3$
+- **Capacity:** Amount of charge deliv
 
 
 # Conceptual Info

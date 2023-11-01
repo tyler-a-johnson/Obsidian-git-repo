@@ -85,7 +85,7 @@ We can find this equivalent by:
 ## Graphical Analysis
 ![Pasted image 20230725154553](Attachments/Pasted%20image%2020230725154553.png)
 Only $v_{oc}$ and one $R_{L}$ measurement is needed to make a linear graph.
-When $R_{L}$ reaches zero we can determine the short circuit current, as this ef
+When $R_{L}$ reaches zero we can determine the short circuit current, as this effectively means a short circuit.
 
 
 # Non-Linear Devices

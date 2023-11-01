@@ -114,7 +114,7 @@ The device within this subsystem is the transistor:
 ![Pasted image 20230725160713](Attachments/Pasted%20image%2020230725160713.png)
 - A two port circuit, shown as a triangle indicating the direction of signal flow
 - Typically there is a common terminal as a reference point
-- In reality amps require a power supply (not shown)
+- In reality amps require a power supply (shown below)
 ![Pasted image 20230725160858](Attachments/Pasted%20image%2020230725160858.png)
 
 Signal gain can be achieved and expressed through voltage, current, or power.

@@ -127,6 +127,7 @@ Gain is a ratio, expressed as dimensionless, or V/V, A/A etc. Engineers often ex
 - Saturation(clipping) will occur when the output voltage approaches that of the power supplies
 - Output signal becomes distorted
 ![Pasted image 20230725210004](Attachments/Pasted%20image%2020230725210004.png)
+The voltage input range is larger than the voltage output range, output peaks after gain as the system is not capable of creating that voltage.
 ```ad-important
 We must design amplifiers to avoid this. Knowledge of the input range is needed.
 

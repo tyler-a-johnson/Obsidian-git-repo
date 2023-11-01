@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.51240158081055,
-    "collapsed": true
+    "width": 296.51240158081055
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md"
               }
             }
           },
@@ -234,8 +233,8 @@
   },
   "active": "22a0e5379545ae08",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231031152831.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231031152602.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231031152220.png",

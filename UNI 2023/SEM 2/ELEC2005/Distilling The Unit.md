@@ -112,3 +112,5 @@ Zener diodes are designed to work at the reverse breakdown region. These diodes 
 ![](Attachments/Pasted%20image%2020231102191003.png)
 *Commonly used for voltage regulator circuits - constant output from variable supply.*
 5V change in the supply voltage results in only a 0.5V change the regulated output voltage.
+
+## Diode Logic Gates

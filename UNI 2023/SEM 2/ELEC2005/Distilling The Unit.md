@@ -66,9 +66,20 @@ $$i_{D} \approx I_{s}\exp({\frac{v_{D}}{nV_{T}}})$$
 ![Pasted image 20230805091641](Attachments/Pasted%20image%2020230805091641.png)
 For silicon diodes, typical $V_{f} =~ 0.7V$
 
+### Diode Regulator
+#todo 
 
+## Linear Model (Not Accurate)
+We can also model our diode using a simple linear equation. Although this is not a highly accurate model of a diode.
+![Pasted image 20230805092154](Attachments/Pasted%20image%2020230805092154.png)
+From this we derive:
+$$i = \frac{1}{R_{a}}(v-V_{a})+ \frac{-V_{a}}{R_a}$$
+![Pasted image 20230805092511](Attachments/Pasted%20image%2020230805092511.png)
 
-## Linear Model
+We can improve this using piecewise functions to generalize non-linearity
+![Pasted image 20230805092838](Attachments/Pasted%20image%2020230805092838.png)
+*This is our graphical model. Good for load-line analysis*
+
 
 ## Analysis
 

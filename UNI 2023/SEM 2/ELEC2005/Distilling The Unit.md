@@ -52,8 +52,15 @@ $$i_{D} = I_{s}[\exp{\frac{v_{D}}{nV_{T}}}-1]$$
 - $I_{s} =$ Saturation current. Its value depends on the area of the diode and the temp. Doubling for each $5\degree$ increase for silicon diodes. $~10^{-14}$ A at 300K
 - $n =$ Emission coefficient (ideality factor) $1 < n < 2$
 - $V_{T} =$ Thermal voltage $V_{T =}kT/q$ 
+	- Temperature in K = 273 + Temp in C
 - $k = 1.38*10^{-23}$ Joules/Kelvin (**Boltzmann's Constant**)
 - $q = 1.60 * 10^{-19}$ Coulomb (Charge of an electron)
 
 ## Analysis by Assumed States
-
+*In a circuit with a number of diodes n*
+- Assume a state for each diode (ON/OFF)(Closed/Open)
+- n diodes will require $2^{n}$ possible combinations
+- **Calculate currents of ON diodes and voltages of OFF diodes**
+- Check to see of calculations are consistent with assumptions
+- If yes, assumption works. *If no, return to step 1 and make a new assumption*.
+- Making a table helps

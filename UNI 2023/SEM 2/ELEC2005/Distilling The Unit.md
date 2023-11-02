@@ -13,6 +13,7 @@ Relevant Links:
 
 ## Transistor Equivalent Circuit
 ![Pasted image 20230725151706](Attachments/Pasted%20image%2020230725151706.png)
+## Amp
 
 ## Thevenin's Theorem
 "Any combination of voltage sources and resistors with two terminals can be replaced by a single voltage source and a single series resistor."
@@ -28,3 +29,5 @@ Signal gain can be achieved and expressed through voltage, current, or power.
 ![Pasted image 20230725161242](Attachments/Pasted%20image%2020230725161242.png)
 Gain is a ratio, expressed as dimensionless, or V/V, A/A etc. Engineers often express gain logarithmically.
 ### Saturation
+![Pasted image 20230725210004](Attachments/Pasted%20image%2020230725210004.png)
+

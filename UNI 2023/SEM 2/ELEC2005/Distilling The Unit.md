@@ -103,7 +103,7 @@ $V_{DQ} \approx 0.7V$ (constant drop)
 $I_{DQ} \approx 1.3mA$
 
 #### Load Line Analysis of Complex Circuits
-![Pasted image 20230805103041](Attachments/Pasted%20image%2020230805103041.png)
+![Pasted image 20230805103114](Attachments/Pasted%20image%2020230805103114.png)
 
 
 

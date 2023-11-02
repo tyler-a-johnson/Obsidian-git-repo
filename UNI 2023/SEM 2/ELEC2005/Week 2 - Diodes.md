@@ -247,5 +247,3 @@ $$i_{d}(t) = I_{d}\cos(2\pi ft - 90\degree)$$
 
 # Small Signal Diode
 ![Pasted image 20230805111017](Attachments/Pasted%20image%2020230805111017.png)
-
-#What is ripple in regards to DC/AC voltages "10V+ DC with a 1V ripple".

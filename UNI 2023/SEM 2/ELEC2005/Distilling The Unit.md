@@ -87,3 +87,6 @@ $R = 1k\ohm$
 *We also need these to find the operating point:*
 $V_{DQ} \approx 0.7V$
 $I_{DQ} \approx 1.3mA$
+
+## Zener Diode
+Zener diodes are designed to work at the reverse breakdown region. These diodes use this as expected behavior.

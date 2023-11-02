@@ -56,6 +56,9 @@ $$i_{D} = I_{s}[\exp{\frac{v_{D}}{nV_{T}}}-1]$$
 - $k = 1.38*10^{-23}$ Joules/Kelvin (**Boltzmann's Constant**)
 - $q = 1.60 * 10^{-19}$ Coulomb (Charge of an electron)
 
+## Non-Ideal Diodes
+
+
 ## Analysis by Assumed States
 *In a circuit with a number of diodes n*
 - Assume a state for each diode (ON/OFF)(Closed/Open)
@@ -63,4 +66,3 @@ $$i_{D} = I_{s}[\exp{\frac{v_{D}}{nV_{T}}}-1]$$
 - **Calculate currents of ON diodes and voltages of OFF diodes**
 - Check to see of calculations are consistent with assumptions
 - If yes, assumption works. *If no, return to step 1 and make a new assumption*.
-- Making a table helps

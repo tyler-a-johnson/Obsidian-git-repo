@@ -93,6 +93,7 @@ We can improve this using piecewise functions to generalize non-linearity
 ### Load Line Analysis
 There's no straightforward way to solve the Shockley Equation with Kirchhoff's Voltage Law ($V_{SS} = Ri_{D}+v_{D}$)
 We use load-line analysis graphically. Since $v_{D}$ is upside down here, what this means is that when there is no reverse bias, $i_{D} = \frac{V_{ss}}{R}$. When full reverse bias there is no current.
+$i_{D} =\frac{V_{SS}-v_{D}}{R}$
 ![Pasted image 20230805093536](Attachments/Pasted%20image%2020230805093536.png)
 $V_{SS}= 2V$
 $R = 1k\ohm$ 

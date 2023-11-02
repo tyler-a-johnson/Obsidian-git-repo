@@ -42,5 +42,18 @@ Gain is a ratio, expressed as dimensionless, or V/V, A/A etc. Engineers often ex
 	- Over voltage protection
 	- Detectors
 	- Signal Generation
-## Junctions
+## Characteristics
 ![Pasted image 20230805111503](Attachments/Pasted%20image%2020230805111503.png)
+*Shockley Equation (Forward bias)*
+$$i_{D} = I_{s}(e^{v_{D}/nV_{r}}-1)$$
+$$i_{D} = I_{s}[\exp{\frac{v_{D}}{nV_{T}}}-1]$$
+
+**Where:**
+- $I_{s} =$ Saturation current. Its value depends on the area of the diode and the temp. Doubling for each $5\degree$ increase for silicon diodes. $~10^{-14}$ A at 300K
+- $n =$ Emission coefficient (ideality factor) $1 < n < 2$
+- $V_{T} =$ Thermal voltage $V_{T =}kT/q$ 
+- $k = 1.38*10^{-23}$ Joules/Kelvin (**Boltzmann's Constant**)
+- $q = 1.60 * 10^{-19}$ Coulomb (Charge of an electron)
+
+## Analysis by Assumed States
+

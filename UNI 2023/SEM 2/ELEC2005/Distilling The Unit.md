@@ -103,7 +103,16 @@ $I_{DQ} \approx 1.3mA$
 #### Load Line Analysis of Complex Circuits
 ![Pasted image 20230805103114](Attachments/Pasted%20image%2020230805103114.png)
 
-### Sma
+### Small Signal Analysis
+- We applied *DC voltages (or currents) to the diodes and found the operating points (Q point)*
+- Q stands for **quiescent** i.e. quiet or no-signal point
+![Pasted image 20230801163315](Attachments/Pasted%20image%2020230801163315.png)
+*If the Q point is known (using the nonlinear diode characteristic), the linear AC analysis method can be applied to find the response to small (AC) signals.
+
+
+
+
+
 
 ## Zener Diode
 Zener diodes are designed to work at the reverse breakdown region. These diodes use this as expected behaviour.

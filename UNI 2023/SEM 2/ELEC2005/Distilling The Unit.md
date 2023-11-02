@@ -134,4 +134,6 @@ PIV needs to be less than the breakdown voltage of the diode.
 **Diode Bridge Full-Wave Rectifier**
 ![Pasted image 20230805105419](Attachments/Pasted%20image%2020230805105419.png)
 
-### Diode Refg
+### Diode Regulator
+![](Attachments/Pasted%20image%2020231102193318.png)
+Using 0.7V Drop Model, $V_{O} \approx 2.1V$

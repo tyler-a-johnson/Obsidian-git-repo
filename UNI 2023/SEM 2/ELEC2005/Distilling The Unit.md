@@ -42,3 +42,5 @@ Gain is a ratio, expressed as dimensionless, or V/V, A/A etc. Engineers often ex
 	- Over voltage protection
 	- Detectors
 	- Signal Generation
+## Junctions
+![Pasted image 20230805111503](Attachments/Pasted%20image%2020230805111503.png)

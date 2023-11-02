@@ -250,9 +250,45 @@
       "copilot:Copilot Chat": false
     }
   },
+  "floating": {
+    "id": "ff833f200012cf7b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e7450472db56304c",
+        "type": "window",
+        "children": [
+          {
+            "id": "72296778e22d2b53",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "079f12d2fe6be0ad",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 2 - Lecture Diodes_2023_UPDATED.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1743,
+        "y": 15,
+        "width": 762,
+        "height": 890,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
   "active": "6edeee0de7f192da",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 2 - Lecture Diodes_2023_UPDATED.pdf",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
     "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
@@ -283,7 +319,6 @@
     "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Lecture 9 - Three-Phase Systems_ANNOTATED.pdf",
     "Resources/Markdown Latex Reference Sheet.md",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/wk11 2023.pdf",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "Distilled Notes/Dot Convention (Transformers).md",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
@@ -298,7 +333,6 @@
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
     "Study Plan (Macquarie University).canvas",
     "Distilled Notes/Kirchhoff's Laws.md",
-    "Resources/Ender 3 V2 G-Code.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

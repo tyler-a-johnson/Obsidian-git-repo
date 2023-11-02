@@ -103,11 +103,11 @@ $I_{DQ} \approx 1.3mA$
 #### Load Line Analysis of Complex Circuits
 ![Pasted image 20230805103114](Attachments/Pasted%20image%2020230805103114.png)
 
-### Small Signal Analysis
+### Small Signal Analysis (AC Signals)
 - We applied *DC voltages (or currents) to the diodes and found the operating points (Q point)*
 - Q stands for **quiescent** i.e. quiet or no-signal point
 ![Pasted image 20230801163315](Attachments/Pasted%20image%2020230801163315.png)
-*If the Q point is known (using the nonlinear diode characteristic), the linear AC analysis method can be applied to find the response to small (AC) signals.
+*If the Q point is known (using the nonlinear diode characteristic), the linear AC analysis method can be applied to find the response to small **(AC) signals.**
 
 
 
@@ -146,3 +146,7 @@ PIV needs to be less than the breakdown voltage of the diode.
 ### Diode Regulator
 ![](Attachments/Pasted%20image%2020231102193318.png)
 Using 0.7V Drop Model, $V_{O} \approx 2.1V$
+
+### Wave Shaping Circuits
+![](Attachments/Pasted%20image%2020231102194126.png)
+Similarly with input signal exceeding gain in an amp, clipping will occur here

@@ -131,4 +131,8 @@ $PIV \approx 2V_{m}$
 PIV needs to be less than the breakdown voltage of the diode.
 
 ### Full-Wave Rectifier
-![Pasted image 20230805105215](Attachments/Pasted%20image%2020230805105215.png)
+![Pasted image 20230805105337](Attachments/Pasted%20image%2020230805105337.png)
+
+**Diode Bridge Full-Wave Rectifier**
+![Pasted image 20230805105419](Attachments/Pasted%20image%2020230805105419.png)
+

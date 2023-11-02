@@ -66,8 +66,6 @@ $$i_{D} \approx I_{s}\exp({\frac{v_{D}}{nV_{T}}})$$
 ![Pasted image 20230805091641](Attachments/Pasted%20image%2020230805091641.png)
 For silicon diodes, typical $V_{f} =~ 0.7V$
 
-### Diode Regulator
-#todo 
 
 ## Linear Model (Not Accurate)
 We can also model our diode using a simple linear equation. Although this is not a highly accurate model of a diode.
@@ -136,3 +134,4 @@ PIV needs to be less than the breakdown voltage of the diode.
 **Diode Bridge Full-Wave Rectifier**
 ![Pasted image 20230805105419](Attachments/Pasted%20image%2020230805105419.png)
 
+### Diode Refg

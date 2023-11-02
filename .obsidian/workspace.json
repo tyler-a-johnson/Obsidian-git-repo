@@ -4,6 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "808a1cedbf3fea1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6edeee0de7f192da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "0ee2fea25f15c058",
         "type": "tabs",
         "children": [
@@ -36,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.51240158081055,
-    "collapsed": true
+    "width": 296.51240158081055
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -139,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
               }
             }
           },
@@ -232,9 +250,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "6edeee0de7f192da",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231031152831.png",
@@ -252,7 +273,6 @@
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~WRL0001.tmp",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/~WRD0000.tmp",
     "UNI 2023/SEM 2/MTRN3026/Self Sucky/Automated Car Washes/Automated Car Wash Systems.docx",
-    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2023/SEM 2/Weekly Work.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk10 2023 1.pdf",
@@ -264,7 +284,6 @@
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk11 2023.pdf",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
-    "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
     "Distilled Notes/Dot Convention (Transformers).md",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
@@ -279,8 +298,6 @@
     "Study Plan (Macquarie University).canvas",
     "Distilled Notes/Kirchhoff's Laws.md",
     "Resources/Ender 3 V2 G-Code.md",
-    "Distilled Notes/Amperes Law.md",
-    "Distilled Notes/Right Hand Rule.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

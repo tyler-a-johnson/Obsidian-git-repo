@@ -115,3 +115,20 @@ Zener diodes are designed to work at the reverse breakdown region. These diodes 
 
 ## Rectifiers
 
+### Half Wave
+![](Attachments/Pasted%20image%2020231102192507.png)
+*We can use the 0.7V drop model or ideal diode model without losing much accuracy because voltage levels >> 0.7V*
+We can add a capacitor to smooth the output
+![Pasted image 20230805104757](Attachments/Pasted%20image%2020230805104757.png)
+$$C \approx \frac{I_L T}{V_{r}}$$
+**Where:**
+$I_{L} =$ Average load current
+$T =$ Period of AC voltage
+$V_{r} =$ Ripple voltage
+
+*Chose diode to withstand Peak Inverse Voltage*
+$PIV \approx 2V_{m}$
+PIV needs to be less than the breakdown voltage of the diode.
+
+### Full-Wave Rectifier
+![Pasted image 20230805105215](Attachments/Pasted%20image%2020230805105215.png)

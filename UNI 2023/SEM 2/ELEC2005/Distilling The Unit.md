@@ -78,4 +78,12 @@ For silicon diodes, typical $V_{f} =~ 0.7V$
 - If yes, assumption works. *If no, return to step 1 and make a new assumption*.
 
 ### Load Line Analysis
-We kn
+There's no straightforward way to solve the Shockley Equation with Kirchhoff's Voltage Law ($V_{SS} = Ri_{D}+v_{D}$)
+We use load-line analysis graphically 
+![Pasted image 20230805093536](Attachments/Pasted%20image%2020230805093536.png)
+$V_{SS}= 2V$
+$R = 1k\ohm$ 
+
+*We also need these to find the operating point:*
+$V_{DQ} \approx 0.7V$
+$I_{DQ} \approx 1.3mA$

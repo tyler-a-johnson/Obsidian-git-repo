@@ -103,7 +103,7 @@ $I_{DQ} \approx 1.3mA$
 #### Load Line Analysis of Complex Circuits
 ![Pasted image 20230805103114](Attachments/Pasted%20image%2020230805103114.png)
 
-
+### Sma
 
 ## Zener Diode
 Zener diodes are designed to work at the reverse breakdown region. These diodes use this as expected behaviour.
@@ -111,7 +111,7 @@ Zener diodes are designed to work at the reverse breakdown region. These diodes 
 *Commonly used for voltage regulator circuits - constant output from variable supply.*
 5V change in the supply voltage results in only a 0.5V change the regulated output voltage.
 
-## Rectifiers
+## Rectifiers and Regulation
 
 ### Half Wave
 ![](Attachments/Pasted%20image%2020231102192507.png)

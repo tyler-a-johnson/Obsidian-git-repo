@@ -103,4 +103,6 @@ $V_{DQ} \approx 0.7V$ (constant drop)
 $I_{DQ} \approx 1.3mA$
 
 ## Zener Diode
-Zener diodes are designed to work at the reverse breakdown region. These diodes use this as expected behavior.
+Zener diodes are designed to work at the reverse breakdown region. These diodes use this as expected behaviour.
+![Pasted image 20230805102124](Attachments/Pasted%20image%2020230805102124.png)
+*Commonly used for voltage regulator circuits - constant output from variable supply.*

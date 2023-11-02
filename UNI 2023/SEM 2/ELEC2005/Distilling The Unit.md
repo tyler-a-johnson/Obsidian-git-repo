@@ -106,3 +106,4 @@ $I_{DQ} \approx 1.3mA$
 Zener diodes are designed to work at the reverse breakdown region. These diodes use this as expected behaviour.
 ![](Attachments/Pasted%20image%2020231102191003.png)
 *Commonly used for voltage regulator circuits - constant output from variable supply.*
+

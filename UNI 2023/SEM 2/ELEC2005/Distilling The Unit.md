@@ -13,7 +13,9 @@ Relevant Links:
 
 ## Transistor Equivalent Circuit
 ![Pasted image 20230725151706](Attachments/Pasted%20image%2020230725151706.png)
-## Amp
+## Simple Voltage Amplifier
+![Pasted image 20230725211321](Attachments/Pasted%20image%2020230725211321.png)
+
 
 ## Thevenin's Theorem
 "Any combination of voltage sources and resistors with two terminals can be replaced by a single voltage source and a single series resistor."
@@ -31,3 +33,12 @@ Gain is a ratio, expressed as dimensionless, or V/V, A/A etc. Engineers often ex
 ### Saturation
 ![Pasted image 20230725210004](Attachments/Pasted%20image%2020230725210004.png)
 
+
+
+# Diodes
+- Fabricated using a semiconductor with a P-N Junction
+- Applications:
+	- Power conversion
+	- Over voltage protection
+	- Detectors
+	- Signal Generation

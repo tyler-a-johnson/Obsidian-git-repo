@@ -57,7 +57,13 @@ $$i_{D} = I_{s}[\exp{\frac{v_{D}}{nV_{T}}}-1]$$
 - $q = 1.60 * 10^{-19}$ Coulomb (Charge of an electron)
 
 ## Non-Ideal Diodes
+### Constant Voltage Drop Model
+- Only accounts for the forward turn on voltage
+- Does not account for the slope or reverse breakdown.
+![Pasted image 20230805091641](Attachments/Pasted%20image%2020230805091641.png)
 
+For silicon diodes, typical $V_{f} =~ 0.7V$
+We will use this model most of the time.
 
 ## Analysis by Assumed States
 *In a circuit with a number of diodes n*

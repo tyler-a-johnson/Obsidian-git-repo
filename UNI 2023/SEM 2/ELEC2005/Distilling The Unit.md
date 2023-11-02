@@ -67,10 +67,15 @@ $$i_{D} \approx I_{s}\exp({\frac{v_{D}}{nV_{T}}})$$
 For silicon diodes, typical $V_{f} =~ 0.7V$
 
 
-## Analysis by Assumed States
+## Analysis
+
+### Assumed States
 *In a circuit with a number of diodes n*
 - Assume a state for each diode (ON/OFF)(Closed/Open)
 - n diodes will require $2^{n}$ possible combinations
 - **Calculate currents of ON diodes and voltages of OFF diodes**
 - Check to see of calculations are consistent with assumptions
 - If yes, assumption works. *If no, return to step 1 and make a new assumption*.
+
+### Load Line Analysis
+We kn

@@ -98,7 +98,7 @@ $V_{SS}= 2V$
 $R = 1k\ohm$ 
 
 *We also need these to find the operating point:*
-$V_{DQ} \approx 0.7V$
+$V_{DQ} \approx 0.7V$ (constant drop)
 $I_{DQ} \approx 1.3mA$
 
 ## Zener Diode

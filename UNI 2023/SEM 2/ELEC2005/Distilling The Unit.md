@@ -102,8 +102,13 @@ $R = 1k\ohm$
 $V_{DQ} \approx 0.7V$ (constant drop)
 $I_{DQ} \approx 1.3mA$
 
+#### Load Line Analysis of Complex Circuits
+![Pasted image 20230805103041](Attachments/Pasted%20image%2020230805103041.png)
+
+
+
 ## Zener Diode
 Zener diodes are designed to work at the reverse breakdown region. These diodes use this as expected behaviour.
 ![](Attachments/Pasted%20image%2020231102191003.png)
 *Commonly used for voltage regulator circuits - constant output from variable supply.*
-
+5V change in the supply voltage results in only a 0.5V change the regulated output voltage.

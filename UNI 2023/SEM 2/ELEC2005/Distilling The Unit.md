@@ -11,5 +11,5 @@ Relevant Links:
 
 # Prereq and Basics
 
-## Amplifier Equivalent Circuit
+## Transistor Equivalent Circuit
 ![Pasted image 20230725151706](Attachments/Pasted%20image%2020230725151706.png)

@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md"
               }
             }
           },
@@ -250,10 +250,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6edeee0de7f192da",
+  "active": "22a0e5379545ae08",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
     "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",

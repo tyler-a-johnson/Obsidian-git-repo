@@ -42,7 +42,7 @@ Gain is a ratio, expressed as dimensionless, or V/V, A/A etc. Engineers often ex
 	- Over voltage protection
 	- Detectors
 	- Signal Generation
-
+![Pasted image 20230805083946](Attachments/Pasted%20image%2020230805083946.png)
 ## Shockley Equation
 ![Pasted image 20230805111503](Attachments/Pasted%20image%2020230805111503.png)
 *Shockley Equation (Forward bias)*
@@ -66,6 +66,9 @@ $$i_{D} \approx I_{s}\exp({\frac{v_{D}}{nV_{T}}})$$
 ![Pasted image 20230805091641](Attachments/Pasted%20image%2020230805091641.png)
 For silicon diodes, typical $V_{f} =~ 0.7V$
 
+
+
+## Linear Model
 
 ## Analysis
 

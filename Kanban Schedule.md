@@ -10,23 +10,24 @@ kanban-plugin: basic
 
 ## TO DO
 
-- [ ] MTRN3060 Major Project Due 40% #MTRN/3060  @{30-10-2023}
-- [ ] MTRN3026 Lab Report 3 - 10% Hurdle Wk13 #MTRN/3026
-- [ ] ENG3000 - Portfolio #ENGG/3000  @{05-11-2023}
-- [ ] Testing Document #ENGG/3000 @{05-11-2023}
-- [ ] Statement of Work #ENGG/3000 @{05-11-2023}
-- [ ] Project Presentation #ENGG/3000 @{07-11-2023}
-- [ ] ENGG3000 - Reflective Writing 2 #ENGG/3000  @{05-11-2023}
 
 
 ## IM WORKIN ON IT
 
-- [ ] MTRN3026 Lab Report 2  - 10% (Hurdle?) Wk9 #MTRN/3026
+- [ ] ENGG3000 - Reflective Writing 2 #ENGG/3000  @{05-11-2023}
+- [ ] ENG3000 - Portfolio #ENGG/3000  @{05-11-2023}
+- [ ] Testing Document #ENGG/3000 @{05-11-2023}
+- [ ] Statement of Work #ENGG/3000 @{05-11-2023}
+- [ ] Project Presentation #ENGG/3000 @{07-11-2023}
+- [ ] ELEC2005 Record Video
 
 
 ## DONE AND DUSTED
 
 **Complete**
+- [x] MTRN3026 Lab Report 3 - 10% Hurdle Wk13 #MTRN/3026
+- [x] MTRN3060 Major Project Due 40% #MTRN/3060  @{30-10-2023}
+- [x] MTRN3026 Lab Report 2  - 10% (Hurdle?) Wk9 #MTRN/3026
 - [x] Distill Notes for ELEC2005 and MTRN3026
 - [x] Look into GPT paid or Github Copilot
 - [x] ENGG3000 - Perspective Essay #ENGG/3000  @{15-10-2023}

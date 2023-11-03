@@ -250,46 +250,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "floating": {
-    "id": "ff833f200012cf7b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e7450472db56304c",
-        "type": "window",
-        "children": [
-          {
-            "id": "72296778e22d2b53",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "079f12d2fe6be0ad",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 2 - Lecture Diodes_2023_UPDATED.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1743,
-        "y": 15,
-        "width": 762,
-        "height": 890,
-        "maximize": true,
-        "zoom": -0.5
-      }
-    ]
-  },
   "active": "6edeee0de7f192da",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",
-    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 2 - Lecture Diodes_2023_UPDATED.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",
     "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
     "UNI 2023/SEM 2/ELEC2005/Glover, J. Duncan_Overbye, Thomas Jeffrey_Sarma, Mulukutla S - Power system analysis & design (2017, Cengage Learning) - libgen.li.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",

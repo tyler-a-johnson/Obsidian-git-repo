@@ -21,49 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0ee2fea25f15c058",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5215886843298cd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82b195814a0ba710",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf"
-              }
-            }
-          },
-          {
-            "id": "22a0e5379545ae08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"

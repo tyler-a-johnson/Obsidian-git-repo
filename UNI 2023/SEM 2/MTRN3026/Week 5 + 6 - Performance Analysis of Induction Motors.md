@@ -105,6 +105,7 @@ $$1HP = 746 \text{ Watts}$$
 ## Maximum Torque
 - Maximum torque occurs when the **output power transferred to $R_{2}/s$ is at max.**
 - This occurs when $\frac{R_{2}}{s}$ equals the magnitude of the impedance:  $R_{TH} + j(X_{TH}+X_{2})$
+
 $${s_{T_{max}}} = \frac{R_{2}}{\sqrt{R^{2}_{TH}+(X_{TH}+X_{2})^2}}$$
 
 The corresponding max torque of an induction motor:
@@ -127,11 +128,14 @@ $E_{R}$ is the induced voltage in the rotor
 $R_R$ is the rotor (winding) resistance
 
 Using this we can calculate the rotor current as:
+
 $$I_{R}=\frac{E_{R}}{R_{R}+jX_{R}}$$
+
 $$= \frac{sE_{R0}}{(R_{R}+jsX_{R0})}$$
 
 Dividing both the numerator and denominator by s we get:
 $$I_{R} = \frac{E_{R0}}{(\frac{R_R}{s}+jX_{R0})}$$
+
 **Where:**
 $E_{R0}$ is the induced voltage and $X_{R0}$ is the rotor reactance at s=1.
 

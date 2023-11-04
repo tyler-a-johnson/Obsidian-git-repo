@@ -10,21 +10,27 @@ kanban-plugin: basic
 
 ## TO DO
 
+- [ ] Project Presentation #ENGG/3000 @{07-11-2023}
+- [ ] ENG3000 - Portfolio #ENGG/3000  @{05-11-2023}
 
 
 ## IM WORKIN ON IT
 
 - [ ] ENGG3000 - Reflective Writing 2 #ENGG/3000  @{05-11-2023}
-- [ ] ENG3000 - Portfolio #ENGG/3000  @{05-11-2023}
 - [ ] Testing Document #ENGG/3000 @{05-11-2023}
 - [ ] Statement of Work #ENGG/3000 @{05-11-2023}
-- [ ] Project Presentation #ENGG/3000 @{07-11-2023}
 - [ ] ELEC2005 Record Video
 
 
 ## DONE AND DUSTED
 
 **Complete**
+
+
+***
+
+## Archive
+
 - [x] MTRN3026 Lab Report 3 - 10% Hurdle Wk13 #MTRN/3026
 - [x] MTRN3060 Major Project Due 40% #MTRN/3060  @{30-10-2023}
 - [x] MTRN3026 Lab Report 2  - 10% (Hurdle?) Wk9 #MTRN/3026
@@ -42,12 +48,6 @@ kanban-plugin: basic
 - [x] Design Review Unmarked #ENGG/3000 @{30-08-2023}
 - [x] ELEC ASSIGNMENT 1 - Due #ELEC/2005 @{25-08-2023}
 - [x] MTRN3060 Robot Arm Demo (Figure out how to calibrate pen) #MTRN/3060 @{25-08-2023}
-
-
-***
-
-## Archive
-
 - [x] ENGG3000 - Scoping Document #ENGG/3000  @{20-08-2023}
 - [x] MTRN3026 Test 1 - 10% #MTRN/3026 @{14-08-2023}
 

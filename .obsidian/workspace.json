@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md"
               }
             }
           },
@@ -232,6 +232,11 @@
   },
   "active": "5215886843298cd7",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/ppt3E23.tmp",
+    "UNI 2023/SEM 2/ELEC2005/State Of Charge.mp4",
+    "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/~$THE DIODE REGULATOR CIRCUIT.pptx",
+    "UNI 2023/SEM 2/ELEC2005/~$State Of Charge.pptx",
     "UNI 2023/SEM 2/ENGG3000/Planning and managing a project to completion.docx",
     "UNI 2023/SEM 2/ENGG3000/CAD Modelling/Paddle/pulleypaddlemk2.prt.4",
     "UNI 2023/SEM 2/ELEC2005/State Of Charge.pptx",
@@ -239,10 +244,6 @@
     "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation/slprj/_sfprj/armMajorUse/_self/sfun/info/binfo.mat",
     "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation/slprj/_sfprj/ReadSyncWrite_Gripper_stateflow/_self/sfun/info/binfo.mat",
     "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation/slprj/_sfprj/untitled/_self/sfun/info/binfo.mat",
-    "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation/slprj/_sfprj/armMajorUse/_self/sfun/info",
-    "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation/slprj/_sfprj/ReadSyncWrite_Gripper_stateflow/_self/sfun/info",
-    "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation/slprj/_sfprj/untitled/_self/sfun/info",
-    "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation/slprj/sim/varcache/ReadWrite_2Motors/tmwinternal/simulink_cache.xml",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "conflict-files-obsidian-git.md",
@@ -272,7 +273,6 @@
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
     "UNI 2023/SEM 2/Daily Work.md",
     "UNI 2022/MTRN2060/Digital.md",
     "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",

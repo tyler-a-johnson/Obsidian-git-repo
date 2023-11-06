@@ -441,3 +441,10 @@ $$V_{DS}\geq V_{OV}$$
 ![](Attachments/Pasted%20image%2020231106215234.png)
 $v \leq V_{t}$              $i = 0$
 $v > V_{t}$              $i = \frac{1}{2} \mu_{n} C_{o x} \frac{W}{L}(v-V_{t})^2$
+
+
+**Example 3**
+![](Attachments/Pasted%20image%2020231106215526.png)
+
+**Example 4**
+![](Attachments/Pasted%20image%2020231106215553.png)

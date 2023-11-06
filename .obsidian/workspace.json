@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf"
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
               }
             }
           },
@@ -237,10 +237,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "788a285ae1a49702",
+  "active": "6edeee0de7f192da",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106163334.png",
     "Kanban Schedule.md",

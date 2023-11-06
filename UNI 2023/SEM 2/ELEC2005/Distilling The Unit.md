@@ -217,4 +217,5 @@ $$i_{E}=i_{B}+i_{C}= \frac{i_C}{\alpha}$$
 
 #### Equivalent Circuit
 ![](Attachments/Pasted%20image%2020231106163334.png)
-Collector current is cotroll
+
+## Satyra

@@ -364,3 +364,15 @@ $$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \a
 
 
 # MOSFETS
+- **Metal Oxide Semiconductor Field Effect Transistor**
+	- **Metal** - Used for the contacts
+	- **Oxide** - Unlike BJTs, in a MOSFET the gate is separated from the rest of the device with a thin insulating layer
+	- **Semiconductor** - Commonly fabricated on silicon (Although SiGe can be used)
+	- **Field Effect** - Applying a voltage between the gate and body terminals creates an electric field which penetrates the oxide and creates an inversion layer at the semiconductor interface.
+- Well established and widely used
+- Smaller than BJTs
+- Ease of manufacture
+- low power requirements
+- Allows placement of about **2 billion transistors on an IC**
+- Preferable to BJT technology for many applications (Digital)
+

@@ -281,4 +281,9 @@ At a **constant current** the voltage decreases by approximately **2mV** for eve
 
 A positive voltage source at BE junction will cause collector current to increasing until burnout.
 
-**Add a resistor to the emitter** to **stop the current increa**
+**Add a resistor to the emitter** to **stop the current increase** (or use constant current source)
+
+## BJT as a Switch
+![Pasted image 20230930201500](Attachments/Pasted%20image%2020230930201500.png)If we increase the input voltage from low to high, output voltage will switch from high to low.
+$$i_{C}= I_{S} e^{v_{BE}/V_T}$$
+$$v_{O}=v_{CE}=V_{CC}-R_{C}i_{C}$$

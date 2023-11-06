@@ -434,5 +434,8 @@ $$V_{DS}\geq V_{OV}$$
 
 ## Examples
 
-**nMOSFET**
+**Example 1 - nMOSFET**
 ![](Attachments/Pasted%20image%2020231106214324.png)
+
+**Example 2 - nMOSFET**
+![](Attachments/Pasted%20image%2020231106215234.png)

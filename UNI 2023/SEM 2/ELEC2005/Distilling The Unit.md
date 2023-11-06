@@ -383,3 +383,17 @@ $$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \a
 	- Essentially two back to back diodes as shown
 - Diodes between drain and source prevent current when voltage $V_{DS}$ is applied
 	- Yields high resistance ($10^{12}$ ohms)
+
+## Device Operation
+![Pasted image 20231002212203](Attachments/Pasted%20image%2020231002212203.png)
+- Channel is induced when **gate source voltage exceeds the threshold voltage** (Given, around 1V)
+- Additional voltage beyond the threshold point is the **overdrive**
+$$v_{GS} > V_{t}\text{ (Threshold Voltage)}$$
+$$v_{OV}=v_{GS}-V_{t}$$
+
+- Drain current has a square-law dependence on the overdrive voltage:
+$$i_{D}= \frac{1}{2} k_{n}(v_{GS}-V_{t})^{2}$$
+Our threshold voltage remains constant for a given MOSFET
+
+$k_{n}$ is a constant for a given MOSFET
+$k_{n}=\mu_{n}C_{ox} \frac{W}{L}$

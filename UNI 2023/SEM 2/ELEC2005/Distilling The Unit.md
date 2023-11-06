@@ -269,3 +269,7 @@ In the active region we can use a constant voltage (base side) and constant curr
 
 
 
+
+
+
+## Temperature and Thermal Voltage

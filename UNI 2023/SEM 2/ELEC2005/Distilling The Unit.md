@@ -338,3 +338,21 @@ $$g_{m}= \frac{I_{C}}{V_{T}}$$
 
 
 ## Small Signal AC
+
+![Pasted image 20231002175400](Attachments/Pasted%20image%2020231002175400.png)
+![Pasted image 20231002175413](Attachments/Pasted%20image%2020231002175413.png)
+$$i_{c}= g_{m}v_{be}$$
+$$i_{b}= \frac{i_{c}}{\beta}=\frac{g_m}{\beta}v_{be}$$
+$$r_{\pi} = \frac{v_{be}}{i_b}$$
+$$r_{\pi}=\frac{\beta}{g_m}$$
+$$r_{\pi}=\frac{V_T}{I_B}$$
+
+
+
+![Pasted image 20231002175746](Attachments/Pasted%20image%2020231002175746.png)
+$$i_{c}= \frac{I_{C}}{V_{T}}v_{be}$$
+$$i_{e}= \frac{i_{c}}{\alpha}=\frac{I_{C}}{\alpha V_{T}}v_{be}=\frac{I_E}{V_T}v_{be}$$
+$$r_{e}= \frac{v_{be}}{i_e}$$
+$$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \approx \frac{1}{\alpha}$$
+
+### Hybrid Pi Model

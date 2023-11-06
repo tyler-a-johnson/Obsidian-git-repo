@@ -324,3 +324,14 @@ We bias the circuit assuming 0 small signal voltage
 
 
 ## Transconductance
+![Pasted image 20231002172744](Attachments/Pasted%20image%2020231002172744.png)
+Transconductance is the ratio of the current flowing through the output and the voltage arising in the input of electrical circuit/devices. Transconductance is calculated using the equation.
+
+**Total = DC + Signal**
+$$i_{C}= I_{C}+i_{C}$$
+![Pasted image 20231002172829](Attachments/Pasted%20image%2020231002172829.png)
+$$i_{C}= \frac{I_{C}}{V_{T}}v_{be}$$
+Where $i_{C}$ is our signal
+
+$$i_{C}= g_{m}v_{be}$$
+$$g_{m}= \frac{I_{C}}{V_{T}}$$

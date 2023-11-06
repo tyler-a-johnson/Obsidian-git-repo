@@ -30,12 +30,9 @@
             "id": "788a285ae1a49702",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf"
               }
             }
           }
@@ -133,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf"
               }
             }
           },
@@ -226,7 +223,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6edeee0de7f192da",
+  "active": "788a285ae1a49702",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",

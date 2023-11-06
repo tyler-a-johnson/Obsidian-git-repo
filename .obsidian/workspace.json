@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
               }
             }
           },
@@ -227,10 +227,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "694f3f71fc4f3d2c",
+  "active": "6edeee0de7f192da",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md",
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",

@@ -6,6 +6,7 @@
       {
         "id": "808a1cedbf3fea1f",
         "type": "tabs",
+        "dimension": 47.58149316508938,
         "children": [
           {
             "id": "6edeee0de7f192da",
@@ -25,6 +26,7 @@
       {
         "id": "bd6118117551684c",
         "type": "tabs",
+        "dimension": 52.418506834910616,
         "children": [
           {
             "id": "694f3f71fc4f3d2c",
@@ -40,6 +42,16 @@
             }
           },
           {
+            "id": "326c566d9f638998",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED.pdf"
+              }
+            }
+          },
+          {
             "id": "b621e940ed47b7f7",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,9 +251,9 @@
   },
   "active": "6edeee0de7f192da",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",

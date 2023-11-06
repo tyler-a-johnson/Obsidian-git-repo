@@ -439,3 +439,5 @@ $$V_{DS}\geq V_{OV}$$
 
 **Example 2 - nMOSFET**
 ![](Attachments/Pasted%20image%2020231106215234.png)
+$v \leq V_{t}$              $i = 0$
+$v > V_{t}$              $i = \frac{1}{2} \mu_{n} C_{o x} \frac{W}{L}(v-V_{t})^2$

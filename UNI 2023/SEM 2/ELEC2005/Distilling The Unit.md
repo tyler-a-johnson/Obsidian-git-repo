@@ -162,7 +162,7 @@ The Arrow shows the current of the controlling pn-Junction
 - Arrow TO Emitter = NPN
 
 ## Modes of Operation
-![Pasted image 20230812104512](Attachments/Pasted%20image%2020230812104512.png)
+![](Attachments/Pasted%20image%2020231106182723.png)
 *Operating mode depends on DC biasing or large signal voltages and currents:*
 - **Active** mode - Used for AC amplification
 - **Cutoff** and *saturation* modes - used for switching

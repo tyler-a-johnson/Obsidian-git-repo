@@ -363,3 +363,4 @@ $$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \a
 ![Pasted image 20231002180202](Attachments/Pasted%20image%2020231002180202.png)
 
 
+# MOSFETS

@@ -356,3 +356,7 @@ $$r_{e}= \frac{v_{be}}{i_e}$$
 $$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \approx \frac{1}{\alpha}$$
 
 ### Hybrid Pi Model
+![Pasted image 20231002175703](Attachments/Pasted%20image%2020231002175703.png)
+
+### T Model
+![Pasted image 20231002180202](Attachments/Pasted%20image%2020231002180202.png)

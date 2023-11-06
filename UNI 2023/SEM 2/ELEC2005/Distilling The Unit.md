@@ -243,6 +243,7 @@ $i_{B} = \frac{I_{s}}{\beta} e^{\frac{v_{BE}}{V_{T}}}+I_{sc}e^{v_{BC}/V_{T}}$
 ![](Attachments/Pasted%20image%2020231106180636.png)
 This gives us our operating point that allows that irrespective of AC swing the diode remains in the active region.
 
+
 ## Constant Voltage Drop Approximation
 In the active region we can use a constant voltage (base side) and constant current (collector side) approximation
 ![](Attachments/Pasted%20image%2020231106183049.png)
@@ -360,3 +361,5 @@ $$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \a
 
 ### T Model
 ![Pasted image 20231002180202](Attachments/Pasted%20image%2020231002180202.png)
+
+

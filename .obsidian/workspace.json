@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf"
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
               }
             }
           },
@@ -252,8 +252,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d59db2465093fc37",
+  "active": "6edeee0de7f192da",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
@@ -299,7 +300,6 @@
     "UNI 2023/SEM 2/Daily Work.md",
     "UNI 2022/MTRN2060/Digital.md",
     "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
-    "README.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

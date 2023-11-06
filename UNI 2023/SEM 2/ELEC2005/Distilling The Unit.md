@@ -273,3 +273,12 @@ In the active region we can use a constant voltage (base side) and constant curr
 
 
 ## Temperature and Thermal Voltage
+![Pasted image 20230930200007](Attachments/Pasted%20image%2020230930200007.png)
+```ad-note
+At a **constant current** the voltage decreases by approximately **2mV** for every 1 Degree C increase in temperature. (Same as PN Diode)
+
+```
+
+A positive voltage source at BE junction will cause collector current to increasing until burnout.
+
+**Add a resistor to the emitter** to **stop the current increa**

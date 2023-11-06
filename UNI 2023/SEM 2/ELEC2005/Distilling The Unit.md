@@ -381,4 +381,5 @@ $$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \a
 ![Pasted image 20231002210236](Attachments/Pasted%20image%2020231002210236.png)
 - **MOSFETS** consist of two PN junctions
 	- Essentially two back to back diodes as shown
-- Diodes between drain and source pr
+- Diodes between drain and source prevent current when voltage $V_{DS}$ is applied
+	- Yields high resistance ($10^{12}$ ohms)

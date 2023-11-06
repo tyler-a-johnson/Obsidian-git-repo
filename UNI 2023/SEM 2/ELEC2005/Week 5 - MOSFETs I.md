@@ -5,10 +5,11 @@ tags:
 status: Complete
 Relevant Docs:
   - "[ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED](Attachments/ELEC2005%20Week%205%20Lecture%20MOSFETs%20Part%201_2023_UPDATED.pdf)"
-Relevant Questions: []
-Relevant Notes: []
+Relevant Questions: 
+Relevant Notes:
 ---
 
+[ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED](Attachments/ELEC2005%20Week%205%20Lecture%20MOSFETs%20Part%201_2023_UPDATED.pdf)
 
 # Conceptual Info
 ---

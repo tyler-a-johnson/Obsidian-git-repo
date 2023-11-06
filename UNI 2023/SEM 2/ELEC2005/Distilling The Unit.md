@@ -248,7 +248,11 @@ In the active region we can use a constant voltage (base side) and constant curr
 ![](Attachments/Pasted%20image%2020231106183049.png)
 ![](Attachments/Pasted%20image%2020231106183101.png)
 
-*Example*
+*Example 1*
 ![](Attachments/Pasted%20image%2020231106185802.png)
 
+*Example 2*
+![](Attachments/Pasted%20image%2020231106190446.png)
 
+*Example 3*
+![](Attachments/Pasted%20image%2020231106190542.png)

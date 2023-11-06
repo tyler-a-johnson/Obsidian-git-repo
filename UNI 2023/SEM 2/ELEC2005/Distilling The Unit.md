@@ -167,3 +167,50 @@ The Arrow shows the current of the controlling pn-Junction
 - **Active** mode - Used for AC amplification
 - **Cutoff** and *saturation* modes - used for switching
 - BJT is not symmetrical - inverse region is not normally used.
+
+### Active Region
+![Pasted image 20230812122553](Attachments/Pasted%20image%2020230812122553.png)
+Using Kirchhoff:
+$$i_{E}= i_{C}+i_{B}$$
+
+We can define:
+$$i_{C}=\beta i_{B}$$
+$$i_{C}=\alpha i_{E}$$
+
+Which Implies:
+$$\beta i_{B} = \alpha i_{E}$$
+
+$$\alpha = \frac{\beta}{\beta+1}$$
+Where:
+$\beta$ = Factor of proportionality
+$\alpha = \frac{i_{C}}{i_{E}}=$ Emitter injection efficiency
+
+Typical values of these include:
+$$\beta = 100$$
+$$\alpha = 0.9 \leftrightarrow 0.99$$
+
+*Some derivation I guess:*
+$$i_{E}= (\frac{I_{s}}{\alpha})(e^{\frac{v_{BE}}{V_{T}}}-1)\approx (\frac{I_{s}}{\alpha})e^{\frac{v_{BE}}{V_{T}}}$$
+$$i_{B}\approx (\frac{I_{s}}{\beta})e^{v_{BE}/V_{T}}$$
+$$i_{C}\approx I_{s}e^{v_{BE}/V_T}$$
+```ad-attention
+title: NOTE
+Base-emitter voltage controls the collector current
+```
+
+![Pasted image 20230812123453](Attachments/Pasted%20image%2020230812123453.png)
+*Emitter current is equal to the total current:*
+$$i_{E}=i_{B} + i_{C}=\frac{i_{C}}{\alpha}$$
+
+Using [Kirchhoff's Laws](../../../Distilled%20Notes/Kirchhoff's%20Laws.md) and our diode equation:
+$$i_{C} = I_{s}e^{v_{BE}/V_T}$$
+Where:
+$I_{s} =$ Constant (Saturation Current)
+$V_{T}=$ Constant (Thermal Voltage)
+
+We can determine:
+$$i_{B}= \frac{i_{C}}{\beta}=\frac{I_{s}}{\beta}e^{v_{BE}/V_T}$$
+*Base current is much smaller that collector current*
+
+Emitter current is the total current:
+$$i_{E}=i_{B}+i_{C}= \frac{i_C}{\alpha}$$

@@ -6,6 +6,7 @@
       {
         "id": "808a1cedbf3fea1f",
         "type": "tabs",
+        "dimension": 46.58254468980021,
         "children": [
           {
             "id": "6edeee0de7f192da",
@@ -25,6 +26,7 @@
       {
         "id": "70b752faf4ec1572",
         "type": "tabs",
+        "dimension": 53.41745531019979,
         "children": [
           {
             "id": "bf9b325ffc79c927",
@@ -239,14 +241,15 @@
   },
   "active": "6edeee0de7f192da",
   "lastOpenFiles": [
-    "Distilled Notes/Greek Letters and Symbols.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106173127.png",
+    "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106165534.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106165507.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106165501.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106165416.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106165353.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106163334.png",
     "Kanban Schedule.md",
@@ -266,7 +269,6 @@
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231031152831.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231031152602.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231031152220.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231031152100.png",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2023/SEM 2/Weekly Work.md",
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
@@ -284,7 +286,6 @@
     "UNI 2022/MTRN2060/Digital.md",
     "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
     "README.md",
-    "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

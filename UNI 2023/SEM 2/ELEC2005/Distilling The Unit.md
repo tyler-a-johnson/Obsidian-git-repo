@@ -238,4 +238,4 @@ $i_{C} = I_{s}e^{\frac{v_{BE}}{V_{T}}}-I_{sc}e^{v_{BC}/V_{T}}$
 $i_{B} = \frac{I_{s}}{\beta} e^{\frac{v_{BE}}{V_{T}}}+I_{sc}e^{v_{BC}/V_{T}}$
 
 ## Load Line Analysis 
-
+![](Attachments/Pasted%20image%2020231106173127.png)

@@ -228,7 +228,9 @@ $$i_{C} = I_{s} e^{v_{BE}/V_{T}}$$
 $i_{B} = \frac{i_{C}}{ \beta }$
 
 **Emitter current is total current**
-$$
+$i_{E} = i_{B} + i_{C} = \frac{i_{C}}{\alpha}$
 
 ### Saturation Region
 ![](Attachments/Pasted%20image%2020231106165353.png)
+
+$i_{C} = I_{s}e^{\frac{v_{BE}}{V_{T}}-I_{sc}}e^\frac{v_{\underset{ ED }{ be }}}{V_{T}}$

@@ -156,3 +156,4 @@ Using 0.7V Drop Model, $V_{O} \approx 2.1V$
 Similarly with input signal exceeding gain in an amp, clipping will occur here
 
 # BJTs
+

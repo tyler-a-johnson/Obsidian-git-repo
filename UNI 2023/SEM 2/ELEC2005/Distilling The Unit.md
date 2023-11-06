@@ -289,4 +289,28 @@ $$i_{C}= I_{S} e^{v_{BE}/V_T}$$
 $$v_{O}=v_{CE}=V_{CC}-R_{C}i_{C}$$
 
 
-## DC Bia
+## DC Biasing
+We can use $V_{BE}$ to **Bias the transistor into active mode**
+![Pasted image 20231002171854](Attachments/Pasted%20image%2020231002171854.png)
+$$I_{C}=I_{S}e^{V_{BE}/V_T}$$
+$$V_{CE}=V_{CC}-R_{C}I_{S}e^{V_{BE}/V_T}$$
+
+![Pasted image 20231002172050](Attachments/Pasted%20image%2020231002172050.png)
+
+**Small Signal Voltage Gain:**
+![Pasted image 20231002172150](Attachments/Pasted%20image%2020231002172150.png)
+$$A_{v}= - R_{C} \frac{I_{C}}{V_{T}}$$
+- Gain is negative **inverting amp**
+- Gain **depends on bias point (Q point)**
+- *Only valid for small signal* 
+
+$$v_{CE} = V_{CC}-R_{C}i_{C}=V_{CC}-R_{C}(I_{C}+  \frac{I_{C}}{V_{T}}v_{be})=V_{CE}-R_{C} \frac{I_{C}}{V_{T}}v_{be}$$
+**Output current and output voltage**
+![Pasted image 20231002173109](Attachments/Pasted%20image%2020231002173109.png)
+**Output current and output voltage after capacitors**
+*if $v_{be} << V_{T}$* 
+
+$$i_{c}=g_{m}v_{be}$$
+$$v_{ce}= -R_{C} \frac{I_C}{V_T}v_{be}$$
+
+### Setting Bias Point

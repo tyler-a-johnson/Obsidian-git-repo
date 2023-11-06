@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md"
               }
             }
           },
@@ -226,10 +226,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6edeee0de7f192da",
+  "active": "40e246faca161e81",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106215553.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106215526.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED.pdf",

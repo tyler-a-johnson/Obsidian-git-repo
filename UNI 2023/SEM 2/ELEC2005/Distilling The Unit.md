@@ -315,3 +315,9 @@ $$i_{c}=g_{m}v_{be}$$
 $$v_{ce}= -R_{C} \frac{I_C}{V_T}v_{be}$$
 
 ### Setting Bias Point
+*Input circuit*
+$$V_{BB}+v_{in}(t)=R_{B}i_{B}(t)+v_{BE}(t)$$
+$$i_{B}(t) = \frac{V_{BB}+v_{in}(t)-v_{BE}(t)}{R_{B}}$$
+We bias the circuit assuming 0 small signal voltage
+![Pasted image 20231002173621](Attachments/Pasted%20image%2020231002173621.png)
+![Pasted image 20231002173851](Attachments/Pasted%20image%2020231002173851.png)

@@ -411,3 +411,4 @@ $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 
 Four terminals: Drain (D), Gate (G), Body (B), and Source (S)
 
+### Regions of Operation

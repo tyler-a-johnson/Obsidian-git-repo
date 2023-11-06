@@ -376,3 +376,9 @@ $$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \a
 - Allows placement of about **2 billion transistors on an IC**
 - Preferable to BJT technology for many applications (Digital)
 
+## Structure
+![Pasted image 20231002210216](Attachments/Pasted%20image%2020231002210216.png)
+![Pasted image 20231002210236](Attachments/Pasted%20image%2020231002210236.png)
+- **MOSFETS** consist of two PN junctions
+	- Essentially two back to back diodes as shown
+- Diodes between drain and source pr

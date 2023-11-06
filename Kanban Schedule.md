@@ -10,16 +10,11 @@ kanban-plugin: basic
 
 ## TO DO
 
-- [ ] Project Presentation #ENGG/3000 @{07-11-2023}
-- [ ] ENG3000 - Portfolio #ENGG/3000  @{05-11-2023}
 
 
 ## IM WORKIN ON IT
 
-- [ ] ENGG3000 - Reflective Writing 2 #ENGG/3000  @{05-11-2023}
-- [ ] Testing Document #ENGG/3000 @{05-11-2023}
-- [ ] Statement of Work #ENGG/3000 @{05-11-2023}
-- [ ] ELEC2005 Record Video
+- [ ] Project Presentation #ENGG/3000 @{07-11-2023}
 
 
 ## DONE AND DUSTED
@@ -31,6 +26,11 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] Statement of Work #ENGG/3000 @{05-11-2023}
+- [x] ENG3000 - Portfolio #ENGG/3000  @{05-11-2023}
+- [x] ELEC2005 Record Video
+- [x] Testing Document #ENGG/3000 @{05-11-2023}
+- [x] ENGG3000 - Reflective Writing 2 #ENGG/3000  @{05-11-2023}
 - [x] MTRN3026 Lab Report 3 - 10% Hurdle Wk13 #MTRN/3026
 - [x] MTRN3060 Major Project Due 40% #MTRN/3060  @{30-10-2023}
 - [x] MTRN3026 Lab Report 2  - 10% (Hurdle?) Wk9 #MTRN/3026

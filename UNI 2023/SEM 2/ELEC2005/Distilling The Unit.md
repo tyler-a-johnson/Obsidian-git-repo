@@ -154,3 +154,5 @@ Using 0.7V Drop Model, $V_{O} \approx 2.1V$
 ### Wave Shaping Circuits
 ![](Attachments/Pasted%20image%2020231102194126.png)
 Similarly with input signal exceeding gain in an amp, clipping will occur here
+
+# BJTs

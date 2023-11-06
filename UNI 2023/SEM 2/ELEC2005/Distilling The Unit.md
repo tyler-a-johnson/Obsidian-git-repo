@@ -169,7 +169,6 @@ The Arrow shows the current of the controlling pn-Junction
 - BJT is not symmetrical - inverse region is not normally used.
 
 ### Active Region
-![](Attachments/Pasted%20image%2020231106165416.png)
 ![Pasted image 20230812122553](Attachments/Pasted%20image%2020230812122553.png)
 Using Kirchhoff:
 $$i_{E}= i_{C}+i_{B}$$
@@ -219,6 +218,12 @@ $$i_{E}=i_{B}+i_{C}= \frac{i_C}{\alpha}$$
 
 
 ## Equivalent Circuits
+
+### Active Region
+![](Attachments/Pasted%20image%2020231106165507.png)
+**Collector current is controlled by base-emitter, voltage:**
+$$i_{C} = I_{s} e^{v_{BE}}$$
+
 
 ### Saturation Region
 ![](Attachments/Pasted%20image%2020231106165353.png)

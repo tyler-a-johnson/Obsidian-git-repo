@@ -335,3 +335,6 @@ Where $i_{C}$ is our signal
 
 $$i_{C}= g_{m}v_{be}$$
 $$g_{m}= \frac{I_{C}}{V_{T}}$$
+
+
+## Small Signal AC

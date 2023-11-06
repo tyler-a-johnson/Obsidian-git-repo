@@ -289,7 +289,7 @@ $$i_{C}= I_{S} e^{v_{BE}/V_T}$$
 $$v_{O}=v_{CE}=V_{CC}-R_{C}i_{C}$$
 
 
-## DC Biasing
+## BJT Amplifier and DC Biasing
 We can use $V_{BE}$ to **Bias the transistor into active mode**
 ![Pasted image 20231002171854](Attachments/Pasted%20image%2020231002171854.png)
 $$I_{C}=I_{S}e^{V_{BE}/V_T}$$

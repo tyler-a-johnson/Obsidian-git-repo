@@ -42,12 +42,15 @@
             }
           },
           {
-            "id": "788a285ae1a49702",
+            "id": "d4778d31e0257930",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -241,20 +244,20 @@
   },
   "active": "6edeee0de7f192da",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190907.png",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190845.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190835.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190803.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190732.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190542.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190446.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf",
-    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106185802.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106183101.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106183049.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106182723.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106182626.png",
-    "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106180636.png",
     "Distilled Notes/Greek Letters and Symbols.md",
     "Kanban Schedule.md",
     "UNI 2023/SEM 2/ELEC2005/State Of Charge.mp4",

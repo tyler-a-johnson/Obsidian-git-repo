@@ -405,12 +405,25 @@ $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 - P-Channel MOSFETs have a similar but opposite structure to n-channel
 - They are complimentary devices
 - PMOS originally dominated the MOS field but as manufacturing became cheaper and easier for NMOS, NMOS took over.
+- ![Pasted image 20231002214522](Attachments/Pasted%20image%2020231002214522.png)
+![Pasted image 20231002214612](Attachments/Pasted%20image%2020231002214612.png)
+
+![Pasted image 20231002214659](Attachments/Pasted%20image%2020231002214659.png)
+
 
 ## N- Channel MOSFETS
 ![Pasted image 20231002212944](Attachments/Pasted%20image%2020231002212944.png)
 
 Four terminals: Drain (D), Gate (G), Body (B), and Source (S)
 
-### Regions of Operation
 ![Pasted image 20231002213643](Attachments/Pasted%20image%2020231002213643.png)
 ![Pasted image 20231002213954](Attachments/Pasted%20image%2020231002213954.png)
+**Triode Mode when**
+$$V_{DS}<V_{OV}$$
+
+**Saturation mode when**
+$$V_{DS}\geq V_{OV}$$
+
+**MOSFETS** amplify in Saturation Mode
+
+**BJT** Amplify in Active Mode

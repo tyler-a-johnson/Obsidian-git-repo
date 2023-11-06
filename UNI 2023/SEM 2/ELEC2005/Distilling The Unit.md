@@ -415,7 +415,7 @@ $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 ![Pasted image 20231002214659](Attachments/Pasted%20image%2020231002214659.png)
 
 
-## N- Channel MOSFETS
+## N - Channel MOSFETS
 ![Pasted image 20231002212944](Attachments/Pasted%20image%2020231002212944.png)
 
 Four terminals: Drain (D), Gate (G), Body (B), and Source (S)
@@ -434,5 +434,5 @@ $$V_{DS}\geq V_{OV}$$
 
 ## Examples
 
-**NMOSFET**
-![](Attachments/Pasted%20image%2020231106213546.png)
+**nMOSFET**
+

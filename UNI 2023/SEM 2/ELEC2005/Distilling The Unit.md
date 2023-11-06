@@ -305,6 +305,7 @@ $$A_{v}= - R_{C} \frac{I_{C}}{V_{T}}$$
 - *Only valid for small signal* 
 
 $$v_{CE} = V_{CC}-R_{C}i_{C}=V_{CC}-R_{C}(I_{C}+  \frac{I_{C}}{V_{T}}v_{be})=V_{CE}-R_{C} \frac{I_{C}}{V_{T}}v_{be}$$
+
 **Output current and output voltage**
 ![Pasted image 20231002173109](Attachments/Pasted%20image%2020231002173109.png)
 **Output current and output voltage after capacitors**

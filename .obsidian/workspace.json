@@ -53,9 +53,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d59db2465093fc37",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf"
               }
             }
           },
@@ -242,7 +252,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6edeee0de7f192da",
+  "active": "d59db2465093fc37",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",

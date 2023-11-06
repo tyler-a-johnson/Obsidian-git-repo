@@ -5,13 +5,15 @@ tags:
 status: Complete
 Relevant Docs:
   - "[ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED](Attachments/ELEC2005%20Week%204%20Lecture%20BJTs-part-2_2023_UPDATED.pdf)"
-Relevant Questions: []
+Relevant Questions: 
 Relevant Notes:
   - "[BJTs (Bipolar Junction Transistor)s](../../../Distilled%20Notes/BJTs%20(Bipolar%20Junction%20Transistor)s.md)"
   - "[Week 3 - BJT (Bipolar Junction Transistors)](Week%203%20-%20BJT%20(Bipolar%20Junction%20Transistors).md)"
 Practical Docs: 
 Relevant Links:
 ---
+[ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED](Attachments/ELEC2005%20Week%204%20Lecture%20BJTs-part-2_2023_UPDATED.pdf)
+
 # Maths and Distilled Info
 ---
 

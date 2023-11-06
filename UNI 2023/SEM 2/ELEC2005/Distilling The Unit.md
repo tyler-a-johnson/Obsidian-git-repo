@@ -169,6 +169,7 @@ The Arrow shows the current of the controlling pn-Junction
 - BJT is not symmetrical - inverse region is not normally used.
 
 ### Active Region
+![](Attachments/Pasted%20image%2020231106165416.png)
 ![Pasted image 20230812122553](Attachments/Pasted%20image%2020230812122553.png)
 Using Kirchhoff:
 $$i_{E}= i_{C}+i_{B}$$
@@ -216,4 +217,8 @@ Emitter current is the total current:
 $$i_{E}=i_{B}+i_{C}= \frac{i_C}{\alpha}$$
 
 
-## Saturation
+
+## Equivalent Circuits
+
+### Saturation Region
+![](Attachments/Pasted%20image%2020231106165353.png)

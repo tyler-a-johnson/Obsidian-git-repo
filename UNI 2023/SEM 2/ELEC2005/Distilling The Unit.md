@@ -215,4 +215,6 @@ $$i_{B}= \frac{i_{C}}{\beta}=\frac{I_{s}}{\beta}e^{v_{BE}/V_T}$$
 Emitter current is the total current:
 $$i_{E}=i_{B}+i_{C}= \frac{i_C}{\alpha}$$
 
-### Equivalent Circuit
+#### Equivalent Circuit
+![](Attachments/Pasted%20image%2020231106163334.png)
+Collector current is cotroll

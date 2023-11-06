@@ -400,8 +400,10 @@ $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 
 **Why is NMOS advantageous**
 - Electron mobility $\mu_{n}$ is 2-4 times greater than hole mobility $\mu_{p}$.
+![](Attachments/Pasted%20image%2020231106213725.png)
 
-![](Attachments/Pasted%20image%2020231106213322.png)
+
+
 
 ## P-Channel MOSFET
 - P-Channel MOSFETs have a similar but opposite structure to n-channel

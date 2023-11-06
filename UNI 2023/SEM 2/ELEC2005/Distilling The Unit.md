@@ -250,3 +250,5 @@ In the active region we can use a constant voltage (base side) and constant curr
 
 *Example*
 ![](Attachments/Pasted%20image%2020231106185802.png)
+
+

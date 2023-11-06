@@ -398,10 +398,13 @@ Our threshold voltage remains constant for a given MOSFET
 $k_{n}$ is a constant for a given MOSFET
 $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 
+**Why is NMOS advantageous**
+- Electron mobility $\mu_{n}$ is 2-4 times greater than hole mobility $\mu_{p}$.
+
 ## P-Channel MOSFET
 - P-Channel MOSFETs have a similar but opposite structure to n-channel
 - They are complimentary devices
 - PMOS originally dominated the MOS field but as manufacturing became cheaper and easier for NMOS, NMOS took over.
 
-**Why is NMOS advantageous**
-- Electron mobility $\mu_{n}$ is 2-4 times greater than hole mobility $\mu_{p}$.
+## N- Channel MOSFETS
+![Pasted image 20231002212944](Attachments/Pasted%20image%2020231002212944.png)

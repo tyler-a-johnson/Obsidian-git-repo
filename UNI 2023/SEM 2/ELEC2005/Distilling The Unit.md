@@ -401,16 +401,13 @@ $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 **Why is NMOS advantageous**
 - Electron mobility $\mu_{n}$ is 2-4 times greater than hole mobility $\mu_{p}$.
 
-
-
-
-![Pasted image 20231002214737](Attachments/Pasted%20image%2020231002214737.png)
+![](Attachments/Pasted%20image%2020231106213322.png)
 
 ## P-Channel MOSFET
 - P-Channel MOSFETs have a similar but opposite structure to n-channel
 - They are complimentary devices
 - PMOS originally dominated the MOS field but as manufacturing became cheaper and easier for NMOS, NMOS took over.
-- ![Pasted image 20231002214522](Attachments/Pasted%20image%2020231002214522.png)
+![Pasted image 20231002214522](Attachments/Pasted%20image%2020231002214522.png)
 ![Pasted image 20231002214612](Attachments/Pasted%20image%2020231002214612.png)
 
 ![Pasted image 20231002214659](Attachments/Pasted%20image%2020231002214659.png)
@@ -434,3 +431,6 @@ $$V_{DS}\geq V_{OV}$$
 **BJT** Amplify in Active Mode
 
 ## Examples
+
+**NMOSFET**
+![](Attachments/Pasted%20image%2020231106213546.png)

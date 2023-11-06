@@ -237,4 +237,4 @@ $i_{C} = I_{s}e^{\frac{v_{BE}}{V_{T}}}-I_{sc}e^{v_{BC}/V_{T}}$
 											$\beta_{\text{forced}} = \frac{i_{C}}{i_{B}}$ ( at saturation) <= $\beta$
 $i_{B} = \frac{I_{s}}{\beta} e^{\frac{v_{BE}}{V_{T}}}+I_{sc}e^{v_{BC}/V_{T}}$
 
-## Load Line Analysis
+## Load Line Analysis 

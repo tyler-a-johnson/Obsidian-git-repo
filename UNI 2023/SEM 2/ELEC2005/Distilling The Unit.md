@@ -432,6 +432,20 @@ $$V_{DS}\geq V_{OV}$$
 
 **BJT** Amplify in Active Mode
 
+## Voltage Gain
+![Pasted image 20231008204017](Attachments/Pasted%20image%2020231008204017.png)
+$$v_{DS}=V_{DD}-i_{D}R_{D}$$
+
+In saturation (Q):
+$$i_{D}=\frac{1}{2}k_{n}(v_{GS}-V_{t})^{2}$$
+$$v_{DS}=V_{DD}- \frac{1}{2}R_{D}k_{n}(v_{GS}-V_{t})^{2}$$
+
+**Gain:**
+$$A_{v}= \frac{\delta v_{DS}}{\delta v_{GS}}=-k_{n}R_{D}(v_{GS}-V_{t})=-k_{n}R_{D}V_{OV}$$
+$$i_{D}=\frac{1}{2}k_{n}V^{2}_{OV} \rightarrow A_{v}= \frac{i_{D}R_{D}}{V_{OV}/2}$$
+
+$$|A_{v,max}| = \frac{V_{DD}}{V_{OV}/2}$$ A max is typically ~10.
+
 
 
 

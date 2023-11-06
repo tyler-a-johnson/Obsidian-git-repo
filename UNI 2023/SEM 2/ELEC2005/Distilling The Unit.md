@@ -234,5 +234,5 @@ $i_{E} = i_{B} + i_{C} = \frac{i_{C}}{\alpha}$
 ![](Attachments/Pasted%20image%2020231106165353.png)
 
 $i_{C} = I_{s}e^{\frac{v_{BE}}{V_{T}}}-I_{sc}e^{v_{BC}/V_{T}}$
-											$\beta_{\text{forced}} = \frac{i_{C}}{i_{B}}$ at as
+											$\beta_{\text{forced}} = \frac{i_{C}}{i_{B}}$ ( at saturation) <= $\beta$
 $i_{B} = \frac{I_{s}}{\beta} e^{\frac{v_{BE}}{V_{T}}}+I_{sc}e^{v_{BC}/V_{T}}$

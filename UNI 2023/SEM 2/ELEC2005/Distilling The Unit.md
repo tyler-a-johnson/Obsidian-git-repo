@@ -167,7 +167,7 @@ The Arrow shows the current of the controlling pn-Junction
 - **Active** mode - Used for AC amplification
 - **Cutoff** and *saturation* modes - used for switching
 - BJT is not symmetrical - inverse region is not normally used.
-
+![](Attachments/Pasted%20image%2020231106182626.png)
 ### Active Region
 ![Pasted image 20230812122553](Attachments/Pasted%20image%2020230812122553.png)
 Using Kirchhoff:

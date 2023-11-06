@@ -432,6 +432,9 @@ $$V_{DS}\geq V_{OV}$$
 
 **BJT** Amplify in Active Mode
 
+
+
+
 ## Examples
 
 **Example 1 - nMOSFET**

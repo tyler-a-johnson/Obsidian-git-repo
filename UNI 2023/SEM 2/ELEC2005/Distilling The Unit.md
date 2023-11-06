@@ -240,4 +240,4 @@ $i_{B} = \frac{I_{s}}{\beta} e^{\frac{v_{BE}}{V_{T}}}+I_{sc}e^{v_{BC}/V_{T}}$
 ## Load Line Analysis 
 ![](Attachments/Pasted%20image%2020231106173127.png)
 
-For a BJT in the above circuit, compare $\frac{1}{R_{B}}$ 
+For a BJT in the above circuit, compare $\frac{1}{R_{B}}$ to the devices $i_{b}$

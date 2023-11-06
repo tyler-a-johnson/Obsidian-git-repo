@@ -19,7 +19,6 @@ Fucking weird to think about.
 # Diagrams and Circuit Symbols
 BJT Transistors are more or less two diodes back to back. Depending on the type of BJT.
 ![Pasted image 20230812104002](Attachments/Pasted%20image%2020230812104002.png)
-
 The Arrow shows the current of the controlling pn-Junction
 - Arrow from Emitter = PNP
 - Arrow TO Emitter = NPN

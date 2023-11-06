@@ -156,4 +156,8 @@ Using 0.7V Drop Model, $V_{O} \approx 2.1V$
 Similarly with input signal exceeding gain in an amp, clipping will occur here
 
 # BJTs
+![Pasted image 20230812104002](Attachments/Pasted%20image%2020230812104002.png)
+The Arrow shows the current of the controlling pn-Junction
+- Arrow from Emitter = PNP
+- Arrow TO Emitter = NPN
 

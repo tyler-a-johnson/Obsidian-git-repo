@@ -250,9 +250,6 @@ Using RMS phasor approach, determine the time domain expression for the current 
 ![Pasted image 20231003182407](Attachments/Pasted%20image%2020231003182407.png)
 ![Pasted image 20231003182502](Attachments/Pasted%20image%2020231003182502.png)
 
-#### Example 2
-Using the rms phasor approach, determine the time-domain expression for the current in a circuit described by the differential equation:
-![Pasted image 20231003182728](Attachments/Pasted%20image%2020231003182728.png)
 
 ### Series and Parallel
 ![Pasted image 20231003182836](Attachments/Pasted%20image%2020231003182836.png)

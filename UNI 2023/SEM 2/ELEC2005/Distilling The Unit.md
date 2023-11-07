@@ -901,3 +901,11 @@ $Z = R \pm jX$  and  $Y = G \pm jB$
 
 $Z = |Z|e^{j \phi}$    $|Z| = \sqrt{R^{2}+X^{2}}$     $\tan(\phi)=\frac{X}{R}$
 
+#### Example
+Using RMS phasor approach, determine the time domain expression for the current in a circuit by the differential equation:
+![Pasted image 20231003182407](Attachments/Pasted%20image%2020231003182407.png)
+![Pasted image 20231003182502](Attachments/Pasted%20image%2020231003182502.png)
+
+es and Parallel
+![Pasted image 20231003182836](Attachments/Pasted%20image%2020231003182836.png)
+

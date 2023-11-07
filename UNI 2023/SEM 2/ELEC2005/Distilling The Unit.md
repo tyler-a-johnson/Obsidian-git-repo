@@ -810,7 +810,7 @@ $$Q = \omega CV^{2}\sin(- \frac{\pi}{2})=-\omega CV^{2}$$
 $\sqrt{2}V$ is $V_{max}$
 
 ```
-
+$V=\frac{V_{max}}{\sqrt{2}}$
 
 Cosinusoidal quantity quantity x(t) (Voltage, current, whatever) characterised by:
 - Maximum value $X_{M}$
@@ -827,3 +827,15 @@ $$x(t) = Re[X_{M}e^{j(\omega t + \delta)}]=Re[\sqrt{2} (Xe^{j \delta})e^{j \omeg
 
 ![Pasted image 20231003155517](Attachments/Pasted%20image%2020231003155517.png)
 
+![Pasted image 20231003161125](Attachments/Pasted%20image%2020231003161125.png)
+![Pasted image 20231003161238](Attachments/Pasted%20image%2020231003161238.png)
+$$\bar{V}=Ve^{j \delta} \rightarrow v(t) = Re[\sqrt{2}(Ve^{j \delta})e^{j \omega t}]$$
+$$= Re[\sqrt{2}Ve^{j(\omega t + \delta)}]$$
+$$=Re[\sqrt{2}V(\cos(\omega t + \delta) + j \sin(\omega t + \delta)]$$
+
+
+$$= \sqrt{2}V \cos(\omega t + \delta)$$
+
+```ad-important
+We use $V = \frac{V_{max}}{\sqrt{2}}$. This may be different to other units, and is a convention in electrical engineering.
+```

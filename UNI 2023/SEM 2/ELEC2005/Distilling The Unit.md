@@ -378,7 +378,7 @@ $V_{DD}=1.8V$
 $R_{D}= 17.5k \ohm$
 $V_{GS}=0.6V$
 
-a) For Vgs = 0 (hence Vds = 0) find Vov I, VDS and Ay
+a) For Vgs = 0 (hence Vds = 0) find Vov I, VDS and Av
 b) DC bias point: what mode?
 
 ![Pasted image 20231008211647](Attachments/Pasted%20image%2020231008211647.png)

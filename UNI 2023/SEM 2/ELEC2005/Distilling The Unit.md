@@ -684,3 +684,39 @@ MCTs offer
 
 
 # AC Circuits and Power Factor Correction
+
+![Pasted image 20231003142416](Attachments/Pasted%20image%2020231003142416.png)
+Kirchoff Current and Voltage Laws (KCL and KVL) - quick example
+![Pasted image 20231003143505](Attachments/Pasted%20image%2020231003143505.png)
+**KCL:** $\sum\limits_{node} \pm i_{j}=0$
+**KVL:** $\sum\limits_{loop} \pm v_{k}=0$
+
+$-i_{1} + i_{2}+i_{3}=0$
+$-v+v_{1}+v_{2}=0$
+$-v_{2}+v_{3}=0$
+One per branch
+
+**Instantaneous Power:** $p(t) = v(t)i(t)$     Measured in Watts
+**Energy:** $W = \int^{t_{2}}_{t_{1}}p(t)dt$      Measured in Joules
+**Average Power:** $P = \frac{1}{T} \int_{t_{0}}^{t_{0}+T} p(t) dt$    Measured in Watts
+
+## AC Circuits in the Time Domain
+$$v(t) = V_{max}\cos(\omega t + \delta) = \sqrt{2}V\cos(\omega t + \delta)$$
+$$i(t) = I_{max}\cos(\omega t + \beta) = \sqrt{2}I\cos(\omega t + \beta)$$
+
+**RMS Value**
+$$V = \sqrt{ \frac{1}{T} \int_{0}^{T} v(t)^{2}dt}=\frac{V_{max}}{\sqrt{2}}$$
+
+$\omega = 2 \pi f \rightarrow$ Angular Frequency
+$\delta$ Angle of $v(t)$ @ $\omega t = 0$
+$\beta$ Angle of $i(t)$ @ $\omega t = 0$
+$\phi = \delta - \beta$ Angle difference between v and i
+
+$\phi > 0$    i(t) lags v(t)
+$\phi < 0$    i(t) lags v(t)
+
+![Pasted image 20231003145005](Attachments/Pasted%20image%2020231003145005.png)
+In this example:
+$\delta = \frac{\pi}{3}$ ,  $\beta = \frac{\pi}{6}$,  $\phi =\frac{\pi}{6} rads$
+
+$i(t)$ lags $v(t)$, $I_{max}$ after $V_{max}$

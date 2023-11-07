@@ -5,11 +5,13 @@ status: Incomplete
 Relevant Docs:
   - "[ELEC2005 Week 6 Lecture MOSFETs-part-2_2023_UPDATED](Attachments/ELEC2005%20Week%206%20Lecture%20MOSFETs-part-2_2023_UPDATED.pdf)"
   - "[sedra8e_solvedproblems_ch05](Attachments/sedra8e_solvedproblems_ch05.pdf)"
-Relevant Questions: []
-Relevant Notes: []
+Relevant Questions: 
+Relevant Notes: 
 Practical Docs: 
 Relevant Links: https://www.physicsforums.com/threads/infinite-capacitance-uses-implications-in-jfet-circuits.224568/
 ---
+[ELEC2005 Week 6 Lecture MOSFETs-part-2_2023_UPDATED](Attachments/ELEC2005%20Week%206%20Lecture%20MOSFETs-part-2_2023_UPDATED.pdf)
+
 I should sum that up, an infinite capacitor would pass all frequencies except the DC component of a signal. The DC component would see the cap as an open, but all other frequencies would see it as a short. The problem is probably just telling you that the circuit is decoupled from DC and coupled with AC.  
 
 # How to make an Amplifier or Switch

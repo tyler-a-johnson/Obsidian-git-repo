@@ -30,12 +30,9 @@
             "id": "40e246faca161e81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 6 Lecture MOSFETs-part-2_2023_UPDATED.pdf"
               }
             }
           }
@@ -133,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 6 Lecture MOSFETs-part-2_2023_UPDATED.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 6 Lecture MOSFETs-part-2_2023_UPDATED.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 6 Lecture MOSFETs-part-2_2023_UPDATED.pdf"
               }
             }
           },
@@ -228,8 +225,8 @@
   },
   "active": "40e246faca161e81",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106215553.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106215526.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED.pdf",

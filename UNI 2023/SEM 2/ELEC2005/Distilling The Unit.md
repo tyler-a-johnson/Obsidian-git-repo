@@ -197,20 +197,6 @@ Emitter current is the total current:
 $$i_{E}=i_{B}+i_{C}= \frac{i_C}{\alpha}$$
 
 
-
-## Equivalent Circuits
-
-### Active Region
-![](Attachments/Pasted%20image%2020231106165507.png)
-**Collector current is controlled by base-emitter, voltage:**
-$$i_{C} = I_{s} e^{v_{BE}/V_{T}}$$
-
-*Base current is much smaller than the collector current:*
-$i_{B} = \frac{i_{C}}{ \beta }$
-
-**Emitter current is total current**
-$i_{E} = i_{B} + i_{C} = \frac{i_{C}}{\alpha}$
-
 ### Saturation Region
 ![](Attachments/Pasted%20image%2020231106165353.png)
 

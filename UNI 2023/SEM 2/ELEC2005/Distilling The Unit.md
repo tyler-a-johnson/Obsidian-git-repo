@@ -881,3 +881,12 @@ $$\frac{dv(t)}{dt} \rightarrow j \omega V e^{j \omega}$$
 
 $$\int v(t) dt \rightarrow \frac{V}{j \omega}e^{j \delta}$$
 ***Integrationin the time domain is division by jw in the frequency domain***
+
+![Pasted image 20231003181150](Attachments/Pasted%20image%2020231003181150.png)
+![Pasted image 20231003181337](Attachments/Pasted%20image%2020231003181337.png)
+
+**Resistor** - Has no effect on phase (In phase)
+**Inductor** - Current *Lags* Voltage
+**Capacitor** - Current *Leads* Voltage
+
+![Pasted image 20231003181643](Attachments/Pasted%20image%2020231003181643.png)

@@ -906,7 +906,17 @@ Using RMS phasor approach, determine the time domain expression for the current 
 ![Pasted image 20231003182407](Attachments/Pasted%20image%2020231003182407.png)
 ![Pasted image 20231003182502](Attachments/Pasted%20image%2020231003182502.png)
 
-#### Series and Parallel
+### Series and Parallel
 ![Pasted image 20231003182836](Attachments/Pasted%20image%2020231003182836.png)
 
 
+## Complex Power
+Power definition in the time-domain **instantaneous power**
+$$p(t) = v(t)i(t)$$
+
+Power definition in the phasor domain **complex power**
+$$\bar{S} = \bar{V}\bar{I}* = VIe^{j(\delta-\beta)}=VI\cos(\delta-\beta)+jVI\sin(\delta-\beta)=P+jQ$$
+
+**Where:**
+$\bar{S}=Ve^{j \delta}$ and $\bar{I}=Ie^{j \beta}$ are the voltage and current rms phasors, 
+and $\bar{I}*$ is the complex conjugate of $\bar{I}$ ($\bar{I}* = Ie^{-j \beta}$)

@@ -136,20 +136,6 @@ $V_{r} =$ Ripple voltage
 $PIV \approx 2V_{m}$
 PIV needs to be less than the breakdown voltage of the diode.
 
-### Full-Wave Rectifier
-![Pasted image 20230805105337](Attachments/Pasted%20image%2020230805105337.png)
-
-**Diode Bridge Full-Wave Rectifier**
-![Pasted image 20230805105419](Attachments/Pasted%20image%2020230805105419.png)
-
-### Diode Regulator
-![](Attachments/Pasted%20image%2020231102193318.png)
-Using 0.7V Drop Model, $V_{O} \approx 2.1V$
-
-### Wave Shaping Circuits
-![](Attachments/Pasted%20image%2020231102194126.png)
-Similarly with input signal exceeding gain in an amp, clipping will occur here
-
 # BJTs
 ![Pasted image 20230812104002](Attachments/Pasted%20image%2020230812104002.png)
 The Arrow shows the current of the controlling pn-Junction
@@ -364,21 +350,6 @@ $$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \a
 	- **Oxide** - Unlike BJTs, in a MOSFET the gate is separated from the rest of the device with a thin insulating layer
 	- **Semiconductor** - Commonly fabricated on silicon (Although SiGe can be used)
 	- **Field Effect** - Applying a voltage between the gate and body terminals creates an electric field which penetrates the oxide and creates an inversion layer at the semiconductor interface.
-- Well established and widely used
-- Smaller than BJTs
-- Ease of manufacture
-- low power requirements
-- Allows placement of about **2 billion transistors on an IC**
-- Preferable to BJT technology for many applications (Digital)
-
-## Structure
-![Pasted image 20231002210216](Attachments/Pasted%20image%2020231002210216.png)
-![Pasted image 20231002210236](Attachments/Pasted%20image%2020231002210236.png)
-- **MOSFETS** consist of two PN junctions
-	- Essentially two back to back diodes as shown
-- Diodes between drain and source prevent current when voltage $V_{DS}$ is applied
-	- Yields high resistance ($10^{12}$ ohms)
-
 ## Device Operation
 ![Pasted image 20231002212203](Attachments/Pasted%20image%2020231002212203.png)
 - Channel is induced when **gate source voltage exceeds the threshold voltage** (Given, around 1V)

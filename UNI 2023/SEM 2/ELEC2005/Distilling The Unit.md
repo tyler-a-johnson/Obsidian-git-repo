@@ -839,3 +839,42 @@ $$= \sqrt{2}V \cos(\omega t + \delta)$$
 ```ad-important
 We use $V = \frac{V_{max}}{\sqrt{2}}$. This may be different to other units, and is a convention in electrical engineering.
 ```
+
+### Phasor Operations
+![Pasted image 20231003175819](Attachments/Pasted%20image%2020231003175819.png)
+**Polar Form**
+Coordinates ($V, \delta$) Useful for multiplication and division
+$$\bar{X} = \bar{Y}\bar{Z} = Ye^{j \alpha} Ze^{j \beta}$$
+$$=(YZ)e^{j(\alpha+\beta)}$$
+$$\bar{X} = \frac{\bar{Y}}{\bar{Z}}= \frac{Ye^{j \alpha}}{Ze^{j \beta}}= (\frac{Y}{Z})e^{j(\alpha-\beta)}$$
+
+**Rectangular Form**
+Coordinates (Re$[\bar{V}]$, Im$[\bar{V}])$
+Useful for addition and subtraction:
+$$\bar{Y}=a+jb$$
+$$\bar{Z}=c+jd$$
+$$\bar{X}=\bar{Y}\pm \bar{Z}$$
+$$= (a \pm c) + j(b\pm d)$$
+
+
+Given: $v(t) = \sqrt{2}V\cos(\omega t + \delta)$
+### Phasor Operations
+![Pasted image 20231003175819](Attachments/Pasted%20image%2020231003175819.png)
+**Polar Form**
+Coordinates ($V, \delta$) Useful for multiplication and division
+$$\bar{X} = \bar{Y}\bar{Z} = Ye^{j \alpha} Ze^{j \beta}$$
+$$=(YZ)e^{j(\alpha+\beta)}$$
+$$\bar{X} = \frac{\bar{Y}}{\bar{Z}}= \frac{Ye^{j \alpha}}{Ze^{j \beta}}= (\frac{Y}{Z})e^{j(\alpha-\beta)}$$
+
+**Rectangular Form**
+Coordinates (Re$[\bar{V}]$, Im$[\bar{V}])$
+Useful for addition and subtraction:
+$$\bar{Y}=a+jb$$
+$$\bar{Z}=c+jd$$
+$$\bar{X}=\bar{Y}\pm \bar{Z}$$
+$$= (a \pm c) + j(b\pm d)$$
+
+
+Given: $v(t) = \sqrt{2}V\cos(\omega t + \delta)$
+$$\frac{dv(t)}{dt} \rightarrow j \omega V e^{j \omega}$$
+

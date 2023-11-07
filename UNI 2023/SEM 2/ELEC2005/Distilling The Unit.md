@@ -19,8 +19,6 @@ Relevant Links:
 
 ## Thevenin's Theorem
 "Any combination of voltage sources and resistors with two terminals can be replaced by a single voltage source and a single series resistor."
-![Pasted image 20230725154154](Attachments/Pasted%20image%2020230725154154.png)
-
 We can find this equivalent by:
 1. Calculate the **open circuit voltage** and the **short-circuit current** of Circuit A.
 2. Then calculate Thevenin resistance as: $R_{t}=\frac{v_{oc}}{i_{sc}}$
@@ -30,9 +28,6 @@ We can find this equivalent by:
 Signal gain can be achieved and expressed through voltage, current, or power.
 ![Pasted image 20230725161242](Attachments/Pasted%20image%2020230725161242.png)
 Gain is a ratio, expressed as dimensionless, or V/V, A/A etc. Engineers often express gain logarithmically.
-### Saturation
-![Pasted image 20230725210004](Attachments/Pasted%20image%2020230725210004.png)
-
 
 
 # Diodes

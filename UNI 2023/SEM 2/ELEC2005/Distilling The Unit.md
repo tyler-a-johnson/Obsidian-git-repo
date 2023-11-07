@@ -630,3 +630,15 @@ $$V_{BE} = V_{BE1}+V_{BE2}$$
 - Used for high power switching
 - Applications include
 	- Power supplies DC-DC converters, low voltage motor controllers, vehicle electronics
+
+## IGBT (Insulated Gate Bipolar Transistor)
+- Combine the ease of control of a MOSFET even at higher voltages (>200V)
+- Circuit symbol is similar to BJT but with an extra line
+![Pasted image 20231003000530](Attachments/Pasted%20image%2020231003000530.png)
+
+### Parameters
+- Voltage ratings up to ~5kV and current ratings up to ~2000A
+- Most commercial designs do not block reverse polarity voltages
+- Typically used for converters over a wide power range (1kW up to >1MW)
+- Used in motor drive circuits, UPS, induction cooktops
+

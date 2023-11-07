@@ -970,7 +970,6 @@ $$C = \frac{|Q_{C}|}{\omega V^{2}}= \frac{P(\tan \theta_{1} - \tan \theta_{2})}{
 ![Pasted image 20231003191841](Attachments/Pasted%20image%2020231003191841.png)
 
 ### Capacitive Load Example
-![Pasted image 20231003192051](Attachments/Pasted%20image%2020231003192051.png)
 If the load is capacitive, and we want to increase power factor, then a shunt inductor can be used.
 
 $$L = \frac{V^{2}}{\omega Q_{L}} = \frac{V^{2}}{\omega(Q_{1}-Q_{2})}$$
@@ -990,7 +989,6 @@ $$Z_{AN}=Z_{BN}=Z_{CN}=Z_{Y}$$
 - Equal impedance on the lines connecting the generators to the loads
 
 ## Line to Neutral and Line to Line Voltages
-![Pasted image 20231006000226](Attachments/Pasted%20image%2020231006000226.png)
 
 | Balanced line to neutral voltages       | Balanced line to line voltages                                                         |
 | --------------------------------------- | -------------------------------------------------------------------------------------- |

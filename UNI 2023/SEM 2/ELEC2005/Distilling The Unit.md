@@ -920,3 +920,45 @@ $$\bar{S} = \bar{V}\bar{I}* = VIe^{j(\delta-\beta)}=VI\cos(\delta-\beta)+jVI\sin
 **Where:**
 $\bar{S}=Ve^{j \delta}$ and $\bar{I}=Ie^{j \beta}$ are the voltage and current rms phasors, 
 and $\bar{I}*$ is the complex conjugate of $\bar{I}$ ($\bar{I}* = Ie^{-j \beta}$)
+
+**Resistor:**
+$$\bar{S}_{R}=\bar{V}\bar{I}_{R}* = Ve^{j \delta} \frac{V}{R}e^{-j \delta} = \frac{V^{2}}{R}$$
+
+**Inductor:**
+$$\bar{S}_{L}=\bar{V}\bar{I}_{L}* = Ve^{j \delta} \frac{V}{\omega L}e^{-j(\delta - \frac{\pi}{2})}=j \frac{V^{2}}{\omega L} = j \frac{V^{2}}{X_{L}}$$
+
+**Capacitor:**
+$$\bar{S}_{C}=\bar{V}\bar{I}_{C}* = Ve^{j \delta} V \omega C e^{-j(\delta+ \frac{\pi}{2})}= -j \omega CV^{2} = -j \frac{V^{2}}{X_{C}}$$
+
+
+For a general **(Passive) RLC circuit** with the load convention: **P > 0,** *Q > 0 for inductive loads* (Q is absorbed) *Q < 0 for capacitive loads* (Q is sourced)
+![Pasted image 20231003190058](Attachments/Pasted%20image%2020231003190058.png)
+
+$$S = \sqrt{P^{2}+ Q^{2}}$$
+$$\delta-\beta=\tan^{-1}(\frac{Q}{P})$$
+$$Q = P \tan (\delta-\beta)$$
+
+**Power Factor**
+$$p.f. = \cos(\delta-\beta) = \frac{P}{S} = \frac{P}{\sqrt{P^{2}+Q^{2}}}$$
+Sometimes $\theta$ is used instead of $\phi$.
+
+
+## Power Factor Correction
+We can correct the power factor by altering the load as seen by the voltage source $\bar{V}$.
+![Pasted image 20231003190839](Attachments/Pasted%20image%2020231003190839.png)
+For (a). Without capacitor, angle between total load current and voltage is $\theta_1$
+For (b). With capacitor, angle between total load current and voltage is $\theta_{2}<\theta_{1}$
+
+**Case A**
+$$P = S_{1}\cos(\theta_1)$$
+$$Q_{1}= S_{1}\sin\theta_{1}= P \tan \theta_1$$
+
+**Case B**
+$$Q_{2}=P \tan \theta_{2}$$
+$$|Q_{C}| = Q_{1}-Q_{2}=P(\tan \theta_{1} - \tan \theta_{2})$$
+$$|Q_{C}| = \omega CV^{2}$$
+
+```ad-important
+$$C = \frac{|Q_{C}|}{\omega V^{2}}= \frac{P(\tan \theta_{1} - \tan \theta_{2})}{\omega V^{2}}$$
+
+```

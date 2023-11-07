@@ -797,3 +797,33 @@ $$i(t) = \sqrt{2} \omega CV \cos(\omega t + \delta + \frac{\pi}{2})$$
 Where $\phi = -\frac{\pi}{2}$
 
 $$Q = \omega CV^{2}\sin(- \frac{\pi}{2})=-\omega CV^{2}$$
+
+
+## Phasors
+
+**Assumption**
+- Constant frequency, i.e. $\omega = 2 \pi f$ is fixed
+
+```ad-note
+**Reminder**: $V$ is $V_{rms}$.
+
+$\sqrt{2}V$ is $V_{max}$
+
+```
+
+
+Cosinusoidal quantity quantity x(t) (Voltage, current, whatever) characterised by:
+- Maximum value $X_{M}$
+- Phase angle $\delta$
+
+$$x(t) = X_{M}\cos(\omega t + \delta)$$
+$$= \sqrt{2} X \cos (\omega t + \delta)$$
+
+Where: $X = \frac{X_{M}}{\sqrt{2}}$ = RMS, effective value.
+
+Using [Euler's Identity](Euler's%20Identity) $e^{j \phi} = \cos \phi + j \sin \phi$
+
+$$x(t) = Re[X_{M}e^{j(\omega t + \delta)}]=Re[\sqrt{2} (Xe^{j \delta})e^{j \omega t}]$$
+
+![Pasted image 20231003155517](Attachments/Pasted%20image%2020231003155517.png)
+

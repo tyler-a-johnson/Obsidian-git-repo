@@ -890,3 +890,14 @@ $$\int v(t) dt \rightarrow \frac{V}{j \omega}e^{j \delta}$$
 **Capacitor** - Current *Leads* Voltage
 
 ![Pasted image 20231003181643](Attachments/Pasted%20image%2020231003181643.png)
+**Impedance**: $Z = \frac{\bar{V}}{\bar{I}}$
+
+**Admittance**: $Y = \frac{\bar{I}}{\bar{V}}$
+
+- Ohms law can be written in the RMS phasor domain for any passive circuit element as: $\bar{V} = Z\bar{I}$
+- Series and parallel combination of passive elements imply that the impedance has a real and imaginary component.
+
+$Z = R \pm jX$  and  $Y = G \pm jB$
+
+$Z = |Z|e^{j \phi}$    $|Z| = \sqrt{R^{2}+X^{2}}$     $\tan(\phi)=\frac{X}{R}$
+

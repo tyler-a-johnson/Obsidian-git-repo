@@ -880,4 +880,4 @@ $$\frac{dv(t)}{dt} \rightarrow j \omega V e^{j \omega}$$
 ***Derivation in the time domain is multiplication by jw in the frequency domain***
 
 $$\int v(t) dt \rightarrow \frac{V}{j \omega}e^{j \delta}$$
-***Integrationin the time domain  becomes division by jw in the frequency domain***
+***Integrationin the time domain is division by jw in the frequency domain***

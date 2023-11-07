@@ -6,6 +6,7 @@
       {
         "id": "808a1cedbf3fea1f",
         "type": "tabs",
+        "dimension": 41.21976866456362,
         "children": [
           {
             "id": "6edeee0de7f192da",
@@ -25,6 +26,7 @@
       {
         "id": "bb6d11df56813fb4",
         "type": "tabs",
+        "dimension": 58.78023133543638,
         "children": [
           {
             "id": "40e246faca161e81",
@@ -33,6 +35,19 @@
               "type": "pdf",
               "state": {
                 "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 6 Lecture MOSFETs-part-2_2023_UPDATED.pdf"
+              }
+            }
+          },
+          {
+            "id": "e6d480f20bb3d019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -225,8 +240,9 @@
   },
   "active": "40e246faca161e81",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 6 Lecture MOSFETs-part-2_2023_UPDATED.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106215553.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106215526.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED.pdf",
@@ -251,7 +267,6 @@
     "UNI 2023/SEM 2/ENGG3000/~$anning and managing a project to completion.docx",
     "UNI 2023/SEM 2/ENGG3000/~WRL0994.tmp",
     "UNI 2023/SEM 2/ENGG3000/~WRD0990.tmp",
-    "UNI 2023/SEM 2/ENGG3000/Planning and managing a project to completion.docx",
     "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",
     "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
@@ -270,7 +285,6 @@
     "UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
     "UNI 2023/SEM 2/Daily Work.md",
-    "UNI 2022/MTRN2060/Digital.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

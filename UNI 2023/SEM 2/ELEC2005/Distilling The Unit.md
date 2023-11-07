@@ -539,3 +539,5 @@ $v > V_{t}$              $i = \frac{1}{2} \mu_{n} C_{o x} \frac{W}{L}(v-V_{t})^2
 ![](Attachments/Pasted%20image%2020231107195042.png)
 ![](Attachments/Pasted%20image%2020231107195205.png)
 ![](Attachments/Pasted%20image%2020231107195506.png)
+
+### Example

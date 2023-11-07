@@ -4,12 +4,12 @@ tags:
 status: Complete
 Relevant Docs:
   - "[wk8 2023_annotated](Attachments/wk8%202023_annotated.pdf)"
-Relevant Questions: []
-Relevant Notes: []
+Relevant Questions: 
+Relevant Notes: 
 Practical Docs: 
 Relevant Links:
 ---
-
+[wk8 2023_annotated](Attachments/wk8%202023_annotated.pdf)
 # Maths and Distilled Info
 ---
 

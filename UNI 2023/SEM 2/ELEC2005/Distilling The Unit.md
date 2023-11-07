@@ -919,7 +919,7 @@ $$\bar{S} = \bar{V}\bar{I}* = VIe^{j(\delta-\beta)}=VI\cos(\delta-\beta)+jVI\sin
 
 **Where:**
 $\bar{S}=Ve^{j \delta}$ and $\bar{I}=Ie^{j \beta}$ are the voltage and current rms phasors, 
-and $\bar{I}*$ is the complex conjugate of $\bar{I}$ ($\bar{I}* = Ie^{-j \beta}$)
+and $\bar{I}*$ is the complex conjugate of $\bar{I}$ , i.e. ($\bar{I}* = Ie^{-j \beta}$)
 
 **Resistor:**
 $$\bar{S}_{R}=\bar{V}\bar{I}_{R}* = Ve^{j \delta} \frac{V}{R}e^{-j \delta} = \frac{V^{2}}{R}$$
@@ -962,3 +962,17 @@ $$|Q_{C}| = \omega CV^{2}$$
 $$C = \frac{|Q_{C}|}{\omega V^{2}}= \frac{P(\tan \theta_{1} - \tan \theta_{2})}{\omega V^{2}}$$
 
 ```
+
+### Example
+![Pasted image 20231003191751](Attachments/Pasted%20image%2020231003191751.png)
+
+![Pasted image 20231003191822](Attachments/Pasted%20image%2020231003191822.png)
+![Pasted image 20231003191841](Attachments/Pasted%20image%2020231003191841.png)
+
+### Capacitive Load Example
+![Pasted image 20231003192051](Attachments/Pasted%20image%2020231003192051.png)
+If the load is capacitive, and we want to increase power factor, then a shunt inductor can be used.
+
+$$L = \frac{V^{2}}{\omega Q_{L}} = \frac{V^{2}}{\omega(Q_{1}-Q_{2})}$$
+
+![Pasted image 20231003192249](Attachments/Pasted%20image%2020231003192249.png)

@@ -372,12 +372,8 @@ $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 
 
 ## P-Channel MOSFET
-- P-Channel MOSFETs have a similar but opposite structure to n-channel
-- They are complimentary devices
-- PMOS originally dominated the MOS field but as manufacturing became cheaper and easier for NMOS, NMOS took over.
 ![Pasted image 20231002214522](Attachments/Pasted%20image%2020231002214522.png)
 ![Pasted image 20231002214612](Attachments/Pasted%20image%2020231002214612.png)
-
 ![Pasted image 20231002214659](Attachments/Pasted%20image%2020231002214659.png)
 
 

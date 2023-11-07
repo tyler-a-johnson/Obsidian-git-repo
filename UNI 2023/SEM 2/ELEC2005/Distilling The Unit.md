@@ -379,9 +379,6 @@ $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 
 ## N - Channel MOSFETS
 ![Pasted image 20231002212944](Attachments/Pasted%20image%2020231002212944.png)
-
-Four terminals: Drain (D), Gate (G), Body (B), and Source (S)
-
 ![Pasted image 20231002213643](Attachments/Pasted%20image%2020231002213643.png)
 ![Pasted image 20231002213954](Attachments/Pasted%20image%2020231002213954.png)
 **Triode Mode when**

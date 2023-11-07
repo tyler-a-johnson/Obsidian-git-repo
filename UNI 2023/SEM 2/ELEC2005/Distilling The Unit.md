@@ -988,3 +988,15 @@ $$Z_{AN}=Z_{BN}=Z_{CN}=Z_{Y}$$
 - 3 voltage sources with equal magnitude, but with an angle shift of $120 \degree$ 
 - Equal loads on each phase
 - Equal impedance on the lines connecting the generators to the loads
+
+## Line to Neutral and Line to Line Voltages
+![Pasted image 20231006000226](Attachments/Pasted%20image%2020231006000226.png)
+
+| Balanced line to neutral voltages       | Balanced line to line voltages                                                         |
+| --------------------------------------- | -------------------------------------------------------------------------------------- |
+| $\bar{E}_{an}=Ee^{j0}$                  | $\bar{V}_{ab} = \bar{E}_{an} - \bar{E}_{bn} = \sqrt{3}\bar{E}_{an}e^{j \frac{\pi}{6}}$ |
+| $\bar{E}_{bn}=Ee^{-j \frac{2}{3} \pi}$  | $\bar{V}_{bc}=\bar{E}_{bn}-\bar{E}_{cn} = \sqrt{3}\bar{E}_{bn}e^{j \frac{\pi}{6}}$     |
+| $\bar{E}_{cn} = Ee^{j \frac{2}{3} \pi}$ | $\bar{V}_{ca}= \bar{E}_{cn} - \bar{E}_{an} = \sqrt{3}\bar{E}_{cn}e^{j \frac{\pi}{6}}$                                                                                        |
+
+![Pasted image 20231006001213](Attachments/Pasted%20image%2020231006001213.png)
+

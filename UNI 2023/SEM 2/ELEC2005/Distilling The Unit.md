@@ -228,12 +228,6 @@ At a **constant current** the voltage decreases by approximately **2mV** for eve
 
 ```
 
-## BJT as a Switch
-![Pasted image 20230930201500](Attachments/Pasted%20image%2020230930201500.png)If we increase the input voltage from low to high, output voltage will switch from high to low.
-$$i_{C}= I_{S} e^{v_{BE}/V_T}$$
-$$v_{O}=v_{CE}=V_{CC}-R_{C}i_{C}$$
-
-
 ## BJT Amplifier and DC Biasing
 We can use $V_{BE}$ to **Bias the transistor into active mode**
 ![Pasted image 20231002171854](Attachments/Pasted%20image%2020231002171854.png)

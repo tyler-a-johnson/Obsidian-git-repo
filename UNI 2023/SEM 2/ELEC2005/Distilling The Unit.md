@@ -720,3 +720,80 @@ In this example:
 $\delta = \frac{\pi}{3}$ ,  $\beta = \frac{\pi}{6}$,  $\phi =\frac{\pi}{6} rads$
 
 $i(t)$ lags $v(t)$, $I_{max}$ after $V_{max}$
+
+### Single Phase Instantaneous Power
+![Pasted image 20231003145316](Attachments/Pasted%20image%2020231003145316.png)
+$$p(t)=v(t)i(t)$$
+$$p(t) = 2VI\cos(\omega t + \delta)\cos(\omega t + \beta)$$
+$$p(t) = VI \{\cos(\delta - \beta)+\cos(2\omega t + \delta + \beta)\}$$
+$$p(t) = VI \{  \cos(\delta-\beta) + \cos[2(\omega t + \delta)-(\delta-\beta)] \}$$
+
+
+**Where the first half is pr(t) and px(t)**
+$$p(t) = VI_{R} \{   1+\cos[2(\omega t + \delta) ]\} + VI_{X} \sin[2(\omega t + \delta)]$$
+
+$I_{R}=I\cos(\phi)$ Current Component in phase with $v(t)$
+$I_{X}=I\sin(\phi)$ Current Component 90 degrees out of phase from $v(t)$
+$\frac{1}{T} \int_{0}^{T} [p_{R}(t)]dt = \text{P Active Power}$, $\frac{1}{T}\int_{0}^{T}[p_{X}(t)]dt = 0$
+
+![Pasted image 20231003150637](Attachments/Pasted%20image%2020231003150637.png)
+
+$$p(t) = VI_{R} \{1+\cos[2(\omega t + \delta)]\} + VI_{X}\sin[2(\omega t + \delta)]$$
+![Pasted image 20231003150857](Attachments/Pasted%20image%2020231003150857.png)
+- Instantaneous power $p(t)$ pulsates @ $2\omega$.
+- Can be positive or negative
+
+## Active Power, Reactive Power, Power Factor
+![Pasted image 20231003151116](Attachments/Pasted%20image%2020231003151116.png)
+
+**Definitions:**
+- $P = VI_{R}=VI \cos(\phi)$ **REAL/ACTIVE Power** (W)
+- $Q = VI_{X}=VI\sin(\phi)$ **Reactive Power** (VAr)
+- $\phi = \delta - \beta$  phase angle difference between **v** and **i** respectively
+
+$$\cos (\phi)\text{ Is the power factor}$$
+### Example: Purely Resistive Load
+
+![Pasted image 20231003153000](Attachments/Pasted%20image%2020231003153000.png)
+![Pasted image 20231003153027](Attachments/Pasted%20image%2020231003153027.png)
+$$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
+$$i(t) = \frac{v(t)}{R}$$
+$$i(t) = \sqrt{2} \frac{V}{R} \cos(\omega t +\delta)$$
+$$P = \frac{V^2}{R}$$
+
+
+### Example: Purely Inductive Load
+![Pasted image 20231003153328](Attachments/Pasted%20image%2020231003153328.png)
+![Pasted image 20231003153337](Attachments/Pasted%20image%2020231003153337.png)
+$$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
+$$v(t) = L \frac{di(t)}{dt}$$
+$$i(t) = \frac{1}{L}\int^{t}_{0}v(t) dt$$
+
+$$i(t) = \frac{\sqrt{2}V}{\omega L}\cos(\omega t + \delta - \frac{\pi}{2})$$
+$$\phi = \frac{\pi}{2}$$
+
+
+$$P = 0$$
+$$Q = \frac{V^{2}}{\omega L}\sin(\frac{\pi}{2})=\frac{V^{2}}{\omega L}$$
+
+
+### Example: Purely Capacitive Load
+![Pasted image 20231003153920](Attachments/Pasted%20image%2020231003153920.png)
+![200](Attachments/Pasted%20image%2020231008201052.png)
+$$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
+$$i(t) = C \frac{dv(t)}{dt}$$
+
+```ad-note
+title: Sine and Cosine
+$$\sin(\omega t) = \cos(\omega t - \frac{\pi}{2})$$
+![accircuits-acp33a](Attachments/accircuits-acp33a.png)
+$$\cos(\omega t) = \sin(\omega t + \frac{\pi}{2})$$
+
+```
+
+
+
+$$i(t) = \sqrt{2} \omega CV \cos(\omega t + \delta + \frac{\pi}{2})$$
+Where $\phi = -\frac{\pi}{2}$
+
+$$Q = \omega CV^{2}\sin(- \frac{\pi}{2})=-\omega CV^{2}$$

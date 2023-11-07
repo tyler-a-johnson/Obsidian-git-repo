@@ -216,29 +216,10 @@ In the active region we can use a constant voltage (base side) and constant curr
 ![](Attachments/Pasted%20image%2020231106183049.png)
 ![](Attachments/Pasted%20image%2020231106183101.png)
 
-*Example 1*
 ![](Attachments/Pasted%20image%2020231106185802.png)
 ![](Attachments/Pasted%20image%2020231106190907.png)
 
-
-
-
-*Example 2*
-![](Attachments/Pasted%20image%2020231106190446.png)
-![](Attachments/Pasted%20image%2020231106190845.png)
-
-*Example 3*
-![](Attachments/Pasted%20image%2020231106190542.png)
-![](Attachments/Pasted%20image%2020231106190803.png)
-
-
-*Example 4*
 ![](Attachments/Pasted%20image%2020231106190732.png)
-
-
-
-
-
 
 ## Temperature and Thermal Voltage
 ![Pasted image 20230930200007](Attachments/Pasted%20image%2020230930200007.png)

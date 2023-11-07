@@ -263,7 +263,6 @@ We bias the circuit assuming 0 small signal voltage
 
 
 ## Transconductance
-![Pasted image 20231002172744](Attachments/Pasted%20image%2020231002172744.png)
 Transconductance is the ratio of the current flowing through the output and the voltage arising in the input of electrical circuit/devices. Transconductance is calculated using the equation.
 
 **Total = DC + Signal**
@@ -277,7 +276,6 @@ $$g_{m}= \frac{I_{C}}{V_{T}}$$
 
 
 ## Small Signal AC
-
 ![Pasted image 20231002175400](Attachments/Pasted%20image%2020231002175400.png)
 ![Pasted image 20231002175413](Attachments/Pasted%20image%2020231002175413.png)
 $$i_{c}= g_{m}v_{be}$$
@@ -331,7 +329,7 @@ $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 ## P-Channel MOSFET
 ![Pasted image 20231002214522](Attachments/Pasted%20image%2020231002214522.png)
 ![Pasted image 20231002214612](Attachments/Pasted%20image%2020231002214612.png)
-![Pasted image 20231002214659](Attachments/Pasted%20image%2020231002214659.png)
+
 
 
 ## N - Channel MOSFETS

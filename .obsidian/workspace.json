@@ -6,7 +6,7 @@
       {
         "id": "808a1cedbf3fea1f",
         "type": "tabs",
-        "dimension": 62.11245401996847,
+        "dimension": 56.75249605885444,
         "children": [
           {
             "id": "6edeee0de7f192da",
@@ -26,33 +26,22 @@
       {
         "id": "bb6d11df56813fb4",
         "type": "tabs",
-        "dimension": 37.887545980031526,
+        "dimension": 43.24750394114556,
         "children": [
           {
-            "id": "32e07aeec1336199",
+            "id": "923b04ab086479f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "6152762a469b27d0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/wk8 2023_annotated.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,9 +230,10 @@
   },
   "active": "6edeee0de7f192da",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/wk8 2023_annotated.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md",
-    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231107200020.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231107195949.png",
@@ -270,7 +260,6 @@
     "UNI 2023/SEM 2/ELEC2005/~$State Of Charge.pptx",
     "UNI 2023/SEM 2/ENGG3000/~$anning and managing a project to completion.docx",
     "UNI 2023/SEM 2/ENGG3000/~WRL0994.tmp",
-    "UNI 2023/SEM 2/ENGG3000/~WRD0990.tmp",
     "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",
     "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
@@ -279,7 +268,6 @@
     "UNI 2023/SEM 2/Weekly Work.md",
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "Distilled Notes/Dot Convention (Transformers).md",

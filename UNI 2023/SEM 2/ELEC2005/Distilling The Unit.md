@@ -976,3 +976,15 @@ If the load is capacitive, and we want to increase power factor, then a shunt in
 $$L = \frac{V^{2}}{\omega Q_{L}} = \frac{V^{2}}{\omega(Q_{1}-Q_{2})}$$
 
 ![Pasted image 20231003192249](Attachments/Pasted%20image%2020231003192249.png)
+
+# 3 Phase AC Power
+## Balanced 3 Phase Circuits
+![Pasted image 20231005235423](Attachments/Pasted%20image%2020231005235423.png)
+$$\bar{E}_{an}=Ee^{j0}$$
+$$\bar{E}_{bn}=Ee^{-j \frac{2}{3} \pi}$$
+$$\bar{E}_{cn}= Ee^{j \frac{2}{3}\pi}$$
+$$Z_{AN}=Z_{BN}=Z_{CN}=Z_{Y}$$
+ **Balanced 3 phase circuit has**
+- 3 voltage sources with equal magnitude, but with an angle shift of $120 \degree$ 
+- Equal loads on each phase
+- Equal impedance on the lines connecting the generators to the loads

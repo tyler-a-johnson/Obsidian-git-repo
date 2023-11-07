@@ -6,7 +6,7 @@
       {
         "id": "808a1cedbf3fea1f",
         "type": "tabs",
-        "dimension": 41.21976866456362,
+        "dimension": 43.45769837099317,
         "children": [
           {
             "id": "6edeee0de7f192da",
@@ -26,7 +26,7 @@
       {
         "id": "bb6d11df56813fb4",
         "type": "tabs",
-        "dimension": 58.78023133543638,
+        "dimension": 56.54230162900683,
         "children": [
           {
             "id": "32e07aeec1336199",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
               }
             }
           },
@@ -228,10 +228,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "32e07aeec1336199",
+  "active": "6edeee0de7f192da",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md",
     "UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md",
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231107200020.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231107195949.png",
     "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231107195923.png",
@@ -275,7 +276,6 @@
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
-    "UNI 2023/SEM 2/Daily Work.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

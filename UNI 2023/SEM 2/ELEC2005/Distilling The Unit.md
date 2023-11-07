@@ -678,3 +678,9 @@ MCTs offer
 - Low forward conduction loss
 - Fast switching
 - High input impedance at gate
+
+
+![Pasted image 20231003002913](Attachments/Pasted%20image%2020231003002913.png)
+
+
+# AC Circuits and Power Factor Correction

@@ -548,3 +548,40 @@ $v > V_{t}$              $i = \frac{1}{2} \mu_{n} C_{o x} \frac{W}{L}(v-V_{t})^2
 
 
 # Power Semiconductors
+## Power Diodes
+Power diodes differ from signal diodes in their construction, instead of a simple PN junction, there are extra layers with different doping
+![Pasted image 20231002232501](Attachments/Pasted%20image%2020231002232501.png)
+### Parameters
+- Diodes have several key parameters, some of which are constant and some which vary with condition
+- **Voltage Rating** - Max instantaneous voltage the device can block in the off state
+- **Current Rating** - Max instantaneous average or RMS current that it can conduct in the ON state
+- **Switching Speed** - Transition speed from on to off
+- **On State Voltage** - Voltage dropped across the device when it is conducting
+
+### Switching State
+- Their on and off states controlled by the power circuit
+- Diode turn-off is not instant, a sudden change in polarity will not immediately stop current
+- There is an **additional charge** $Q_\pi$ that needs to be supplied to complete turn-off. The diode conducts a **negative current for duration** $t_\pi$ .
+- Known as **Reverse Recovery**
+- Power diodes are classified based on their reverse recovery characteristics. General/Fast-Recovery/Shottky
+![Pasted image 20231002234146](Attachments/Pasted%20image%2020231002234146.png)
+### Diode Types
+- **General Purpose Diode**
+	- Relatively high $t_\pi$ (~25 microseconds)
+	- Good for low frequency applications up to ~1kHz
+	- Typical current ratings 1-1000A, voltage ratings 50V-5kV
+- **Fast Recovery Diodes**
+	- Relatively low $t_\pi$ (<5 microseconds)
+	- Good for power conversion systems
+	- Typical current ratings 1-1000A, voltage ratings 50V - 3kV
+- **Schottky Diodes**
+	- These have a metal/semiconductor junction rather than PN
+	- Very fast switching (low $t_\pi$ in the nanoseconds)
+	- Typical current ratings 1-300A voltage ratings ~100V
+
+### Applications
+- Freewheeling diodes/clamp diodes/snubber diodes
+- AC/DC conversion/rectification - Changing between alternating and direct current
+- Battery Charging
+
+

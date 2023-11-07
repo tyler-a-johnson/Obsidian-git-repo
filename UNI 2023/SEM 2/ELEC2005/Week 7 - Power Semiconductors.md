@@ -26,7 +26,6 @@ Relevant Links:
 ## Power Diodes
 Power diodes differ from signal diodes in their construction, instead of a simple PN junction, there are extra layers with different doping
 ![Pasted image 20231002232501](Attachments/Pasted%20image%2020231002232501.png)
-
 ### Parameters
 - Diodes have several key parameters, some of which are constant and some which vary with condition
 - **Voltage Rating** - Max instantaneous voltage the device can block in the off state
@@ -41,9 +40,7 @@ Power diodes differ from signal diodes in their construction, instead of a simpl
 - Known as **Reverse Recovery**
 - Power diodes are classified based on their reverse recovery characteristics. General/Fast-Recovery/Shottky
 ![Pasted image 20231002234146](Attachments/Pasted%20image%2020231002234146.png)
-
 ### Diode Types
-
 - **General Purpose Diode**
 	- Relatively high $t_\pi$ (~25 microseconds)
 	- Good for low frequency applications up to ~1kHz
@@ -56,10 +53,6 @@ Power diodes differ from signal diodes in their construction, instead of a simpl
 	- These have a metal/semiconductor junction rather than PN
 	- Very fast switching (low $t_\pi$ in the nanoseconds)
 	- Typical current ratings 1-300A voltage ratings ~100V
-
-
-
-
 
 ### Applications
 - Freewheeling diodes/clamp diodes/snubber diodes

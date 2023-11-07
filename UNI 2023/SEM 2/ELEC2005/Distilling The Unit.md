@@ -996,11 +996,11 @@ $$Z_{AN}=Z_{BN}=Z_{CN}=Z_{Y}$$
 | $\bar{E}_{bn}=Ee^{-j \frac{2}{3} \pi}$  | $\bar{V}_{bc}=\bar{E}_{bn}-\bar{E}_{cn} = \sqrt{3}\bar{E}_{bn}e^{j \frac{\pi}{6}}$     |
 | $\bar{E}_{cn} = Ee^{j \frac{2}{3} \pi}$ | $\bar{V}_{ca}= \bar{E}_{cn} - \bar{E}_{an} = \sqrt{3}\bar{E}_{cn}e^{j \frac{\pi}{6}}$                                                                                        |
 
-![Pasted image 20231006001213](Attachments/Pasted%20image%2020231006001213.png)
+
 
 
 ### Balanced Line to Neutral Voltages
-![Pasted image 20231006001339](Attachments/Pasted%20image%2020231006001339.png)
+
 **Balanced Conditions:**
 $$\bar{E}_{an}+\bar{E}_{bn}+\bar{E}_{cn}= 0$$
 
@@ -1026,7 +1026,6 @@ $$\bar{I}_{AB}= \frac{\bar{V}_{AB}}{Z\Delta}, \bar{I}_{BC}= \frac{\bar{V}_{BC}}{
 *KCL (B)*: $\bar{I}_{b} = \bar{I}_{BC}-\bar{I}_{AB}=\sqrt{3}\bar{I}_{BC}e^{-j \frac{\pi}{6}}$
 *KCL (C)*: $\bar{I}_{c}=\bar{I}_{CA}-\bar{I}_{BC}=\sqrt{3}\bar{I}_{CA}e^{-j \frac{\pi}{6}}$
 
-![Pasted image 20231006003821](Attachments/Pasted%20image%2020231006003821.png)
 
 
 ## $\Delta$ - Y Conversion for Balanced Loads

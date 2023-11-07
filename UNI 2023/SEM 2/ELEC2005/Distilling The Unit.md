@@ -906,6 +906,7 @@ Using RMS phasor approach, determine the time domain expression for the current 
 ![Pasted image 20231003182407](Attachments/Pasted%20image%2020231003182407.png)
 ![Pasted image 20231003182502](Attachments/Pasted%20image%2020231003182502.png)
 
-es and Parallel
+#### Series and Parallel
 ![Pasted image 20231003182836](Attachments/Pasted%20image%2020231003182836.png)
+
 

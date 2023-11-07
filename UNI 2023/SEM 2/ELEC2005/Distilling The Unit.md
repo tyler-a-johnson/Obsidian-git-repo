@@ -642,3 +642,39 @@ $$V_{BE} = V_{BE1}+V_{BE2}$$
 - Typically used for converters over a wide power range (1kW up to >1MW)
 - Used in motor drive circuits, UPS, induction cooktops
 
+## Thyristors
+- Four layer semiconductor devices with alternating doping region e.g. PNPN
+- Essentially a semi-controllable diode
+- Three electrodes, anode cathode and gate.
+- Various types of thyristors are available. Most common is the **Silicon Controlled Rectifier** (SCR)
+- Work as a **bistable switch**, **conducting when there is a current trigger at the gate**, *they keep conducting until a reverse bias is applied.*
+- *Only a short pulse is needed to turn diode on*
+![Pasted image 20231003001222](Attachments/Pasted%20image%2020231003001222.png)
+- SCR is the most common type of Thyristor
+- Like a modified diode, SCRs are unidirectional they only conduct current in one direction
+
+**Modes of Operations**
+- *Forward Blocking Mode* - Anode has +ve voltage and cathode has -ve, gate held at a zero potential, only a small leakage current flows from A to C.
+- *Forward Conduction Mode* - As above but potential between anode and cathode is now increased beyond breakdown, **OR** a positive pulse is sent to the gate  that is now in the ON state.
+- *Reverse Blocking Mode* - Anode has **-ve voltage and cathode has +ve behaves** like t**wo diodes in series**, only a small leakage current flows.
+SCRs are typically used in medium-high voltage control (power regulator light dimmer)
+
+### Gate Turn Off Thyristors (GTO)
+- Provides additional control
+- GTO the gate can be used to turn off the device (unlike with a regular SCR)
+- Requires a negative signal at the gate to turn-off
+- Has the drawback of long switch off times, use for low switching speed (up to 1kHz) - can use a [Snubber Circuit](../../../Distilled%20Notes/Snubber%20Circuit.md) to reduce turn off time.
+- Applications include high speed motor drives and high power inverters
+![Pasted image 20231003002231](Attachments/Pasted%20image%2020231003002231.png)
+
+
+### MOS Controlled Thyristors (MCT)
+- Essentially consisting of a thyristor with two MOSFETs built into the gate
+- These MOSFETs are used to turn the gate on and off
+- A negative pulse (relative to anode) turns the device on
+![Pasted image 20231003002546](Attachments/Pasted%20image%2020231003002546.png)
+![Pasted image 20231003002604](Attachments/Pasted%20image%2020231003002604.png)
+MCTs offer
+- Low forward conduction loss
+- Fast switching
+- High input impedance at gate

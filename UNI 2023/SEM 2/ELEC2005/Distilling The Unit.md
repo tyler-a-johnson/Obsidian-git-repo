@@ -1256,3 +1256,7 @@ A 200Ah battery
 - Min voltage depends on discharge rate
 - Higher discharge rates imply lower min voltage
 - Higher discharge rates imply lower discharge times
+
+### Typical charging profile
+Constant current - constant voltage charging profile (CC-CV)
+![](Attachments/Pasted%20image%2020231031152100.png)

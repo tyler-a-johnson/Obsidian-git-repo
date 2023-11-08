@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "94c37083c6cbb0fc",
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +206,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6edeee0de7f192da",
+  "active": "12db1fcb88c87871",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",

@@ -1112,3 +1112,17 @@ $$Z_{2}' = \frac{\bar{V}_{1}}{\bar{I}_{1}} = \frac{a_{t}\bar{V}_{2}}{\frac{\bar{
 
 $$\bar{V} = n \frac{d \bar{\Phi}}{dt} \rightarrow \frac{\bar{V}_{1}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}} = a_{t}$$
 $$n_{1} \bar{I}^{'}_{1} = n_{2} \bar{I_{2}} \rightarrow \frac{\bar{I}_{1}}{\bar{I}_{2}} = \frac{n_{2}}{n_{1}} = \frac{1}{a_{t}}$$
+*With core reluctance>0 and windings leak some flux outside core.*
+
+- Flux is leaked outside the core by each winding $\Phi_{l_{1}}$, ${\Phi_{l_{2}}}$
+- Leaked flux is modelled by leakage inductance $L_{l1}$, $L_{l_{2}}$
+- R1 and R2 represent winding's copper losses
+
+![](Attachments/Pasted%20image%2020231029143738.png)
+
+
+*Core reluctance > 0, windings leak flux, and core dissipates active power (Hysteresis)*
+
+- Due to Hysteresis of the B-H curve, energy is dissipated inside the core to create magnetizing flux
+- Energy loss in the magnetization process is represented by an additional shunt resistance $R_{M}$ in parallel with $L_{m}$
+![](Attachments/Pasted%20image%2020231029144118.png)

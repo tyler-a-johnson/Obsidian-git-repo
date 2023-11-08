@@ -463,7 +463,7 @@ Power diodes differ from signal diodes in their construction, instead of a simpl
 - There is an **additional charge** $Q_\pi$ that needs to be supplied to complete turn-off. The diode conducts a **negative current for duration** $t_\pi$ .
 - Known as **Reverse Recovery**
 - Power diodes are classified based on their reverse recovery characteristics. General/Fast-Recovery/Shottky
-![Pasted image 20231002234146](Attachments/Pasted%20image%2020231002234146.png)
+
 ### Diode Types
 - **General Purpose Diode**
 	- Relatively high $t_\pi$ (~25 microseconds)

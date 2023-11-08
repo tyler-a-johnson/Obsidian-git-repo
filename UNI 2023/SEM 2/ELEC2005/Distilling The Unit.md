@@ -1049,4 +1049,9 @@ $v(t) = \left(\frac{n^{2}}{\mathscr{R}_{c}+\mathscr{R}_{g}}\right) \frac{\Delta 
 
 
 
+
 # Transformer
+![Pasted image 20231020004042](Attachments/Pasted%20image%2020231020004042.png)
+
+**Ideal Transformer** $\mathscr{R} = 0$
+

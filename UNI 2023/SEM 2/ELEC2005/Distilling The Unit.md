@@ -886,7 +886,6 @@ $$\bar{I}_{a}= \sqrt{3}_{AB}e^{-j \frac{\pi}{6}}= \sqrt{3} \frac{\bar{V}_{AB}}{Z
 $\bar{I}_{a}$ is the same in both circuits if: $Z_{Y}=\frac{Z \Delta}{3}$
 
 ## Power in Balanced $3 \phi$ circuits
-
 ### Instantaneous Power
 Instantaneous power for phase a:
 ![|600](Attachments/Pasted%20image%2020231006005034.png)
@@ -894,14 +893,10 @@ $$v_{an}(t) = \sqrt{2}V_{LN}\cos(\omega t + \delta)$$
 $$i_{a}(t) = \sqrt{2}I\cos(\omega t + \beta)$$
 $$p_{a}(t) = v_{an}(t)i_{a}(t)$$
 $$=V_{LN}I\cos(\delta-\beta)+V_{LN}I\cos(2 \omega t + \delta + \beta)$$
-
 In the same way, power for **phase b and c can be calculated**
-
 The instantaneous $3\phi$ power is:
 $$p_{3 \phi}(t) = p_{a}(t) + p_{b}(t)+p_{c}(t) = 3V_{LN}I \cos(\delta-\beta)=\sqrt{3}V_{LL}I\cos(\delta-\beta)$$
-
 $P_{3 \phi} = constant$
-
 $3 \phi$ is instant. **POWER IS NOT A FUNCTION OF TIME**
 
 ### Complex Power

@@ -1217,3 +1217,12 @@ $$\Delta V = V - V_{SH} = V - V (\frac{n-1}{n}) + (R_{p} + R_{s})I = V/n + (R_{p
 - We want to operate the array at the max power point (MPP)
 - The maximum power is extracted by the PV module as long as it operates at $V_{mpp}$
 $$\eta = \frac{V_{mpp}*I_{mpp}[W]}{1000\left[ \frac{W}{m^{2}} \right] * \text{Area}[m^{2}]}$$
+
+
+# Batteries
+- **Energy Density:** Energy stored per unit of mass volume, in $Wh/kg$ or $Wh/m^3$
+- **Power Density:** Max rate of energy discharge per unit mass or volume in $W/kg$ or $W/m^3$
+- **Capacity:** Amount of charge deliverable by a battery in a discharge cycle in $Ah$
+- **Life:** number of discharge/recharge cycles at the rated capacity
+
+## Energy Density and Power Density

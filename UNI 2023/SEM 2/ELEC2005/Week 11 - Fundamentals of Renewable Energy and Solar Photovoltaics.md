@@ -176,7 +176,7 @@ $V-V_{SH} = \Delta V$: PV Module voltage reduction due to shading on one cell
 
 - n-1 cells in full sun: Generator.
 
-$V_{n-1} = V (\frac{n-1}{n})
+$V_{n-1} = V (\frac{n-1}{n})$
 
 - n-th shaded cell: $R_{p} + R_{s}$ load resistor (Rp>>Rs)
   

@@ -1178,3 +1178,30 @@ $V = V_{d}-R_{s}I$
 $V_{\text{module}}=n(V_{d}-R_{s}I)$
 $$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V+R_{s}I}{R_{p}}$$
 
+
+### Impact of Shading (using non-ideal PV cell circuit)
+![](Attachments/Pasted%20image%2020231026210422.png)
+**Full sun**
+- All cells produce I
+- PV module voltage V
+
+**One cell is shaded**
+- Fully shaded cell produces no current $I_{sc} = 0$
+- Shaded cell diode is reverse biased
+- PV module voltage V < Vsh
+
+$V-V_{SH} = \Delta V$: PV Module voltage reduction due to shading on one cell
+
+- n-1 cells in full sun: Generator.
+
+$V_{n-1} = V (\frac{n-1}{n})$
+
+- n-th shaded cell: $R_{p} + R_{s}$ load resistor (Rp>>Rs)
+  
+-  Shaded cell absorbs power $R_{p}I^{2}$
+
+- Shaded cells heat up because of power absorption
+
+$$\Delta V = V - V_{SH} = V - V (\frac{n-1}{n}) + (R_{p} + R_{s})I = V/n + (R_{p} + R_{s}) = I$$
+
+#### Bypass Diodes

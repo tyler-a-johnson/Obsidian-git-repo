@@ -648,8 +648,6 @@ $$p(t) = VI_{R} \{1+\cos[2(\omega t + \delta)]\} + VI_{X}\sin[2(\omega t + \delt
 
 $$\cos (\phi)\text{ Is the power factor}$$
 ### Example: Purely Resistive Load
-
-![Pasted image 20231003153000](Attachments/Pasted%20image%2020231003153000.png)
 ![Pasted image 20231003153027](Attachments/Pasted%20image%2020231003153027.png)
 $$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
 $$i(t) = \frac{v(t)}{R}$$
@@ -658,16 +656,12 @@ $$P = \frac{V^2}{R}$$
 
 
 ### Example: Purely Inductive Load
-![Pasted image 20231003153328](Attachments/Pasted%20image%2020231003153328.png)
 ![Pasted image 20231003153337](Attachments/Pasted%20image%2020231003153337.png)
 $$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
 $$v(t) = L \frac{di(t)}{dt}$$
 $$i(t) = \frac{1}{L}\int^{t}_{0}v(t) dt$$
-
 $$i(t) = \frac{\sqrt{2}V}{\omega L}\cos(\omega t + \delta - \frac{\pi}{2})$$
 $$\phi = \frac{\pi}{2}$$
-
-
 $$P = 0$$
 $$Q = \frac{V^{2}}{\omega L}\sin(\frac{\pi}{2})=\frac{V^{2}}{\omega L}$$
 

@@ -19,8 +19,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ebe86c631840670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4f96c2a0734dd81",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf"
               }
             }
           },
@@ -206,10 +230,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "12db1fcb88c87871",
+  "active": "e4f96c2a0734dd81",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
+    "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
@@ -231,9 +258,7 @@
     "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 5 Lecture MOSFETs Part 1_2023_UPDATED.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
-    "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
     "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 3 Lecture BJTs-part-1_2023_UPDATED.pdf",
     "Distilled Notes/Greek Letters and Symbols.md",
     "Kanban Schedule.md",
@@ -241,7 +266,6 @@
     "UNI 2023/SEM 2/ELEC2005/State Of Charge.pptx",
     "UNI 2023/SEM 2/ELEC2005/~$State Of Charge.pptx",
     "UNI 2023/SEM 2/ENGG3000/~$anning and managing a project to completion.docx",
-    "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",
     "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
     "UNI 2023/SEM 2/Weekly Work.md",
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",

@@ -667,10 +667,13 @@ $$Q = \frac{V^{2}}{\omega L}\sin(\frac{\pi}{2})=\frac{V^{2}}{\omega L}$$
 
 
 ### Example: Purely Capacitive Load
-![Pasted image 20231003153920](Attachments/Pasted%20image%2020231003153920.png)
 ![200](Attachments/Pasted%20image%2020231008201052.png)
 $$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
 $$i(t) = C \frac{dv(t)}{dt}$$
+$$i(t) = \sqrt{2} \omega CV \cos(\omega t + \delta + \frac{\pi}{2})$$
+Where $\phi = -\frac{\pi}{2}$
+
+$$Q = \omega CV^{2}\sin(- \frac{\pi}{2})=-\omega CV^{2}$$
 
 ```ad-note
 title: Sine and Cosine
@@ -679,14 +682,6 @@ $$\sin(\omega t) = \cos(\omega t - \frac{\pi}{2})$$
 $$\cos(\omega t) = \sin(\omega t + \frac{\pi}{2})$$
 
 ```
-
-
-
-$$i(t) = \sqrt{2} \omega CV \cos(\omega t + \delta + \frac{\pi}{2})$$
-Where $\phi = -\frac{\pi}{2}$
-
-$$Q = \omega CV^{2}\sin(- \frac{\pi}{2})=-\omega CV^{2}$$
-
 
 ## Phasors
 

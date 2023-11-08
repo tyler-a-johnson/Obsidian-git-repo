@@ -900,9 +900,7 @@ $P_{3 \phi} = constant$
 $3 \phi$ is instant. **POWER IS NOT A FUNCTION OF TIME**
 
 ### Complex Power
-
 #### Complex power in balanced $3 \phi$ Connected Circuits
-
 **Complex Power for Phase A:**
 $$\bar{V}_{an}=V_{LN}e^{j \delta},\bar{I}_{a}=Ie^{j \beta}$$
 $$\bar{S}_{a}=\bar{V}_{an}\bar{I}_{a}*=V_{LN}e^{j \delta}Ie^{-j \beta}=V_{LN}Ie^{j(\delta-\beta)}$$

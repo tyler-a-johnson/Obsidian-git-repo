@@ -108,7 +108,8 @@ $$i_{d}(t) = I_{d}\cos(2\pi ft - 90\degree)$$
 $$i_{d} = \frac{I_{D}}{nV_{T}} v_{d}$$
 $$i_{d} = \frac{v_{d}}{r_{d}}$$
 $$r_{d} = \frac{nV_{T}}{I_{D}}$$
-v_{d} = r_{d} i_{d}$$
+$$v_{d} = r_{d} i_{d}$$
+
 ## Zener Diode
 Zener diodes are designed to work at the reverse breakdown region. These diodes use this as expected behaviour.
 ![](Attachments/Pasted%20image%2020231102191003.png)

@@ -200,8 +200,6 @@ Often its posed $i_{1}-i_{M}=i_{1}'$
 ```
 
 ## Transformers in AC Circuits
-
-### Ideal Transformers
 ![](Attachments/Pasted%20image%2020231026173847.png)
 $$\bar{V}_{1} = n_{1} \frac{d \bar{\Phi}}{dt} = j \omega n_{1} \bar{\Phi}$$
 $$\bar{V}_{2}=n_{2} \frac{d \bar{\Phi}}{dt} = j \omega n_{2} \bar{\Phi}$$
@@ -271,6 +269,5 @@ From Glover (2017), Power System Analysis & Design
 
 ## Done Examples
 ![](Attachments/Pasted%20image%2020231029144421.png)
-
 ![](Attachments/Pasted%20image%2020231029144435.png)
 

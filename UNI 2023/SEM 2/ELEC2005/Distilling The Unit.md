@@ -1149,12 +1149,15 @@ $q = 1.602 * 10 ^{-19}C$ : Electron Charge
 $k= 1.38*10^{-23}$ J/K: Boltzmann Constant
 $V_{T} = \frac{kT}{q}$ V: Thermal Voltage
 $T$: Temperature in **K**
-
-
 at  25C
 $T = 273.15 +25 = 298.15K$
 $I = I_{sc} - I_{0}(e^{38.9V}-1)$
 
-
 For $I = 0, V=V_{oc}$
 $$V_{oc} = \frac{kT}{q}\ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$$
+At 25C for $I=0$
+$0=I_{sc}-I_{0}(e^{38.9V_{oc}}-1)$
+$V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
+
+- Isc varies proportionally with irradiation
+- Voc varies logarithmically with irradiation (does not change much)

@@ -450,7 +450,6 @@ $v > V_{t}$              $i = \frac{1}{2} \mu_{n} C_{o x} \frac{W}{L}(v-V_{t})^2
 # Power Semiconductors
 ## Power Diodes
 Power diodes differ from signal diodes in their construction, instead of a simple PN junction, there are extra layers with different doping
-![Pasted image 20231002232501](Attachments/Pasted%20image%2020231002232501.png)
 ### Parameters
 - Diodes have several key parameters, some of which are constant and some which vary with condition
 - **Voltage Rating** - Max instantaneous voltage the device can block in the off state

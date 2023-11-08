@@ -1129,3 +1129,14 @@ $$n_{1} \bar{I}^{'}_{1} = n_{2} \bar{I_{2}} \rightarrow \frac{\bar{I}_{1}}{\bar{
 
 
 # Renewable and Solar
+
+### Load Convention
+**Without Light**
+$$i = I_{0}(e^{x}-1)$$
+note that $x \propto v$
+
+**When light is shone on the "diode"**
+$$i = I_{0}(e^{x}-1) - \text{const}$$
+
+$\text{const} = I_{sc}$
+

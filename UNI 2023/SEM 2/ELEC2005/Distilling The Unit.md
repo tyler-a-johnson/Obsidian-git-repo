@@ -322,7 +322,7 @@ $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 
 
 ## P-Channel MOSFET
-![Pasted image 20231002214522](Attachments/Pasted%20image%2020231002214522.png)
+
 ![Pasted image 20231002214612](Attachments/Pasted%20image%2020231002214612.png)
 
 
@@ -335,9 +335,7 @@ $$V_{DS}<V_{OV}$$
 
 **Saturation mode when**
 $$V_{DS}\geq V_{OV}$$
-
 **MOSFETS** amplify in Saturation Mode
-
 **BJT** Amplify in Active Mode
 
 ## Voltage Gain

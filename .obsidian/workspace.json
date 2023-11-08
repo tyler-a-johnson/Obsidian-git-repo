@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1086.5
+    "width": 822.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +220,7 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "6edeee0de7f192da",
+  "active": "12db1fcb88c87871",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/ELEC2005/~$stilling The Unit.docx",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.docx",

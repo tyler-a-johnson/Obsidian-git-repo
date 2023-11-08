@@ -274,7 +274,6 @@ $$g_{m}= \frac{I_{C}}{V_{T}}$$
 
 ## Small Signal AC
 ![Pasted image 20231002175400](Attachments/Pasted%20image%2020231002175400.png)
-![Pasted image 20231002175413](Attachments/Pasted%20image%2020231002175413.png)
 $$i_{c}= g_{m}v_{be}$$
 $$i_{b}= \frac{i_{c}}{\beta}=\frac{g_m}{\beta}v_{be}$$
 $$r_{\pi} = \frac{v_{be}}{i_b}$$

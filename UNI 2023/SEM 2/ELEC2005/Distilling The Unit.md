@@ -212,7 +212,6 @@ This gives us our operating point that allows that irrespective of AC swing the 
 In the active region we can use a constant voltage (base side) and constant current (collector side) approximation
 ![](Attachments/Pasted%20image%2020231106183049.png)
 ![](Attachments/Pasted%20image%2020231106183101.png)
-
 ![](Attachments/Pasted%20image%2020231106185802.png)
 ![](Attachments/Pasted%20image%2020231106190907.png)
 

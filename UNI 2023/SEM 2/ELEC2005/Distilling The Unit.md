@@ -4,7 +4,6 @@ output:
     pandoc_args: [
       "-V", "classoption=twocolumn"
     ]
-```
 ---
 
 # Prereq and Basics

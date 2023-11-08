@@ -10,6 +10,6 @@
   "pandoc": null,
   "pdflatex": null,
   "outputFolder": null,
-  "extraArguments": "",
-  "exportFrom": "md"
+  "extraArguments": "output:\n  pdf_document:\nclassoption: twocolumn",
+  "exportFrom": "html"
 }

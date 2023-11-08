@@ -988,3 +988,8 @@ $$Q_{3\phi}=Im[\bar{S}_{3\phi}]=3V_{LN}I\sin (\delta-\beta) = 3V_{LL}I\sin(\delt
 
 **Apparent Power:**
 $$|\bar{S}_{3\phi}| = S_{3\phi}= \sqrt{P_{3\phi}^{2}+P_{3\phi}^{2}}=3V_{LN}I=\sqrt{3}V_{LL}I$$
+
+
+# Magnetic Circuits
+
+# Transformer

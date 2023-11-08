@@ -1239,3 +1239,5 @@ $\frac{P_{max}}{m} = 32 \frac{W}{kg}$ **Specific power (power density)**
 
 ![](Attachments/Pasted%20image%2020231031144307.png)
 
+
+## Equivalent 

@@ -1084,3 +1084,10 @@ $i_{M}$ grows at constant rate, i.e. the primary sees a short-circuit
 Secondary Disconnected $(i_{2}=0)$
 
 ## Transformers in AC Circuits
+
+**Ideal Transformer**
+$$\bar{V}_{1} = n_{1} \frac{d \bar{\Phi}}{dt} = j \omega n_{1} \bar{\Phi}$$
+$$\bar{V}_{2}=n_{2} \frac{d \bar{\Phi}}{dt} = j \omega n_{2} \bar{\Phi}$$
+
+$$\frac{\bar{V}_{1}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}} = a_{t}$$
+$a_{t}$ is the turns ratio

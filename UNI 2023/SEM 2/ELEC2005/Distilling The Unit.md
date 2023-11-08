@@ -509,19 +509,15 @@ $$V_{BE} = V_{BE1}+V_{BE2}$$
 
 ## Power MOSFETs
 - Power MOSFETs are the most common power semiconductor
-- Power MOSFETs are designed to handle higher power levels
 - High switching speed 
 - Good low voltage efficiency
 - Often low gain
 - Commonly used for "low voltage" switching (<200V)
-### Structure
-![Pasted image 20231002235746](Attachments/Pasted%20image%2020231002235746.png)
 
 - Made using silicon and fabricated as a vertical diffused MOS structure
 - Source is above the drain, current flow is primarily vertical
 - Vertical structure means that the *voltage rating depends on the doping and thickness of the N+ Layers* whilst the **current depends on the channel width.**
 - This design allows for **higher currents** and *power ratings* than the traditional lateral MOSFET.
-
 
 - Typically up to 200V
 - Current to ~100A

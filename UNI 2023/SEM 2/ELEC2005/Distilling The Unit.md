@@ -1092,3 +1092,23 @@ $$\bar{V}_{2}=n_{2} \frac{d \bar{\Phi}}{dt} = j \omega n_{2} \bar{\Phi}$$
 $$\frac{\bar{V}_{1}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}} = a_{t}$$
 $a_{t}$ is the turns ratio
 
+**- Complex power entering winding 1 equals the complex power exiting winding 2.**
+$\bar{S}_{1} = \bar{S}_{2}$
+
+$$\bar{V}_{1}\bar{I}_{1}^* = \bar{V}_{2}\bar{I}_{2}^*$$
+$$\bar{S}_{1} = \bar{V}_{1}\bar{I}_{1} = a_{t} \bar{V}_{2} \frac{\bar{I}_{2}}{a_{t}}=\bar{S}_{2}$$
+
+$$V = n \frac{d \Phi}{dt}\rightarrow \frac{\bar{V_{1}}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}}=a_{t}$$
+$$n_{1}\bar{I}_{1}=n_{2}\bar{I}_{2}\rightarrow \frac{\bar{I}_{1}}{\bar{I}_{2}} = \frac{n_{2}}{n_{1}} = \frac{1}{a_{t}}$$
+
+*Impedance $Z_{2}=\frac{\bar{V}_{2}}{\bar{I}_{2}}$ seen from winding 1
+$$Z_{2}' = \frac{\bar{V}_{1}}{\bar{I}_{1}} = \frac{a_{t}\bar{V}_{2}}{\frac{\bar{I}_{2}}{a_{_{t}}}} = a_{t}^{2}Z_{2}$$
+
+
+## Practical Transformers
+*Magnetic core reluctance $\mathscr{R}>0$*
+
+![](Attachments/Pasted%20image%2020231029143042.png)
+
+$$\bar{V} = n \frac{d \bar{\Phi}}{dt} \rightarrow \frac{\bar{V}_{1}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}} = a_{t}$$
+$$n_{1} \bar{I}^{'}_{1} = n_{2} \bar{I_{2}} \rightarrow \frac{\bar{I}_{1}}{\bar{I}_{2}} = \frac{n_{2}}{n_{1}} = \frac{1}{a_{t}}$$

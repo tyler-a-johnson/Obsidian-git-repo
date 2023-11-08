@@ -1011,4 +1011,19 @@ $$v_{turn}(t) = \frac{\Delta \Phi}{\Delta t}$$
 **N Turns**
 $$v(t) = n \frac{\Delta \Phi}{\Delta t}$$
 
+We know that $v = L \frac{\Delta i}{\Delta t}$ where L is constant.
+
+$$\int v \text{ } dt = \int L \frac{\Delta i}{\Delta t}dt \rightarrow \int v \text{ }dt = Li$$
+$$v = n \frac{\Delta \Phi}{\Delta t} \rightarrow \int v \text{ }dt = n \Phi = \lambda$$
+
+```ad-note
+Inductance Definition:
+
+$$\lambda = Li$$
+```
+
+
+
+
+
 # Transformer

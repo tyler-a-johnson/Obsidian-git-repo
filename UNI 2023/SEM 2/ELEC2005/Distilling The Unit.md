@@ -1,10 +1,3 @@
----
-output: 
-  pdf_document:
-    pandoc_args: [
-      "-V", "classoption=twocolumn"
-    ]
----
 
 # Prereq and Basics
 

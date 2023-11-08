@@ -16,7 +16,7 @@
                 "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           },
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 1023.5
   },
   "left-ribbon": {
     "hiddenItems": {

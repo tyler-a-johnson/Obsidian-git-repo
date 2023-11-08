@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document:
+classoption: twocolumn
+---
+
 
 # Prereq and Basics
 

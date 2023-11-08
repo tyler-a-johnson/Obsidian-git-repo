@@ -197,7 +197,6 @@ Secondary Disconnected $(i_{2}=0)$
 $n_{1} i_{1} + n_{2} i_{2} = n_{1}i_{M} \rightarrow n_{1}(i_{1}-i_{M})+n_{2}i_{2}=0$
 ![](Attachments/Pasted%20image%2020231026173532.png)
 Often its posed $i_{1}-i_{M}=i_{1}'$
-
 ```
 
 ## Transformers in AC Circuits

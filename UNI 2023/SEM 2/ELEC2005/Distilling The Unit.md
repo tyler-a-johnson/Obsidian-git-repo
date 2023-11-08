@@ -1065,3 +1065,35 @@ $$
 $$\frac{\Delta \Phi}{\Delta t}=\frac{v_{1}}{n_{1}}=\frac{v_{2}}{n_{2}}\rightarrow \frac{v_{1}}{v_{2}}=\frac{n_{1}}{n_{2}}$$
 
 **Actual Transformer $\mathscr{R}>0$**
+$$\mathscr{R}\Phi=n_{1}i_{1}+n_{2}i_{2}$$
+$$\Phi= \frac{n_{1}i_{1}+n_{2}i_{2}}{\mathscr{R}}$$
+
+![](Attachments/Pasted%20image%2020231026172014.png)
+
+**Faraday's Law**
+$$v_{1}=n_{1} \frac{d \Phi}{d t} = \frac{n_{1}^{2}}{\mathscr{R}} \frac{d}{d t} \left( i_{1} + \frac{n_{2}}{n_{1}} i_{2}\right)$$
+$$v_{1}=\frac{n_{1}^{2}}{\mathscr{R}} \frac{d}{dt} \left( i_{1} + \frac{n_{2}}{n_{1}}i_{2} \right)$$
+
+For DC input Voltage $v_{1}=V_{dc}=$ constant
+
+$\frac{d}{dt}\left( i_{1}+ \frac{n_{2}}{n_{1}}i_{2} \right)$ = Constant
+
+$i_{M}$ grows at constant rate, i.e. the primary sees a short-circuit
+
+Secondary Disconnected $(i_{2}=0)$
+
+![](Attachments/Pasted%20image%2020231026172812.png)
+
+```ad-summary
+- Transformers change voltage/current level between two circuits
+- Ideal transformer ($\mathscr{R} = 0$): $n_{1}+i_{1}+n_{2}i_{2} = 0$
+- Actual transformer ($\mathscr{R} > 0$): $n_{1}i_{1}+n_{2}i_{2} = \mathscr{R} \Phi \rightarrow \mathscr{R} \Phi = n_{1}i_{M}$
+	- $n_{1}i_{M}$ is the magneto motive force establishing flux $\Phi$ in the core
+	- $n_{1}i_{M}$ is the amount of by which $n_{1}i_{1}+n_{2}i_{2} \neq 0$
+- Alternative way to represent actual transformer, based on:
+
+$n_{1} i_{1} + n_{2} i_{2} = n_{1}i_{M} \rightarrow n_{1}(i_{1}-i_{M})+n_{2}i_{2}=0$
+![](Attachments/Pasted%20image%2020231026173532.png)
+Often its posed $i_{1}-i_{M}=i_{1}'$
+```
+

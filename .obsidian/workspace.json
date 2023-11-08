@@ -6,7 +6,6 @@
       {
         "id": "808a1cedbf3fea1f",
         "type": "tabs",
-        "dimension": 56.75249605885444,
         "children": [
           {
             "id": "6edeee0de7f192da",
@@ -18,36 +17,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4c5e4fb7b38df660",
-        "type": "tabs",
-        "dimension": 43.24750394114556,
-        "children": [
-          {
-            "id": "77fb12ab6e99e3d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21f9caf95fdb0166",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Attachments/elec2005 wk 12.pdf"
               }
             }
           }

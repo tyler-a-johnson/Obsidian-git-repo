@@ -1146,3 +1146,7 @@ $$n_{1} \bar{I}^{'}_{1} = n_{2} \bar{I_{2}} \rightarrow \frac{\bar{I}_{1}}{\bar{
 - Due to Hysteresis of the B-H curve, energy is dissipated inside the core to create magnetizing flux
 - Energy loss in the magnetization process is represented by an additional shunt resistance $R_{M}$ in parallel with $L_{m}$
 ![](Attachments/Pasted%20image%2020231029144118.png)
+
+
+
+# Fundamentals of Renewable Energy and Solar Photovoltaic

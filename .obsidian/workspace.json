@@ -29,12 +29,12 @@
         "dimension": 51.94369973190348,
         "children": [
           {
-            "id": "5215886843298cd7",
+            "id": "ecdbe9470fa9f724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -230,10 +230,10 @@
   },
   "active": "7c6a17ac26e9434b",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
-    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
-    "Distilled Notes/Faraday's Law.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
+    "Distilled Notes/Faraday's Law.md",
     "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
     "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",

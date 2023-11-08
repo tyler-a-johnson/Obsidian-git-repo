@@ -29,6 +29,6 @@
   "media-extended",
   "obsidian-link-converter",
   "obsidian-git",
-  "obsidian-enhancing-export",
-  "obsidian-ocr"
+  "obsidian-ocr",
+  "obsidian-pandoc"
 ]

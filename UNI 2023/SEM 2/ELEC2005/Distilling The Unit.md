@@ -853,23 +853,15 @@ $$Z_{AN}=Z_{BN}=Z_{CN}=Z_{Y}$$
 | $\bar{E}_{bn}=Ee^{-j \frac{2}{3} \pi}$  | $\bar{V}_{bc}=\bar{E}_{bn}-\bar{E}_{cn} = \sqrt{3}\bar{E}_{bn}e^{j \frac{\pi}{6}}$     |
 | $\bar{E}_{cn} = Ee^{j \frac{2}{3} \pi}$ | $\bar{V}_{ca}= \bar{E}_{cn} - \bar{E}_{an} = \sqrt{3}\bar{E}_{cn}e^{j \frac{\pi}{6}}$                                                                                        |
 
-
-
-
 ### Balanced Line to Neutral Voltages
-
 **Balanced Conditions:**
 $$\bar{E}_{an}+\bar{E}_{bn}+\bar{E}_{cn}= 0$$
-
 **KVL:**
 $$\bar{V}_{ab}+\bar{V}_{bc}+ \bar{V}_{ca}= 0$$
 Sum of line to line voltage is **always zero**.
 
 ### Balanced Line Currents
-![Pasted image 20231006001657](Attachments/Pasted%20image%2020231006001657.png)
-
 $$\bar{I}_{a} = \frac{\bar{E}_{an}}{Z_{Y}}, \bar{I}_{b}= \frac{\bar{E}_{bn}}{Z_{Y}},\bar{I}_{c}=\frac{\bar{E}_{cn}}{Z_{Y}}$$
-
 **KCL** node N : $\bar{I}_{a}+\bar{I}_{b}+\bar{I}_{c}-\bar{I}_{N}=0$
 **Balanced conditions**: $\bar{I}_{N}=0$
 

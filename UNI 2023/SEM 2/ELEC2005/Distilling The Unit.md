@@ -97,6 +97,7 @@ $I_{DQ} \approx 1.3mA$
 - Q stands for **quiescent** i.e. quiet or no-signal point
 ![Pasted image 20230801163315](Attachments/Pasted%20image%2020230801163315.png)
 *If the Q point is known (using the nonlinear diode characteristic), the linear AC analysis method can be applied to find the response to small **(AC) signals.**
+
 ![Pasted image 20230801163907](Attachments/Pasted%20image%2020230801163907.png)
 $$i_{D}(t) = I_{DQ}+i_{d}(t)$$
 $$i_{d}(t) = I_{d}\cos(2\pi ft - 90\degree)$$
@@ -104,7 +105,7 @@ $$i_{d}(t) = I_{d}\cos(2\pi ft - 90\degree)$$
 
 ![Pasted image 20230805111017](Attachments/Pasted%20image%2020230805111017.png)
 
-
+$$i_{d} = \frac{I_{D}}{nB}}$$
 
 
 ## Zener Diode

@@ -931,7 +931,6 @@ $\mu_r$ = Relative Permeability
 
 ## Coil Around a Core
 Induced by a change in flux   
-![Pasted image 20231019222901](app://70d1fe8a7ad209c44d732274e681729e5a5b/C:/Users/dropb/Documents/Repo/ObsidianRepo/Distilled%20Notes/Attachments/Pasted%20image%2020231019222901.png?1697714941379)
 
 **One turn**
 $$v_{turn}(t) = \frac{\Delta \Phi}{\Delta t}$$

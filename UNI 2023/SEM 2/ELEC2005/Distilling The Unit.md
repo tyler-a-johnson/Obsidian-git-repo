@@ -1032,5 +1032,21 @@ Magnetic energt density, $J/m^3$
 $$w = \frac{1}{2} \frac{B^{2}}{\mu}$$
 
 
+![Pasted image 20231020002442](Attachments/Pasted%20image%2020231020002442.png)
+
+$$\mathscr{R}_{c}= \frac{\mathscr{l}_{m}}{\mu A_{c}}$$
+$$\mathscr{R}_{g}= \frac{\mathscr{l}_{g}}{\mu_{0}A_{c}}$$
+
+$$\sum\limits_{loop}\mathscr{R} \Phi = \sum\limits_{loop}ni$$
+
+The inductance can be determined using magnetic circuit relations:
+
+$$(\mathscr{R}_{c}+\mathscr{R}_{g})\Phi=n*i(t)$$
+
+$v(t)= n \frac{\Delta \Phi(t)}{\Delta t}$     $v(t) = L \frac{\Delta i(t)}{\Delta t}$    
+
+$v(t) = \left(\frac{n^{2}}{\mathscr{R}_{c}+\mathscr{R}_{g}}\right) \frac{\Delta i(t)}{\Delta t}$
+
+
 
 # Transformer

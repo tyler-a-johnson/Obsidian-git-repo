@@ -1205,3 +1205,14 @@ $V_{n-1} = V (\frac{n-1}{n})$
 $$\Delta V = V - V_{SH} = V - V (\frac{n-1}{n}) + (R_{p} + R_{s})I = V/n + (R_{p} + R_{s}) = I$$
 
 #### Bypass Diodes
+*Shading effect mitigation:* 
+![](Attachments/Pasted%20image%2020231026210923.png)
+**Without Bypass Diode:**
+- Current flows through $R_{p}+R_{s}$
+- Shaded cell causes large voltage reduction
+- Shaded cell voltage $(R_{s}+R_{p})I$ is large
+
+**WITH Bypass Diode:**
+- Current flow is diverted through BP -diode
+- Shaded cell causes small voltage reduction
+- Shaded cell voltage is small (typically 0.5 - 1V)

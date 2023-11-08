@@ -830,9 +830,7 @@ $$C = \frac{|Q_{C}|}{\omega V^{2}}= \frac{P(\tan \theta_{1} - \tan \theta_{2})}{
 
 ### Capacitive Load Example
 If the load is capacitive, and we want to increase power factor, then a shunt inductor can be used.
-
 $$L = \frac{V^{2}}{\omega Q_{L}} = \frac{V^{2}}{\omega(Q_{1}-Q_{2})}$$
-
 ![Pasted image 20231003192249](Attachments/Pasted%20image%2020231003192249.png)
 
 # 3 Phase AC Power

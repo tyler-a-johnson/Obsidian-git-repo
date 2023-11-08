@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md"
               }
             }
           },
@@ -226,8 +226,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "7c6a17ac26e9434b",
+  "active": "5215886843298cd7",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "Distilled Notes/Faraday's Law.md",
     "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
@@ -255,7 +257,6 @@
     "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation.zip",
     "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation/slprj/_sfprj/armMajorUse/_self/sfun/info/binfo.mat",
     "conflict-files-obsidian-git.md",
-    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "Distilled Notes/Equivalent Circuits.md",
     "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
     "Kanban Schedule.md",
@@ -273,7 +274,6 @@
     "UNI 2022/MTRN2060/Digital.md",
     "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
     "README.md",
-    "UNI 2023/SEM 2/MTRN3026/Self Sucky/References.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

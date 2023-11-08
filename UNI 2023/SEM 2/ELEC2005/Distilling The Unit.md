@@ -991,5 +991,24 @@ $$|\bar{S}_{3\phi}| = S_{3\phi}= \sqrt{P_{3\phi}^{2}+P_{3\phi}^{2}}=3V_{LN}I=\sq
 
 
 # Magnetic Circuits
+Flux density (magnetic induction) or B-Field
+
+$$B = \mu H = \mu_{0}\mu_{r}H$$
+**Where:**
+H = Field intensity
+$\mu$ = Magnetic Permeability (material)
+$\mu_{0}$ = Air Permeability
+$\mu_r$ = Relative Permeability
+
+
+## Coil Around a Core
+Induced by a change in flux   
+![Pasted image 20231019222901](app://70d1fe8a7ad209c44d732274e681729e5a5b/C:/Users/dropb/Documents/Repo/ObsidianRepo/Distilled%20Notes/Attachments/Pasted%20image%2020231019222901.png?1697714941379)
+
+**One turn**
+$$v_{turn}(t) = \frac{\Delta \Phi}{\Delta t}$$
+
+**N Turns**
+$$v(t) = n \frac{\Delta \Phi}{\Delta t}$$
 
 # Transformer

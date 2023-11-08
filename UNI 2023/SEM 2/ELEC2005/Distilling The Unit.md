@@ -228,13 +228,14 @@ At a **constant current** the voltage decreases by approximately **2mV** for eve
 
 ```
 
+Thermal voltage at room temp is 25mV
+
 ## BJT Amplifier and DC Biasing
 We can use $V_{BE}$ to **Bias the transistor into active mode**
 ![Pasted image 20231002171854](Attachments/Pasted%20image%2020231002171854.png)
 $$I_{C}=I_{S}e^{V_{BE}/V_T}$$
 $$V_{CE}=V_{CC}-R_{C}I_{S}e^{V_{BE}/V_T}$$
 
-![Pasted image 20231002172050](Attachments/Pasted%20image%2020231002172050.png)
 
 **Small Signal Voltage Gain:**
 ![Pasted image 20231002172150](Attachments/Pasted%20image%2020231002172150.png)

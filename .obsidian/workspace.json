@@ -16,7 +16,7 @@
                 "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -216,7 +216,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-ocr:Search OCR": false
     }
   },
   "active": "6edeee0de7f192da",

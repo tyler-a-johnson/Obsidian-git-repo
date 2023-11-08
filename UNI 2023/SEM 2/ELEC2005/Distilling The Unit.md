@@ -1,12 +1,10 @@
 ---
-date: 2023-11-02
-tags: []
-status: Incomplete
-Relevant Docs: []
-Relevant Questions: []
-Relevant Notes: []
-Practical Docs: 
-Relevant Links:
+output: 
+  pdf_document:
+    pandoc_args: [
+      "-V", "classoption=twocolumn"
+    ]
+```
 ---
 
 # Prereq and Basics

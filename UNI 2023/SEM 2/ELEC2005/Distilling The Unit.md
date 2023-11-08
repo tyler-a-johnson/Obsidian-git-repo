@@ -684,10 +684,8 @@ $$\cos(\omega t) = \sin(\omega t + \frac{\pi}{2})$$
 ```
 
 ## Phasors
-
 **Assumption**
 - Constant frequency, i.e. $\omega = 2 \pi f$ is fixed
-
 ```ad-note
 **Reminder**: $V$ is $V_{rms}$.
 
@@ -695,7 +693,6 @@ $\sqrt{2}V$ is $V_{max}$
 
 ```
 $V=\frac{V_{max}}{\sqrt{2}}$
-
 Cosinusoidal quantity quantity x(t) (Voltage, current, whatever) characterised by:
 - Maximum value $X_{M}$
 - Phase angle $\delta$

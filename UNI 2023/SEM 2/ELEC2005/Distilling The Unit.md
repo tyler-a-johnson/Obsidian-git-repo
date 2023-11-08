@@ -1022,7 +1022,14 @@ Inductance Definition:
 $$\lambda = Li$$
 ```
 
+Magnetic energy is stored in an inductor in (Joules)
+$$W = \frac{1}{2}Li^{2}$$
 
+Is energy stored due to magnetic field inside a meterial ($\mu$ is a material-dependent constant)
+$$W = \frac{1}{2} \frac{B^{2}}{\mu} Volume$$
+
+Magnetic energt density, $J/m^3$
+$$w = \frac{1}{2} \frac{B^{2}}{\mu}$$
 
 
 

@@ -1066,3 +1066,4 @@ $$
 $$\frac{\Delta \Phi}{\Delta t}=\frac{v_{1}}{n_{1}}=\frac{v_{2}}{n_{2}}\rightarrow \frac{v_{1}}{v_{2}}=\frac{n_{1}}{n_{2}}$$
 
 
+**Actual Transformer:** $\mathscr{R}>0$

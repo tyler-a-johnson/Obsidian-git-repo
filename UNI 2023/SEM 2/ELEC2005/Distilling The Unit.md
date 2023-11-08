@@ -1167,3 +1167,4 @@ $V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
 The PV module delivers the maximum power only at one operating point (MPP)
 $V = V_{R}, I=I_{R}$
 
+## Equivalent Circuit

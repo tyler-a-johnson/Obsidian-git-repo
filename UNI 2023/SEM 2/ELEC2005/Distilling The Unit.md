@@ -69,7 +69,6 @@ We can improve this using piecewise functions to generalize non-linearity
 
 
 ## Analysis
-
 ### Assumed States
 *In a circuit with a number of diodes n*
 - Assume a state for each diode (ON/OFF)(Closed/Open)

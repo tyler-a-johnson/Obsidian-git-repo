@@ -302,7 +302,6 @@ $$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \a
 	- **Semiconductor** - Commonly fabricated on silicon (Although SiGe can be used)
 	- **Field Effect** - Applying a voltage between the gate and body terminals creates an electric field which penetrates the oxide and creates an inversion layer at the semiconductor interface.
 ## Device Operation
-![Pasted image 20231002212203](Attachments/Pasted%20image%2020231002212203.png)
 - Channel is induced when **gate source voltage exceeds the threshold voltage** (Given, around 1V)
 - Additional voltage beyond the threshold point is the **overdrive**
 $$v_{GS} > V_{t}\text{ (Threshold Voltage)}$$

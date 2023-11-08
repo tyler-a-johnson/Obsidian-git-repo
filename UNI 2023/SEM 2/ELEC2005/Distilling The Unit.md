@@ -1241,3 +1241,4 @@ $\frac{P_{max}}{m} = 32 \frac{W}{kg}$ **Specific power (power density)**
 
 
 ## Equivalent Circuit
+![](Attachments/Pasted%20image%2020231031144834.png)

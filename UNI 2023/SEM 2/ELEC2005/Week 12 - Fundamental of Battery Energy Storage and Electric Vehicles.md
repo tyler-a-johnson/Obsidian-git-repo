@@ -108,11 +108,8 @@ De Rosa, A. V., Fundamentals of Renewable Energy Processes, 3rd edn, Elsevier, 2
 - Current changes direction depending on charging or discharging
 
 ## Energy Stored in a Battery
-
 $$E = \int^{Q}_{0} V  \, dQ $$
-
 OR
-
 $$E = \int^{t_{2}}_{t_{1}} VI \, dt $$
 
 Battery specs usually use Ah or Wh

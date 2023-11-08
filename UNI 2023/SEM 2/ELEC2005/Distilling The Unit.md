@@ -395,18 +395,12 @@ $$v_{gs} \leq \frac{0.2}{|A_{v}|+1}=13.3mV$$
 
 ## Small Signal Approximation - Saturation Region
 Similar technique for linearization as for the exponential diode and the BJT. No need for [Taylor Series](../../../Distilled%20Notes/Taylor%20Series.md).
-
 $v_{GS} = V_{GS}+v_{gs}$
-
 $i_{D} = I_{D}+i_{d}$
-
 $i_{D =\frac{}1}{2} k_{n}(v_{GS}-V_{t})^2$
-
 If $v_{gs} <<2(V_{GS}-V_{t})$
 
-
 $$i_{D} \approx \frac{1}{2}k_{n}(V_{GS}-V_{t})^{2}+k_{n}(V_{GS}-V_{t})v_{gs}$$
-
 $$i_{d} = g_{m}v_{gs}$$
 $$g_{m}=k_{n}(V_{GS}-V_{t})$$
 

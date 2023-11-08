@@ -1155,9 +1155,11 @@ $I = I_{sc} - I_{0}(e^{38.9V}-1)$
 
 For $I = 0, V=V_{oc}$
 $$V_{oc} = \frac{kT}{q}\ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$$
+
 At 25C for $I=0$
 $0=I_{sc}-I_{0}(e^{38.9V_{oc}}-1)$
 $V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
-
 - Isc varies proportionally with irradiation
 - Voc varies logarithmically with irradiation (does not change much)
+
+![](Attachments/Pasted%20image%2020231026195224.png)

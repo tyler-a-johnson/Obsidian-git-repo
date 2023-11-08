@@ -1212,3 +1212,8 @@ $$\Delta V = V - V_{SH} = V - V (\frac{n-1}{n}) + (R_{p} + R_{s})I = V/n + (R_{p
 - Current flow is diverted through BP -diode
 - Shaded cell causes small voltage reduction
 - Shaded cell voltage is small (typically 0.5 - 1V)
+
+## Peak Power Operation
+- We want to operate the array at the max power point (MPP)
+- The maximum power is extracted by the PV module as long as it operates at $V_{mpp}$
+$$\eta = \frac{V_{mpp}*I_{mpp}[W]}{1000\left[ \frac{W}{m^{2}} \right] * \text{Area}[m^{2}]}$$

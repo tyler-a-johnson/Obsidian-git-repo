@@ -33,7 +33,11 @@ Most practical topologies require an energy storage element. Which also decouple
 ![](Attachments/Pasted%20image%2020231112151429.png)
 - Converter 1 Rectifies line-frequency AC to DC
 - Capacitor acts as a filter, stores energy and decouples both sides
-- Converter 2 synthesises low-frequency ac
+- Converter 2 synthesises low-frequency AC to motor
+- Polarity of DC-bus voltage remains unchanged.
+	- Ideally suited for transistors of converter 2
+
+## Thyristors
 
 
 

@@ -53,7 +53,14 @@ All industrial systems consist of the following basic components.
 ![](Attachments/Pasted%20image%2020231112125727.png)
 - **Power Input Device**: The pump and motor combo is referred to as the power input device. The pump provides power by pumping oil from the reservoir tank.
 - **Control Device**: Valves control the direction, pressure, and flow of the hydraulic fluid from the pump to the actuator
-- **Power Output Device**: Hydraulic power is converted to mechanical power inside the power output device. Can be a piston for linear motion
+- **Power Output Device**: Hydraulic power is converted to mechanical power inside the power output device. Can be a piston for linear motion or a motor for rotational
+- **Liquid**: Typically oil
+- **Conductors**: Pipes or hoses needed to transmit oil
+
+**Hydraulic Power Pack**
+Combines the pump, motor, and tank/reservoir. Provides the energy required for the system.
+![](Attachments/Pasted%20image%2020231112130045.png)
+
 
 # Additional Content
 ---

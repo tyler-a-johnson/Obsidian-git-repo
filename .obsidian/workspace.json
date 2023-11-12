@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94e6b93c9b028ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -210,6 +223,9 @@
   },
   "active": "905cd46a8feb31f5",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112210234.png",
+    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112204102.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112204040.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112203922.png",
@@ -220,8 +236,6 @@
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112153721.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112153124.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112153056.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112151429.png",
-    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf",
     "Distilled Notes/The Continuity Equation.md",
@@ -252,7 +266,6 @@
     "Kanban Schedule.md",
     "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
     "UNI 2023/SEM 2/Weekly Work.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "Distilled Notes/Dot Convention (Transformers).md",

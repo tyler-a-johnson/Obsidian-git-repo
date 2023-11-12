@@ -84,7 +84,10 @@ Electric motors presently used for speed control applications are:
 ![](Attachments/Pasted%20image%2020231112203922.png)
 
 **Speed control through Field Flux**
+![](Attachments/Pasted%20image%2020231112204040.png)
 
+**Speed control through terminal voltage**
+![](Attachments/Pasted%20image%2020231112204102.png)
 
 
 

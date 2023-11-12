@@ -58,7 +58,7 @@ If we assume fluid is incompressible and a constant flow rate, we can assume a s
 ![](Attachments/Pasted%20image%2020231112131353.png)
 $$Q_{1} = Q_{2}$$
 Therefore,
-$$V_{1} A$$
+$$V_{1} A_{1} = V_{2}A_{2}$$
 
 # Conceptual Info
 ---

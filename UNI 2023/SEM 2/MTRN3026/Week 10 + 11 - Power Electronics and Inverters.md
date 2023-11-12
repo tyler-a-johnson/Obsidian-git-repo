@@ -117,7 +117,11 @@ Fans, Compressor, Pumps, blowers, machine tools like lathe, drilling machine, li
 - If load is increased beyond breakdown torque, the machine will not be able to recover.
 
 ## V/Hz Theory Background
+- An inductor motor draws the rated current and delivers the rated torque at the base speed
+- Motor can take up to 2.5 load increase with 20% drop in speed
 
+Assume voltage applied to the motor is AC, and the voltage drop across the armature resistance is very small. Then at steady state we have:
+$$\hat{V} \approx j \omega$$
 
 # Additional Content
 ---

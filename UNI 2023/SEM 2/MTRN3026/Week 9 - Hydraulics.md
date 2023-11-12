@@ -26,6 +26,10 @@ For SI units:
 1 Pascal = 1N/m^3
 1 Bar = 100,000 Pa = 10^5
 
+### [[Pascal's Law]]
+*The pressure in a confined fluid is transmitted equally to the whole surface of its container.*
+
+
 
 # Conceptual Info
 ---

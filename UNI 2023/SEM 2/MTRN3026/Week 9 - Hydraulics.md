@@ -18,7 +18,14 @@ Relevant Links:
 - When a force (F) is applied to an area (A) of an enclosed liquid, a pressure (P) is produced.
 $$\text{Pressure} = \frac{\text{Force}}{\text{Area}}$$
 
-Can be quoted in Bar, pounds per squa
+Can be quoted in Bar, pounds per square inch (PSI) or Pascal (Pa)
+For SI units:
+**Force** in Newtons (N)
+**Area** is in square meters ($m^{2}$)
+
+1 Pascal = 1N/m^3
+1 Bar = 100,000 Pa = 10^5
+
 
 # Conceptual Info
 ---

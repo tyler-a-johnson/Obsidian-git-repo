@@ -109,7 +109,11 @@ Fans, Compressor, Pumps, blowers, machine tools like lathe, drilling machine, li
 (4)V/F Control
 (5)Slip power recovery Control (Wound Rotor Induction Machine)
 
-
+## Torque-Speed Curve of Induction Motors
+![](Attachments/Pasted%20image%2020231112212529.png)
+- On startup draws up to seven times rated current (inrush current)
+- Normally delivers 1.5 times rated torque when starting
+- When at base spe
 
 # Additional Content
 ---

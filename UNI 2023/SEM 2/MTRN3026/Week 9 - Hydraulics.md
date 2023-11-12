@@ -54,9 +54,11 @@ V = Flow velocity (m/s)
 A = Area (m^2)
 
 ## [[The Continuity Equation]]
-
-If we assume fluid is incompressible and a constant flow rate, we can assume a steady flow. this means whatever volume of fluid flows through 
+If we assume fluid is incompressible and a constant flow rate, we can assume a steady flow. this means whatever volume of fluid flows through one section of the system must also flow through any other section.
 ![](Attachments/Pasted%20image%2020231112131353.png)
+$$Q_{1} = Q_{2}$$
+Therefore,
+$$V_{1} A$$
 
 # Conceptual Info
 ---

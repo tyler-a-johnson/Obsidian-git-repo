@@ -42,6 +42,18 @@ Used for hydraulic schematics. Useful for communicating to other engineers and p
 **Hydraulic Power Pack**
 ![](Attachments/Pasted%20image%2020231112130755.png)
 
+## Flow Rate versus Flow Velocity
+
+The flow rate is the volume of fluid that moves through the system in a given period of time. This determines the speed at which the output will operate.
+
+Flow velocity of a fluid is the distance the fluid travels in a given period of time.
+$$Q = VA$$
+Where:
+Q = Flow rate ($\frac{m^{3}}{s}$)
+V = Flow velocity (m/s)
+A = Area (m^2)
+
+## [[The Continuity Equation]]
 
 
 
@@ -69,17 +81,6 @@ All industrial systems consist of the following basic components.
 **Hydraulic Power Pack**
 Combines the pump, motor, and tank/reservoir. Provides the energy required for the system.
 ![](Attachments/Pasted%20image%2020231112130045.png)
-
-## Flow Rate versus Flow Velocity
-
-The flow rate is the volume of fluid that moves through the system in a given period of time. This determines the speed at which the output will operate.
-
-Flow velocity of a fluid is the distance the fluid travels in a given period of time.
-$$Q = VA$$
-Where:
-Q = Flow rate ($\frac{m^{3}}{s}$)
-V = Flow velocity (m/s)
-A = Area (m^2)
 
 
 

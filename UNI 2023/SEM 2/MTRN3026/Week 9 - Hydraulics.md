@@ -61,7 +61,11 @@ Therefore,
 $$V_{1} A_{1} = V_{2}A_{2}$$
 From the Continuity equation is shows that in a system with a steady flow rate, a reduction in area (pipe size) corresponds to an increase in flow velocity by the same factor.
 
-## Pressure Gauge
+## Pressure Gauges
+![](Attachments/Pasted%20image%2020231112133935.png)
+
+
+
 
 
 # Conceptual Info

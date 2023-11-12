@@ -137,7 +137,7 @@ Crushing/Cutting
 - Carcinogens
 
 ## Differences in Medium
-Hydraulic Oil is **Hygroscopic**, and can be easily **Oxidised at high temps**. Its also viscous and can be various types with varying Viscosities
+Hydraulic Oil is **Hygroscopic**, and can be easily **Oxidised at high temps**. Its also **viscous** and can be various types with varying viscosities
 - Flame retardant
 - Mineral Oil
 - Synthetic Oil
@@ -148,6 +148,12 @@ It can have additives such as:
 - Lubricity Improvement
 - Anti-Foaming Additive
 - Anti Wear Additive
+
+Air can hold moisture which can turn into condensation at the **Dew Point**. Pneumatic components must remove condensation and provide lubrication.
+
+## Difference in Principles and Properties
+Gas laws such as Boyle's and Charle's Laws govern medium behaviour
+Actuator demand i
 
 ****
 

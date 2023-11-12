@@ -123,10 +123,17 @@ Fans, Compressor, Pumps, blowers, machine tools like lathe, drilling machine, li
 Assume voltage applied to the motor is AC, and the voltage drop across the armature resistance is very small. Then at steady state we have:
 $$\hat{V} \approx j \omega\hat{\Lambda}$$
 Where:
-V = Voltage applied at the sta
+V = Voltage applied at the stator
+$\omega$ = Slip speed
+$\hat{\Lambda}$ = Flux
 
 $$V \approx \omega \Lambda$$
 $$\Lambda \approx \frac{V}{\omega} = \frac{1}{2 \pi} \frac{V}{f}$$
 Since V/f relation is constant the flux is also constant. The **torque is independent of the supplied frequency**
 Since flux is maintained constant, **the torque developed depends purely on slip speed.**
-# Additional C
+![](Attachments/Pasted%20image%2020231112213527.png)
+
+
+
+# Additional Content
+---

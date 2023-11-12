@@ -102,7 +102,12 @@ Main application of Induction Motor drives:
 Fans, Compressor, Pumps, blowers, machine tools like lathe, drilling machine, lifts, conveyer belts etc.
 
 
-## Methods of Speed Control of Inducti
+## Methods of Speed Control of Induction Motors
+(1)Stator voltage Control
+(2)Stator Frequency Control
+(3)Stator Current Control
+(4)V/F Control
+(5)Slip power recovery Control (Wound Rotor Induction Machine)
 
 
 

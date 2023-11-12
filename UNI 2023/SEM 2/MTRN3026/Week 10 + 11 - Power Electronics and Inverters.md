@@ -44,7 +44,13 @@ When diodes turn off they conduct current in the opposite direction for a short 
 
 ## Thyristors
 Essentially a diode that can be toggled with a pulse to the gate. 
+![](Attachments/Pasted%20image%2020231112153721.png)
+- semi controlled device
+- Latches ON by a gate-current pulse if forward biased
+- Turns-off if current tries to reverse
 
+![](Attachments/Pasted%20image%2020231112153833.png)
+For a successful turn-off, reverse voltage required for an interval greater than the turn-off interval
 
 
 

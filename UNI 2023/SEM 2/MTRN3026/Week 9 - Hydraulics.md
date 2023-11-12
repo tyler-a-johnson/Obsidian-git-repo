@@ -159,10 +159,6 @@ Bernoulli’s and other Fluid Flow Laws govern medium behaviour Actuator demand 
 
 Both Hydraulics and Pneumatics are described with Pascal’s Law and F=PA
 
-****
-
-
-
 
 # Additional Content
 ---

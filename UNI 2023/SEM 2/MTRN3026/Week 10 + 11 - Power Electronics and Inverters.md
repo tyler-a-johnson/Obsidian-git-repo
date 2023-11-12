@@ -77,6 +77,8 @@ Electric motors presently used for speed control applications are:
 
 ![](Attachments/Pasted%20image%2020231112210234.png)
 
+We can replace a switch with an electronically controlled transistor to implement PWM control (Chopped DC)
+
 
 ****
 

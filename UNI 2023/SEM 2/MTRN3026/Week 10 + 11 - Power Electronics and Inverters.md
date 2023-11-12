@@ -140,7 +140,7 @@ The Frequency and amplitude drives the motor, with no feedback from the motor to
 
 **Closed Loop**
 ![](Attachments/Pasted%20image%2020231112214748.png)
-
+A speed sensor is used to determi
 
 # Additional Content
 ---

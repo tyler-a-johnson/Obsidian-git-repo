@@ -36,7 +36,9 @@ $$P = \frac{F_{1}}{A_{1}}=\frac{F_{2}}{A_{2}}$$
 We can re-arrange this to determine any given variable with 
 
 ## Hydraulic Symbols
-Used for hydraulic schematics. Useful for communicating to other engineers.
+Used for hydraulic schematics. Useful for communicating to other engineers and planning.
+
+
 
 
 

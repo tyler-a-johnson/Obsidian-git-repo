@@ -72,6 +72,7 @@ Essentially, higher velocity means lower pressure. High velocity fluid and gas c
 ![](Attachments/Pasted%20image%2020231112134622.png)
 ![](Attachments/Pasted%20image%2020231112135000.png)
 
+**Bernoulli's Equation**
 
 
 

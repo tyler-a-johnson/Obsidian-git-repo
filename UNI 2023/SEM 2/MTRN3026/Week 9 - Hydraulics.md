@@ -70,6 +70,7 @@ The outer black scale indicates pressure units of bar, and the inner red scale i
 
 Essentially, higher velocity means lower pressure. High velocity fluid and gas can create a low pressure region, 
 ![](Attachments/Pasted%20image%2020231112134622.png)
+![](Attachments/Pasted%20image%2020231112135000.png)
 
 
 

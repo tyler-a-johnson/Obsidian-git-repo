@@ -172,6 +172,13 @@ Harmonic Components around switching frequency are absent
 
 ## Synthesis of a Sinusoidal Output by PWM
 ![](Attachments/Pasted%20image%2020231112225314.png)
+![](Attachments/Pasted%20image%2020231112231457.png)
+PWM results in much smaller ripple current
+
+### Short-Circuit States in PWM Operation
+![](Attachments/Pasted%20image%2020231112231543.png)
+Top group or the bottom group results in short circuiting three terminals.
+
 
 
 ## Push-Pull Inverter

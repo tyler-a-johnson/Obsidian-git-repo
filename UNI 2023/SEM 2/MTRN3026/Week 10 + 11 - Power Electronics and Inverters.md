@@ -52,6 +52,7 @@ Essentially a diode that can be toggled with a pulse to the gate.
 ![](Attachments/Pasted%20image%2020231112153833.png)
 For a successful turn-off, reverse voltage required for an interval greater than the turn-off interval
 
+## Electric Motors
 
 
 # Additional Content

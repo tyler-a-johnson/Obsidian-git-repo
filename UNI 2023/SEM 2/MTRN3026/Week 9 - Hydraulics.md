@@ -63,7 +63,10 @@ From the Continuity equation is shows that in a system with a steady flow rate, 
 
 ## Pressure Gauges
 ![](Attachments/Pasted%20image%2020231112133935.png)
+The outer black scale indicates pressure units of bar, and the inner red scale indicates pressure units in psi
 
+
+## [[Bernoulli's Principle]]
 
 
 

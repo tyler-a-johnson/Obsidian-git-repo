@@ -33,7 +33,7 @@ I a downward force is applied to piston A it will be transmitted through the sys
 
 Fluid pressure is measured in terms of the force exerted per unit area.
 $$P = \frac{F_{1}}{A_{1}}=\frac{F_{2}}{A_{2}}$$
-We can re-arrange this to determine any given variabe wi
+We can re-arrange this to determine any given variable with 
 
 
 # Conceptual Info
@@ -47,6 +47,10 @@ We can re-arrange this to determine any given variabe wi
 - Liquid is **incompressible**
 
 Used commonly where mechanisms require large forces and precise control
+
+## Hydraulic System Components
+All industrial systems consist of the following basic components.
+- **Power Input Device**: The pump and motor combo is referred to as the power input device. The pump provides power 
 
 # Additional Content
 ---

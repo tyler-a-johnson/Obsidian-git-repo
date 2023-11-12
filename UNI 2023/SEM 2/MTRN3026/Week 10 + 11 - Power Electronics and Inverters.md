@@ -37,7 +37,8 @@ Most practical topologies require an energy storage element. Which also decouple
 - Polarity of DC-bus voltage remains unchanged.
 	- Ideally suited for transistors of converter 2
 
-## Power Semi-Conductors
+## Power Diodes
+![](Attachments/Pasted%20image%2020231112153056.png)
 
 
 

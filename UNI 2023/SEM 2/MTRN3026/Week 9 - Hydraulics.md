@@ -43,8 +43,12 @@ Used for hydraulic schematics. Useful for communicating to other engineers and p
 ![](Attachments/Pasted%20image%2020231112130755.png)
 ![](Attachments/Pasted%20image%2020231112140948.png)
 
-Cylinders and other other actuators also differ with respect to supply and direction arrows. As well as the 
+Cylinders and other other actuators also differ with respect to supply and direction arrows. As well as the 'fluid' used.
 ![](Attachments/Pasted%20image%2020231112141112.png)
+
+Many symbols dont change.
+![](Attachments/Pasted%20image%2020231112141213.png)
+![](Attachments/Pasted%20image%2020231112141236.png)
 
 
 ## Flow Rate VS Flow Velocity
@@ -131,6 +135,9 @@ Crushing/Cutting
 - Oil burns (hot oil/corrosive)
 - Crushing/cutting
 - Carcinogens
+
+## Differences in Medium
+Hydraulic 
 
 ****
 

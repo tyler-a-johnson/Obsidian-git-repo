@@ -178,7 +178,11 @@ Harmonic Components around switching frequency are absent
 ![](Attachments/Pasted%20image%2020231112225518.png)
 Low Voltage to Higher output using square-wave operation
 
+## DC-AC Converter
+![](Attachments/Pasted%20image%2020231112230318.png)
+Block diagram of a motor drive where the power flow is unidirectional
 
+Diode rectifier can be replaced with Switch-mode converte
 
 # Additional Content
 ---

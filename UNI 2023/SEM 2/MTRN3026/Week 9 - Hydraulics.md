@@ -137,7 +137,17 @@ Crushing/Cutting
 - Carcinogens
 
 ## Differences in Medium
-Hydraulic 
+Hydraulic Oil is **Hygroscopic**, and can be easily **Oxidised at high temps**. Its also viscous and can be various types with varying Viscosities
+- Flame retardant
+- Mineral Oil
+- Synthetic Oil
+- Water Glycol (Antifreeze)
+
+It can have additives such as:
+- Anti Oxidants
+- Lubricity Improvement
+- Anti-Foaming Additive
+- Anti Wear Additive
 
 ****
 

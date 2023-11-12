@@ -166,7 +166,6 @@ We have harmonics at multiples of the fundamental frequency
 
 ### Unipolar Voltage Switching
 ![](Attachments/Pasted%20image%2020231112222508.png)
-
 Harmonic Components around switching frequency are absent
 
 

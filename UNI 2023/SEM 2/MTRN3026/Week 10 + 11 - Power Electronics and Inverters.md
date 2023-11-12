@@ -155,7 +155,7 @@ This results in the PWM controlled signal that averages to the fundamental line 
 ## Single Phase Full-Bridge DC-AC Inverter
 ![](Attachments/Pasted%20image%2020231112220448.png)
 Consists of two inverter legs, making a single phase AC signal $v_{o}$. This is the difference between voltages on the two legs.
-
+![](Attachments/Pasted%20image%2020231112231034.png)
 ### Half Bridge Inverter
 ![](Attachments/Pasted%20image%2020231112220347.png)
 Capacitors provide the mid-point. Only a single inverter leg, similar to a half bridge rectifier.

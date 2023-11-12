@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "fc2b95eda5b9be85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distilled Notes/Greek Letters and Symbols.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "94e6b93c9b028ba6",
             "type": "leaf",
             "state": {
@@ -223,19 +236,19 @@
   },
   "active": "905cd46a8feb31f5",
   "lastOpenFiles": [
+    "Distilled Notes/Greek Letters and Symbols.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112212529.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112211416.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112211118.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112211024.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112210234.png",
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112204102.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112204040.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112203922.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112203730.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112203712.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112172312.png",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf",
     "Distilled Notes/The Continuity Equation.md",
@@ -262,7 +275,6 @@
     "UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md",
     "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
     "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md",
-    "Distilled Notes/Greek Letters and Symbols.md",
     "Kanban Schedule.md",
     "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
     "UNI 2023/SEM 2/Weekly Work.md",

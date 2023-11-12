@@ -121,7 +121,11 @@ Fans, Compressor, Pumps, blowers, machine tools like lathe, drilling machine, li
 - Motor can take up to 2.5 load increase with 20% drop in speed
 
 Assume voltage applied to the motor is AC, and the voltage drop across the armature resistance is very small. Then at steady state we have:
-$$\hat{V} \approx j \omega$$
+$$\hat{V} \approx j \omega\hat{\Lambda}$$
+(Voltage applied at the stator and flux)
+
+$$V \approx \omega \Lambda$$
+$$\Lambda \approx \frac{V}{\omega} = \frac{1}{2 \pi} \frac{V}{f}$$
 
 # Additional Content
 ---

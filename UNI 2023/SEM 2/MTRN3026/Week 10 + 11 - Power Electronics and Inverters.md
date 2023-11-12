@@ -174,6 +174,9 @@ Harmonic Components around switching frequency are absent
 
 
 ## Push-Pull Inverter
+![](Attachments/Pasted%20image%2020231112225518.png)
+Low Voltage to Higher output using square-wave operation
+
 
 
 # Additional Content

@@ -32,7 +32,8 @@ For SI units:
 I a downward force is applied to piston A it will be transmitted through the system to Piston B
 
 Fluid pressure is measured in terms of the force exerted per unit area.
-$$P = \frac{F_{1}}{A_{1}}$$
+$$P = \frac{F_{1}}{A_{1}}=\frac{F_{2}}{A_{2}}$$
+We can re-arrange this to determine any given variabe wi
 
 
 # Conceptual Info

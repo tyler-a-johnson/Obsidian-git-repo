@@ -145,8 +145,11 @@ A speed sensor is used to determine the real speed, and its difference from the 
 ## 3 Phase PWM Inverter
 ![](Attachments/Pasted%20image%2020231112215140.png)
 We are able to turn the DC voltage Vd into 3 phase power with a 3 phase PWM controlled inverter. 
-- 3 Phase legs (labelled as A,B,C), each produce one of the phases required for 3 Phase power
-- 
+3 Phase legs (labelled as A,B,C), each produce one of the phases required for 3 Phase power
+
+the switches of the inverter are controlled based on a comparison of a **sinusoidal control signal** and a **triangular switching signal**. 
+The sinusoidal control waveform **establishes the desired fundamental frequency** of the inverter output, while the triangular waveform **establishes the switching frequency of the inverter**.  
+*The ratio between the frequencies of the triangle wave and the sinusoid* is referred to as the **modulation frequency ratio**
 
 # Additional Content
 ---

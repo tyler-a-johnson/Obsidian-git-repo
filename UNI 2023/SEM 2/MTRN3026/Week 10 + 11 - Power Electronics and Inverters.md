@@ -78,7 +78,19 @@ Electric motors presently used for speed control applications are:
 **Characteristics of DC Series Motor**
 ![](Attachments/Pasted%20image%2020231112203730.png)
 
+### Speed Control of DC motor
 
+**Speed control through armature resistance**
+![](Attachments/Pasted%20image%2020231112203922.png)
+
+**Speed control through Field Flux**
+
+
+
+
+
+
+****
 
 
 # Additional Content

@@ -27,7 +27,14 @@ Most practical topologies require an energy storage element. Which also decouple
 - Converter is a generalized term
 - An AC/DC converter is shown here
 - The converter is in **Rectifier** mode when converting from AC to DC
-- The converter is in Inverter mode when converting from DC to AC
+- The converter is in **Inverter** mode when converting from DC to AC
+
+## AC Motor Drive
+![](Attachments/Pasted%20image%2020231112151429.png)
+- Converter 1 Rectifies line-frequency AC to DC
+- Capacitor acts as a filter, stores energy and decouples both sides
+- Converter 2 synthesises low-frequency ac
+
 
 
 # Additional Content

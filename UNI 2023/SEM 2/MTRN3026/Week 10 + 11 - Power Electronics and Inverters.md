@@ -60,7 +60,14 @@ Electric motors presently used for speed control applications are:
 	- Compound
 	- Separately excited
 	- Switched Reluctance Motors
-2. 
+2. AC Excited
+	- Induction
+	- Wound rotor synchronous
+	- Permanent magnet synchronous
+	- Reluctance motors
+
+
+
 
 # Additional Content
 ---

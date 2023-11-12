@@ -70,8 +70,7 @@ Electric motors presently used for speed control applications are:
 ## Different DC motor connections
 ![](Attachments/Pasted%20image%2020231112172312.png)
 
-
-
+### 
 
 
 

@@ -56,6 +56,7 @@ A = Area (m^2)
 ## [[The Continuity Equation]]
 
 
+![](Attachments/Pasted%20image%2020231112131353.png)
 
 # Conceptual Info
 ---

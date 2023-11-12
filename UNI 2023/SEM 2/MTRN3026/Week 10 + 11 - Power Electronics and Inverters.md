@@ -150,7 +150,15 @@ We are able to turn the DC voltage Vd into 3 phase power with a 3 phase PWM cont
 the switches of the inverter are controlled based on a comparison of a **sinusoidal control signal** and a **triangular switching signal**. 
 The sinusoidal control waveform **establishes the desired fundamental frequency** of the inverter output, while the triangular waveform **establishes the switching frequency of the inverter**.  
 *The ratio between the frequencies of the triangle wave and the sinusoid* is referred to as the **modulation frequency ratio**
-This results in the PWM control 
+This results in the PWM controlled signal that averages to the fundamental line voltage sine wave.
+
+## Single Phase Full-Bridge S
+
+
+
+### Half Bridge Inverter
+![](Attachments/Pasted%20image%2020231112220347.png)
+Capacitors provide the mid-point
 
 # Additional Content
 ---

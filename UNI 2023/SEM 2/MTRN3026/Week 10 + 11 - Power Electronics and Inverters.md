@@ -81,7 +81,7 @@ We can replace a switch with an electronically controlled transistor to implemen
 •The transistors can be Pulse Width Modulated to reduce the average voltage at the motor, useful for controlling current and speed
 ![](Attachments/Pasted%20image%2020231112211416.png)
 
-## Advantages and disadvantages of AC Drives compared to DC Drives
+## AC Drives compared to DC Drives
 **Advantages of AC drives**
  1. For the same rating, ac motors are lighter in weight as compared to dc motors.
 2. AC motors require low maintenance.
@@ -93,11 +93,16 @@ We can replace a switch with an electronically controlled transistor to implemen
 2. Power converter for ac drives are more expensive.
 3. Power converters for ac drives generate harmonics in the supply system and load circuit.
 
-## Industrial Applications
+### Industrial Applications
+Induction motors with squirrel cage rotors are the workhorse of industry because of their low cost and rugged construction.
+
+When Squirrel cage induction machine is operated directly from the line voltages(60 Hz/50 Hz essentially constant voltage) an Induction motor is operated at constant speed. However in the industry we required to vary the speed of an Induction motor.  This can be done by Induction motor drives.
+
+Main application of Induction Motor drives:
+Fans, Compressor, Pumps, blowers, machine tools like lathe, drilling machine, lifts, conveyer belts etc.
 
 
-
-
+## Methods of Speed Control of Inducti
 
 
 

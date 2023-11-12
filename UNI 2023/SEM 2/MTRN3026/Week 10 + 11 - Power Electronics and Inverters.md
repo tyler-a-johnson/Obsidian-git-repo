@@ -134,8 +134,9 @@ Since flux is maintained constant, **the torque developed depends purely on slip
 ![](Attachments/Pasted%20image%2020231112213527.png)
 
 ### Control Loops
+**Open loop**
 ![](Attachments/Pasted%20image%2020231112214019.png)
-
+The Frequency and amplitude drives the motor, with no feedback from the motor to determine speed. The base frequency is considered 
 
 # Additional Content
 ---

@@ -76,7 +76,7 @@ Essentially, higher velocity means lower pressure. High velocity fluid and gas c
 For any point along a flow tube or streamline:
 $$p + \frac{1}{2}p v^{2} + pgy = \text{Constant}$$
 
-
+![](Attachments/Pasted%20image%2020231112135714.png)
 
 # Conceptual Info
 ---

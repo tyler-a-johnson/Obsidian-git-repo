@@ -116,8 +116,18 @@ Combines the pump, motor, and tank/reservoir. Provides the energy required for t
 | Overload safe                         | Requires Heavy Duty components                        |
 | Inexpensive for individual components |                         |
 
-**Dangers of Pneumatics**
-Air e
+**Dangers of Compressed air**
+Air Embolism (air bubbles in the bloodstream????)
+Hose/pipe whipping
+Crushing/Cutting
+
+**Dangers of high pressure oil**
+- High pressure oil injection (can blast straight through skin and muscle)
+- Oil burns (hot oil/corrosive)
+- Crushing/cutting
+- Carcinogens
+
+****
 
 
 

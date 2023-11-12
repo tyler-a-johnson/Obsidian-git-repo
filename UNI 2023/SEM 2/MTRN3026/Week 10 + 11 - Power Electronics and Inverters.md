@@ -79,6 +79,8 @@ We can replace a switch with an electronically controlled transistor to implemen
 •The combination of transistor is called an H-Bridge
 •Transistors are switched diagonally to allow DC current to flow in the motor in either direction
 •The transistors can be Pulse Width Modulated to reduce the average voltage at the motor, useful for controlling current and speed
+![](Attachments/Pasted%20image%2020231112211416.png)
+
 
 
 

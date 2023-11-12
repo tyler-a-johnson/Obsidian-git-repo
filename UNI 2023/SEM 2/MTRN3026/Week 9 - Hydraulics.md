@@ -50,7 +50,10 @@ Used commonly where mechanisms require large forces and precise control
 
 ## Hydraulic System Components
 All industrial systems consist of the following basic components.
-- **Power Input Device**: The pump and motor combo is referred to as the power input device. The pump provides power 
+![](Attachments/Pasted%20image%2020231112125727.png)
+- **Power Input Device**: The pump and motor combo is referred to as the power input device. The pump provides power by pumping oil from the reservoir tank.
+- **Control Device**: Valves control the direction, pressure, and flow of the hydraulic fluid from the pump to the actuator
+- **Power Output Device**: Hydraulic power is converted to mechanical power inside the power output device. Can be a piston for linear motion
 
 # Additional Content
 ---

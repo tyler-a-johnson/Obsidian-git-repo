@@ -55,7 +55,7 @@ A = Area (m^2)
 
 ## [[The Continuity Equation]]
 
-
+If we assume fluid is incompressible 
 ![](Attachments/Pasted%20image%2020231112131353.png)
 
 # Conceptual Info

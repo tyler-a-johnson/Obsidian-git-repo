@@ -55,7 +55,7 @@ A = Area (m^2)
 
 ## [[The Continuity Equation]]
 
-If we assume fluid is incompressible 
+If we assume fluid is incompressible and a constant flow rate, we can assume a steady flow. this means whatever volume of fluid flows through 
 ![](Attachments/Pasted%20image%2020231112131353.png)
 
 # Conceptual Info

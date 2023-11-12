@@ -162,7 +162,7 @@ Capacitors provide the mid-point. Only a single inverter leg, similar to a half 
 
 ## Square-Wave Mode of Operation
 ![](Attachments/Pasted%20image%2020231112221228.png)
-We 
+We have harmonics at multiples of the fundamental frequency
 
 
 # Additional Content

@@ -175,9 +175,8 @@ Harmonic Components around switching frequency are absent
 ![](Attachments/Pasted%20image%2020231112231457.png)
 PWM results in much smaller ripple current
 
-### Short-Circuit States in PWM Operation
-![](Attachments/Pasted%20image%2020231112231543.png)
-Top group or the bottom group results in short circuiting three terminals.
+### Effect of Blanking Time
+![](Attachments/Pasted%20image%2020231112231724.png)
 
 
 
@@ -202,3 +201,8 @@ Control voltage can be assumed constant during a switching time-period
 
 # Additional Content
 ---
+
+
+## Summary
+![](Attachments/Pasted%20image%2020231112231757.png)
+In Case of Squirrel cage induction motor the slip  cannot be increase above certain limit, the operating speed range is very less. By applying the V/F control we can get the large operating range by keeping V/F ratio constant.

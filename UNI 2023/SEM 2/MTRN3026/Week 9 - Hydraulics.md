@@ -41,6 +41,11 @@ Used for hydraulic schematics. Useful for communicating to other engineers and p
 
 **Hydraulic Power Pack**
 ![](Attachments/Pasted%20image%2020231112130755.png)
+![](Attachments/Pasted%20image%2020231112140948.png)
+
+Cylinders and other other actuators also differ with respect to supply and direction arrows. As well as the 
+![](Attachments/Pasted%20image%2020231112141112.png)
+
 
 ## Flow Rate VS Flow Velocity
 

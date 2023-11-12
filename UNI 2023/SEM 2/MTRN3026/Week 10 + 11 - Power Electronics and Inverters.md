@@ -133,6 +133,8 @@ Since V/f relation is constant the flux is also constant. The **torque is indepe
 Since flux is maintained constant, **the torque developed depends purely on slip speed.**
 ![](Attachments/Pasted%20image%2020231112213527.png)
 
+### Control Loops
+![](Attachments/Pasted%20image%2020231112214019.png)
 
 
 # Additional Content

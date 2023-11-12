@@ -113,7 +113,11 @@ Fans, Compressor, Pumps, blowers, machine tools like lathe, drilling machine, li
 ![](Attachments/Pasted%20image%2020231112212529.png)
 - On startup draws up to seven times rated current (inrush current)
 - Normally delivers 1.5 times rated torque when starting
-- When at base spe
+- When at operating at base speed, if load is increased slip will increase and motors will slow down.
+- If load is increased beyond breakdown torque, the machine will not be able to recover.
+
+## V/Hz Theory Background
+
 
 # Additional Content
 ---

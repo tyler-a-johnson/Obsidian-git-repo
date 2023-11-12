@@ -160,9 +160,14 @@ Consists of two inverter legs, making a single phase AC signal $v_{o}$. This is 
 ![](Attachments/Pasted%20image%2020231112220347.png)
 Capacitors provide the mid-point. Only a single inverter leg, similar to a half bridge rectifier.
 
-## Square-Wave Mode of Operation
+### Square-Wave Mode of Operation
 ![](Attachments/Pasted%20image%2020231112221228.png)
 We have harmonics at multiples of the fundamental frequency
+
+### Unipolar Voltage Switching
+![](Attachments/Pasted%20image%2020231112222508.png)
+
+
 
 
 # Additional Content

@@ -144,6 +144,7 @@ A speed sensor is used to determine the real speed, and its difference from the 
 
 ## 3 Phase PWM Inverter
 ![](Attachments/Pasted%20image%2020231112215140.png)
+We are able to turn the DC voltage Vd into 3 phase power with a 3 phase PWM controlled inverter.
 
 # Additional Content
 ---

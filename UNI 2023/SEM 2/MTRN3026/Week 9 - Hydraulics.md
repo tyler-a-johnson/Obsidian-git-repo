@@ -66,7 +66,11 @@ From the Continuity equation is shows that in a system with a steady flow rate, 
 The outer black scale indicates pressure units of bar, and the inner red scale indicates pressure units in psi
 
 
-## [[Bernoulli's Principle]]
+## [[Bernoulli's Principle]] and the Venturi Effect
+
+Essentially, higher velocity means lower pressure. High velocity fluid and gas can create a low pressure region, drawin
+![](Attachments/Pasted%20image%2020231112134622.png)
+
 
 
 

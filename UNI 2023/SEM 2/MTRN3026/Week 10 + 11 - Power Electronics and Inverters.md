@@ -67,6 +67,7 @@ Electric motors presently used for speed control applications are:
 	- Reluctance motors
 
 
+### Different DC motor connections
 
 
 # Additional Content

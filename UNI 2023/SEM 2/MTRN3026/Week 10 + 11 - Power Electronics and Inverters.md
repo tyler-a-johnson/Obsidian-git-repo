@@ -182,7 +182,14 @@ Low Voltage to Higher output using square-wave operation
 ![](Attachments/Pasted%20image%2020231112230318.png)
 Block diagram of a motor drive where the power flow is unidirectional
 
-Diode rectifier can be replaced with Switch-mode converte
+Diode rectifier can be replaced with Switch-mode converters for motoring and regenerative breaking in AC motor drive.
+![](Attachments/Pasted%20image%2020231112230542.png)
+
+
+
+
+
+
 
 # Additional Content
 ---

@@ -186,7 +186,9 @@ Diode rectifier can be replaced with Switch-mode converters for motoring and reg
 ![](Attachments/Pasted%20image%2020231112230542.png)
 
 
-
+**Switching Time Period**
+![](Attachments/Pasted%20image%2020231112230720.png)
+Control voltage can be assumed constant during a switching time-period
 
 
 

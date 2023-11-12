@@ -20,7 +20,7 @@ Relevant Links:
 The above block diagram describes a power electronic system. It works similarly to feedback systems with motors.
 
 ![](Attachments/Pasted%20image%2020231112150629.png)
-Most practical topologies require an energy storage element. Which also decouples the input and output i
+Most practical topologies require an energy storage element. Which also decouples the input and output side.
 
 
 # Additional Content

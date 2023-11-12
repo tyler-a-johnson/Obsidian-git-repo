@@ -70,7 +70,9 @@ Electric motors presently used for speed control applications are:
 ## Different DC motor connections
 ![](Attachments/Pasted%20image%2020231112172312.png)
 
-### 
+### [Week 2 - DC Motors and Selection in MTRN Systems](Week%202%20-%20DC%20Motors%20and%20Selection%20in%20MTRN%20Systems.md)
+
+
 
 
 

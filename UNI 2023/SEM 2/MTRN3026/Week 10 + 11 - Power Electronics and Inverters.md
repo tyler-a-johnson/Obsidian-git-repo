@@ -152,8 +152,9 @@ The sinusoidal control waveform **establishes the desired fundamental frequency*
 *The ratio between the frequencies of the triangle wave and the sinusoid* is referred to as the **modulation frequency ratio**
 This results in the PWM controlled signal that averages to the fundamental line voltage sine wave.
 
-## Single Phase Full-Bridge S
-
+## Single Phase Full-Bridge DC-AC Inverter
+![](Attachments/Pasted%20image%2020231112220448.png)
+Consists of two inverter legs, making a single phase AC signal
 
 
 ### Half Bridge Inverter

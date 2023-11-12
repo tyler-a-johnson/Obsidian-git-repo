@@ -170,7 +170,7 @@ We have harmonics at multiples of the fundamental frequency
 Harmonic Components around switching frequency are absent
 
 
-### Synthesis of a Sinusoidal Output by PWM
+## Synthesis of a Sinusoidal Output by PWM
 ![](Attachments/Pasted%20image%2020231112225314.png)
 
 

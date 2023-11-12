@@ -82,25 +82,23 @@ We can replace a switch with an electronically controlled transistor to implemen
 ![](Attachments/Pasted%20image%2020231112211416.png)
 
 ## Advantages and disadvantages of AC Drives compared to DC Drives
-Advantages of AC drives
+**Advantages of AC drives**
  1. For the same rating, ac motors are lighter in weight as compared to dc motors.
-
 2. AC motors require low maintenance.
-
 3. AC motors are less expensive.
-
 4. AC motors can work in dangerous areas like chemical, petrochemical etc.
 
-Disadvantage of ac drives
-
+**Disadvantage of AC drives**
 1. Power converters for the control of ac motors are more complex.
-
 2. Power converter for ac drives are more expensive.
-
 3. Power converters for ac drives generate harmonics in the supply system and load circuit.
 
+## Industrial Applications
 
-****
+
+
+
+
 
 
 # Additional Content

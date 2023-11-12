@@ -72,7 +72,11 @@ Electric motors presently used for speed control applications are:
 
 ### [Week 2 - DC Motors and Selection in MTRN Systems](Week%202%20-%20DC%20Motors%20and%20Selection%20in%20MTRN%20Systems.md)
 
+**DC Shunt Motor**
+![](Attachments/Pasted%20image%2020231112203712.png)
 
+**Characteristics of DC Series Motor**
+![](Attachments/Pasted%20image%2020231112203730.png)
 
 
 

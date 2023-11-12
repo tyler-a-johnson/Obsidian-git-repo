@@ -73,8 +73,14 @@ Electric motors presently used for speed control applications are:
 We can replace a switch with an electronically controlled transistor to implement PWM control (Chopped DC)
 
 ## DC Motor H-Bridge
+![](Attachments/Pasted%20image%2020231112211118.png)
 
-![](Attachments/Pasted%20image%2020231112211024.png)
+•The DC motor needs four transistors to operate the DC motor
+•The combination of transistor is called an H-Bridge
+•Transistors are switched diagonally to allow DC current to flow in the motor in either direction
+•The transistors can be Pulse Width Modulated to reduce the average voltage at the motor, useful for controlling current and speed
+
+
 
 ****
 

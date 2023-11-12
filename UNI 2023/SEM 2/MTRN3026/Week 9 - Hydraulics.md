@@ -42,7 +42,7 @@ Used for hydraulic schematics. Useful for communicating to other engineers and p
 **Hydraulic Power Pack**
 ![](Attachments/Pasted%20image%2020231112130755.png)
 
-## Flow Rate versus Flow Velocity
+## Flow Rate VS Flow Velocity
 
 The flow rate is the volume of fluid that moves through the system in a given period of time. This determines the speed at which the output will operate.
 
@@ -108,6 +108,18 @@ Combines the pump, motor, and tank/reservoir. Provides the energy required for t
 
 
 ## Hydraulics VS Pneumatics
+| Pneumatic Control                     | Hydraulic Control       |
+| ------------------------------------- | ----------------------- |
+| Clean (no oil)                        | Infinitely controllable |
+| Fast                                  | Produces large forces   |
+| Intrinsically safe (not flammable)    | Requires high pressure  |
+| Overload safe                         | Requires Heavy Duty components                        |
+| Inexpensive for individual components |                         |
+
+**Dangers of Pneumatics**
+Air e
+
+
 
 
 # Additional Content

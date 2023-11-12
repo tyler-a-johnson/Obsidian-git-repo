@@ -140,7 +140,10 @@ The Frequency and amplitude drives the motor, with no feedback from the motor to
 
 **Closed Loop**
 ![](Attachments/Pasted%20image%2020231112214748.png)
-A speed sensor is used to determi
+A speed sensor is used to determine the real speed, and its difference from the target. This can be used to accurately control the speed of the motor.
+
+## 3 Phase PWM Inverter
+![](Attachments/Pasted%20image%2020231112215140.png)
 
 # Additional Content
 ---

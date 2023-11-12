@@ -153,7 +153,11 @@ Air can hold moisture which can turn into condensation at the **Dew Point**. Pne
 
 ## Difference in Principles and Properties
 Gas laws such as Boyle's and Charle's Laws govern medium behaviour
-Actuator demand i
+Actuator demand is measured in m^3 per hour. Compressor output is also measured this way (m^3 per hour **Free Air Delivery** (FAD))
+
+Bernoulli’s and other Fluid Flow Laws govern medium behaviour Actuator demand is measured litres per minute for a specific speed Pump output is measured **litres per minute**
+
+Both Hydraulics and Pneumatics are described with Pascal’s Law and F=PA
 
 ****
 

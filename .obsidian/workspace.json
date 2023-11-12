@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "808a1cedbf3fea1f",
+        "id": "73553cfb3dd0fc1e",
         "type": "tabs",
         "children": [
           {
-            "id": "6edeee0de7f192da",
+            "id": "905cd46a8feb31f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Inverters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "dc0991ed4ab63f41",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac3ca1acce856fda",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf"
               }
             }
           }
@@ -102,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.51240158081055,
-    "collapsed": true
+    "width": 296.51240158081055
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -131,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Inverters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Inverters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md"
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Inverters.md"
               }
             }
           },
@@ -225,10 +208,11 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "6edeee0de7f192da",
+  "active": "905cd46a8feb31f5",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf",
+    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112141521.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112141236.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112141213.png",

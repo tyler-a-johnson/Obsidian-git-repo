@@ -10,7 +10,7 @@ Relevant Notes:
 Practical Docs: 
 Relevant Links:
 ---
-[](Attachments/Week_4_Basic_Hydraulics(1).pdf)
+[Week 9](Attachments/Week_4_Basic_Hydraulics(1).pdf)
 # Maths and Distilled Info
 ---
 
@@ -19,6 +19,9 @@ Relevant Links:
 # Conceptual Info
 ---
 
+## Intro
+- **Fluid Power** is the method of using pressurized fluid or gas to transmit energy
+- Liquid and gas are both r
 
 
 # Additional Content

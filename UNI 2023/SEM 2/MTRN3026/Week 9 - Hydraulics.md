@@ -37,7 +37,10 @@ We can re-arrange this to determine any given variable with
 
 ## Hydraulic Symbols
 Used for hydraulic schematics. Useful for communicating to other engineers and planning.
+![](Attachments/Pasted%20image%2020231112130723.png)
 
+**Hydraulic Power Pack**
+![](Attachments/Pasted%20image%2020231112130755.png)
 
 
 
@@ -66,6 +69,12 @@ All industrial systems consist of the following basic components.
 **Hydraulic Power Pack**
 Combines the pump, motor, and tank/reservoir. Provides the energy required for the system.
 ![](Attachments/Pasted%20image%2020231112130045.png)
+
+## Flow Rate versus Flow Velocity
+
+The flow rate is the volume of fluid that moves through the system in a given period of time. This determines the speed at which the output 
+
+
 
 
 # Additional Content

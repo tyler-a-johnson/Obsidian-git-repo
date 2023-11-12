@@ -14,7 +14,11 @@ Relevant Links:
 # Maths and Distilled Info
 ---
 
+## Fundamental Laws of Hydraulics
+- When a force (F) is applied to an area (A) of an enclosed liquid, a pressure (P) is produced.
+$$\text{Pressure} = \frac{\text{Force}}{\text{Area}}$$
 
+Can be quoted in Bar, pounds per squa
 
 # Conceptual Info
 ---

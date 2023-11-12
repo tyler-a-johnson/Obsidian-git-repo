@@ -39,6 +39,11 @@ Most practical topologies require an energy storage element. Which also decouple
 
 ## Power Diodes
 ![](Attachments/Pasted%20image%2020231112153056.png)
+![](Attachments/Pasted%20image%2020231112153124.png)
+When diodes turn off they conduct current in the opposite direction for a short time. *Fast-recovery diodes have a small reverse-recovery time*
+
+## Thyristors
+Essentially a diode that can be toggled with a pulse to the 
 
 
 

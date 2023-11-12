@@ -53,7 +53,14 @@ Essentially a diode that can be toggled with a pulse to the gate.
 For a successful turn-off, reverse voltage required for an interval greater than the turn-off interval
 
 ## Electric Motors
-
+Electric motors presently used for speed control applications are:
+1. DC Excited
+	- Shunt
+	- Series
+	- Compound
+	- Separately excited
+	- Switched Reluctance Motors
+2. 
 
 # Additional Content
 ---

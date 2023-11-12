@@ -74,7 +74,7 @@ Essentially, higher velocity means lower pressure. High velocity fluid and gas c
 
 **Bernoulli's Equation**
 For any point along a flow tube or streamline:
-$$p + \frac{1}{2}p v^{2} + pgy = \text{Constant}$$
+$$p_{1} + \frac{1}{2}p v^{2}_{1} + pgy_{1} = p_{2}+\frac{1}{2}pv^{2}_{2} + pgy_{y}$$
 
 ![](Attachments/Pasted%20image%2020231112135714.png)
 ![](Attachments/Pasted%20image%2020231112135738.png)

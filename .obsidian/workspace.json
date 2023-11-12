@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3ebe86c631840670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -222,6 +209,7 @@
   },
   "active": "6edeee0de7f192da",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf",
     "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/~WRL2381.tmp",

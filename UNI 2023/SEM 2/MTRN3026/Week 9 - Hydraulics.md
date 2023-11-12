@@ -10,7 +10,7 @@ Relevant Notes:
 Practical Docs: 
 Relevant Links:
 ---
-
+[](Attachments/Week_4_Basic_Hydraulics(1).pdf)
 # Maths and Distilled Info
 ---
 

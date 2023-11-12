@@ -59,7 +59,7 @@ If we assume fluid is incompressible and a constant flow rate, we can assume a s
 $$Q_{1} = Q_{2}$$
 Therefore,
 $$V_{1} A_{1} = V_{2}A_{2}$$
-
+From the Continuity equation is shows that in a system with a steady flow rate, a reduction in area (pipe size) corresponds to an increase in flow velocity by the same factor.
 # Conceptual Info
 ---
 

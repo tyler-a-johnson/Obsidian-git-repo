@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "a11cb32c158ca6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc2b95eda5b9be85",
             "type": "leaf",
             "state": {
@@ -46,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md"
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md"
               }
             }
           },
@@ -233,8 +247,9 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "905cd46a8feb31f5",
+  "active": "a11cb32c158ca6ff",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
     "UNI 2023/SEM 2/MTRN3026/Drawing 2023-11-13 18.13.44.excalidraw.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted Image 20231113181359_633.png",
@@ -249,7 +264,6 @@
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231457.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231034.png",
     "Distilled Notes/Greek Letters and Symbols.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf",
     "Distilled Notes/The Continuity Equation.md",

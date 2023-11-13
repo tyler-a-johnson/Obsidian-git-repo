@@ -22,7 +22,7 @@ $$\int H.dl = \sum i = Ni$$
 $$H = \frac{i}{2\pi r}$$
 Where r is the distance of the point from the conductor
 
-### [Amperes Circuital Law](../../../Distilled%20Notes/Amperes%20Circuital%20Law.md): Coil around a core
+### Coil around a core
 ![Pasted image 20230724210132](Attachments/Pasted%20image%2020230724210132.png)
 $$H = \frac{Ni}{2\pi r}$$
 Where r is the radius of the core.
@@ -32,15 +32,16 @@ Where r is the radius of the core.
 Coils around a core will generate magnetic flux. Reluctance of the magnetic circuit element ($\mathscr{R}$). Its a measure of how difficult it is to establish magnetic flux in the element. With the **flux** in the core equal to: $$\phi = \frac{Ni}{\mathscr{R}}$$
 In a magnetic circuit, the **reluctance** is written as:
 $$\mathscr{R} = \frac{l}{\mu A}$$
+This is for a continuous core. Air gaps are covered in [Week 10 - Magnetics and Transformers](../ELEC2005/Week%2010%20-%20Magnetics%20and%20Transformers.md)
 
 $$\therefore Hl = \phi \mathscr{R}$$
 $$NI = \sum\limits^{\infty}_{n=1}(H_nl_n)$$
 ![Pasted image 20230724213315](Attachments/Pasted%20image%2020230724213315.png)
 
 
-## Amperes Law
+## [Amperes Circuital Law](../../../Distilled%20Notes/Amperes%20Circuital%20Law.md)
 ![Pasted image 20230724213509](Attachments/Pasted%20image%2020230724213509.png)
-Magnetic circuits also follow [Amperes Law](../../../Distilled%20Notes/Amperes%20Law.md), the sum of flux entering and exiting a point must be equal to zero.
+Magnetic circuits also follow Amperes Law. the sum of flux entering and exiting a point must be equal to zero.
 ![Pasted image 20230724213826](Attachments/Pasted%20image%2020230724213826.png)
 
 ## Magnetic Circuits

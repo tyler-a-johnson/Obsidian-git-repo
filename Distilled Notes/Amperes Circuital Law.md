@@ -20,3 +20,5 @@ Where r is the distance of the point from the conductor
 ![Pasted image 20230724210132](../UNI%202023/SEM%202/MTRN3026/Attachments/Pasted%20image%2020230724210132.png)
 
 $$H = \frac{Ni}{2\pi r}$$
+Magnetic circuits also follow Ampere's Law, the sum of flux entering and exiting a point must be equal to zero.
+![Pasted image 20230724213826](Attachments/Pasted%20image%2020230724213826.png)

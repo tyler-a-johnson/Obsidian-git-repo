@@ -96,7 +96,7 @@ We can generate flux using a coil around our medium.
 ## Coupled Coils
 ![Pasted image 20230725214306](Attachments/Pasted%20image%2020230725214306.png)
 **Time Domain:**
-$$v_{1}=L_{1} \frac{di_{1}{dt}} +L_{1,2} \frac{di_{2}}{dt}$$
+$$v_{1}=L_{1} \frac{di_{1}}{{dt}} + L_{1,2} \frac{di_{2}}{dt}$$
 $$v_{2}= L_{2,1} \frac{di_{1}}{dt} + L_{2} \frac{di_{2}}{dt}$$
 
 **Phasor Domain:**

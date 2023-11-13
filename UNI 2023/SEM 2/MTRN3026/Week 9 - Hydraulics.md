@@ -26,7 +26,7 @@ For SI units:
 1 Pascal = 1N/m^3
 1 Bar = 100,000 Pa = 10^5
 
-### [[Pascal's Law]]
+### [Pascal's Law](Distilled%20Notes/Pascal's%20Law.md)
 *The pressure in a confined fluid is transmitted equally to the whole surface of its container.*
 ![](Attachments/Pasted%20image%2020231112125150.png)
 I a downward force is applied to piston A it will be transmitted through the system to Piston B
@@ -62,7 +62,7 @@ Q = Flow rate ($\frac{m^{3}}{s}$)
 V = Flow velocity (m/s)
 A = Area (m^2)
 
-## [[The Continuity Equation]]
+## [The Continuity Equation](Distilled%20Notes/The%20Continuity%20Equation.md)
 If we assume fluid is incompressible and a constant flow rate, we can assume a steady flow. this means whatever volume of fluid flows through one section of the system must also flow through any other section.
 ![](Attachments/Pasted%20image%2020231112131353.png)
 $$Q_{1} = Q_{2}$$
@@ -75,7 +75,7 @@ From the Continuity equation is shows that in a system with a steady flow rate, 
 The outer black scale indicates pressure units of bar, and the inner red scale indicates pressure units in psi
 
 
-## [[Bernoulli's Principle]] and the Venturi Effect
+## [Bernoulli's Principle](Bernoulli's%20Principle) and the Venturi Effect
 
 Essentially, higher velocity means lower pressure. High velocity fluid and gas can create a low pressure region, 
 ![](Attachments/Pasted%20image%2020231112134622.png)

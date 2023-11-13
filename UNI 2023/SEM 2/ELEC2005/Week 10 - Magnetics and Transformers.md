@@ -207,7 +207,7 @@ $$\bar{V}_{2}=n_{2} \frac{d \bar{\Phi}}{dt} = j \omega n_{2} \bar{\Phi}$$
 $$\frac{\bar{V}_{1}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}} = a_{t}$$
 $a_{t}$ is the turns ratio
 
-Assume power is flowing left to right, then the secondary current is **+ve** if the [[Dot Convention (Transformers)]] is followed.
+Assume power is flowing left to right, then the secondary current is **+ve** if the [Dot Convention (Transformers)](Distilled%20Notes/Dot%20Convention%20(Transformers).md) is followed.
 
 ![](Attachments/Pasted%20image%2020231026174552.png)
 

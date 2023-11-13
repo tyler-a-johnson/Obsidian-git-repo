@@ -23,6 +23,21 @@ $$NI = \sum\limits^{\infty}_{n=1}(H_nl_n)$$
 
 
 
+## Coupled Coils
+![Pasted image 20230725214306](Attachments/Pasted%20image%2020230725214306.png)
+**Time Domain:**
+$$v_{1}=L_{1} \frac{di_{1}}{{dt}} + L_{1,2} \frac{di_{2}}{dt}$$
+$$v_{2}= L_{2,1} \frac{di_{1}}{dt} + L_{2} \frac{di_{2}}{dt}$$
+
+**Phasor Domain:**
+$$V_{1}=j\omega L_{1}I_{1}+j\omega L_{1,2}I_{2}$$
+$$V_{2}= j\omega L_{2,1}I_{1}+j\omega L_{2} I_{2}$$
+
+Where:
+$L_{1,2}= \pm k\sqrt{L_{1}L_{2}}$
+
+
+## Transformer Analysis
 
 
 
@@ -78,11 +93,11 @@ Here the reluctance is replaced with resistors, and our coil around the core is 
 ![Pasted image 20230724214738](Attachments/Pasted%20image%2020230724214738.png)
 
 
-## Inductor Voltage and Current in Steady State
+### Inductor Voltage and Current in Steady State
 ![Pasted image 20230724215308](Attachments/Pasted%20image%2020230724215308.png)
 The volt-seconds for a signal over period t is zero in steady state.
 
-## Capacitor Voltage and Current in Steady State
+### Capacitor Voltage and Current in Steady State
 ![Pasted image 20230724215447](Attachments/Pasted%20image%2020230724215447.png)
 Amp-Seconds over t of a periodic signal equals zero in steady state.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.51240158081055,
-    "collapsed": true
+    "width": 296.51240158081055
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md"
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md"
               }
             }
           },
@@ -237,6 +236,7 @@
   },
   "active": "905cd46a8feb31f5",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231113123708.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231113123620.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231113123150.png",
@@ -244,7 +244,6 @@
     "UNI 2023/SEM 2/MTRN3026/Attachments/~$Week_1c_(Transformer).ppt",
     "Distilled Notes/Amperes Circuital Law.md",
     "Distilled Notes/Amperes Law.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/~$Week-1b(Mechatronics_Systems) 1.ppt",
     "UNI 2023/SEM 2/MTRN3026/Attachments/~$Week-1a(Mechatronics_Systems).ppt",
     "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
@@ -254,7 +253,6 @@
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231457.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231034.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112230720.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112230542.png",
     "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",

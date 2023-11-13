@@ -142,7 +142,7 @@ Flux changes from phi 1 and phi 2. In time t.
 
 *Working principle:*
 1. When current in the primary coil changes being alternating in nature, a changing magnetic field is produced.
-2. This changing magnetic field gets associated with the secondary through the soft iron core.
+2. This changing magnetic field gets coupled with the secondary through the soft iron core, forming a magnetic circuit.
 3. Hence magnetic flux linked with the secondary coil changes.
 4. Which induces EMF in the secondary coil.
 
@@ -160,7 +160,7 @@ $$= 4f\Phi_{m}\text{ Wb/s or Volts}$$
 $$\text{Average e.m.f/turn} = 4f\Phi_{m} \text{Volt}$$
 
 Since flux varies sinusoidally, then r.m.s value of *induced emf* can be calculated by multiplying the average value with form factor.
-$$\text{Form Factor} = \frac{\text{r.m.s value}}{\text{average value}}=1.11$$
+$$\text{Form Factor} = \frac{\text{r.m.s value}}{\text{average value}} \approx 1.11$$
 Now rms value of the induced emf in the entire primary winding is this:
 $$E_{1}= 4.44 f N_{1}\Phi_{m}=4.44fN_{1}B_{m}A$$
 

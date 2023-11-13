@@ -38,6 +38,8 @@ $L_{1,2}= \pm k\sqrt{L_{1}L_{2}}$
 
 
 ## Transformer Analysis
+![](Attachments/Pasted%20image%2020231113123004.png)
+$$\frac{E_{1}}{N_{1}} = \frac{E_{2}}{N_{2}} = 4.44f \Phi m$$
 
 **Ideal Transformer**
 - **Zero Leakage flux:**
@@ -84,7 +86,19 @@ Now rms value of the induced emf in the entire primary winding is this:
 $$E_{1}= 4.44 f N_{1}\Phi_{m}=4.44fN_{1}B_{m}A$$
 
 ### Equivalent Circuit of Transformer
+![](Attachments/Pasted%20image%2020231113123150.png)
+**For No Load**
+$R_{0} = \frac{V_{1}}{I_{C}}$
+$X_{0} = \frac{V_{1}}{I_{m}}$
+$I_{m}=I_{0} \sin \phi_{0}$ (Magnetizing Component)
+$I_{c} = I_{0} \cos \phi_{0}$  (Active Component)
+Here $\phi$ Refers to the phase angle of the current (??)
 
+Here we have a circuit with primary and secondary sides. Denoted as 1 and 2 respectively. 
+We can transfer the components on the secondary side to the primary by accounting for the turns ratio of the ideal transformer.
+![](Attachments/Pasted%20image%2020231113123620.png)
+$a = \frac{N_{p}}{N_{s}}$
+![](Attachments/Pasted%20image%2020231113123708.png)
 
 
 ---
@@ -321,7 +335,7 @@ We can group inductors and resistors on primary and secondary sides. We can repr
 
 - The effect of circuit parameters shouldn't be changed while transferring the parameters from one side to another side.
 ```ad-attention
-It can be proved that a resistance of $R_{2}$ in sec. is equivalent to $\frac{R_{2}}{k^{2}}$ will be denoted as $R_{2}'$ (ie. Equivalent sec. resistance w.r.t primary) which would have caused the same loss as $R_{2}'$ in the secondary.
+It can be proved that a resistance of $R_{2}$ in secondary is equivalent to $\frac{R_{2}}{k^{2}}$ will be denoted as $R_{2}'$ (ie. Equivalent sec. resistance with respect to primary) which would have caused the same loss as $R_{2}'$ in the secondary.
 
 ```
 

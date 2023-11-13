@@ -38,8 +38,38 @@ $L_{1,2}= \pm k\sqrt{L_{1}L_{2}}$
 
 
 ## Transformer Analysis
+**Mathematical Induction:**
+*[Faraday's Law](../../../Distilled%20Notes/Faraday's%20Law.md):*
+$$\epsilon = \frac{d \phi}{dt}$$
 
+*[Lenz's Law](Lenz's%20Law)* (for N turns)
+$$\epsilon = - N\frac{d \phi}{dt}$$
+$$\epsilon = -N \frac{\phi_{2}-\phi_{1}}{t}$$
+Flux changes from phi 1 and phi 2. In time t.
 
+*Working principle:*
+1. When current in the primary coil changes being alternating in nature, a changing magnetic field is produced.
+2. This changing magnetic field gets coupled with the secondary through the soft iron core, forming a magnetic circuit.
+3. Hence magnetic flux linked with the secondary coil changes.
+4. Which induces EMF in the secondary coil.
+
+### EMF Equation of a Transformer
+![Pasted image 20230726184500](Attachments/Pasted%20image%2020230726184500.png)
+let:
+$N_1$  = Number of Primary turns
+$N_2$ = Number of Secondary turns
+$\Phi_m$  = Maximum flux in core (**Webers**)
+$f$ = Frequency of AC input (Hz)
+
+The above graph shows us that flux increases from its minimum to its maximum ($\Phi_m$) in a quarter of a cycle ($\frac{1}{4f}$ Seconds ).
+$$\text{This means our Average rate of change (flux) }= \frac{\Phi_{m}}{\frac{1}{4f}}$$
+$$= 4f\Phi_{m}\text{ Wb/s or Volts}$$
+$$\text{Average e.m.f/turn} = 4f\Phi_{m} \text{Volt}$$
+
+Since flux varies sinusoidally, then r.m.s value of *induced emf* can be calculated by multiplying the average value with form factor.
+$$\text{Form Factor} = \frac{\text{r.m.s value}}{\text{average value}} \approx 1.11$$
+Now rms value of the induced emf in the entire primary winding is this:
+$$E_{1}= 4.44 f N_{1}\Phi_{m}=4.44fN_{1}B_{m}A$$
 
 
 

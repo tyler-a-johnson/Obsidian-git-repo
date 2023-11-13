@@ -108,7 +108,7 @@ $L_{1,2}= \pm k\sqrt{L_{1}L_{2}}$
 
 ### Example
 ![Pasted image 20230725215001](Attachments/Pasted%20image%2020230725215001.png)
-$$Z_{in} = \text{voltage multiplier} + j\omega L_{1}\{ 1-k^2 \}$$
+$$Z_{in} = \text{voltage divider} + j\omega L_{1}\{ 1-k^2 \}$$
 
 For ideal transformer:
 $$Z_{in}= R_{L} \frac{L_{1}}{L_{2}}$$

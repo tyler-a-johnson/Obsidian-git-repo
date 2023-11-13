@@ -38,6 +38,18 @@ $L_{1,2}= \pm k\sqrt{L_{1}L_{2}}$
 
 
 ## Transformer Analysis
+
+**Ideal Transformer**
+- **Zero Leakage flux:**
+	- Flux produced by the primary AND secondary currents are confined within the core
+- **The windings have no resistance:**
+	- Induced voltages equal applied voltages
+- **The core has infinite permeability:**
+	- Reluctance of the core is zero
+	- Negligible current is required to establish magnetic flux
+- **Loss-Less magnetic core**
+	- No Hysteresis or eddy currents.
+
 **Mathematical Induction:**
 *[Faraday's Law](../../../Distilled%20Notes/Faraday's%20Law.md):*
 $$\epsilon = \frac{d \phi}{dt}$$
@@ -71,6 +83,7 @@ $$\text{Form Factor} = \frac{\text{r.m.s value}}{\text{average value}} \approx 1
 Now rms value of the induced emf in the entire primary winding is this:
 $$E_{1}= 4.44 f N_{1}\Phi_{m}=4.44fN_{1}B_{m}A$$
 
+### Equivalent Circuit of Transformer
 
 
 
@@ -287,7 +300,6 @@ $$\frac{E_1}{N_{1}}= \frac{E_{2}}{N_{2}} = 4.44f\Phi_{m}$$
 (a) is a transformer with no load.
 (b) Is a phasor diagram of a loadless transformer. Plotted on a $\phi$ axis.
 Primary current $I_{0}$ is represented as a vector.
-#todo 
 ### Transformer on Load - Assuming no voltage drop in the winding
 ![Pasted image 20230727154124](Attachments/Pasted%20image%2020230727154124.png)
 ![Pasted image 20230727154137](Attachments/Pasted%20image%2020230727154137.png)

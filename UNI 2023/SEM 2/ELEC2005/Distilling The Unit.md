@@ -1,13 +1,8 @@
 ---
-date: 2023-11-02
-tags: []
-status: Incomplete
-Relevant Docs: []
-Relevant Questions: []
-Relevant Notes: []
-Practical Docs: 
-Relevant Links:
+classoption:
+  - twocolumn
 ---
+
 
 # Prereq and Basics
 
@@ -74,7 +69,6 @@ We can improve this using piecewise functions to generalize non-linearity
 
 
 ## Analysis
-
 ### Assumed States
 *In a circuit with a number of diodes n*
 - Assume a state for each diode (ON/OFF)(Closed/Open)
@@ -103,6 +97,7 @@ $I_{DQ} \approx 1.3mA$
 - Q stands for **quiescent** i.e. quiet or no-signal point
 ![Pasted image 20230801163315](Attachments/Pasted%20image%2020230801163315.png)
 *If the Q point is known (using the nonlinear diode characteristic), the linear AC analysis method can be applied to find the response to small **(AC) signals.**
+
 ![Pasted image 20230801163907](Attachments/Pasted%20image%2020230801163907.png)
 $$i_{D}(t) = I_{DQ}+i_{d}(t)$$
 $$i_{d}(t) = I_{d}\cos(2\pi ft - 90\degree)$$
@@ -110,8 +105,10 @@ $$i_{d}(t) = I_{d}\cos(2\pi ft - 90\degree)$$
 
 ![Pasted image 20230805111017](Attachments/Pasted%20image%2020230805111017.png)
 
-
-
+$$i_{d} = \frac{I_{D}}{nV_{T}} v_{d}$$
+$$i_{d} = \frac{v_{d}}{r_{d}}$$
+$$r_{d} = \frac{nV_{T}}{I_{D}}$$
+$$v_{d} = r_{d} i_{d}$$
 
 ## Zener Diode
 Zener diodes are designed to work at the reverse breakdown region. These diodes use this as expected behaviour.
@@ -215,7 +212,6 @@ This gives us our operating point that allows that irrespective of AC swing the 
 In the active region we can use a constant voltage (base side) and constant current (collector side) approximation
 ![](Attachments/Pasted%20image%2020231106183049.png)
 ![](Attachments/Pasted%20image%2020231106183101.png)
-
 ![](Attachments/Pasted%20image%2020231106185802.png)
 ![](Attachments/Pasted%20image%2020231106190907.png)
 
@@ -228,13 +224,14 @@ At a **constant current** the voltage decreases by approximately **2mV** for eve
 
 ```
 
+Thermal voltage at room temp is 25mV
+
 ## BJT Amplifier and DC Biasing
 We can use $V_{BE}$ to **Bias the transistor into active mode**
 ![Pasted image 20231002171854](Attachments/Pasted%20image%2020231002171854.png)
 $$I_{C}=I_{S}e^{V_{BE}/V_T}$$
 $$V_{CE}=V_{CC}-R_{C}I_{S}e^{V_{BE}/V_T}$$
 
-![Pasted image 20231002172050](Attachments/Pasted%20image%2020231002172050.png)
 
 **Small Signal Voltage Gain:**
 ![Pasted image 20231002172150](Attachments/Pasted%20image%2020231002172150.png)
@@ -277,7 +274,6 @@ $$g_{m}= \frac{I_{C}}{V_{T}}$$
 
 ## Small Signal AC
 ![Pasted image 20231002175400](Attachments/Pasted%20image%2020231002175400.png)
-![Pasted image 20231002175413](Attachments/Pasted%20image%2020231002175413.png)
 $$i_{c}= g_{m}v_{be}$$
 $$i_{b}= \frac{i_{c}}{\beta}=\frac{g_m}{\beta}v_{be}$$
 $$r_{\pi} = \frac{v_{be}}{i_b}$$
@@ -306,7 +302,6 @@ $$r_{e} = \frac{V_{T}}{I_{E}}=\frac{\alpha V_{T}}{I_{C}}=\frac{\alpha}{g_{m}} \a
 	- **Semiconductor** - Commonly fabricated on silicon (Although SiGe can be used)
 	- **Field Effect** - Applying a voltage between the gate and body terminals creates an electric field which penetrates the oxide and creates an inversion layer at the semiconductor interface.
 ## Device Operation
-![Pasted image 20231002212203](Attachments/Pasted%20image%2020231002212203.png)
 - Channel is induced when **gate source voltage exceeds the threshold voltage** (Given, around 1V)
 - Additional voltage beyond the threshold point is the **overdrive**
 $$v_{GS} > V_{t}\text{ (Threshold Voltage)}$$
@@ -327,23 +322,20 @@ $k_{n}=\mu_{n}C_{ox} \frac{W}{L}$
 
 
 ## P-Channel MOSFET
-![Pasted image 20231002214522](Attachments/Pasted%20image%2020231002214522.png)
+
 ![Pasted image 20231002214612](Attachments/Pasted%20image%2020231002214612.png)
 
 
 
 ## N - Channel MOSFETS
 ![Pasted image 20231002212944](Attachments/Pasted%20image%2020231002212944.png)
-![Pasted image 20231002213643](Attachments/Pasted%20image%2020231002213643.png)
 ![Pasted image 20231002213954](Attachments/Pasted%20image%2020231002213954.png)
 **Triode Mode when**
 $$V_{DS}<V_{OV}$$
 
 **Saturation mode when**
 $$V_{DS}\geq V_{OV}$$
-
 **MOSFETS** amplify in Saturation Mode
-
 **BJT** Amplify in Active Mode
 
 ## Voltage Gain
@@ -403,18 +395,12 @@ $$v_{gs} \leq \frac{0.2}{|A_{v}|+1}=13.3mV$$
 
 ## Small Signal Approximation - Saturation Region
 Similar technique for linearization as for the exponential diode and the BJT. No need for [Taylor Series](../../../Distilled%20Notes/Taylor%20Series.md).
-
 $v_{GS} = V_{GS}+v_{gs}$
-
 $i_{D} = I_{D}+i_{d}$
-
-$i_{D =\frac{}1}{2} k_{n}(v_{GS}-V_{t})^2$
-
+$i_{D} =\frac{1}{2} k_{n}(v_{GS}-V_{t})^2$
 If $v_{gs} <<2(V_{GS}-V_{t})$
 
-
 $$i_{D} \approx \frac{1}{2}k_{n}(V_{GS}-V_{t})^{2}+k_{n}(V_{GS}-V_{t})v_{gs}$$
-
 $$i_{d} = g_{m}v_{gs}$$
 $$g_{m}=k_{n}(V_{GS}-V_{t})$$
 
@@ -464,7 +450,6 @@ $v > V_{t}$              $i = \frac{1}{2} \mu_{n} C_{o x} \frac{W}{L}(v-V_{t})^2
 # Power Semiconductors
 ## Power Diodes
 Power diodes differ from signal diodes in their construction, instead of a simple PN junction, there are extra layers with different doping
-![Pasted image 20231002232501](Attachments/Pasted%20image%2020231002232501.png)
 ### Parameters
 - Diodes have several key parameters, some of which are constant and some which vary with condition
 - **Voltage Rating** - Max instantaneous voltage the device can block in the off state
@@ -478,7 +463,7 @@ Power diodes differ from signal diodes in their construction, instead of a simpl
 - There is an **additional charge** $Q_\pi$ that needs to be supplied to complete turn-off. The diode conducts a **negative current for duration** $t_\pi$ .
 - Known as **Reverse Recovery**
 - Power diodes are classified based on their reverse recovery characteristics. General/Fast-Recovery/Shottky
-![Pasted image 20231002234146](Attachments/Pasted%20image%2020231002234146.png)
+
 ### Diode Types
 - **General Purpose Diode**
 	- Relatively high $t_\pi$ (~25 microseconds)
@@ -524,19 +509,15 @@ $$V_{BE} = V_{BE1}+V_{BE2}$$
 
 ## Power MOSFETs
 - Power MOSFETs are the most common power semiconductor
-- Power MOSFETs are designed to handle higher power levels
 - High switching speed 
 - Good low voltage efficiency
 - Often low gain
 - Commonly used for "low voltage" switching (<200V)
-### Structure
-![Pasted image 20231002235746](Attachments/Pasted%20image%2020231002235746.png)
 
 - Made using silicon and fabricated as a vertical diffused MOS structure
 - Source is above the drain, current flow is primarily vertical
 - Vertical structure means that the *voltage rating depends on the doping and thickness of the N+ Layers* whilst the **current depends on the channel width.**
 - This design allows for **higher currents** and *power ratings* than the traditional lateral MOSFET.
-
 
 - Typically up to 200V
 - Current to ~100A
@@ -667,8 +648,6 @@ $$p(t) = VI_{R} \{1+\cos[2(\omega t + \delta)]\} + VI_{X}\sin[2(\omega t + \delt
 
 $$\cos (\phi)\text{ Is the power factor}$$
 ### Example: Purely Resistive Load
-
-![Pasted image 20231003153000](Attachments/Pasted%20image%2020231003153000.png)
 ![Pasted image 20231003153027](Attachments/Pasted%20image%2020231003153027.png)
 $$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
 $$i(t) = \frac{v(t)}{R}$$
@@ -677,25 +656,24 @@ $$P = \frac{V^2}{R}$$
 
 
 ### Example: Purely Inductive Load
-![Pasted image 20231003153328](Attachments/Pasted%20image%2020231003153328.png)
 ![Pasted image 20231003153337](Attachments/Pasted%20image%2020231003153337.png)
 $$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
 $$v(t) = L \frac{di(t)}{dt}$$
 $$i(t) = \frac{1}{L}\int^{t}_{0}v(t) dt$$
-
 $$i(t) = \frac{\sqrt{2}V}{\omega L}\cos(\omega t + \delta - \frac{\pi}{2})$$
 $$\phi = \frac{\pi}{2}$$
-
-
 $$P = 0$$
 $$Q = \frac{V^{2}}{\omega L}\sin(\frac{\pi}{2})=\frac{V^{2}}{\omega L}$$
 
 
 ### Example: Purely Capacitive Load
-![Pasted image 20231003153920](Attachments/Pasted%20image%2020231003153920.png)
 ![200](Attachments/Pasted%20image%2020231008201052.png)
 $$v(t) = \sqrt{2}V \cos(\omega t + \delta)$$
 $$i(t) = C \frac{dv(t)}{dt}$$
+$$i(t) = \sqrt{2} \omega CV \cos(\omega t + \delta + \frac{\pi}{2})$$
+Where $\phi = -\frac{\pi}{2}$
+
+$$Q = \omega CV^{2}\sin(- \frac{\pi}{2})=-\omega CV^{2}$$
 
 ```ad-note
 title: Sine and Cosine
@@ -705,19 +683,9 @@ $$\cos(\omega t) = \sin(\omega t + \frac{\pi}{2})$$
 
 ```
 
-
-
-$$i(t) = \sqrt{2} \omega CV \cos(\omega t + \delta + \frac{\pi}{2})$$
-Where $\phi = -\frac{\pi}{2}$
-
-$$Q = \omega CV^{2}\sin(- \frac{\pi}{2})=-\omega CV^{2}$$
-
-
 ## Phasors
-
 **Assumption**
 - Constant frequency, i.e. $\omega = 2 \pi f$ is fixed
-
 ```ad-note
 **Reminder**: $V$ is $V_{rms}$.
 
@@ -725,7 +693,6 @@ $\sqrt{2}V$ is $V_{max}$
 
 ```
 $V=\frac{V_{max}}{\sqrt{2}}$
-
 Cosinusoidal quantity quantity x(t) (Voltage, current, whatever) characterised by:
 - Maximum value $X_{M}$
 - Phase angle $\delta$
@@ -754,6 +721,7 @@ $$= \sqrt{2}V \cos(\omega t + \delta)$$
 We use $V = \frac{V_{max}}{\sqrt{2}}$. This may be different to other units, and is a convention in electrical engineering.
 ```
 
+
 ### Phasor Operations
 ![Pasted image 20231003175819](Attachments/Pasted%20image%2020231003175819.png)
 **Polar Form**
@@ -769,33 +737,12 @@ $$\bar{Y}=a+jb$$
 $$\bar{Z}=c+jd$$
 $$\bar{X}=\bar{Y}\pm \bar{Z}$$
 $$= (a \pm c) + j(b\pm d)$$
-
-
-Given: $v(t) = \sqrt{2}V\cos(\omega t + \delta)$
-### Phasor Operations
-![Pasted image 20231003175819](Attachments/Pasted%20image%2020231003175819.png)
-**Polar Form**
-Coordinates ($V, \delta$) Useful for multiplication and division
-$$\bar{X} = \bar{Y}\bar{Z} = Ye^{j \alpha} Ze^{j \beta}$$
-$$=(YZ)e^{j(\alpha+\beta)}$$
-$$\bar{X} = \frac{\bar{Y}}{\bar{Z}}= \frac{Ye^{j \alpha}}{Ze^{j \beta}}= (\frac{Y}{Z})e^{j(\alpha-\beta)}$$
-
-**Rectangular Form**
-Coordinates (Re$[\bar{V}]$, Im$[\bar{V}])$
-Useful for addition and subtraction:
-$$\bar{Y}=a+jb$$
-$$\bar{Z}=c+jd$$
-$$\bar{X}=\bar{Y}\pm \bar{Z}$$
-$$= (a \pm c) + j(b\pm d)$$
-
 
 Given: $v(t) = \sqrt{2}V\cos(\omega t + \delta)$
 $$\frac{dv(t)}{dt} \rightarrow j \omega V e^{j \omega}$$
 ***Derivation in the time domain is multiplication by jw in the frequency domain***
-
 $$\int v(t) dt \rightarrow \frac{V}{j \omega}e^{j \delta}$$
 ***Integrationin the time domain is division by jw in the frequency domain***
-
 ![Pasted image 20231003181150](Attachments/Pasted%20image%2020231003181150.png)
 ![Pasted image 20231003181337](Attachments/Pasted%20image%2020231003181337.png)
 
@@ -827,10 +774,8 @@ Using RMS phasor approach, determine the time domain expression for the current 
 ## Complex Power
 Power definition in the time-domain **instantaneous power**
 $$p(t) = v(t)i(t)$$
-
 Power definition in the phasor domain **complex power**
 $$\bar{S} = \bar{V}\bar{I}* = VIe^{j(\delta-\beta)}=VI\cos(\delta-\beta)+jVI\sin(\delta-\beta)=P+jQ$$
-
 **Where:**
 $\bar{S}=Ve^{j \delta}$ and $\bar{I}=Ie^{j \beta}$ are the voltage and current rms phasors, 
 and $\bar{I}*$ is the complex conjugate of $\bar{I}$ , i.e. ($\bar{I}* = Ie^{-j \beta}$)
@@ -885,9 +830,7 @@ $$C = \frac{|Q_{C}|}{\omega V^{2}}= \frac{P(\tan \theta_{1} - \tan \theta_{2})}{
 
 ### Capacitive Load Example
 If the load is capacitive, and we want to increase power factor, then a shunt inductor can be used.
-
 $$L = \frac{V^{2}}{\omega Q_{L}} = \frac{V^{2}}{\omega(Q_{1}-Q_{2})}$$
-
 ![Pasted image 20231003192249](Attachments/Pasted%20image%2020231003192249.png)
 
 # 3 Phase AC Power
@@ -910,23 +853,15 @@ $$Z_{AN}=Z_{BN}=Z_{CN}=Z_{Y}$$
 | $\bar{E}_{bn}=Ee^{-j \frac{2}{3} \pi}$  | $\bar{V}_{bc}=\bar{E}_{bn}-\bar{E}_{cn} = \sqrt{3}\bar{E}_{bn}e^{j \frac{\pi}{6}}$     |
 | $\bar{E}_{cn} = Ee^{j \frac{2}{3} \pi}$ | $\bar{V}_{ca}= \bar{E}_{cn} - \bar{E}_{an} = \sqrt{3}\bar{E}_{cn}e^{j \frac{\pi}{6}}$                                                                                        |
 
-
-
-
 ### Balanced Line to Neutral Voltages
-
 **Balanced Conditions:**
 $$\bar{E}_{an}+\bar{E}_{bn}+\bar{E}_{cn}= 0$$
-
 **KVL:**
 $$\bar{V}_{ab}+\bar{V}_{bc}+ \bar{V}_{ca}= 0$$
 Sum of line to line voltage is **always zero**.
 
 ### Balanced Line Currents
-![Pasted image 20231006001657](Attachments/Pasted%20image%2020231006001657.png)
-
 $$\bar{I}_{a} = \frac{\bar{E}_{an}}{Z_{Y}}, \bar{I}_{b}= \frac{\bar{E}_{bn}}{Z_{Y}},\bar{I}_{c}=\frac{\bar{E}_{cn}}{Z_{Y}}$$
-
 **KCL** node N : $\bar{I}_{a}+\bar{I}_{b}+\bar{I}_{c}-\bar{I}_{N}=0$
 **Balanced conditions**: $\bar{I}_{N}=0$
 
@@ -951,7 +886,6 @@ $$\bar{I}_{a}= \sqrt{3}_{AB}e^{-j \frac{\pi}{6}}= \sqrt{3} \frac{\bar{V}_{AB}}{Z
 $\bar{I}_{a}$ is the same in both circuits if: $Z_{Y}=\frac{Z \Delta}{3}$
 
 ## Power in Balanced $3 \phi$ circuits
-
 ### Instantaneous Power
 Instantaneous power for phase a:
 ![|600](Attachments/Pasted%20image%2020231006005034.png)
@@ -959,20 +893,14 @@ $$v_{an}(t) = \sqrt{2}V_{LN}\cos(\omega t + \delta)$$
 $$i_{a}(t) = \sqrt{2}I\cos(\omega t + \beta)$$
 $$p_{a}(t) = v_{an}(t)i_{a}(t)$$
 $$=V_{LN}I\cos(\delta-\beta)+V_{LN}I\cos(2 \omega t + \delta + \beta)$$
-
 In the same way, power for **phase b and c can be calculated**
-
 The instantaneous $3\phi$ power is:
 $$p_{3 \phi}(t) = p_{a}(t) + p_{b}(t)+p_{c}(t) = 3V_{LN}I \cos(\delta-\beta)=\sqrt{3}V_{LL}I\cos(\delta-\beta)$$
-
 $P_{3 \phi} = constant$
-
 $3 \phi$ is instant. **POWER IS NOT A FUNCTION OF TIME**
 
 ### Complex Power
-
 #### Complex power in balanced $3 \phi$ Connected Circuits
-
 **Complex Power for Phase A:**
 $$\bar{V}_{an}=V_{LN}e^{j \delta},\bar{I}_{a}=Ie^{j \beta}$$
 $$\bar{S}_{a}=\bar{V}_{an}\bar{I}_{a}*=V_{LN}e^{j \delta}Ie^{-j \beta}=V_{LN}Ie^{j(\delta-\beta)}$$
@@ -1003,7 +931,6 @@ $\mu_r$ = Relative Permeability
 
 ## Coil Around a Core
 Induced by a change in flux   
-![Pasted image 20231019222901](app://70d1fe8a7ad209c44d732274e681729e5a5b/C:/Users/dropb/Documents/Repo/ObsidianRepo/Distilled%20Notes/Attachments/Pasted%20image%2020231019222901.png?1697714941379)
 
 **One turn**
 $$v_{turn}(t) = \frac{\Delta \Phi}{\Delta t}$$
@@ -1052,10 +979,11 @@ $v(t) = \left(\frac{n^{2}}{\mathscr{R}_{c}+\mathscr{R}_{g}}\right) \frac{\Delta 
 
 # Transformer
 ![Pasted image 20231020004042](Attachments/Pasted%20image%2020231020004042.png)
+
 **Ideal Transformer** $\mathscr{R} = 0$
 $0 = n_{1} i_{1} + n_{2} i_{2}$
 
-**Faraday's Law:**$$
+*Faraday's Law:*$$
  \delta(t) = \begin{cases} 
       v_{1}=n_{1} \frac{\Delta\Phi}{\Delta t} \\
       v_{2}=n_{2} \frac{\Delta \Phi}{\Delta t}\\
@@ -1064,12 +992,12 @@ $$
 ![](Attachments/Pasted%20image%2020231026171624.png)
 $$\frac{\Delta \Phi}{\Delta t}=\frac{v_{1}}{n_{1}}=\frac{v_{2}}{n_{2}}\rightarrow \frac{v_{1}}{v_{2}}=\frac{n_{1}}{n_{2}}$$
 
-**Actual Transformer $\mathscr{R}>0$**
+
+**Actual Transformer:** $\mathscr{R}>0$  Magnetizing Inductance $L_{m}$
 $$\mathscr{R}\Phi=n_{1}i_{1}+n_{2}i_{2}$$
 $$\Phi= \frac{n_{1}i_{1}+n_{2}i_{2}}{\mathscr{R}}$$
 
 ![](Attachments/Pasted%20image%2020231026172014.png)
-
 **Faraday's Law**
 $$v_{1}=n_{1} \frac{d \Phi}{d t} = \frac{n_{1}^{2}}{\mathscr{R}} \frac{d}{d t} \left( i_{1} + \frac{n_{2}}{n_{1}} i_{2}\right)$$
 $$v_{1}=\frac{n_{1}^{2}}{\mathscr{R}} \frac{d}{dt} \left( i_{1} + \frac{n_{2}}{n_{1}}i_{2} \right)$$
@@ -1082,36 +1010,15 @@ $i_{M}$ grows at constant rate, i.e. the primary sees a short-circuit
 
 Secondary Disconnected $(i_{2}=0)$
 
-![](Attachments/Pasted%20image%2020231026172812.png)
-
-```ad-summary
-- Transformers change voltage/current level between two circuits
-- Ideal transformer ($\mathscr{R} = 0$): $n_{1}+i_{1}+n_{2}i_{2} = 0$
-- Actual transformer ($\mathscr{R} > 0$): $n_{1}i_{1}+n_{2}i_{2} = \mathscr{R} \Phi \rightarrow \mathscr{R} \Phi = n_{1}i_{M}$
-	- $n_{1}i_{M}$ is the magneto motive force establishing flux $\Phi$ in the core
-	- $n_{1}i_{M}$ is the amount of by which $n_{1}i_{1}+n_{2}i_{2} \neq 0$
-- Alternative way to represent actual transformer, based on:
-
-$n_{1} i_{1} + n_{2} i_{2} = n_{1}i_{M} \rightarrow n_{1}(i_{1}-i_{M})+n_{2}i_{2}=0$
-![](Attachments/Pasted%20image%2020231026173532.png)
-Often its posed $i_{1}-i_{M}=i_{1}'$
-```
-
-
 ## Transformers in AC Circuits
-![](Attachments/Pasted%20image%2020231026173847.png)
+
+**Ideal Transformer**
 $$\bar{V}_{1} = n_{1} \frac{d \bar{\Phi}}{dt} = j \omega n_{1} \bar{\Phi}$$
 $$\bar{V}_{2}=n_{2} \frac{d \bar{\Phi}}{dt} = j \omega n_{2} \bar{\Phi}$$
 
 $$\frac{\bar{V}_{1}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}} = a_{t}$$
 $a_{t}$ is the turns ratio
 
-Assume power is flowing left to right, then the secondary current is **+ve** if the [[Dot Convention (Transformers)]] is followed.
-
-![](Attachments/Pasted%20image%2020231026174552.png)
-
-
-![](Attachments/Pasted%20image%2020231026175328.png)
 **- Complex power entering winding 1 equals the complex power exiting winding 2.**
 $\bar{S}_{1} = \bar{S}_{2}$
 
@@ -1124,45 +1031,44 @@ $$n_{1}\bar{I}_{1}=n_{2}\bar{I}_{2}\rightarrow \frac{\bar{I}_{1}}{\bar{I}_{2}} =
 *Impedance $Z_{2}=\frac{\bar{V}_{2}}{\bar{I}_{2}}$ seen from winding 1
 $$Z_{2}' = \frac{\bar{V}_{1}}{\bar{I}_{1}} = \frac{a_{t}\bar{V}_{2}}{\frac{\bar{I}_{2}}{a_{_{t}}}} = a_{t}^{2}Z_{2}$$
 
-### Practical Transformers
+
+## Practical Transformers
 *Magnetic core reluctance $\mathscr{R}>0$*
 
 ![](Attachments/Pasted%20image%2020231029143042.png)
 
 $$\bar{V} = n \frac{d \bar{\Phi}}{dt} \rightarrow \frac{\bar{V}_{1}}{\bar{V}_{2}} = \frac{n_{1}}{n_{2}} = a_{t}$$
 $$n_{1} \bar{I}^{'}_{1} = n_{2} \bar{I_{2}} \rightarrow \frac{\bar{I}_{1}}{\bar{I}_{2}} = \frac{n_{2}}{n_{1}} = \frac{1}{a_{t}}$$
-
 *With core reluctance>0 and windings leak some flux outside core.*
-
 - Flux is leaked outside the core by each winding $\Phi_{l_{1}}$, ${\Phi_{l_{2}}}$
 - Leaked flux is modelled by leakage inductance $L_{l1}$, $L_{l_{2}}$
 - R1 and R2 represent winding's copper losses
-
 ![](Attachments/Pasted%20image%2020231029143738.png)
 
-
 *Core reluctance > 0, windings leak flux, and core dissipates active power (Hysteresis)*
-
 - Due to Hysteresis of the B-H curve, energy is dissipated inside the core to create magnetizing flux
 - Energy loss in the magnetization process is represented by an additional shunt resistance $R_{M}$ in parallel with $L_{m}$
 ![](Attachments/Pasted%20image%2020231029144118.png)
 
+## Example
+![](Attachments/Pasted%20image%2020231029144421.png)
+![](Attachments/Pasted%20image%2020231029144435.png)
 
 
-# Fundamentals of Renewable Energy and Solar Photovoltaic
+# Renewable and Solar
 
-**Load Convention**
-Without Light
+### Load Convention
+**Without Light**
 $$i = I_{0}(e^{x}-1)$$
 note that $x \propto v$
 
-When light is shone on the "diode"
+**When light is shone on the "diode"**
 $$i = I_{0}(e^{x}-1) - \text{const}$$
+
 $\text{const} = I_{sc}$
 
-**Generator Convention**
-$$i = -I_{0}(e^{x}-1) +I_{sc}$$
-![](Attachments/Pasted%20image%2020231026192156.png)
+## Anti-Parallel Diode Model
+![](Attachments/Pasted%20image%2020231026192503.png)
 $$I = I_{sc}-I_{d}$$
 $$I = I_{sc} - I_{0} (e^{\frac{qV}{kT}}-1)$$
 
@@ -1176,3 +1082,108 @@ $I = I_{sc} - I_{0}(e^{38.9V}-1)$
 
 For $I = 0, V=V_{oc}$
 $$V_{oc} = \frac{kT}{q}\ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$$
+
+At 25C for $I=0$
+$0=I_{sc}-I_{0}(e^{38.9V_{oc}}-1)$
+$V_{oc} = 0.0257 \ln\left( \frac{I_{sc}}{I_{0}}+1 \right)$
+- Isc varies proportionally with irradiation
+- Voc varies logarithmically with irradiation (does not change much)
+
+![](Attachments/Pasted%20image%2020231026195224.png)
+
+The PV module delivers the maximum power only at one operating point (MPP)
+$V = V_{R}, I=I_{R}$
+
+
+### Inclusion of $R_{s}$ and $R_{p}$: PV Module i-v curve
+![](Attachments/Pasted%20image%2020231026205101.png)
+$$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V_{d}}{R_{p}}$$
+Where the $I_{0}$ portion is $I_{d}$, and the fraction at the end is $I_{p}$
+
+$V = V_{d}-R_{s}I$
+
+$V_{\text{module}}=n(V_{d}-R_{s}I)$
+$$=I_{sc} - I_{0} \left( e^{\frac{q(V+R_{s}I)}{kT}}-1 \right)-\frac{V+R_{s}I}{R_{p}}$$
+
+
+### Impact of Shading (using non-ideal PV cell circuit)
+![](Attachments/Pasted%20image%2020231026210422.png)
+**Full sun**
+- All cells produce I
+- PV module voltage V
+
+**One cell is shaded**
+- Fully shaded cell produces no current $I_{sc} = 0$
+- Shaded cell diode is reverse biased
+- PV module voltage V < Vsh
+$V-V_{SH} = \Delta V$: PV Module voltage reduction due to shading on one cell
+
+- n-1 cells in full sun: Generator.
+$V_{n-1} = V (\frac{n-1}{n})$
+
+- n-th shaded cell: $R_{p} + R_{s}$ load resistor (Rp>>Rs)
+-  Shaded cell absorbs power $R_{p}I^{2}$
+- Shaded cells heat up because of power absorption
+
+$$\Delta V = V - V_{SH} = V - V (\frac{n-1}{n}) + (R_{p} + R_{s})I = V/n + (R_{p} + R_{s}) = I$$
+
+#### Bypass Diodes
+*Shading effect mitigation:* 
+![](Attachments/Pasted%20image%2020231026210923.png)
+**Without Bypass Diode:**
+- Current flows through $R_{p}+R_{s}$
+- Shaded cell causes large voltage reduction
+- Shaded cell voltage $(R_{s}+R_{p})I$ is large
+
+**WITH Bypass Diode:**
+- Current flow is diverted through BP -diode
+- Shaded cell causes small voltage reduction
+- Shaded cell voltage is small (typically 0.5 - 1V)
+
+## Peak Power Operation
+- We want to operate the array at the max power point (MPP)
+- The maximum power is extracted by the PV module as long as it operates at $V_{mpp}$
+$$\eta = \frac{V_{mpp}*I_{mpp}[W]}{1000\left[ \frac{W}{m^{2}} \right] * \text{Area}[m^{2}]}$$
+
+
+# Batteries
+- **Energy Density:** Energy stored per unit of mass volume, in $Wh/kg$ or $Wh/m^3$
+- **Power Density:** Max rate of energy discharge per unit mass or volume in $W/kg$ or $W/m^3$
+- **Capacity:** Amount of charge deliverable by a battery in a discharge cycle in $Ah$
+- **Life:** number of discharge/recharge cycles at the rated capacity
+
+## Energy Density and Power Density
+**Lead Acid**
+$Q = 80Ah$  $V = 12V$  $m = 31kg$  $v=10dm^{3}$   $R_{int}=37.5 m \Omega$
+![](Attachments/Pasted%20image%2020231031143628.png)
+$W = 12V 80Ah = 960Wh$
+
+$\frac{W}{m} = \frac{960Wh}{31kg} = 31 \frac{Wh}{kg}$ **Specific Energy (energy density)**
+
+$P_{max} = \frac{\left( \frac{V}{2} \right)^{2}}{R_{load}} \approx 1kW$ **theoretical max power when $R_{load} = R_{int}$**
+
+$\frac{P_{max}}{m} = 32 \frac{W}{kg}$ **Specific power (power density)**
+
+![](Attachments/Pasted%20image%2020231031144307.png)
+
+
+## Equivalent Circuit
+![](Attachments/Pasted%20image%2020231031144834.png)
+A 200Ah battery
+- Delivers 10A for 20h
+- Delivers 50A for 4h
+
+### Discharge Rate
+- Rate at which charge is taken out of the battery
+- Example: discharge rate for 200Ah battery
+	- 1h is 1C = 200Ah (1C --> 1 * 200A = 200A in 1 hr)
+	- 10h is 0.1C = 20A (0.1C --> 0.1 * 200A = 20A in 10hrs)
+	- 0.5h is 2C = 400A (2C --> 2 * 200A = 400A in 0.5h)
+![](Attachments/Pasted%20image%2020231031151346.png)
+- Min voltage depends on discharge rate
+- Higher discharge rates imply lower min voltage
+- Higher discharge rates imply lower discharge times
+
+### Typical charging profile
+Constant current - constant voltage charging profile (CC-CV)
+![](Attachments/Pasted%20image%2020231031152100.png)

@@ -99,7 +99,7 @@ $V = V_{R}, I=I_{R}$
 
 ### Fill Factor
 ![](Attachments/Pasted%20image%2020231026195932.png)
-- FF (Fill Factor) is the ratio between the maximum are fitting under the i-v curve and the $V_{oc}I_{sc}$ area.
+- FF (Fill Factor) is the ratio between the maximum area fitting under the i-v curve and the $V_{oc}I_{sc}$ area.
 - $FF = 70 - 75$% for cristalline Silicon (cSi) 
 - $FF = 50-60$% for amorphous and multicristalline silicon PV Modules
 
@@ -175,7 +175,7 @@ $V-V_{SH} = \Delta V$: PV Module voltage reduction due to shading on one cell
 
 - n-1 cells in full sun: Generator.
 
-$V_{n-1} = V (\frac{n-1}{n})
+$V_{n-1} = V (\frac{n-1}{n})$
 
 - n-th shaded cell: $R_{p} + R_{s}$ load resistor (Rp>>Rs)
   

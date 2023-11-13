@@ -28,5 +28,8 @@
   "obsidian-latex-suite",
   "media-extended",
   "obsidian-link-converter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-ocr",
+  "obsidian-pandoc",
+  "obsidian-enhancing-export"
 ]

@@ -4,37 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "0ee2fea25f15c058",
+        "id": "73553cfb3dd0fc1e",
         "type": "tabs",
-        "dimension": 48.056300268096514,
         "children": [
           {
-            "id": "7c6a17ac26e9434b",
+            "id": "905cd46a8feb31f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "f184b545b9146f6f",
-        "type": "tabs",
-        "dimension": 51.94369973190348,
-        "children": [
+          },
           {
-            "id": "ecdbe9470fa9f724",
+            "id": "fc2b95eda5b9be85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+                "file": "Distilled Notes/Greek Letters and Symbols.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94e6b93c9b028ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.50499725341797
+    "width": 296.51240158081055
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -135,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md"
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md"
               }
             }
           },
@@ -187,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "94c37083c6cbb0fc",
@@ -206,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,57 +229,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "7c6a17ac26e9434b",
+  "active": "905cd46a8feb31f5",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
-    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
-    "Distilled Notes/Faraday's Law.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
-    "UNI 2023/SEM 2/MTRN3060/Minor Project/MTRN3060 Practical Logbook.pdf",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106215234.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106214324.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106214248.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106213725.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106213546.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106213322.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190907.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190845.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190835.png",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/Pasted image 20231106190803.png",
-    "UNI 2023/SEM 2/ELEC2005/ppt3E23.tmp",
-    "UNI 2023/SEM 2/ELEC2005/State Of Charge.mp4",
-    "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
-    "UNI 2023/SEM 2/ELEC2005/Attachments/~$THE DIODE REGULATOR CIRCUIT.pptx",
-    "UNI 2023/SEM 2/ELEC2005/~$State Of Charge.pptx",
-    "UNI 2023/SEM 2/ENGG3000/Planning and managing a project to completion.docx",
-    "UNI 2023/SEM 2/ENGG3000/CAD Modelling/Paddle/pulleypaddlemk2.prt.4",
-    "UNI 2023/SEM 2/ELEC2005/State Of Charge.pptx",
-    "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation.zip",
-    "UNI 2023/SEM 2/MTRN3060/Major Project/ArmSimulation/slprj/_sfprj/armMajorUse/_self/sfun/info/binfo.mat",
-    "conflict-files-obsidian-git.md",
-    "Distilled Notes/Equivalent Circuits.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
-    "Kanban Schedule.md",
-    "UNI 2023/SEM 2/Weekly Work.md",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231757.png",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231724.png",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231543.png",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231457.png",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231034.png",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112230720.png",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112230542.png",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112230318.png",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112225650.png",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112225518.png",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112225314.png",
+    "Distilled Notes/Greek Letters and Symbols.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf",
+    "Distilled Notes/The Continuity Equation.md",
+    "Distilled Notes/Pascal's Law.md",
     "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
+    "UNI 2023/SEM 2/ELEC2005/~WRL2381.tmp",
+    "UNI 2023/SEM 2/ELEC2005/~WRD2362.tmp",
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
+    "UNI 2023/SEM 2/ELEC2005/~$stilled ELEC2005.docx",
+    "UNI 2023/SEM 2/ELEC2005/~WRL2035.tmp",
+    "UNI 2023/SEM 2/ELEC2005/~WRD2023.tmp",
+    "UNI 2023/SEM 2/ELEC2005/Distilled ELEC2005.docx",
+    "UNI 2023/SEM 2/ELEC2005/~$stilling The Unit.docx",
+    "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.docx",
+    "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
+    "UNI 2023/SEM 2/ELEC2005/Attachments/ELEC2005 Week 4 Lecture BJTs-part-2_2023_UPDATED.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
+    "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md",
+    "Kanban Schedule.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 1 - Intro and Prereq Review.md",
+    "UNI 2023/SEM 2/Weekly Work.md",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "Distilled Notes/Dot Convention (Transformers).md",
-    "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md",
-    "UNI 2023/SEM 2/Daily Work.md",
-    "UNI 2022/MTRN2060/Digital.md",
-    "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
-    "README.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

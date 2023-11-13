@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "0eb148a90eee3d1b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UNI 2023/SEM 2/MTRN3026/Drawing 2023-11-13 18.13.44.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "fc2b95eda5b9be85",
             "type": "leaf",
             "state": {
@@ -46,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Drawing 2023-11-13 18.13.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Drawing 2023-11-13 18.13.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md"
+                "file": "UNI 2023/SEM 2/MTRN3026/Drawing 2023-11-13 18.13.44.excalidraw.md"
               }
             }
           },
@@ -233,8 +244,11 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "905cd46a8feb31f5",
+  "active": "0eb148a90eee3d1b",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted Image 20231113181359_633.png",
+    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+    "UNI 2023/SEM 2/MTRN3026/Drawing 2023-11-13 18.13.44.excalidraw.md",
     "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231113123708.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231113123620.png",
@@ -252,7 +266,6 @@
     "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf",
     "Distilled Notes/The Continuity Equation.md",
     "Distilled Notes/Pascal's Law.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
     "UNI 2023/SEM 2/ELEC2005/~WRL2381.tmp",
     "UNI 2023/SEM 2/ELEC2005/~WRD2362.tmp",
@@ -279,7 +292,6 @@
     "UNI 2023/SEM 2/Weekly Work.md",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
-    "Distilled Notes/Dot Convention (Transformers).md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

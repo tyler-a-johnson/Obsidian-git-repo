@@ -5,6 +5,21 @@
 ![Week-1b(Mechatronics_Systems) 1](Attachments/Week-1b(Mechatronics_Systems)%201.ppt)
 ![Week_1c_(Transformer)](Attachments/Week_1c_(Transformer).ppt)
 
+
+
+# Distilled Maths
+---
+
+
+
+
+
+
+
+
+
+---
+
 # Magnetic Circuit Analysis
 
 ## Permanent Magnets
@@ -170,7 +185,7 @@ Windings are wrapped around the two sides of a laminated square core.
 ![Pasted image 20230726190542](Attachments/Pasted%20image%2020230726190542.png)
 ```ad-note
 High voltage conductors have a lower cross section than low voltage conductors as the low voltage conductors have a higher current. This means the cross section of the low voltage conductors needs to be larger to allow for greater current flow and to prevent overheating/melting.
-
+[Skin Effect](../../../Distilled%20Notes/Skin%20Effect.md)
 ```
 ![Pasted image 20230726191021](Attachments/Pasted%20image%2020230726191021.png)
 Cores are laminated to reduce Eddy Currents which contribute highly to losses.\

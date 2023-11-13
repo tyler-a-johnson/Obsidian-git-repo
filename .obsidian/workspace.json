@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md"
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md"
               }
             }
           },
@@ -229,11 +229,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-ocr:Search OCR": false
     }
   },
   "active": "905cd46a8feb31f5",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231113123708.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231113123620.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231113123150.png",
@@ -244,9 +246,7 @@
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231457.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112231034.png",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112230720.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231112230542.png",
     "Distilled Notes/Greek Letters and Symbols.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf",

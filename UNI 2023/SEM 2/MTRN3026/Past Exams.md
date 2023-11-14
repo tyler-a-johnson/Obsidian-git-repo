@@ -95,9 +95,11 @@ A pneumatic circuit diagram to obtain the above procedure is shown in Figure 5. 
 ![](Attachments/Pasted%20image%2020231114172316.png)
 ![](Attachments/Pasted%20image%2020231114172346.png)
 ![](Attachments/Pasted%20image%2020231114172445.png)
+![](Attachments/Pasted%20image%2020231114172510.png)
+![](Attachments/Pasted%20image%2020231114172526.png)
 
-
-
+**Unsure**
+![](Attachments/Pasted%20image%2020231114172557.png)
 ## 2021
 
 ## 2022

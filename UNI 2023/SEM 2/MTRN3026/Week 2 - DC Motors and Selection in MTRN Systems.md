@@ -151,7 +151,7 @@ One motor driving another. The one being driven acts as a generator.
 **Input**
 $P_{in}=V_{in}I_{in}$  *For a DC motor*
 $P_{in}= V_{in}I_{in}\cos \phi$ *For single phase AC*
-$P_{in} = \sqrt{3V_{in}I_{in} \cos \phi}$
+$P_{in} = \sqrt{3}V_{in}I_{in} \cos \phi$
 
 Therefore, *Power output:*
 $$T_{out}= \omega _{m}T_{m}=\frac{2\pi N T_m}{60}$$

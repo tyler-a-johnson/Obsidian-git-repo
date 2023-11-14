@@ -117,7 +117,13 @@ A pneumatic circuit diagram to obtain the above procedure is shown in Figure 5. 
 
 # Recycled/Likely Questions
 
+## PLC
 ![](Attachments/Pasted%20image%2020231114174911.png)
 
+## Hydraulics
+
+
+## Explain Questions
 ![](Attachments/Pasted%20image%2020231114175436.png)
 ![](Attachments/Pasted%20image%2020231114173345.png)
+![](Attachments/Pasted%20image%2020231114174739.png)

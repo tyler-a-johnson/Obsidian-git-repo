@@ -69,9 +69,24 @@ c)     Determine the power delivered to the load.       **(2 marks)**
 1. List all the valves and the actuator that you plan to use to design your circuit (you can pick from those given in Figure 1 and for valves actuation methods use Figure 2). Briefly explain how the valves and actuators that you plan to use in your circuit work. (For example, you may use such a valve     pneumatically control 3/2 directional control valve with a spring return.)  (5 mark)
 2. Draw the step diagram and time diagram (4 marks)
 3. Design the pneumatic circuit. (8 mark)
+![](Attachments/Pasted%20image%2020231114171512.png)
+
+**Q6**
+a)Why PLCs receive such popularity in industrial automation (list 4 main reasons).   (4 marks)
+b) What are programming mode and run mode? (4 marks)
+c) Draw a ladder diagram that is equivalent to the digital logic diagram in Figure 3. (5 marks)
+![](Attachments/Pasted%20image%2020231114171628.png)
+d)                                                                                                                                               | A control system is to be developed for the stacking magazine with the following characteristics (refer to Figure 4):             |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| i.                                                                                                                                               | The operator places a container in the assembly device and pushes the button 1.                                                   |
+| ii.                                                                                                                                              | The double-acting cylinder 1A pushes a lid out of the storage tower (onto the container) and then returns to its normal position. |
+| iii.                                                                                                                                             | The operator pushes the button 2, then the single-acting cylinder 2A presses together the container and lid.                      |
+| A pneumatic circuit diagram to obtain the above procedure is shown in Figure 5. Draw the ladder diagram to obtain the above sequences. (7 marks) |
+
 
 
 ## 2019
+
 
 ## 2020
 

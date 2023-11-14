@@ -42,6 +42,35 @@ c)     Mechanical power developed     **(2 marks)**
 d)     The efficiency    **(2 marks)**
 e)     The motor runs on average 6 hours per day at full load. Find the total cost for running the motor per year if electricity cost 30 cents per unit.     **(2 marks)**
 
+**Q2**
+For a 3-phase voltage source inverter assuming each transistor is conducting for a duration of 120o, draw the waveforms of the line-to-line voltage and phase voltage across the motor windings with the help of necessary circuit diagram. Assume the motor is star connected.
+
+**Q3**
+A three-phase, 400 V, Delta connected induction motor has the following parameters at 50 Hz.
+
+R1 = 0.75 Ohm,   R2 = 1.2 Ohm, X1 = X2 = 2.25 Ohm and Xm = 130 Ohm.
+
+The motor is fed from square-waved inverter. The voltage waveform is such that its fundamental is equal to the rated voltage of the motor and harmonics are negligible. Determine the expression of the input current waveform and the load power factor corresponding to a rotor frequency of 2 Hz when the supply frequency is 50 Hz.
+
+You may assume an approximate equivalent circuit for performance analysis of the motor.
+
+**Q4**
+For a single-phase full bridge voltage source inverter, the input voltage is 48 V. The current waveform of the fundamental component is expressed as i(t) = 31Sin(ωt-30°) A.
+a)     Draw the power circuit diagram of the inverter      **(3 marks)**
+b)     Draw the waveforms of the output voltage, load current and supply current. Indicate on the load current waveform devices which are conducting on different intervals of time.       **(5 marks)**
+c)     Determine the power delivered to the load.       **(2 marks)**
+
+**Q5**
+ a)                                                                                                                                                                |Compare hydraulic and pneumatic systems and express advantages and disadvantages of each of them (5 marks)                                                                                                                                
+ b)
+A power door opening system must be controlled with a timed cycle. Operators need to activate the door cycle from both inside and outside by pushing buttons. The door needs to remain open for an adjustable time period before it automatically closes. The operators must also have a means to keep the door open continuously when needed.                                                      |
+| Note 1: Some of actuators and valves that you may use are given in Figure 1, and the method of actuation that you may use for those valves are given in Figure 2. |
+| Note 2: Use   to specify the air source and   for exhaust.                                                                                                        |
+| 1.                                                                                                                                                                | List all the valves and the actuator that you plan to use to design your circuit (you can pick from those given in Figure 1 and for valves actuation methods use Figure 2). Briefly explain how the valves and actuators that you plan to use in your circuit work. (For example, you may use such a valve     pneumatically control 3/2 directional control valve with a spring return.)  (5 mark) |
+| 2.                                                                                                                                                                | Draw the step diagram and time diagram (4 marks)                                                                                                                                                                                                                                                                                                                                                    |
+| 3.                                                                                                                                                                | Design the pneumatic circuit. (8 mark)                                                                                                                                                                                                                                                                                                                                                              |
+
+
 ## 2019
 
 ## 2020

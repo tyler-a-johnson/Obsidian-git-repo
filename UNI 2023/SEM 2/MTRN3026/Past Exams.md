@@ -121,7 +121,7 @@ A pneumatic circuit diagram to obtain the above procedure is shown in Figure 5. 
 ![](Attachments/Pasted%20image%2020231114174911.png)
 
 ## Hydraulics
-
+![](Attachments/Pasted%20image%2020231114175906.png)
 
 ## Explain Questions
 ![](Attachments/Pasted%20image%2020231114175436.png)

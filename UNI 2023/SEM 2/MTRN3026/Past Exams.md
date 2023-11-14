@@ -76,13 +76,12 @@ a)Why PLCs receive such popularity in industrial automation (list 4 main reasons
 b) What are programming mode and run mode? (4 marks)
 c) Draw a ladder diagram that is equivalent to the digital logic diagram in Figure 3. (5 marks)
 ![](Attachments/Pasted%20image%2020231114171628.png)
-d)                                                                                                                                               | A control system is to be developed for the stacking magazine with the following characteristics (refer to Figure 4):             |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| i.                                                                                                                                               | The operator places a container in the assembly device and pushes the button 1.                                                   |
-| ii.                                                                                                                                              | The double-acting cylinder 1A pushes a lid out of the storage tower (onto the container) and then returns to its normal position. |
-| iii.                                                                                                                                             | The operator pushes the button 2, then the single-acting cylinder 2A presses together the container and lid.                      |
-| A pneumatic circuit diagram to obtain the above procedure is shown in Figure 5. Draw the ladder diagram to obtain the above sequences. (7 marks) |
-
+d) A control system is to be developed for the stacking magazine with the following characteristics (refer to Figure 4):
+	i. The operator places a container in the assembly device and pushes the button 1.
+	ii. The double-acting cylinder 1A pushes a lid out of the storage tower (onto the container) and then returns to its normal position.
+	iii. The operator pushes the button 2, then the single-acting cylinder 2A presses together the container and lid. 
+A pneumatic circuit diagram to obtain the above procedure is shown in Figure 5. Draw the ladder diagram to obtain the above sequences. (7 marks)
+![](Attachments/Pasted%20image%2020231114171745.png)
 
 
 ## 2019

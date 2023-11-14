@@ -61,14 +61,14 @@ b)     Draw the waveforms of the output voltage, load current and supply cur
 c)     Determine the power delivered to the load.       **(2 marks)**
 
 **Q5**
- a)                                                                                                                                                                |Compare hydraulic and pneumatic systems and express advantages and disadvantages of each of them (5 marks)                                                                                                                                
- b)
-A power door opening system must be controlled with a timed cycle. Operators need to activate the door cycle from both inside and outside by pushing buttons. The door needs to remain open for an adjustable time period before it automatically closes. The operators must also have a means to keep the door open continuously when needed.                                                      |
-| Note 1: Some of actuators and valves that you may use are given in Figure 1, and the method of actuation that you may use for those valves are given in Figure 2. |
-| Note 2: Use   to specify the air source and   for exhaust.                                                                                                        |
-| 1.                                                                                                                                                                | List all the valves and the actuator that you plan to use to design your circuit (you can pick from those given in Figure 1 and for valves actuation methods use Figure 2). Briefly explain how the valves and actuators that you plan to use in your circuit work. (For example, you may use such a valve     pneumatically control 3/2 directional control valve with a spring return.)  (5 mark) |
-| 2.                                                                                                                                                                | Draw the step diagram and time diagram (4 marks)                                                                                                                                                                                                                                                                                                                                                    |
-| 3.                                                                                                                                                                | Design the pneumatic circuit. (8 mark)                                                                                                                                                                                                                                                                                                                                                              |
+ a) Compare hydraulic and pneumatic systems and express advantages and disadvantages of each of them (5 marks)                                                                                                                                
+ b) A power door opening system must be controlled with a timed cycle. Operators need to activate the door cycle from both inside and outside by pushing buttons. The door needs to remain open for an adjustable time period before it automatically closes. The operators must also have a means to keep the door open continuously when needed.                                               
+
+**Note 1**: Some of actuators and valves that you may use are given in Figure 1, and the method of actuation that you may use for those valves are given in Figure 2.
+**Note 2**: Use  $\Delta$ to specify the air source and W for exhaust.                                                                  
+1. List all the valves and the actuator that you plan to use to design your circuit (you can pick from those given in Figure 1 and for valves actuation methods use Figure 2). Briefly explain how the valves and actuators that you plan to use in your circuit work. (For example, you may use such a valve     pneumatically control 3/2 directional control valve with a spring return.)  (5 mark)
+2. Draw the step diagram and time diagram (4 marks)
+3. Design the pneumatic circuit. (8 mark)
 
 
 ## 2019

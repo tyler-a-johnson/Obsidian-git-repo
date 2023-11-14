@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Past Exams.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Past Exams.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Past Exams.md"
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md"
               }
             }
           },
@@ -221,52 +221,14 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "floating": {
-    "id": "49bc7c642b5f32e4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "02a7ad99ea077e9a",
-        "type": "window",
-        "children": [
-          {
-            "id": "db288e5ff8970002",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a11cb32c158ca6ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "UNI 2023/SEM 2/MTRN3026/Past Exams.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1616,
-        "y": 274,
-        "width": 1616,
-        "height": 1114,
-        "maximize": true,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "a11cb32c158ca6ff",
+  "active": "15860ff9d76a8e38",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Past Exams.md",
     "UNI 2023/SEM 2/MTRN3026/ps322A.tmp",
     "UNI 2023/SEM 2/MTRN3026/ps4912.tmp",
     "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
-    "UNI 2023/SEM 2/MTRN3026/Past Exams.md",
     "UNI 2023/SEM 2/MTRN3026/MTRN3026-Equation Sheet.pdf",
     "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114175906.png",
@@ -295,7 +257,6 @@
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/~$stilled ELEC2005.docx",
     "UNI 2023/SEM 2/ELEC2005/~WRL2035.tmp",
-    "UNI 2023/SEM 2/ELEC2005/~WRD2023.tmp",
     "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
     "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
     "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",

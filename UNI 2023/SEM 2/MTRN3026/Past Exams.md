@@ -105,6 +105,9 @@ A pneumatic circuit diagram to obtain the above procedure is shown in Figure 5. 
 ![](Attachments/Pasted%20image%2020231114173345.png)
 ![](Attachments/Pasted%20image%2020231114173407.png)
 ![](Attachments/Pasted%20image%2020231114173424.png)
+
+
+
 ![](Attachments/Pasted%20image%2020231114174010.png)
 ![](Attachments/Pasted%20image%2020231114174548.png)
 ![](Attachments/Pasted%20image%2020231114174605.png)
@@ -127,3 +130,7 @@ A pneumatic circuit diagram to obtain the above procedure is shown in Figure 5. 
 ![](Attachments/Pasted%20image%2020231114175436.png)
 ![](Attachments/Pasted%20image%2020231114173345.png)
 ![](Attachments/Pasted%20image%2020231114174739.png)
+
+## Transformers/Cores
+![](Attachments/Pasted%20image%2020231114173407.png)
+![](Attachments/Pasted%20image%2020231114173424.png)

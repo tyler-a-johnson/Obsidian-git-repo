@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.51240158081055
+    "width": 380.50499725341797
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md"
+                "file": "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md"
               }
             }
           },
@@ -223,14 +223,14 @@
   },
   "active": "9ebe6e4367532414",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Past Exams.md",
     "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/ps322A.tmp",
     "UNI 2023/SEM 2/MTRN3026/ps4912.tmp",
     "UNI 2023/SEM 2/MTRN3026/MTRN3026-Equation Sheet.pdf",

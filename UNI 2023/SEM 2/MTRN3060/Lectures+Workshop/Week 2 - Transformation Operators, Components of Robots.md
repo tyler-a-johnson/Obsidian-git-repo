@@ -56,7 +56,7 @@ A frame can be used as a description if one coordinate system relative to anothe
 ![](Attachments/Pasted%20image%2020231116155804.png)
 $$\{B\} = \{ ^{A}_{B}R, ^{A}P_{BORG} \}$$
 
-## Mapping Involving General Frames
+# Homogenous Transformation Matrix
 Define the position and orientation of an object relative to coordinate frame {A}. A new frame {B} on the object is required
 ![](Attachments/Pasted%20image%2020231116160659.png)
 We can use the **Homogenous Transformation Matrix $^{A}_{B}T$** 
@@ -66,3 +66,6 @@ We can use the **Homogenous Transformation Matrix $^{A}_{B}T$**
 
 Description of frame {B} relative to {A} is $^{A}_{B}T$
 ![](Attachments/Pasted%20image%2020231116161058.png)
+
+# Mapping
+![](Attachments/Pasted%20image%2020231116171253.png)

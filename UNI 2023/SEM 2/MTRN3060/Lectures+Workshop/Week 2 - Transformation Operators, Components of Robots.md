@@ -40,10 +40,13 @@ $$^{A}_{B}R=^{B}_{A}R^{-1}= ^{B}_{A}R^T $$
 We can also say:
 $\hat{X}_{A} \cdot \hat{X}_{B} = \cos{\alpha}$
 
-$$^{A}_{B}R = \begin{bmatrix}  \cos \hat{X}_{B} , \hat{X}_{A} & \cos \hat{Y}_{B} \cdot \hat{X}_{A} & \cos \hat{Z}_{B} \cdot \hat{X}_{A}  \\ \cos \hat{X}_{B} \cdot \hat{Y}_{A} & \cos \hat{Y}_{B} \cdot \hat{Y}_{A} & \cos \hat{Z}_{B} \cdot \hat{Y}_{A} \\ \cos \hat{X}_{B} \cdot \hat{Z}_{A} & \cos \hat{Y}_{B} \cdot \hat{Z}_{A} & \cos \hat{Z}_{B} \cdot \hat{Z}_{A}  \end{bmatrix} $$
+$$^{A}_{B}R = \begin{bmatrix}  \cos \hat{X}_{B} , \hat{X}_{A} & \cos \hat{Y}_{B} , \hat{X}_{A} & \cos \hat{Z}_{B} , \hat{X}_{A}  \\ \cos \hat{X}_{B} , \hat{Y}_{A} & \cos \hat{Y}_{B} , \hat{Y}_{A} & \cos \hat{Z}_{B}, \hat{Y}_{A} \\ \cos \hat{X}_{B} , \hat{Z}_{A} & \cos \hat{Y}_{B} , \hat{Z}_{A} & \cos \hat{Z}_{B} , \hat{Z}_{A}  \end{bmatrix} $$
+Where where $X_{B},X_{A}$ is the angle between the two axis
 We can use these to simplify our rotational matrices.
 
 ## Rotation Matrices in 3D
 ![Pasted image 20230810125357](Attachments/Pasted%20image%2020230810125357.png)
+$$$$
+
 **$R_{x}$ is meant to be at the bottom**
 These are general forms for rotating around a single axis, the zeroes and ones in this case do not change. And the angle $\theta$ is the number of degrees being rotated. We use the *right hand rule* to determine the direction of the rotation.

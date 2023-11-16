@@ -46,7 +46,9 @@ We can use these to simplify our rotational matrices.
 
 ## Rotation Matrices in 3D
 ![Pasted image 20230810125357](Attachments/Pasted%20image%2020230810125357.png)
-$$$$
+$$^{A}_{B}R = ^{B}_{A}R^{-1} = ^{B}_{A}R^T$$
 
 **$R_{x}$ is meant to be at the bottom**
 These are general forms for rotating around a single axis, the zeroes and ones in this case do not change. And the angle $\theta$ is the number of degrees being rotated. We use the *right hand rule* to determine the direction of the rotation.
+
+# Description of a Frame

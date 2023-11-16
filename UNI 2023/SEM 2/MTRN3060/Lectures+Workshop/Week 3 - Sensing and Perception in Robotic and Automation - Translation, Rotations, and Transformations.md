@@ -17,4 +17,10 @@ Using the rotation matrices from before
 
 
 ## Transformation Operators
-$$^{A}P_{2}
+$$^{A}P_{2} = T ^{A}P_{1}$$
+T can rotate and translate at the same time
+
+
+
+# Transform Arithmetic
+$$^{A}P = ^{A}_{B}T ^{B}$$

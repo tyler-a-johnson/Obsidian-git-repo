@@ -59,7 +59,7 @@ $$\{B\} = \{ ^{A}_{B}R, ^{A}P_{BORG} \}$$
 ## Mapping Involving General Frames
 Define the position and orientation of an object relative to coordinate frame {A}. A new frame {B} on the object is required
 ![](Attachments/Pasted%20image%2020231116160659.png)
-We can use the **Homogenous Transformation Matrix** 
+We can use the **Homogenous Transformation Matrix $^{A}_{B}T$** 
 ![](Attachments/Pasted%20image%2020231116160135.png)
 1. A 1 is added as the last element of the 4x1 vectors
 2. A row (0 0 0 1) is added as the last row of the 4x4 matrix

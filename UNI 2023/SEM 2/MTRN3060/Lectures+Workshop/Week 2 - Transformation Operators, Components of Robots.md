@@ -40,7 +40,7 @@ $$^{A}_{B}R=^{B}_{A}R^{-1}= ^{B}_{A}R^T $$
 We can also say:
 $\hat{X}_{A} \cdot \hat{X}_{B} = \cos{\alpha}$
 
-$$^{A}_{B}R = \begin{bmatrix}  \cos \hat{X}_{B} \cdot \hat{X}_{A} & \cos \hat{Y}_{B} \cdot \hat{X}_{A} & \cos \hat{Z}_{B} \cdot \hat{X}_{A}  \\ \cos \hat{X}_{B} \cdot \hat{Y}_{A} & \cos \hat{Y}_{B} \cdot \hat{Y}_{A} & \cos \hat{Z}_{B} \cdot \hat{Y}_{A} \\ \cos \hat{X}_{B} \cdot \hat{Z}_{A} & \cos \hat{Y}_{B} \cdot \hat{Z}_{A} & \cos \hat{Z}_{B} \cdot \hat{Z}_{A}  \end{bmatrix} $$
+$$^{A}_{B}R = \begin{bmatrix}  \cos \hat{X}_{B} , \hat{X}_{A} & \cos \hat{Y}_{B} \cdot \hat{X}_{A} & \cos \hat{Z}_{B} \cdot \hat{X}_{A}  \\ \cos \hat{X}_{B} \cdot \hat{Y}_{A} & \cos \hat{Y}_{B} \cdot \hat{Y}_{A} & \cos \hat{Z}_{B} \cdot \hat{Y}_{A} \\ \cos \hat{X}_{B} \cdot \hat{Z}_{A} & \cos \hat{Y}_{B} \cdot \hat{Z}_{A} & \cos \hat{Z}_{B} \cdot \hat{Z}_{A}  \end{bmatrix} $$
 We can use these to simplify our rotational matrices.
 
 ## Rotation Matrices in 3D

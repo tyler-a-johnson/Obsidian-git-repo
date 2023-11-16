@@ -145,3 +145,5 @@ For this kind pf rotation, all the rotations are about the fixed frame {A}, and 
 Extracting X-Y-Z fixed angles from a rotation matrix is useful. Solution depends on solving nine equations with three unknowns. These simplify down to 3 equations.
 
 $$\beta=A\tan_{2} (-r_{31}, \sqrt{r_{11}^{2}+R_{21}^{2}})$$
+$$\alpha=A\tan2\left(  \frac{r_{21}}{c \beta}, \frac{r_{11}}{c \beta} \right)$$
+$$\beta=A\tan_{2} (-r_{31}, \sqrt{r_{11}^{2}+R_{21}^{2}})$$

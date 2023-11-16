@@ -29,4 +29,4 @@ We have $^{C}P$ and wish to find $^{A}P$
 
 We can have transforms that form a loop
 $$^{U}_{D}T = ^{U}_{A}T ^{A}_{D}T$$
-$$$^{U}_{D}T = ^{U}_{B}T ^{B}_{C}t ^{C}_{D}T$$
+$$^{U}_{D}T = ^{U}_{B}T ^{B}_{C}T ^{C}_{D}T$$

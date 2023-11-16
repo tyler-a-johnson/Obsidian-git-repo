@@ -16,3 +16,5 @@ $$^{A}P_{2} = R_{k}(\theta) ^{A}P_{1}$$
 Using the rotation matrices from before
 
 
+## Transformation Operators
+$$^{A}P_{2}

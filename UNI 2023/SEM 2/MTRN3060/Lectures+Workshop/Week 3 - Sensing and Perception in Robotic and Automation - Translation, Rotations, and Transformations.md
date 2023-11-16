@@ -11,3 +11,4 @@ The same forms for mapping points between frames can be interpreted as operators
 $$^{A}P_{2} = ^{A}P_{1} + ^{A}Q$$
 Where Q is the translation vector
 
+## Rotational Operators

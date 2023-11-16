@@ -142,4 +142,6 @@ For this kind pf rotation, all the rotations are about the fixed frame {A}, and 
 **The order of matrix multiplication must be opposite to the order of rotation as follows**
 ![](Attachments/Pasted%20image%2020231116191150.png)
 ![](Attachments/Pasted%20image%2020231116191418.png)
-The problem of extracting X-Y-Z fixed angles from a rotation matrix is 
+Extracting X-Y-Z fixed angles from a rotation matrix is useful. Solution depends on solving nine equations with three unknowns. These simplify down to 3 equations.
+
+$$\beta=A\tan_{2} (-r_{31}, \sqrt{r_{11}^{2}+R_{21}^{2}})$$

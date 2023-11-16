@@ -20,7 +20,7 @@ Define the point "P" relative to coordinate frame {A}
 ![Pasted image 20230803130517](Attachments/Pasted%20image%2020230803130517.png)
 
 Individual elements of a vector are given subscripts x, y, z
-$$P_{A} = \begin{bmatrix}   P_{x} \\  P_{y} \\ P_{z}   \end{bmatrix}$$
+$$^{A}P = \begin{bmatrix}   P_{x} \\  P_{y} \\ P_{z}   \end{bmatrix}$$
 These values of P read like: $P_{x} \rightarrow$ The **X** coordinate of point **P** relative to frame **A**.
 
 # Orientation

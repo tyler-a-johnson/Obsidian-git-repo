@@ -118,4 +118,4 @@ $$f_\text{beat} = |f_{1}-f_{2}|$$
 Freq 1 = 425Hz and Freq 2 - 436Hz
 *Freq Beat = 11Hz*
 
-[](../../../../Distilled%20Notes/Spatial%20Descriptions%20and%20Transformations%20in%203D%20Space.md#X-Y-Z%20Fixed%20Angles|Spatial%20Descriptions%20and%20Transformations%20in%203D%20Space%20(X-Y-Z%20Fixed%20Angles))
+[Spatial Descriptions and Transformations in 3D Space](../../../../Distilled%20Notes/Spatial%20Descriptions%20and%20Transformations%20in%203D%20Space.md#X-Y-Z%20Fixed%20Angles|Spatial%20Descriptions%20and%20Transformations%20in%203D%20Space%20(X-Y-Z%20Fixed%20Angles))

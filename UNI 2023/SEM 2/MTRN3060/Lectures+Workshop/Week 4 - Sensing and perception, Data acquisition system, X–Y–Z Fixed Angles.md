@@ -143,10 +143,9 @@ For this kind pf rotation, all the rotations are about the fixed frame {A}, and 
 ![](Attachments/Pasted%20image%2020231116191150.png)
 ![](Attachments/Pasted%20image%2020231116191418.png)
 Extracting X-Y-Z fixed angles from a rotation matrix is useful. Solution depends on solving nine equations with three unknowns. These simplify down to 3 equations.
-
-$$\beta=A\tan{2} (-r_{31}, \sqrt{r_{11}^{2}+R_{21}^{2}})$$
-$$\alpha=A\tan2\left(  \frac{r_{21}}{c \beta}, \frac{r_{11}}{c \beta} \right)$$
-$$\gamma=A\tan 2\left(\frac{r_{31}}{c \beta}, \frac{r_{33}}{c \beta}
-\right)$$
+![](Attachments/Pasted%20image%2020231116192102.png)
+$\beta=A\tan{2} (-r_{31}, \sqrt{r_{11}^{2}+R_{21}^{2}})$
+$\alpha=A\tan2\left(  \frac{r_{21}}{c \beta}, \frac{r_{11}}{c \beta} \right)$
+$\gamma=A\tan 2\left(\frac{r_{31}}{c \beta}, \frac{r_{33}}{c \beta}\right)$
 
 Atan2 is the arctangent defined with 2 inputs, and is a function in MATLAB.

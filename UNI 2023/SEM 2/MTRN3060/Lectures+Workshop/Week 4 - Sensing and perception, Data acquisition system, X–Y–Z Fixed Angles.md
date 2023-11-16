@@ -133,4 +133,8 @@ For transformation matrices. we can use the following formula to find the invers
 ![](Attachments/Pasted%20image%2020231116184442.png)
 
 ## X-Y-Z Fixed Angles
-Start with the frame coincident with a known reference frame {A}. Rotate {B} first about Xa by angle 
+Start with the frame coincident with a known reference frame {A}. Rotate {B} first about Xa by angle $\gamma$ then about Ya by angle $\beta$ and finally about Za by $\alpha$.
+**Roll** $R_{x} (\gamma)$
+**Pitch** $R_{y }(\beta)$
+**Yaw** $R_{z}(\alpha)$
+![](Attachments/Pasted%20image%2020231116190948.png)

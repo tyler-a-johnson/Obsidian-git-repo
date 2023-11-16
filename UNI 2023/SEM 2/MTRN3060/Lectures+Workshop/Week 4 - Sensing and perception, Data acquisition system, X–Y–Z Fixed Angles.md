@@ -126,3 +126,6 @@ Freq 1 = 425Hz and Freq 2 - 436Hz
 For rotation matrices $^{A}_{B}R = ^{B}_{A}R^{-1} = ^{B}_{A}R^{T}$
 
 For transformation matrices $^{A}_{B}T = ^{B}_{A}T^{-1} \neq ^{B}_{A}T^{T}$
+
+For transformation matrices. we can use the following formula to find the inverse
+![](Attachments/Pasted%20image%2020231116184442.png)

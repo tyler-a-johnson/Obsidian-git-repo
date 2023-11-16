@@ -68,4 +68,5 @@ Description of frame {B} relative to {A} is $^{A}_{B}T$
 ![](Attachments/Pasted%20image%2020231116161058.png)
 
 # Mapping
+Change the description of a point being relative to frame to being relative to another frame.
 ![](Attachments/Pasted%20image%2020231116171253.png)

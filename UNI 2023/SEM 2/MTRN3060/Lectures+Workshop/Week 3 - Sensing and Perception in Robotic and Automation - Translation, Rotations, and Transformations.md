@@ -23,4 +23,8 @@ T can rotate and translate at the same time
 
 
 # Transform Arithmetic
-$$^{A}P = ^{A}_{B}T ^{B}$$
+$$^{A}P = ^{A}_{B}T ^{B}_{C}T ^{C}P$$
+
+We have $^{C}P$ and wish to find $^{A}P$
+
+We can have transforms that form a l

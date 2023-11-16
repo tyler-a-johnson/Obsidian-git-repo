@@ -52,4 +52,6 @@ $$^{A}_{B}R = ^{B}_{A}R^{-1} = ^{B}_{A}R^T$$
 These are general forms for rotating around a single axis, the zeroes and ones in this case do not change. And the angle $\theta$ is the number of degrees being rotated. We use the *right hand rule* to determine the direction of the rotation.
 
 # Description of a Frame
-A frame can be used as a description if one coordinate system relative to another. They have both **position** and *orientation*. Positions can be represented by a frame whose rotation-matrix part is the identity matrix, and whose position vector 
+A frame can be used as a description if one coordinate system relative to another. They have both **position** and *orientation*. Positions can be represented by a frame whose rotation-matrix part is the identity matrix, and whose vector part locates the point being described.
+![](Attachments/Pasted%20image%2020231116155804.png)
+$$\{B\} = \{ ^{A}_{B}R, ^{A} \}$$

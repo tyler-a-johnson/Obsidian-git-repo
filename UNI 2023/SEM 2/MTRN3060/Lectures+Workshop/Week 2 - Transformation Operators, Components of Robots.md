@@ -65,5 +65,4 @@ We can use the **Homogenous Transformation Matrix**
 2. A row (0 0 0 1) is added as the last row of the 4x4 matrix
 
 Description of frame {B} relative to {A} is $^{A}_{B}T$
-
 ![](Attachments/Pasted%20image%2020231116161058.png)

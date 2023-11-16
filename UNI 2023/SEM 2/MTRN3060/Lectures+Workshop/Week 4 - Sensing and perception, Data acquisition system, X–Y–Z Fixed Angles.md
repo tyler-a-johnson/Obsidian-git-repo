@@ -138,3 +138,7 @@ Start with the frame coincident with a known reference frame {A}. Rotate {B} fir
 **Pitch** $R_{y }(\beta)$
 **Yaw** $R_{z}(\alpha)$
 ![](Attachments/Pasted%20image%2020231116190948.png)
+For this kind pf rotation, all the rotations are about the fixed frame {A}, and the result gives the new moved frame {B}.
+**The order of matrix multiplication must be opposite to the order of rotation as follows**
+![](Attachments/Pasted%20image%2020231116191150.png)
+

@@ -8,4 +8,6 @@ The same forms for mapping points between frames can be interpreted as operators
 **Operators translate and rotate vectors on the same frame**
 
 ## Translation Operators
-$$^{A}P$$
+$$^{A}P_{2} = ^{A}P_{1} + ^{A}Q$$
+Where Q is the translation vector
+

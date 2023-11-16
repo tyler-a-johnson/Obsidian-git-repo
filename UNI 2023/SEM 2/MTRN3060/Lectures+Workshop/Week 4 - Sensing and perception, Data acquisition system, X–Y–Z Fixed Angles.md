@@ -123,4 +123,4 @@ Freq 1 = 425Hz and Freq 2 - 436Hz
 
 # Translational Operation
 
-For rotation matrice
+For rotation matrices $^{A}_{B}R = ^{B}_{A}R^{-1} = ^{B}_{A}R^{T}$

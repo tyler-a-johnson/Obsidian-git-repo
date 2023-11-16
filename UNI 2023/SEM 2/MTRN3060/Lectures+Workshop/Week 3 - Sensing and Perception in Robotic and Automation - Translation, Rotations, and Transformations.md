@@ -12,3 +12,7 @@ $$^{A}P_{2} = ^{A}P_{1} + ^{A}Q$$
 Where Q is the translation vector
 
 ## Rotational Operators
+$$^{A}P_{2} = R_{k}(\theta) ^{A}P_{1}$$
+Using the rotation matrices from before
+
+

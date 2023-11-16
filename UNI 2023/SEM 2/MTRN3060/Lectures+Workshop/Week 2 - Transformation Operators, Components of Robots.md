@@ -54,4 +54,7 @@ These are general forms for rotating around a single axis, the zeroes and ones i
 # Description of a Frame
 A frame can be used as a description if one coordinate system relative to another. They have both **position** and *orientation*. Positions can be represented by a frame whose rotation-matrix part is the identity matrix, and whose vector part locates the point being described.
 ![](Attachments/Pasted%20image%2020231116155804.png)
-$$\{B\} = \{ ^{A}_{B}R, ^{A} \}$$
+$$\{B\} = \{ ^{A}_{B}R, ^{A}P_{BORG} \}$$
+
+## Mapping Involving General Frames
+Define the position and orientation of an object relative to coordinate frame {A}. A new frame {B} on the object is required

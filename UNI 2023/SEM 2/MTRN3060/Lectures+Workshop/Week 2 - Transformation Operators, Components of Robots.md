@@ -52,3 +52,4 @@ $$^{A}_{B}R = ^{B}_{A}R^{-1} = ^{B}_{A}R^T$$
 These are general forms for rotating around a single axis, the zeroes and ones in this case do not change. And the angle $\theta$ is the number of degrees being rotated. We use the *right hand rule* to determine the direction of the rotation.
 
 # Description of a Frame
+A frame can be used as a description if one coordinate system relative to another. They have both **position** and *orientation* 

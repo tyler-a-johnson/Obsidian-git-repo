@@ -66,4 +66,4 @@ We can use the **Homogenous Transformation Matrix**
 
 Description of frame {B} relative to {A} is $^{A}_{B}T$
 
-
+![](Attachments/Pasted%20image%2020231116161058.png)

@@ -174,15 +174,19 @@ Controlling a large robotic system to do a task often involves solving many smal
 - *Reactive and leads to delays due to latency in sensing and processing*
 
 ## Types of Controllers
-**Proportional Integral Derivative**
+### Proportional Integral Derivative
 - Commonly used continuous controller
 - Design or selection of parameters are not trivial
+![](Attachments/Pasted%20image%2020231117215826.png)
+
+
 
 **Linear Quadratic Regulator (LQR)**
 - Parameters can be selected through optimization
 
 **Model Predictive Control (MPC)**
-- Suitable for systems subject to non-linear dynamics and to constraints, such as actuator limits or under actuiato
+- Suitable for systems subject to non-linear dynamics and to constraints, such as actuator limits or under actuation.
+
 
 
 # Additional Content

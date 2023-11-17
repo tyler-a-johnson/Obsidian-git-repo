@@ -86,9 +86,9 @@ $\theta_{i}$ : The angle from $x_{i-1}$ and $x_{i}$ about $z_{i}$
 ![](Attachments/Pasted%20image%2020231117120848.png)
 
 
-$a_{i} (\text{sometimes L}) = \text{the distance from } \bar{Z}_{i} \text{ to } \hat{Z}_{i+1} \text{ measured along } \hat{X}_{i}$
+$a_{i}$ (sometimes L) = the distance from $\bar{Z}_{i}$ to $\hat{Z}_{i+1}$ measured along $\hat{X}_{i}$
 
-$\alpha_{i}$ = the angle from} \hat{Z}_{i} \text{to} \hat{Z}_{i+1} \text{measured about} \hat{X}_{i}$
+$\alpha_{i}$ = the angle from $\hat{Z}_{i}$ to $\hat{Z}_{i+1}$ measured about $\hat{X}_{i}$
 
 $d_{i}$ = the distance from $\hat{X}_{i-1}$ to $\hat{X}_{i}$ measured along $\hat{ Z}_{i}$
 

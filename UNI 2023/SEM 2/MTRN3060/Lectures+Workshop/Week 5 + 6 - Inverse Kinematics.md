@@ -109,6 +109,13 @@ The space of all such joint vectors is referred to as **joint space.**
 **Cartesian space:** is the space that contains the Cartesian variables where the end-effector can travel through within the workspace. 
 *For a planar robot, the Cartesian space will have 3 variables (Dx, Dy, Rz). For a full 3D robot, the Cartesian space will have 6 variables (Dx, Dy, Dz, Rx, Ry, Rz), which is the maximum number of Cartesian space variables.*
 
+
+## Inverse Manipulator Kinematics
+Given the desired position and orientation of the tool relative to the station, how do we compute the set of joint angles which will achieve this desired result.
+
+
+
+
 # Conceptual Info
 ---
 

@@ -168,7 +168,10 @@ Controlling a large robotic system to do a task often involves solving many smal
 - Control focuses on fast decision rates possibly with simpler models
 
 **Feedback or closed-loop control**
-- Uses the output of the dynamic system as an input to the control decision process while overcoming the differences
+- Uses the output of the dynamic system as an input to the control decision process while overcoming the differences between real and modelled system
+- The output signal is usually captured by a sensor that facilitates the process of regulating the output to a desired value.
+
+
 
 
 # Additional Content

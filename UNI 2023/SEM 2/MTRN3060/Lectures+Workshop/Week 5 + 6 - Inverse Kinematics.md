@@ -191,12 +191,15 @@ Controlling a large robotic system to do a task often involves solving many smal
 
 
 
-**Linear Quadratic Regulator (LQR)**
+### Linear Quadratic Regulator (LQR)
 - Parameters can be selected through optimization
+![](Attachments/Pasted%20image%2020231117221344.png)
+
 
 **Model Predictive Control (MPC)**
 - Suitable for systems subject to non-linear dynamics and to constraints, such as actuator limits or under actuation.
-
+![](Attachments/Pasted%20image%2020231117221358.png)
+$$\text{Objective} = \int ^{\infty_{0}}(x^{T}Qx) \, dx $$
 
 
 # Additional Content

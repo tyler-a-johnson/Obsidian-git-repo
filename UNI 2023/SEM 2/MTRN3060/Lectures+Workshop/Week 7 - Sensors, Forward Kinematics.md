@@ -76,6 +76,10 @@ The study of the process of regulating the output of an actuator or the behavior
 ## Feedforward VS Feedback
 ![](Attachments/Pasted%20image%2020231117143453.png)
 **Feedforward:**
-- U
+- Uses the model of the dynamics of the controlled system to make proactive decisions on the commands to send to the robot actuators
+- Control focuses on fast decision rates possibly with simpler models
+
+**Feedback:**
+- Uses the output of the dynamic system 
 
 # Conceptual Info

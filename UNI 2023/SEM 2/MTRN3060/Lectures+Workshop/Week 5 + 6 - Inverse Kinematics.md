@@ -164,8 +164,11 @@ Controlling a large robotic system to do a task often involves solving many smal
 ![](Attachments/Pasted%20image%2020231117214153.png)
 
 **Feedforward or open-loop control**
-- Uses the m
+- Uses the model of the dynamics of the controlled system to make proactive decisions on the commands sent to actuators
+- Control focuses on fast decision rates possibly with simpler models
 
+**Feedback or closed-loop control**
+- Uses the output of the dynamic system as an inop
 
 
 # Additional Content

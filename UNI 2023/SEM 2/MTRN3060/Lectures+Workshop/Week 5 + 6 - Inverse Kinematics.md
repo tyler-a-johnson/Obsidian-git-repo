@@ -92,6 +92,9 @@ $$d_{i} = \text{ the distance from} \hat{X}_{i-1} \text{ to } \hat{X}_{i} \text{
 $$\theta_{i} = \text{ the angle from } \hat{X}_{i-1} \text{ to } \hat{X}_{i} \text{ measured about } \hat{Z}_{i}$$
 
 
+## Forward Kinematics
+
+
 # Conceptual Info
 ---
 

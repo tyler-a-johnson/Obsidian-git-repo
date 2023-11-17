@@ -57,6 +57,9 @@ For convenience and to reduce calculations, it is preffered to set the following
 ## Procedure for Frame Assignment
 *attach frame {i} to link "i"*
 
+1. **Z-Axis**: Assign all z-axis along the axis of the rotation (for revolute joints) or axis of translation (for prismatic joints). Choose either of the two directions.
+![](Attachments/Pasted%20image%2020231117114536.png)
+2. **Frame Origins**: Identify the common perpendicular between z-axis, 
 
 # Conceptual Info
 ---

@@ -65,7 +65,7 @@ The combination of hardware and software that together program and control a rob
 Uses the model of the dynamics of the controlled system to make proactive decisions on the commands to send to robot actuators.
 
 **Feedback (Closed-Loop)**
-Uses the output of the dynamic system as an input to the control decision process. More robust differences betweeen the real ad modelled system than open-loop control.
+Uses the output of the dynamic system as an input to the control decision process. More robust differences between the real ad modelled system than open-loop control.
 
 **Control**
 The study of the process of regulating the output of an actuator or the behavior of a dynamical system.
@@ -74,6 +74,7 @@ The study of the process of regulating the output of an actuator or the behavior
 ![](Attachments/Pasted%20image%2020231117143143.png)
 
 ## Feedforward VS Feedback
+![](Attachments/Pasted%20image%2020231117143453.png)
 
 
 # Conceptual Info

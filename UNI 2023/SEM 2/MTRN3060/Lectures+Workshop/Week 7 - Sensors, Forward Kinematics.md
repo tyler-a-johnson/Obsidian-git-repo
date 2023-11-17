@@ -55,4 +55,7 @@ Detect the object through the change in sensor's capacitance
 ![](Attachments/Pasted%20image%2020231117133015.png)
 Can detect any object.
 
-# Conceptual Info
+## Definition of Controller
+Once a robot has a motion plan, its time to act. How do you ensure, that the robot's execution follows the desired plan? Controlling a large robotic system to do a task often involves solving 
+
+# Conceptual In

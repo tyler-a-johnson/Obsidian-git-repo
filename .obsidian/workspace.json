@@ -6,6 +6,7 @@
       {
         "id": "adfbd7f52089f274",
         "type": "tabs",
+        "dimension": 55.97554196775987,
         "children": [
           {
             "id": "f8f776151c126418",
@@ -38,6 +39,7 @@
       {
         "id": "2a970919b2d0468e",
         "type": "tabs",
+        "dimension": 44.02445803224013,
         "children": [
           {
             "id": "0a474d010d851fd9",
@@ -115,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.51240158081055
+    "width": 296.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -233,15 +236,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-ocr:Search OCR": false
     }
   },
   "active": "f8f776151c126418",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 6 Lecture workshop class.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 6 Lecture workshop class.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116192102.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116191418.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 4-Lecture workshop-ilearn.pdf",

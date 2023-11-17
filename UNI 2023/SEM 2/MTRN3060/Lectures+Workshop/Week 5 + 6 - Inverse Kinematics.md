@@ -14,7 +14,8 @@ Relevant Links:
 # Maths and Distilled Info
 ---
 
-
+## Kinematics
+The science of motion that treats the subject without regard to the forces that cause it.
 
 # Conceptual Info
 ---

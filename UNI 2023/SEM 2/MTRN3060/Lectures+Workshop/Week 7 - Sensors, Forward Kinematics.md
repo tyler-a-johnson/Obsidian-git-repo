@@ -18,10 +18,19 @@ Practicals Docs:
 ## Sensors
 - Temp sensors
 - Proximity sensors
+	- Can detect presence of an object without physical contact
+		- Inductive
+		- Capacitive
+		- Magnetic
+		- Ultrasonic
+		- Photoelectric
+		- 
 - Level measurements
 - Flow sensors
 
-
+- Contact sensors must physically tough and object to sense it
+- Non-contact sensors can sense without physically touching an object
+- 
 
 
 

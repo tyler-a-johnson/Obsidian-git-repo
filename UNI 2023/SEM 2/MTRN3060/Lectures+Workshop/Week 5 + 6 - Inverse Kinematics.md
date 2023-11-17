@@ -124,6 +124,10 @@ c. Degrees of Freedom (DOF): Are the number of independent variable in a manipul
 ### Multiple Solutions
 The number of solutions depends upon the number of joints in the manipulator but is also a function of the link parameters and the allowable range of motion.
 
+
+## How to solve the equation
+$$c_{2} = \frac{x^2}{2L_{1}L_{2}}$$
+
 # Conceptual Info
 ---
 

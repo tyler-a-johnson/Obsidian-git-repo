@@ -24,13 +24,17 @@ Practicals Docs:
 		- Magnetic
 		- Ultrasonic
 		- Photoelectric
-		- 
 - Level measurements
 - Flow sensors
 
-- Contact sensors must physically tough and object to sense it
-- Non-contact sensors can sense without physically touching an object
-- 
+### Operating Principles and Parameters
+- Material
+- Shape
+- Dimension
+- Colour
+- Speed
+- Package
+
 
 
 

@@ -25,7 +25,11 @@ Single-axis rotational joints that connect two rigid links together
 **Prismatic**
 Single-axis translational joints that connect two rigid links together
 
-###
+### Link-Joint Description
+![](Attachments/Pasted%20image%2020231117111904.png)
+We need four parameters, two describing the link and two describing the joint.
+
+For any two axes in 3D, there exists a well-defined measure of distance between them. This distance is measured along a line that is mutually perpendicul
 
 # Conceptual Info
 ---

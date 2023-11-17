@@ -15,7 +15,8 @@ Relevant Links:
 ---
 
 ## Kinematics
-The science of motion that treats the subject without regard to the forces that cause it.
+The central topic in kinematic is a method to compute the position and orientation of the manipulator’s end-effector relative to the base of the manipulator as a function of the joint variables. 
+
 
 # Conceptual Info
 ---

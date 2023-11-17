@@ -20,7 +20,7 @@ Define the point "P" relative to coordinate frame {A}
 ![Pasted image 20230803130517](Attachments/Pasted%20image%2020230803130517.png)
 
 Individual elements of a vector are given subscripts x, y, z
-$$P_{A} = \begin{bmatrix}   P_{x} \\  P_{y} \\ P_{z}   \end{bmatrix}$$
+$$^{A}P = \begin{bmatrix}   P_{x} \\  P_{y} \\ P_{z}   \end{bmatrix}$$
 These values of P read like: $P_{x} \rightarrow$ The **X** coordinate of point **P** relative to frame **A**.
 
 # Orientation
@@ -40,10 +40,33 @@ $$^{A}_{B}R=^{B}_{A}R^{-1}= ^{B}_{A}R^T $$
 We can also say:
 $\hat{X}_{A} \cdot \hat{X}_{B} = \cos{\alpha}$
 
-$$^{A}_{B}R = \begin{bmatrix}  \cos \hat{X}_{B} \cdot \hat{X}_{A} & \cos \hat{Y}_{B} \cdot \hat{X}_{A} & \cos \hat{Z}_{B} \cdot \hat{X}_{A}  \\ \cos \hat{X}_{B} \cdot \hat{Y}_{A} & \cos \hat{Y}_{B} \cdot \hat{Y}_{A} & \cos \hat{Z}_{B} \cdot \hat{Y}_{A} \\ \cos \hat{X}_{B} \cdot \hat{Z}_{A} & \cos \hat{Y}_{B} \cdot \hat{Z}_{A} & \cos \hat{Z}_{B} \cdot \hat{Z}_{A}  \end{bmatrix} $$
+$$^{A}_{B}R = \begin{bmatrix}  \cos \hat{X}_{B} , \hat{X}_{A} & \cos \hat{Y}_{B} , \hat{X}_{A} & \cos \hat{Z}_{B} , \hat{X}_{A}  \\ \cos \hat{X}_{B} , \hat{Y}_{A} & \cos \hat{Y}_{B} , \hat{Y}_{A} & \cos \hat{Z}_{B}, \hat{Y}_{A} \\ \cos \hat{X}_{B} , \hat{Z}_{A} & \cos \hat{Y}_{B} , \hat{Z}_{A} & \cos \hat{Z}_{B} , \hat{Z}_{A}  \end{bmatrix} $$
+Where where $X_{B},X_{A}$ is the angle between the two axis
 We can use these to simplify our rotational matrices.
 
 ## Rotation Matrices in 3D
 ![Pasted image 20230810125357](Attachments/Pasted%20image%2020230810125357.png)
+$$^{A}_{B}R = ^{B}_{A}R^{-1} = ^{B}_{A}R^T$$
+
 **$R_{x}$ is meant to be at the bottom**
 These are general forms for rotating around a single axis, the zeroes and ones in this case do not change. And the angle $\theta$ is the number of degrees being rotated. We use the *right hand rule* to determine the direction of the rotation.
+
+# Description of a Frame
+A frame can be used as a description if one coordinate system relative to another. They have both **position** and *orientation*. Positions can be represented by a frame whose rotation-matrix part is the identity matrix, and whose vector part locates the point being described.
+![](Attachments/Pasted%20image%2020231116155804.png)
+$$\{B\} = \{ ^{A}_{B}R, ^{A}P_{BORG} \}$$
+
+# Homogenous Transformation Matrix
+Define the position and orientation of an object relative to coordinate frame {A}. A new frame {B} on the object is required
+![](Attachments/Pasted%20image%2020231116160659.png)
+We can use the **Homogenous Transformation Matrix $^{A}_{B}T$** 
+![](Attachments/Pasted%20image%2020231116160135.png)
+1. A 1 is added as the last element of the 4x1 vectors
+2. A row (0 0 0 1) is added as the last row of the 4x4 matrix
+
+Description of frame {B} relative to {A} is $^{A}_{B}T$
+![](Attachments/Pasted%20image%2020231116161058.png)
+
+# Mapping
+Change the description of a point being relative to frame to being relative to another frame.
+![](Attachments/Pasted%20image%2020231116171253.png)

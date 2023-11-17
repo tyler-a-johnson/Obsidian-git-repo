@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a99e99ffb4bb5447",
+        "id": "adfbd7f52089f274",
         "type": "tabs",
         "children": [
           {
-            "id": "9ebe6e4367532414",
+            "id": "f8f776151c126418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,15 +21,31 @@
             }
           },
           {
-            "id": "15860ff9d76a8e38",
+            "id": "e2c7c82a1fef687b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
+                "file": "Distilled Notes/Greek Letters and Symbols.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2a970919b2d0468e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a474d010d851fd9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf"
               }
             }
           }
@@ -99,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.50499725341797
+    "width": 296.51240158081055
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -127,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md"
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md"
               }
             }
           },
@@ -221,54 +237,53 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "f8f776151c126418",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 6 Lecture workshop class.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116192102.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116191418.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 4-Lecture workshop-ilearn.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116191150.png",
+    "Distilled Notes/Untitled.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116190948.png",
+    "Distilled Notes/Greek Letters and Symbols.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 3 - Sensing and Perception in Robotic and Automation - Translation, Rotations, and Transformations.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116184442.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 3-lecture workshop-ilearn.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116171253.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116161058.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116160659.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116160135.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231116155804.png",
+    "Resources/Markdown Latex Reference Sheet.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 1-iearn-1 1.pdf",
+    "Distilled Notes/Spatial Descriptions and Transformations in 3D Space.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
-    "UNI 2023/SEM 2/MTRN3026/Past Exams.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/~$Week-1b(Mechatronics_Systems) 1.ppt",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/~$Week-1a(Mechatronics_Systems).ppt",
-    "UNI 2023/SEM 2/ELEC2005/Week 9 - 3 Phase AC Power.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md",
     "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
+    "UNI 2023/SEM 2/MTRN3026/Past Exams.md",
     "UNI 2023/SEM 2/MTRN3026/ps322A.tmp",
     "UNI 2023/SEM 2/MTRN3026/ps4912.tmp",
+    "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
     "UNI 2023/SEM 2/MTRN3026/MTRN3026-Equation Sheet.pdf",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114175906.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114175436.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114174911.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114174856.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114174845.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114174818.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114174803.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114174739.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114174605.png",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Pasted image 20231114174548.png",
+    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
     "UNI 2023/SEM 2/MTRN3026/ps9A4E.tmp",
-    "UNI 2023/SEM 2/MTRN3026/Screenshot_2023-11-13_124452.psd",
+    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Drawing 2023-11-13 18.13.44.excalidraw.md",
-    "Distilled Notes/Greek Letters and Symbols.md",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Week_4_Basic_Hydraulics(1).pdf",
     "Distilled Notes/The Continuity Equation.md",
     "Distilled Notes/Pascal's Law.md",
     "UNI 2023/SEM 2/ELEC2005/Week 12 - Fundamental of Battery Energy Storage and Electric Vehicles.md",
-    "UNI 2023/SEM 2/ELEC2005/~WRL2381.tmp",
-    "UNI 2023/SEM 2/ELEC2005/~WRD2362.tmp",
     "UNI 2023/SEM 2/ELEC2005/Distilling The Unit.md",
     "UNI 2023/SEM 2/ELEC2005/Week 4 - BJTs Part II.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 3 - BJT (Bipolar Junction Transistors).md",
-    "UNI 2023/SEM 2/ELEC2005/Week 2 - Diodes.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 10 - Magnetics and Transformers.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 8 - AC Circuits and Power Factor Correction.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 7 - Power Semiconductors.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 6 - MOSFETs II.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 5 - MOSFETs I.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

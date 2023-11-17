@@ -118,4 +118,34 @@ $$f_\text{beat} = |f_{1}-f_{2}|$$
 Freq 1 = 425Hz and Freq 2 - 436Hz
 *Freq Beat = 11Hz*
 
-[](../../../../Distilled%20Notes/Spatial%20Descriptions%20and%20Transformations%20in%203D%20Space.md#X-Y-Z%20Fixed%20Angles|Spatial%20Descriptions%20and%20Transformations%20in%203D%20Space%20(X-Y-Z%20Fixed%20Angles))
+[Spatial Descriptions and Transformations in 3D Space](../../../../Distilled%20Notes/Spatial%20Descriptions%20and%20Transformations%20in%203D%20Space.md#X-Y-Z%20Fixed%20Angles|Spatial%20Descriptions%20and%20Transformations%20in%203D%20Space%20(X-Y-Z%20Fixed%20Angles))
+
+
+# Translational Operation
+
+## Inverting Transform
+
+For rotation matrices $^{A}_{B}R = ^{B}_{A}R^{-1} = ^{B}_{A}R^{T}$
+
+For transformation matrices $^{A}_{B}T = ^{B}_{A}T^{-1} \neq ^{B}_{A}T^{T}$
+
+For transformation matrices. we can use the following formula to find the inverse
+![](Attachments/Pasted%20image%2020231116184442.png)
+
+## X-Y-Z Fixed Angles
+Start with the frame coincident with a known reference frame {A}. Rotate {B} first about Xa by angle $\gamma$ then about Ya by angle $\beta$ and finally about Za by $\alpha$.
+**Roll** $R_{x} (\gamma)$
+**Pitch** $R_{y }(\beta)$
+**Yaw** $R_{z}(\alpha)$
+![](Attachments/Pasted%20image%2020231116190948.png)
+For this kind pf rotation, all the rotations are about the fixed frame {A}, and the result gives the new moved frame {B}.
+**The order of matrix multiplication must be opposite to the order of rotation as follows**
+![](Attachments/Pasted%20image%2020231116191150.png)
+![](Attachments/Pasted%20image%2020231116191418.png)
+Extracting X-Y-Z fixed angles from a rotation matrix is useful. Solution depends on solving nine equations with three unknowns. These simplify down to 3 equations.
+![](Attachments/Pasted%20image%2020231116192102.png)
+$\beta=A\tan{2} (-r_{31}, \sqrt{r_{11}^{2}+R_{21}^{2}})$
+$\alpha=A\tan2\left(  \frac{r_{21}}{c \beta}, \frac{r_{11}}{c \beta} \right)$
+$\gamma=A\tan 2\left(\frac{r_{31}}{c \beta}, \frac{r_{33}}{c \beta}\right)$
+
+Atan2 is the arctangent defined with 2 inputs, and is a function in MATLAB.

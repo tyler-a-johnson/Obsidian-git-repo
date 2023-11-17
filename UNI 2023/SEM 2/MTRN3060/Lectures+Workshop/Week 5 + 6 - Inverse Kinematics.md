@@ -107,8 +107,8 @@ The space of all such joint vectors is referred to as **joint space.**
 *If a robotic manipulator has 5 joints, then the join space will have 5 variables.*
 
 **Cartesian space:** is the space that contains the Cartesian variables where the end-effector can travel through within the workspace. 
+*For a planar robot, the Cartesian space will have 3 variables (Dx, Dy, Rz). For a full 3D robot, the Cartesian space will have 6 variables (Dx, Dy, Dz, Rx, Ry, Rz), which is the maximum number of Cartesian space variables.*
 
-For a planar robot, the Cartesian space will have 3 variables (Dx, Dy, Rz). For a full 3D robot, the Cartesian space will have 6 variables (Dx, Dy, Dz, Rx, Ry, Rz), which is the maximum number of Cartesian space variables.
 # Conceptual Info
 ---
 

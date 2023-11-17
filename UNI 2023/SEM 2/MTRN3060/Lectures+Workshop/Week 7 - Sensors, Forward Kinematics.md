@@ -75,6 +75,7 @@ The study of the process of regulating the output of an actuator or the behavior
 
 ## Feedforward VS Feedback
 ![](Attachments/Pasted%20image%2020231117143453.png)
-
+**Feedforward:**
+- U
 
 # Conceptual Info

@@ -142,9 +142,9 @@ $$\theta_{1} = A\tan 2 \left( \frac{y}{x} \right) - A \tan 2 \left( \frac{s_{2}L
 
 # Conceptual Info
 ---
-
-
-
+## Definition of Controller
+Controlling a large robotic system to do a task often involves solving many smaller control problems, reaching down to the level of controlling individual motors.
+Controller The combination of hardware and software that together program and control a robotic system. A programmable device that converts an error signal to a current/voltage command, which regulates the behavior of the dynamic system. Feedforward (Open-Loop) Uses the model of the dynamics of the controlled system to make proactive decisions on the commands to send to the robot actuators Feedback (Closed-Loop) Uses the output of the dynamic system as an input to the control decision process. More robust differences between the real and modeled systems than open-loop control. Control The study of the process of regulating the output of an actuator or the behavior of a dynamical system
 
 # Additional Content
 ---

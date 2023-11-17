@@ -153,5 +153,8 @@ Controlling a large robotic system to do a task often involves solving many smal
 
 **Control** The study of the process of regulating the output of an actuator or the behavior of a dynamical system.
 
+### Control and Regulation
+- The goal of control is to maintain a physical quantity
+
 # Additional Content
 ---

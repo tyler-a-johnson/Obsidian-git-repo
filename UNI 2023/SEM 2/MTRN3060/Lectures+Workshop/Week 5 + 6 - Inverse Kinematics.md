@@ -135,12 +135,14 @@ $$\theta_{1} = A\tan 2 \left( \frac{y}{x} \right) - A \tan 2 \left( \frac{s_{2}L
 ![](Attachments/Pasted%20image%2020231117211618.png)
 
 ![](Attachments/Pasted%20image%2020231117211631.png)
-
-
+![](Attachments/Pasted%20image%2020231117211652.png)
+![](Attachments/Pasted%20image%2020231117211712.png)
+![](Attachments/Pasted%20image%2020231117211728.png)
 
 
 # Conceptual Info
 ---
+
 
 
 

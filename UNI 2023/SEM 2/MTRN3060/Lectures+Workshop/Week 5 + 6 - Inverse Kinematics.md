@@ -33,6 +33,7 @@ For any two axes in 3D, there exists a well-defined measure of distance between 
 
 It is unique except when both axes are parallel, in which case there are many mutual perpendiculars of equal length.
 
+Here is a mechanical drawing of a robot link. If this link is used in a robot with bearing A. Used for the lower-numbered joint, give the length and twist of this link. Assume that holes are centered in each bearing.
 
 # Conceptual Info
 ---

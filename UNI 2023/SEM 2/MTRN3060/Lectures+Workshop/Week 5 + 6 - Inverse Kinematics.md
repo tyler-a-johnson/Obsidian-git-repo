@@ -29,7 +29,10 @@ Single-axis translational joints that connect two rigid links together
 ![](Attachments/Pasted%20image%2020231117111904.png)
 We need four parameters, two describing the link and two describing the joint.
 
-For any two axes in 3D, there exists a well-defined measure of distance between them. This distance is measured along a line that is mutually perpendicul
+For any two axes in 3D, there exists a well-defined measure of distance between them. This distance is measured along a line that is mutually perpendicular to both axes. This mutual perpendicular always exists.
+
+It is unique except when both axes are parallel, in which case there are many mutual perpendiculars of equal length.
+
 
 # Conceptual Info
 ---

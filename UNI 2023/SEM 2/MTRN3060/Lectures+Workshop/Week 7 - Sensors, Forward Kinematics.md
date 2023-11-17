@@ -68,6 +68,7 @@ Uses the model of the dynamics of the controlled system to make proactive decisi
 Uses the output of the dynamic system as an input to the control decision process. More robust differences betweeen the real ad modelled system than open-loop control.
 
 **Control**
+The study of the process of regulating the output of an actuator or the behavior of a dynamical system.
 
 
 

@@ -174,8 +174,8 @@ Controlling a large robotic system to do a task often involves solving many smal
 - *Reactive and leads to delays due to latency in sensing and processing*
 
 ## Types of Controllers
-
-
+**Proportional Integral Derivative**
+- Commonly use
 
 
 

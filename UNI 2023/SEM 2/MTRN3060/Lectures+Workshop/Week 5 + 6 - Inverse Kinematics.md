@@ -168,7 +168,7 @@ Controlling a large robotic system to do a task often involves solving many smal
 - Control focuses on fast decision rates possibly with simpler models
 
 **Feedback or closed-loop control**
-- Uses the output of the dynamic system as an inop
+- Uses the output of the dynamic system as an input to the control decision process while overcoming the differences
 
 
 # Additional Content

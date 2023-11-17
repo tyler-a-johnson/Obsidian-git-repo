@@ -126,7 +126,10 @@ The number of solutions depends upon the number of joints in the manipulator but
 
 
 ## How to solve the equation
-$$c_{2} = \frac{x^2}{2L_{1}L_{2}}$$
+$$c_{2} = \frac{x^{2}+y^{2}-L_{1}^{2}-L_{2}^2}{2L_{1}L_{2}}$$
+$$s_{2} = \pm \sqrt{ 1-c_{2}^{2}}$$
+$$\theta_{2} = A\tan2\left( \frac{s_{2}}{c_{2}} \right)$$
+$$\theta_{1} = A\tan 2 \left( \frac{y}{x} \right) - A \tan 2 (s_{2}L)$$
 
 # Conceptual Info
 ---

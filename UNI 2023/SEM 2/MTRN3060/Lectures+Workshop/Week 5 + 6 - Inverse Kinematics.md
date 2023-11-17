@@ -160,7 +160,12 @@ Controlling a large robotic system to do a task often involves solving many smal
 ### Hierarchy of Control Loops
 ![](Attachments/Pasted%20image%2020231117214034.png)
 
-### Feedforward V
+### Feedforward VS Feedback
+![](Attachments/Pasted%20image%2020231117214153.png)
+
+**Feedforward or open-loop control**
+- Uses the m
+
 
 
 # Additional Content

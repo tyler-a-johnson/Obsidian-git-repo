@@ -38,8 +38,15 @@ Practicals Docs:
 ### Inductive
 Can detect proximity of purely metallic object.
 **Ferrous Metals:**
-Iron
-St
+- Iron
+- Steel
+
+**Non-Ferrous Metals**
+- Copper
+- Aluminium
+- Brass
+![](Attachments/Pasted%20image%2020231117132503.png)
+![](Attachments/Pasted%20image%2020231117132544.png)
 
 
 

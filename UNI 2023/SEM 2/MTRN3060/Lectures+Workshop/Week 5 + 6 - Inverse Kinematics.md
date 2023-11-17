@@ -59,11 +59,16 @@ For convenience and to reduce calculations, it is preffered to set the following
 
 1. **Z-Axis**: Assign all z-axis along the axis of the rotation (for revolute joints) or axis of translation (for prismatic joints). Choose either of the two directions.
 ![](Attachments/Pasted%20image%2020231117114536.png)
+
 2. **Frame Origins**: Identify the common perpendicular between z-axis, or the point of intersection between them. These intersections will be the frame origins.
 ![](Attachments/Pasted%20image%2020231117114711.png)
+
 3. **X-Axes**: Assign all x-axes starting from the frame origin and pointing towards the next joint along the common perpendicular.
 ![](Attachments/Pasted%20image%2020231117115018.png)
-4. **Y-axes**: Assign all y-axes to complete the [Right Hand Rule](../../../../Distilled%20Notes/Right%20Hand%20Rule.md) (Thumb faces Z, four fingers extende
+
+4. **Y-axes**: Assign all y-axes to complete the [Right Hand Rule](../../../../Distilled%20Notes/Right%20Hand%20Rule.md) (Thumb faces Z, four fingers extended face X)
+![](Attachments/Pasted%20image%2020231117115456.png)
+
 
 # Conceptual Info
 ---

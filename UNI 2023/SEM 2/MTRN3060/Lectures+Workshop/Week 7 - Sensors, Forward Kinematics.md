@@ -36,7 +36,10 @@ Practicals Docs:
 - Package
 
 ### Inductive
-Can 
+Can detect proximity of purely metallic object.
+**Ferrous Metals:**
+Iron
+St
 
 
 

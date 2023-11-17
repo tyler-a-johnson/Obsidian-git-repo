@@ -16,6 +16,13 @@ Relevant Links:
 
 ## Kinematics
 The central topic in kinematic is a method to compute the position and orientation of the manipulator’s end-effector relative to the base of the manipulator as a function of the joint variables. 
+![](Attachments/Pasted%20image%2020231117111439.png)
+### Joints
+![](Attachments/Pasted%20image%2020231117111547.png)
+**Revolute**
+Single-axis rotational joints that connect two rigid links together
+
+**Prismatic**
 
 
 # Conceptual Info

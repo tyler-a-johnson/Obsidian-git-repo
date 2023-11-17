@@ -54,6 +54,10 @@ $$\text{For prismatic joint, }d \text{ is Variable and } \theta \text{ is consta
 For convenience and to reduce calculations, it is preffered to set the following parameters to zero (to avoid extra calculations) $a_{0}=a_{n}=\alpha_{0}=\alpha_{n} = 0$. 
 
 
+## Procedure for Frame Assignment
+*attach frame {i} to link "i"*
+
+
 # Conceptual Info
 ---
 

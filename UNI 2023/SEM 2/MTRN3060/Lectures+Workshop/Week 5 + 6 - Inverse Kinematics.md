@@ -175,8 +175,14 @@ Controlling a large robotic system to do a task often involves solving many smal
 
 ## Types of Controllers
 **Proportional Integral Derivative**
-- Commonly use
+- Commonly used continuous controller
+- Design or selection of parameters are not trivial
 
+**Linear Quadratic Regulator (LQR)**
+- Parameters can be selected through optimization
+
+**Model Predictive Control (MPC)**
+- Suitable for systems subject to non-linear dynamics and to constraints, such as actuator limits or under actuiato
 
 
 # Additional Content

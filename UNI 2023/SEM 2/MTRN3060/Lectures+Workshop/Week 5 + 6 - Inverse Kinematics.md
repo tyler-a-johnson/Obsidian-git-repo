@@ -89,8 +89,7 @@ $\theta_{i}$ : The angle from $x_{i-1}$ and $x_{i}$ about $z_{i}$
 $$a_{i} = \text{the distance from } \bar{Z}_{i} \text{ to } \hat{Z}_{i+1} \text{ measured along } \hat{X}_{i}$$
 $$\alpha_{i} = \text{the angle from } \hat{Z}_{i} \text{ to } \hat{Z}_{i+1} \text{ measured about } \hat{X}_{i}$$
 $$d_{i} = \text{ the distance from} \hat{X}_{i-1} \text{ to } \hat{X}_{i} \text{ measured along } \hat{ Z}_{i}$$
-
-
+$$\theta_{i} = \text{ the angle from } \hat{X}_{i-1} \text{ to } \hat{X}_{i} \text{ measured about } $$
 
 
 # Conceptual Info

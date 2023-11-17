@@ -81,7 +81,9 @@ The study of the process of regulating the output of an actuator or the behavior
 - Parameters can be selected through optimization
 
 **MPC (Model Predictive Control)**
-- Suitable for systems s
+- Suitable for systems subject to non-linear dynamics and to constraints, such as actuator limits or under actuation.
+
+
 ## Feedforward VS Feedback
 ![](Attachments/Pasted%20image%2020231117143453.png)
 **Feedforward:**

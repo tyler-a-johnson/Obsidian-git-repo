@@ -37,7 +37,10 @@ Here is a mechanical drawing of a robot link. If this link is used in a robot wi
 ![](Attachments/Pasted%20image%2020231117112543.png)
 
 **Description**
-A robotic manipulator can ontain one or more joints, Joints ae
+A robotic manipulator can ontain one or more joints, Joints are described using two parameters.
+
+Neighboring links have a common joint axis between them. One parameter of interconnection has to do with the distance along this common acis from one link to the next. This parameter is called the **joint offset**.
+$$\text{For }$$
 
 # Conceptual Info
 ---

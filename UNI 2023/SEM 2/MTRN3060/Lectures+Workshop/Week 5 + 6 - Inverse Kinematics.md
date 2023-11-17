@@ -70,7 +70,14 @@ For convenience and to reduce calculations, it is preffered to set the following
 ![](Attachments/Pasted%20image%2020231117115456.png)
 
 5. **Frame {0} (ground frame-does not move):** Assign frame {0} to match frame {1} when the first joint variable is zero. This is recommended for convenience so that some DH parameters can be set to zero to reduce calculations. Otherwise, frame {0} con be assigned arbitrarily.
-6. **Frame {n}-or frame gripper**: Assign 
+6. **Frame {n}-or frame gripper**: Assign frame {n} such that as many DH parameters can be set to zero. 
+
+### Extracting DH Parameters
+
+$a_{i}$ The distance from $z_{i}$ and $z_{i+1}$ along $x_{i}$
+![](Attachments/Pasted%20image%2020231117120539.png)
+$\alpha_{i}$ : The angle from $z_{i}$ and $z_{i+1}$ about $x_{i}$
+
 
 # Conceptual Info
 ---

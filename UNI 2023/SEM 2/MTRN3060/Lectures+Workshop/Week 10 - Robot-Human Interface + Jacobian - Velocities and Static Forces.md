@@ -10,6 +10,7 @@ Relevant Notes: []
 Practical Docs: 
 Relevant Links:
 ---
+[Week 10](Attachments/Week%2010,%20Lecture%20workshop-1.pdf)
 # Maths and Distilled Info
 ---
 

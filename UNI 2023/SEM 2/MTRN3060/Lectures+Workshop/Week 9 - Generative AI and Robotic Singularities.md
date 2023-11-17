@@ -8,6 +8,7 @@ Relevant Notes: []
 Practical Docs: 
 Relevant Links:
 ---
+[Week 9](Attachments/Week%209-%20lecture%20workshop.pdf)
 # Maths and Distilled Info
 ---
 

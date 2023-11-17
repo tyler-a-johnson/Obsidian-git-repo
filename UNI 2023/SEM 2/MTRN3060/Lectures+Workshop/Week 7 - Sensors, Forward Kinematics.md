@@ -49,5 +49,7 @@ Can detect proximity of purely metallic object.
 ![](Attachments/Pasted%20image%2020231117132544.png)
 
 
+### Capacitive Proximity Sensors
+Detect the object 
 
 # Conceptual Info

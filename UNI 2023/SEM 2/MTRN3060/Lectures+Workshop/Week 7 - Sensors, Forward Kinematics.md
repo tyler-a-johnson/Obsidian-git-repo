@@ -56,6 +56,14 @@ Detect the object through the change in sensor's capacitance
 Can detect any object.
 
 ## Definition of Controller
-Once a robot has a motion plan, its time to act. How do you ensure, that the robot's execution follows the desired plan? Controlling a large robotic system to do a task often involves solving 
+Once a robot has a motion plan, its time to act. How do you ensure, that the robot's execution follows the desired plan? Controlling a large robotic system to do a task often involves solving many smaller control problems.
 
-# Conceptual In
+**Controller**
+The combination of hardware and software that together program and control a robotic system. A programmable device that converts an error signal to current/voltage command.
+
+**Feedforward (Open-Loop)**
+
+
+
+
+# Conceptual Info

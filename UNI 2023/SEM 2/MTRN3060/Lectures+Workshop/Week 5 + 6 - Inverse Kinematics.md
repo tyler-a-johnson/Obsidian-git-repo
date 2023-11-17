@@ -92,7 +92,7 @@ $\alpha_{i} = \text{the angle from} \hat{Z}_{i} \text{to} \hat{Z}_{i+1} \text{me
 
 $d_{i} = \text{the distance from} \hat{X}_{i-1} \text{to} \hat{X}_{i} \text{measured along} \hat{ Z}_{i}$
 
-$\theta_{i} = \text{the angle from} \hat{X}_{i-1} \text{to} \hat{X}_{i} \text{measured about} \hat{Z}_{i}$
+$\theta_{i}$ = the angle from} \hat{X}_{i-1} \text{to} \hat{X}_{i} \text{measured about} \hat{Z}_{i}$
 
 
 We use these measurements and variables to fill out a table as shown below:

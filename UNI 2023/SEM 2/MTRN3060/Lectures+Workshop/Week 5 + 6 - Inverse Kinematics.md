@@ -74,7 +74,7 @@ For convenience and to reduce calculations, it is preffered to set the following
 
 ### Extracting DH Parameters
 
-$a_{i}$ : The distance from $z_{i}$ and $z_{i+1}$ along $x_{i}$
+$L_{i}$ : The distance from $z_{i}$ and $z_{i+1}$ along $x_{i}$
 ![](Attachments/Pasted%20image%2020231117120539.png)
 
 $\alpha_{i}$ : The angle from $z_{i}$ and $z_{i+1}$ about $x_{i}$

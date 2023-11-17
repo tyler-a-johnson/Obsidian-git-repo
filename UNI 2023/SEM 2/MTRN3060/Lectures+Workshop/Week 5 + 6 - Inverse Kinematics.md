@@ -88,11 +88,11 @@ $\theta_{i}$ : The angle from $x_{i-1}$ and $x_{i}$ about $z_{i}$
 
 $a_{i} (\text{sometimes L}) = \text{the distance from } \bar{Z}_{i} \text{ to } \hat{Z}_{i+1} \text{ measured along } \hat{X}_{i}$
 
-$\alpha_{i} = \text{the angle from} \hat{Z}_{i} \text{to} \hat{Z}_{i+1} \text{measured about} \hat{X}_{i}$
+$\alpha_{i}$ = the angle from} \hat{Z}_{i} \text{to} \hat{Z}_{i+1} \text{measured about} \hat{X}_{i}$
 
-$d_{i} = \text{the distance from} \hat{X}_{i-1} \text{to} \hat{X}_{i} \text{measured along} \hat{ Z}_{i}$
+$d_{i}$ = the distance from $\hat{X}_{i-1}$ to $\hat{X}_{i}$ measured along $\hat{ Z}_{i}$
 
-$\theta_{i}$ = the angle from} \hat{X}_{i-1} \text{to} \hat{X}_{i} \text{measured about} \hat{Z}_{i}$
+$\theta_{i}$ = the angle from $\hat{X}_{i-1}$ to $\hat{X}_{i}$ measured about $\hat{Z}_{i}$
 
 
 We use these measurements and variables to fill out a table as shown below:

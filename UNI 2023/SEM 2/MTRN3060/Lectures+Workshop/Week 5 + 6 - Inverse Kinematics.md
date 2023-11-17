@@ -178,9 +178,8 @@ Controlling a large robotic system to do a task often involves solving many smal
 - Commonly used continuous controller
 - Design or selection of parameters are not trivial
 ![](Attachments/Pasted%20image%2020231117215826.png)
-
-
-
+**Limitations:**
+*Steady State Error:* - 
 **Linear Quadratic Regulator (LQR)**
 - Parameters can be selected through optimization
 

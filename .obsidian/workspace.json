@@ -6,6 +6,7 @@
       {
         "id": "adfbd7f52089f274",
         "type": "tabs",
+        "dimension": 36.828240252897785,
         "children": [
           {
             "id": "594a024c67b15575",
@@ -25,6 +26,7 @@
       {
         "id": "fbd338da3e3f6a64",
         "type": "tabs",
+        "dimension": 63.17175974710221,
         "children": [
           {
             "id": "45b9e6937d7eccf4",
@@ -239,6 +241,7 @@
   "lastOpenFiles": [
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 6 Lecture workshop class.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117205617.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117205234.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117205109.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf",
@@ -264,7 +267,6 @@
     "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120848.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120751.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120628.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 3 - Sensing and Perception in Robotic and Automation - Translation, Rotations, and Transformations.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",

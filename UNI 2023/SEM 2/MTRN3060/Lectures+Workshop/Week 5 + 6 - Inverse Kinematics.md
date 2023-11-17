@@ -97,7 +97,9 @@ $$\theta_{i} = \text{ the angle from } \hat{X}_{i-1} \text{ to } \hat{X}_{i} \te
 $$^{i-1}_{i}T = R_{X} (\alpha_{i-1})D_{X}(a_{i-1})R_{Z}(\theta_{i})D_{Z}(d_{i})$$
 ![](Attachments/Pasted%20image%2020231117205234.png)
 Once the frames have been defined and the corresponding link parameters found, developing kinematic equations is straightforward. rom the values of the link parameters, the individual link-transformation matrices can be computed. Then, the link transformations can be multiplied together to find the single transformation that relates frame {N} to frame {0}:
-$$^{0}_{N}T = $$
+$$^{0}_{N}T = ^{0}_{1}T ^{1}_{2}T ^{2}_{3}T \dots ^{N-1}_{N}T$$
+
+![](Attachments/Pasted%20image%2020231117205617.png)
 
 # Conceptual Info
 ---

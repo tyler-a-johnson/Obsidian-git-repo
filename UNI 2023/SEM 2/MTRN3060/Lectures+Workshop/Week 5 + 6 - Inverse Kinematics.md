@@ -101,6 +101,10 @@ $$^{0}_{N}T = ^{0}_{1}T ^{1}_{2}T ^{2}_{3}T \dots ^{N-1}_{N}T$$
 
 ![](Attachments/Pasted%20image%2020231117205617.png)
 
+### Actuator Space, Joint Space, and Cartesian Space
+The position of all the links of a manipulator of n degrees of freedom can be specified with a set of n joint variables. ( the n×1 joint vector)
+
+
 # Conceptual Info
 ---
 

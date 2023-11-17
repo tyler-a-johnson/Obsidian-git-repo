@@ -93,6 +93,10 @@ $$\theta_{i} = \text{ the angle from } \hat{X}_{i-1} \text{ to } \hat{X}_{i} \te
 
 
 ## Forward Kinematics
+![](Attachments/Pasted%20image%2020231117205109.png)
+$$^{i-1}_{i}T = R_{X} (\alpha_{i-1})D_{X}(a_{i-1})R_{Z}(\theta_{i})D_{Z}(d_{i})$$
+![](Attachments/Pasted%20image%2020231117205234.png)
+
 
 
 # Conceptual Info

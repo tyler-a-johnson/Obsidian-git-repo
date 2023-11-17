@@ -23,7 +23,9 @@ The central topic in kinematic is a method to compute the position and orientati
 Single-axis rotational joints that connect two rigid links together
 
 **Prismatic**
+Single-axis translational joints that connect two rigid links together
 
+###
 
 # Conceptual Info
 ---

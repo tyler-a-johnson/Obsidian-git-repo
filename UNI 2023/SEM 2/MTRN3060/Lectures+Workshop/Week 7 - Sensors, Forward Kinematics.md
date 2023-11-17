@@ -70,8 +70,10 @@ Uses the output of the dynamic system as an input to the control decision proces
 **Control**
 The study of the process of regulating the output of an actuator or the behavior of a dynamical system.
 
-*Hei*
+*Hierarchy of the Control Loop*
 ![](Attachments/Pasted%20image%2020231117143143.png)
+
+## Feedforward VS Feedback
 
 
 # Conceptual Info

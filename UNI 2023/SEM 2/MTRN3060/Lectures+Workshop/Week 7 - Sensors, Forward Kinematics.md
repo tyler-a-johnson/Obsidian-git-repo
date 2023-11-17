@@ -35,6 +35,8 @@ Practicals Docs:
 - Speed
 - Package
 
+### Inductive
+Can 
 
 
 

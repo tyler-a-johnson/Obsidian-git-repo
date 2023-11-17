@@ -40,7 +40,12 @@ Here is a mechanical drawing of a robot link. If this link is used in a robot wi
 A robotic manipulator can ontain one or more joints, Joints are described using two parameters.
 
 Neighboring links have a common joint axis between them. One parameter of interconnection has to do with the distance along this common acis from one link to the next. This parameter is called the **joint offset**.
-$$\text{For }$$
+$$\text{For revolute joint, } \theta \text{ is Variable and d is constant}$$
+$$\text{For prismatic joint, } d \text{ is Variable and } \theta \text{ is constant}$$
+
+## Denavit-Hartenberg Notation
+
+
 
 # Conceptual Info
 ---

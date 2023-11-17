@@ -179,7 +179,10 @@ Controlling a large robotic system to do a task often involves solving many smal
 - Design or selection of parameters are not trivial
 ![](Attachments/Pasted%20image%2020231117215826.png)
 **Limitations:**
-*Steady State Error:* - 
+*Steady State Error:* 
+- As the controller is gradual, static forces such as friction make it difficult or impossible to reach the target because:
+	- When approaching the target, the magnitude of the control signal decreases
+	- The moment magnitude goes below the parasitic static forces, the system stops moving without 
 **Linear Quadratic Regulator (LQR)**
 - Parameters can be selected through optimization
 

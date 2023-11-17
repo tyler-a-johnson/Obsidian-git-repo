@@ -112,15 +112,17 @@ The space of all such joint vectors is referred to as **joint space.**
 
 ## Inverse Manipulator Kinematics
 Given the desired position and orientation of the tool relative to the station, how do we compute the set of joint angles which will achieve this desired result.
-
+![](Attachments/Pasted%20image%2020231117210757.png)
 Solvability of inverse Kinematics Problems
 a. Existence of a solution
 b. Workspace: is a volume of space that the end effector can reach
 	For solution to exist, the end effector goal must be within the workspace
 c. Degrees of Freedom (DOF): Are the number of independent variable in a manipulator
-For a sol
+	For a solution to exist, the number of joints should be more than or equal to the number of independent Cartesian coordinates to be controlled at the end effector
 
 
+### Multiple Solutions
+The number of solutions depends upon the 
 
 # Conceptual Info
 ---

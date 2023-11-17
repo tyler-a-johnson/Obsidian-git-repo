@@ -166,10 +166,15 @@ Controlling a large robotic system to do a task often involves solving many smal
 **Feedforward or open-loop control**
 - Uses the model of the dynamics of the controlled system to make proactive decisions on the commands sent to actuators
 - Control focuses on fast decision rates possibly with simpler models
+- *Is proactive and can anticipate the needs of the system*
 
 **Feedback or closed-loop control**
 - Uses the output of the dynamic system as an input to the control decision process while overcoming the differences between real and modelled system
 - The output signal is usually captured by a sensor that facilitates the process of regulating the output to a desired value.
+- *Reactive and leads to delays due to latency in sensing and processing*
+
+## Types of Controllers
+
 
 
 

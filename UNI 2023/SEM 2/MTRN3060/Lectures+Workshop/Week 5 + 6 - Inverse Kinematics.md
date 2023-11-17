@@ -48,6 +48,10 @@ Any robot can be described kinematically by giving the values of four quantities
 
 In the usual case of a revolute joint, $\theta_{i}$ is called the **joint variable** and the other three are **fixed link parameters**. For prismatic joints. $d_{i}$ is the joint variable, and the other three quantities are fixed link parameters. The definition of mechanisms by means of these quantities is a convention usually called the **Denavit-Hartenberg Notation**.
 ![](Attachments/Pasted%20image%2020231117113113.png)
+$$\text{For relative joint, } \theta \text{ is Variable and d is constant}$$
+$$\text{For prismatic joint, }d \text{ is Variable and } \theta \text{ is constant}$$
+
+For convenience and to reduce 
 
 
 # Conceptual Info
@@ -55,5 +59,4 @@ In the usual case of a revolute joint, $\theta_{i}$ is called the **joint variab
 
 
 
-# Additional Content
----
+# Additiona

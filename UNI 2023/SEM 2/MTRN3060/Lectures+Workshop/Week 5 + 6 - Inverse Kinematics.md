@@ -44,7 +44,8 @@ $$\text{For revolute joint, } \theta \text{ is Variable and d is constant}$$
 $$\text{For prismatic joint, } d \text{ is Variable and } \theta \text{ is constant}$$
 
 ## Denavit-Hartenberg Notation
-
+Any robot can be described kinematically by giving the values of four quantities for each link. 
+![](Attachments/Pasted%20image%2020231117113113.png)
 
 
 # Conceptual Info

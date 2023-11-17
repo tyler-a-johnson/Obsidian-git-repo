@@ -51,7 +51,7 @@ In the usual case of a revolute joint, $\theta_{i}$ is called the **joint variab
 $$\text{For relative joint, } \theta \text{ is Variable and d is constant}$$
 $$\text{For prismatic joint, }d \text{ is Variable and } \theta \text{ is constant}$$
 
-For convenience and to reduce 
+For convenience and to reduce calculations, it is preffered to set the following parameters to zero (to avoid extra calculations) $a_{0}=a_{n}=\alpha_{0}=\alpha_{n} = 0$. 
 
 
 # Conceptual Info
@@ -59,4 +59,5 @@ For convenience and to reduce
 
 
 
-# Additiona
+# Additional Content
+---

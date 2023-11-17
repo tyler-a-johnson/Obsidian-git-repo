@@ -55,26 +55,5 @@ Detect the object through the change in sensor's capacitance
 ![](Attachments/Pasted%20image%2020231117133015.png)
 Can detect any object.
 
-## Definition of Controller
-Once a robot has a motion plan, its time to act. How do you ensure, that the robot's execution follows the desired plan? Controlling a large robotic system to do a task often involves solving many smaller control problems.
-
-**Controller**
-The combination of hardware and software that together program and control a robotic system. A programmable device that converts an error signal to current/voltage command.
-
-**Feedforward (Open-Loop)**
-Uses the model of the dynamics of the controlled system to make proactive decisions on the commands to send to robot actuators.
-
-**Feedback (Closed-Loop)**
-Uses the output of the dynamic system as an input to the control decision process. More robust differences between the real ad modelled system than open-loop control.
-
-**Control**
-The study of the process of regulating the output of an actuator or the behavior of a dynamical system.
-
-*Hierarchy of the Control Loop*
-![](Attachments/Pasted%20image%2020231117143143.png)
-
-## Feedforward VS Feedback
-![](Attachments/Pasted%20image%2020231117143453.png)
-
 
 # Conceptual Info

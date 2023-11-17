@@ -10,7 +10,7 @@ Relevant Links:
 ---
 # Maths and Distilled Info
 ---
-
+![](Attachments/Week%208%20Lecture%20Workshop-1.pdf)
 
 
 # Conceptual Info

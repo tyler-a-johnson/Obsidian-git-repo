@@ -52,6 +52,7 @@ Can detect proximity of purely metallic object.
 ### Capacitive Proximity Sensors
 Detect the object through the change in sensor's capacitance
 **Capacitive sensors use an electrostatic field**
-
+![](Attachments/Pasted%20image%2020231117133015.png)
+Can detect any object.
 
 # Conceptual Info

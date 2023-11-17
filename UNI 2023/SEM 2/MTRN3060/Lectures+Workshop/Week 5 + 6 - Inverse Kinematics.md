@@ -69,7 +69,8 @@ For convenience and to reduce calculations, it is preffered to set the following
 4. **Y-axes**: Assign all y-axes to complete the [Right Hand Rule](../../../../Distilled%20Notes/Right%20Hand%20Rule.md) (Thumb faces Z, four fingers extended face X)
 ![](Attachments/Pasted%20image%2020231117115456.png)
 
-5. **Frame {0} (ground frame-does not move):** Assign frame {0} to match 
+5. **Frame {0} (ground frame-does not move):** Assign frame {0} to match frame {1} when the first joint variable is zero. This is recommended for convenience so that some DH parameters can be set to zero to reduce calculations. Otherwise, frame {0} con be assigned arbitrarily.
+6. **Frame {n}-or frame gripper**: Assign 
 
 # Conceptual Info
 ---

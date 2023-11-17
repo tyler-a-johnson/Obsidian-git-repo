@@ -102,9 +102,13 @@ $$^{0}_{N}T = ^{0}_{1}T ^{1}_{2}T ^{2}_{3}T \dots ^{N-1}_{N}T$$
 ![](Attachments/Pasted%20image%2020231117205617.png)
 
 ### Actuator Space, Joint Space, and Cartesian Space
-The position of all the links of a manipulator of n degrees of freedom can be specified with a set of n joint variables. ( the n×1 joint vector)
+The position of all the links of a manipulator of n degrees of freedom can be specified with a set of n joint variables (n×1 joint vector).
+The space of all such joint vectors is referred to as **joint space.**
+*If a robotic manipulator has 5 joints, then the join space will have 5 variables.*
 
+**Cartesian space:** is the space that contains the Cartesian variables where the end-effector can travel through within the workspace. 
 
+For a planar robot, the Cartesian space will have 3 variables (Dx, Dy, Rz). For a full 3D robot, the Cartesian space will have 6 variables (Dx, Dy, Dz, Rx, Ry, Rz), which is the maximum number of Cartesian space variables.
 # Conceptual Info
 ---
 

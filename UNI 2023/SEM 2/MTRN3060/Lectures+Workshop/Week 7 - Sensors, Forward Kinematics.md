@@ -13,4 +13,6 @@ Practicals Docs:
 ---
 [Week 7-slides 3060](Attachments/Week%207-slides%203060.pdf)
 
-# Distilled Maths
+# Distilled Info
+
+

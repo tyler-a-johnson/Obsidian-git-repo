@@ -15,4 +15,14 @@ Practicals Docs:
 
 # Distilled Info
 
+## Sensors
+- Temp sensors
+- Proximity sensors
+- Level measurements
+- Flow sensors
 
+
+
+
+
+# Conceptual Info

@@ -69,6 +69,7 @@ For convenience and to reduce calculations, it is preffered to set the following
 4. **Y-axes**: Assign all y-axes to complete the [Right Hand Rule](../../../../Distilled%20Notes/Right%20Hand%20Rule.md) (Thumb faces Z, four fingers extended face X)
 ![](Attachments/Pasted%20image%2020231117115456.png)
 
+5. **Frame {0} (ground frame-does not move):** Assign frame {0} to match 
 
 # Conceptual Info
 ---

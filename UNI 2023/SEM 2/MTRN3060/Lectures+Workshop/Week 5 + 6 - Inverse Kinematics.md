@@ -86,14 +86,14 @@ $\theta_{i}$ : The angle from $x_{i-1}$ and $x_{i}$ about $z_{i}$
 ![](Attachments/Pasted%20image%2020231117120848.png)
 
 
-$$a_{i} (\text{ sometimes L}) = \text{the distance from } \bar{Z}_{i} \text{ to } \hat{Z}_{i+1} \text{ measured along } \hat{X}_{i}$$
+$$a_{i} (\text{sometimes L}) = \text{the distance from } \bar{Z}_{i} \text{ to } \hat{Z}_{i+1} \text{ measured along } \hat{X}_{i}$$
 $$\alpha_{i} = \text{the angle from } \hat{Z}_{i} \text{ to } \hat{Z}_{i+1} \text{ measured about } \hat{X}_{i}$$
 $$d_{i} = \text{ the distance from} \hat{X}_{i-1} \text{ to } \hat{X}_{i} \text{ measured along } \hat{ Z}_{i}$$
 $$\theta_{i} = \text{ the angle from } \hat{X}_{i-1} \text{ to } \hat{X}_{i} \text{ measured about } \hat{Z}_{i}$$
 
 We use these measurements and variables to fill out a table as shown below:
-
-
+![](Attachments/Pasted%20image%2020231117205617.png)
+We start at 1 and work our way through the number of joints.
 ## Forward Kinematics
 ![](Attachments/Pasted%20image%2020231117205109.png)
 $$^{i-1}_{i}T = R_{X} (\alpha_{i-1})D_{X}(a_{i-1})R_{Z}(\theta_{i})D_{Z}(d_{i})$$

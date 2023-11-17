@@ -73,8 +73,15 @@ The study of the process of regulating the output of an actuator or the behavior
 *Hierarchy of the Control Loop*
 ![](Attachments/Pasted%20image%2020231117143143.png)
 ### Types of Controllers
+**PID (Proportional Integral Derivative)**
+- Commonly used continuous controller
+- Design or selection of parameters are not trivial
 
+**LQR (Linear Quadratic Regulator)**
+- Parameters can be selected through optimization
 
+**MPC (Model Predictive Control)**
+- Suitable for systems s
 ## Feedforward VS Feedback
 ![](Attachments/Pasted%20image%2020231117143453.png)
 **Feedforward:**

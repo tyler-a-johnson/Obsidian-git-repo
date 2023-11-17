@@ -82,7 +82,13 @@ $\alpha_{i}$ : The angle from $z_{i}$ and $z_{i+1}$ about $x_{i}$
 
 $d_{i}$ : The distance $x_{i-1}$ and $x_{i}$ along $z_{i}$
 ![](Attachments/Pasted%20image%2020231117120751.png)
-$\theta_{i}$ : The angle from $x_{i-1}$ and $x_{1}$
+$\theta_{i}$ : The angle from $x_{i-1}$ and $x_{i}$ about $z_{i}$
+![](Attachments/Pasted%20image%2020231117120848.png)
+
+
+$$a_{i} = \text{the distance from } \bar{Z}_{i} \text{ to } \hat{Z}_{i+1} \text{ measured along } \hat{X}$$
+
+
 
 # Conceptual Info
 ---

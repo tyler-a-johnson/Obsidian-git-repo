@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2c7c82a1fef687b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distilled Notes/Greek Letters and Symbols.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,16 +23,16 @@
         ]
       },
       {
-        "id": "65ba38c0338dc3b0",
+        "id": "f0d282eea18e2e10",
         "type": "tabs",
         "children": [
           {
-            "id": "4f7436c83b5d6b28",
+            "id": "a3d3d4d5e8a8f709",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf"
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf"
               }
             }
           }
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md"
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md"
               }
             }
           },
@@ -239,11 +226,12 @@
   },
   "active": "594a024c67b15575",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 8 - Industrial Automation and Jacobians.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
+    "Distilled Notes/Greek Letters and Symbols.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 6 Lecture workshop class.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120848.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120751.png",
@@ -260,7 +248,6 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117112543.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 4-Lecture workshop-ilearn.pdf",
     "Distilled Notes/Untitled.md",
-    "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 3-lecture workshop-ilearn.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
     "Resources/Markdown Latex Reference Sheet.md",

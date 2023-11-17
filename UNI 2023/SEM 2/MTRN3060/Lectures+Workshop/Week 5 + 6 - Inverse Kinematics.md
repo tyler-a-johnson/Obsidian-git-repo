@@ -63,7 +63,7 @@ For convenience and to reduce calculations, it is preffered to set the following
 ![](Attachments/Pasted%20image%2020231117114711.png)
 3. **X-Axes**: Assign all x-axes starting from the frame origin and pointing towards the next joint along the common perpendicular.
 ![](Attachments/Pasted%20image%2020231117115018.png)
-4. **Y-axes**: Assign all 
+4. **Y-axes**: Assign all y-axes to complete the [Right Hand Rule](../../../../Distilled%20Notes/Right%20Hand%20Rule.md) (Thumb faces Z, four fingers extende
 
 # Conceptual Info
 ---

@@ -19,7 +19,7 @@ Relevant Links:
 ---
 
 ## Important of Industrial Automation
-Industrial automation plays a crucial role in modern manufacturing and indu
+1. **Improved Efficiency:** Can run 24/7, Can perform repetitive tasks with precision and c
 
 
 

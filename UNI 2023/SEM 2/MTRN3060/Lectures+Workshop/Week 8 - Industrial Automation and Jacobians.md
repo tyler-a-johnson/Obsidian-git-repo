@@ -23,7 +23,8 @@ Relevant Links:
 2. **Enhanced Quality Control:** High accuracy and repeatability, consistent product quality, reduction in defects
 3. **Increased Productivity:** Can work faster than humans, produce more with same or fewer resources
 4. **Cost Reduction:** Initial investment is high, long term savings, reduced labour cost, minimise waste, decrease energy consumption. Avoid error related costs
-5. **Safety Improvement:** 
+5. **Safety Improvement:** Can handle dangerous, repetitive, or demanding tasks reducing the ris off workplace injuries. Safety measures can be implemented for cobots.
+6. **Flexibility and Scalability:** Modern 
 
 
 

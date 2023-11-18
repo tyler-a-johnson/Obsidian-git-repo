@@ -47,7 +47,7 @@ Closest to physical processes being controlled. Includes sensors, actuators, mot
 Data collected from field level is processed and used to control various processes. It includes programmable logic controllers (PLCs), distributed control systems (DCS), and other automation controllers. Controllers make decisions based on data from field and send commands to devices at the field level.
 
 **Management (Enterprise)**
-Highest level, 
+Highest level, uses supervisory control and data acquisition SCADA systems, manufacturing execution systems (MES) and other software applications to provide a broader view of the entire industrial operation. Data collected from control level is aggregated and analysed a
 
 
 

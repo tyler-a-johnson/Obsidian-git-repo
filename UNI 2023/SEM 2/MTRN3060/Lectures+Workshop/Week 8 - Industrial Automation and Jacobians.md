@@ -47,9 +47,14 @@ Closest to physical processes being controlled. Includes sensors, actuators, mot
 Data collected from field level is processed and used to control various processes. It includes programmable logic controllers (PLCs), distributed control systems (DCS), and other automation controllers. Controllers make decisions based on data from field and send commands to devices at the field level.
 
 **Management (Enterprise)**
-Highest level, uses supervisory control and data acquisition SCADA systems, manufacturing execution systems (MES) and other software applications to provide a broader view of the entire industrial operation. Data collected from control level is aggregated and analysed a
+Highest level, uses supervisory control and data acquisition SCADA systems, manufacturing execution systems (MES) and other software applications to provide a broader view of the entire industrial operation. Data collected from control level is aggregated and analysed at this level to make strategic decisions, monitor performance and optimise.
 
-
-
+## SCADA
+SCADA stands for Supervisory Control and Data Acquisition. It is a type of software and hardware system used for monitoring and controlling industrial processes and infrastructure in real-time. SCADA systems are commonly used in industries such as manufacturing, energy, water treatment, transportation, and more. key features and components of SCADA software include:
+- **Data Acquisition:** SCADA software collects data from various sensors, instruments, and devices located in the field.
+- **Real-Time Monitoring:** SCADA systems provide real-time monitoring of industrial processes.
+- **Control:** In addition to monitoring, SCADA systems can also control industrial processes
+- **Alarming:** SCADA software includes alarm management features.
+- 
 # Additional Content
 ---

@@ -31,8 +31,12 @@ Relevant Links:
 10. **Adaptation to Technological Advances:** Can be easily upgraded or integrated with new tech, ensuring that a company's processes remain up to date.
 
 ## Components of Industrial Automation Systems
-
-
+-  Controllers (PLC, DCS)
+- Field industrial devices (sensors)
+- Industrial communication and networking
+- Human machine interface (HMI)
+- Supervisory control and data acquisition software (SCADA)
+- Personal computers (PC)
 
 
 # Additional Content

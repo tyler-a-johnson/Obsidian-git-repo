@@ -38,6 +38,10 @@ Relevant Links:
 - Supervisory control and data acquisition software (SCADA)
 - Personal computers (PC)
 
+## Levels of Industrial Automation
+![](Attachments/Pasted%20image%2020231118202411.png)
+
+
 
 # Additional Content
 ---

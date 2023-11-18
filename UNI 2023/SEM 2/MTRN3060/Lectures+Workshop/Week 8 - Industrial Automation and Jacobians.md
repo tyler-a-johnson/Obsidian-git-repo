@@ -55,6 +55,11 @@ SCADA stands for Supervisory Control and Data Acquisition. It is a type of softw
 - **Real-Time Monitoring:** SCADA systems provide real-time monitoring of industrial processes.
 - **Control:** In addition to monitoring, SCADA systems can also control industrial processes
 - **Alarming:** SCADA software includes alarm management features.
-- 
+- **Data Logging and Storage:** SCADA systems often have data logging capabilities, which means they record historical data over time.
+- **Security:** Security is a critical aspect of SCADA systems because they control and monitor essential infrastructure.
+- **Communication:** SCADA software communicates with field devices and other components using various communication protocols, such as Modbus, DNP3, OPC, and more.
+- **Remote Access:** SCADA systems often support remote access, allowing authorized personnel to monitor and control processes from off-site locations, which can be useful for maintenance and troubleshooting
+
+### Components of SCADA Systems (HMI, RTUs, Comms Protocol)
 # Additional Content
 ---

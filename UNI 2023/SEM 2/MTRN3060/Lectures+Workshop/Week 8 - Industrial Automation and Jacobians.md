@@ -44,7 +44,12 @@ Relevant Links:
 Closest to physical processes being controlled. Includes sensors, actuators, motor drives, switches, and instruments. Can perform simple tasks, and sometimes sensor info is not sent and just used for automation.
 
 **Control and Communication**
-Data collected from field level is processed and used to control various processes. It includes programmable logic controllers (PLCs), distributed 
+Data collected from field level is processed and used to control various processes. It includes programmable logic controllers (PLCs), distributed control systems (DCS), and other automation controllers. Controllers make decisions based on data from field and send commands to devices at the field level.
+
+**Management (Enterprise)**
+Highest level, 
+
+
 
 # Additional Content
 ---

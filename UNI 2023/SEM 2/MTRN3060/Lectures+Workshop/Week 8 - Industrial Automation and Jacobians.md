@@ -41,7 +41,10 @@ Relevant Links:
 ## Levels of Industrial Automation
 ![](Attachments/Pasted%20image%2020231118202411.png)
 **Field**
-Closest to physical processes being controlled. Includes sensors, actuators, motor drives, switches, and instruments. Can perform simple tasks, and sometimes sensor info is 
+Closest to physical processes being controlled. Includes sensors, actuators, motor drives, switches, and instruments. Can perform simple tasks, and sometimes sensor info is not sent and just used for automation.
+
+**Control and Communication**
+Data collected from field level is processed and used to control various processes. It includes programmable logic controllers (PLCs), distributed 
 
 # Additional Content
 ---

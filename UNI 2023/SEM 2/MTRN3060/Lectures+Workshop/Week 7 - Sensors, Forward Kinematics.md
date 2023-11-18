@@ -34,9 +34,10 @@ Practicals Docs:
 - Colour
 - Speed
 - Package
-
+![](Attachments/Pasted%20image%2020231118195031.png)
+We can have digital or analog depending on the sensor used and the application
 ### Inductive
-Can detect proximity of purely metallic object. Uses a changing nagnb
+Can detect proximity of purely metallic object. Measures changes in magnetic field produced. A magnetic 
 **Ferrous Metals:**
 - Iron
 - Steel

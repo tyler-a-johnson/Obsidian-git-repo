@@ -28,7 +28,7 @@ Relevant Links:
 7. **Data Collection and Analysis** Data collection during production. Data can be analyzed to optimise and predict maintenance needs.
 8. **conservation of Resources:** Conserve valuable resources, reduces waste and recycles.
 9. **Quality of Work Life:** Automation frees humans from mundane tasks.
-10. **Adaptation to Technological Advances**
+10. **Adaptation to Technological Advances:** Can be easily upgraded or integrated with new tech, ensuring that a company's processes remain up to date.
 
 
 

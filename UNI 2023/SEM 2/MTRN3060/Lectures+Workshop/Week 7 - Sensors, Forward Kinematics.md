@@ -36,7 +36,7 @@ Practicals Docs:
 - Package
 
 ### Inductive
-Can detect proximity of purely metallic object.
+Can detect proximity of purely metallic object. Uses a changing nagnb
 **Ferrous Metals:**
 - Iron
 - Steel

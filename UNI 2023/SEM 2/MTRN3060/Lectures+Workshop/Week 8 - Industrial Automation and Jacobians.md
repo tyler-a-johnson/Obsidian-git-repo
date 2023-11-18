@@ -18,7 +18,8 @@ Relevant Links:
 # Conceptual Info
 ---
 
-
+## Important of Industrial Automation
+Industrial automation plays a crucial role in modern manufacturing and indu
 
 
 

@@ -190,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-ocr:Search OCR": false,
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": false,

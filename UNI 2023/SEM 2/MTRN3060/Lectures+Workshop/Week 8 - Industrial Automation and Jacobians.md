@@ -26,7 +26,9 @@ Relevant Links:
 5. **Safety Improvement:** Can handle dangerous, repetitive, or demanding tasks reducing the ris off workplace injuries. Safety measures can be implemented for cobots.
 6. **Flexibility and Scalability:** Flexible and easily adaptable to changes in production requirements, can accommodate new product designs with minimal reprogramming/tooling
 7. **Data Collection and Analysis** Data collection during production. Data can be analyzed to optimise and predict maintenance needs.
-8. **conservation of Resources** 
+8. **conservation of Resources:** Conserve valuable resources, reduces waste and recycles.
+9. **Quality of Work Life:** Automation frees humans from mundane tasks.
+10. **Adaptation to Technological Advances**
 
 
 

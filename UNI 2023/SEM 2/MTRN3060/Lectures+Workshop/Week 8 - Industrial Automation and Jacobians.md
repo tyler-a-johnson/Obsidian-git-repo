@@ -40,8 +40,8 @@ Relevant Links:
 
 ## Levels of Industrial Automation
 ![](Attachments/Pasted%20image%2020231118202411.png)
-
-
+**Field**
+Closest to physical processes being controlled. Includes sensors, actuators, motor drives, switches, and instruments. Can perform simple tasks, and sometimes sensor info is 
 
 # Additional Content
 ---

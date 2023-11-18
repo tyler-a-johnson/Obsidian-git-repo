@@ -50,7 +50,7 @@ Can detect proximity of purely metallic object. Measures changes in magnetic fie
 
 
 ### Capacitive Proximity Sensors
-Detects the object by generating an electrostatic field 
+Detects the object by generating an electrostatic field at the front of the sensor. The capacitance between the object within range of the field and the 
 **Capacitive sensors use an electrostatic field**
 ![](Attachments/Pasted%20image%2020231117133015.png)
 Can detect any object.

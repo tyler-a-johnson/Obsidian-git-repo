@@ -30,6 +30,9 @@ Relevant Links:
 9. **Quality of Work Life:** Automation frees humans from mundane tasks.
 10. **Adaptation to Technological Advances:** Can be easily upgraded or integrated with new tech, ensuring that a company's processes remain up to date.
 
+## Components of Industrial Automation Systems
+
+
 
 
 # Additional Content

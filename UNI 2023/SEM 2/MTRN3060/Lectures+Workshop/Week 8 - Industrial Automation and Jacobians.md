@@ -19,7 +19,9 @@ Relevant Links:
 ---
 
 ## Important of Industrial Automation
-1. **Improved Efficiency:** Can run 24/7, Can perform repetitive tasks with precision and c
+1. **Improved Efficiency:** Can run 24/7, Can perform repetitive tasks with precision and consistency
+2. **Enhanced Quality Control:** High accuracy and repeatability, consistent product quality, reduction in defects
+3. **Increased Productivity:** Can wo
 
 
 

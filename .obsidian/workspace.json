@@ -50,14 +50,27 @@
             "id": "78daa6c6bb9bdffb",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "454ad2a33c4fe7a5",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 1-iearn-1 1.pdf"
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 1-iearn-1 1.pdf",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 1-iearn-1 1.pdf",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 1-iearn-1 1.pdf"
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf"
               }
             }
           },
@@ -245,13 +258,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "78daa6c6bb9bdffb",
+  "active": "454ad2a33c4fe7a5",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 3-lecture workshop-ilearn.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 3 - Sensing and Perception in Robotic and Automation - Translation, Rotations, and Transformations.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 1-iearn-1 1.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 3-lecture workshop-ilearn.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 8 Lecture Workshop-1.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
@@ -281,7 +295,6 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Robotic_and_Automation-Week 11.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 10, Lecture workshop-1.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 9- lecture workshop.pdf",
     "Distilled Notes/Greek Letters and Symbols.md",
     "Distilled Notes/Untitled.md",
     "Resources/Markdown Latex Reference Sheet.md",

@@ -17,6 +17,12 @@ Relevant Links:
 # Conceptual Info
 ---
 
+## AI VS Machine Learning VS Deep Learning
+![](Attachments/Pasted%20image%2020231119134152.png)
+
+## Neural Network Topologies
+### ()
+
 
 
 # Additional Content

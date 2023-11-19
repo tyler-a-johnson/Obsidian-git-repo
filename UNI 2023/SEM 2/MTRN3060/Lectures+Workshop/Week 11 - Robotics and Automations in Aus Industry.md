@@ -18,7 +18,12 @@ Relevant Links:
 # Conceptual Info
 ---
 
-## Machine Safety
+## Machine Safety and Safety Components
+
+**Safety Fencing**
+Safety fencing is used to separate human workspaces 
+
+
 
 
 

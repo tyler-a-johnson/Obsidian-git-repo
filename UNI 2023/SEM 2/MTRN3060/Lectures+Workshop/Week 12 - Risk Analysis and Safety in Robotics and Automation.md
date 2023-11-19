@@ -149,7 +149,7 @@ The sum of each success/failure probability pair, at each specific node adds up 
 	- Reduce errors
 	- Increase production
 	- Enhance safety and comfort
-- **Human Error** is an undsirable result of a human decision or behaviour that reduces
+- **Human Error** is an undesirable result of a human decision or behaviour that reduces
 	- effectiveness
 	- safety
 	- system performance
@@ -163,7 +163,11 @@ The sum of each success/failure probability pair, at each specific node adds up 
 	-  Controlled by sub-conscious behaviour and stored patterns of behaviour
 	- Error of execution
 - Rule-based
-	- Applies to familiar or 
+	- Applies to familiar or repetitive situations
+- Knowledge based
+	- Inadequate analysis or decision making
+
+##
 
 # Additional Content
 ---

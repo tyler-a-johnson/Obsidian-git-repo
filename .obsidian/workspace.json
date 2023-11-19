@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "162706a5ac3fbdd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md"
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md"
               }
             }
           },
@@ -208,8 +222,13 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "594a024c67b15575",
+  "active": "162706a5ac3fbdd5",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 3-lecture workshop-ilearn.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 3 - Sensing and Perception in Robotic and Automation - Translation, Rotations, and Transformations.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
@@ -233,16 +252,11 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117132503.png",
     "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 6 Lecture workshop class.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120848.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120751.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120628.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120539.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 3 - Sensing and Perception in Robotic and Automation - Translation, Rotations, and Transformations.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117115456.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 4-Lecture workshop-ilearn.pdf",
     "Distilled Notes/Untitled.md",
     "Resources/Markdown Latex Reference Sheet.md",
     "Distilled Notes/Spatial Descriptions and Transformations in 3D Space.md",

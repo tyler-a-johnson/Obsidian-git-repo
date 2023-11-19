@@ -21,6 +21,9 @@ $$v = J \theta$$
 $v$ = Cartesian Velocities
 $J$ = Jacobian
 $\theta$ = Joint velocities
+$$\theta = J^{-1} v$$
+Given v we can find $\theta$
+
 
 $$\text{If } Det(J) \neq 0 \text{ J is invertble}$$
 $$\text{If } Det(J) \approx 0 \text{ Is invertible but  dangerous joint velocities will occur}$$
@@ -33,9 +36,13 @@ $$\text{If } Det(J) \approx 0 \text{ Is invertible but  dangerous joint velociti
 
 ## The Importance of AI
 **Automation and Efficiency**: automation of repetitive and time-consuming tasks, increasing efficiency and productivity in various industries
+
 **Data-driven Decision Making**: AI analyzes vast datasets quickly and accurately, helping organizations make data-driven decisions for better outcomes and insights.
+
 **Innovation and Problem Solving**: AI fosters innovation by solving complex problems and enabling the development of new technologies, products, and services
+
 **Personalization and User Experience**: AI-driven personalization enhances user experiences in applications such as e-commerce, entertainment, and healthcare
+
 **Addressing Global Challenges**: AI contributes to solving global challenges like climate change, healthcare access, and cybersecurity by providing tools for predictive modeling, disease diagnosis, and risk assessment.
 
 ## Generative Models

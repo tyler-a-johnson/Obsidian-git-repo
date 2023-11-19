@@ -26,7 +26,11 @@ Relevant Links:
 
 ## Generative Models
 ### Generative Adversarial Networks (GANs)
-- Two neural networks compete with eachother to become more accurate in their prediciton, using deep learning met
+- Two neural networks compete with eachother to become more accurate in their prediciton, using deep learning methods.
+- Typically run unsupervised and use a cooperative zero-sum game framework to learn where ones gains equals another's loss.
+
+### Variational Autoencoders (VAEs)
+- Alternative form of autoencoders (neural network 
 
 
 ## AI VS Machine Learning VS Deep Learning

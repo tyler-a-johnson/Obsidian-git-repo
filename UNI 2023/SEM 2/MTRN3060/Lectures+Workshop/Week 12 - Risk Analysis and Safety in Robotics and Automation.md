@@ -74,11 +74,16 @@ A practice involving coordinated activities to prevent, control, and minimizes l
 - Hazards arise in a plant due to deviations from normal behavior.
 - A comprehensive HAZOP analysis identifies the all possible hazards and operability problems, recommended changes and studies etc.
 
-**Required Info**
-- Up-to-date process flow diagrams (PFDs)
-- Process and instrumentation diagrams (P&IDs)
-- Detailed equipment specifications, materials of construction, and mass and energy balances
-- A team of experts having a cross-section of experienced plant, laboratory, technical, and safety professionals
+1. Discrete the PFDs and P&IDs into a number of small process units. 
+2. Select a study node.
+3. Illustrate the design intent of the study node. 
+4. Choose a specific process parameter. 
+5. Combines a guide word with process parameter to suggest possible deviations. 
+6. Find the possible causes and note any protective systems for the deviation. 
+7. Examine the probable consequences for the deviation (if any). 
+8. Recommend the porbable action iteam (what? by whom? by when?) 
+9. Record all information in to the HazOp report.
+
 
 
 # Additional Content

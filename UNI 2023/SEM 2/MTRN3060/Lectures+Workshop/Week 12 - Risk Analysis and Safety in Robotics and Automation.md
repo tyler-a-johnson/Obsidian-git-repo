@@ -27,11 +27,13 @@ It can be applied in all stages of design
 **Quantitative Risk Analysis:** The quantitative risk analysis attempt to estimate the risk in form of probability/frequency of a loss.
 
 ### Assessment
+*Three important question*
 1. What can go wrong? : identifies the set of undesirable (e.g., incident) scenarios. 
 2. What is the likelihood that it will go wrong? -Determine the probability or chances or frequencies of these scenarios. 
 3. What are the consequences if it does go wrong?-Estimates the magnitude of potential losses.
 
-
+*Method*
+1. Definition of System: Define th
 
 # Additional Content
 ---

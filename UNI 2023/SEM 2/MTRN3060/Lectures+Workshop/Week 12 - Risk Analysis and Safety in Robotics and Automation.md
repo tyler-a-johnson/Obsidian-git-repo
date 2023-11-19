@@ -245,7 +245,18 @@ The sum of each success/failure probability pair, at each specific node adds up 
 - RBM helps in determining the most economical use of maintenance resources 
 - A risk-based maintenance strategy is based on two main phases: 
 	- Risk assessment
-Maintenance planning based on the risk
+	- Maintenance planning based on the risk
+
+*Assets that have a greater risk and consequence of failure are maintained and monitored more frequently*
+
+![](Attachments/Pasted%20image%2020231119172520.png)
+
+### Failure Rate
+- With adequate data, it can be shown that, on average, the component fails after a certain period of time
+- This is called average failure rate and is represented by μ with units of faults/time
+- The probability that the component is not fail during the time interval (0,t) (called reliability) is given by a Poisson distribution as below
+$$R(t) = e ^{-\mu t}$$
+As t approaches infinity the reliability goes to 
 
 # Additional Content
 ---

@@ -185,7 +185,10 @@ The sum of each success/failure probability pair, at each specific node adds up 
 		6. Conversion of SLIs into probabilities
 		7. Calculation of HEP
 			$Log(HEP) = a(SLI) + b$
+			Solve to find A and B
 - Human error assessment and reduction technique (HEART)
+	1. Identifying the full range of sub-tasks
+	2. Determining a nominal human unreliable 
 - Absolutely probability judgement (APJ)
 - Paired comparison
 - Technique for human error rate prediction (THERP)

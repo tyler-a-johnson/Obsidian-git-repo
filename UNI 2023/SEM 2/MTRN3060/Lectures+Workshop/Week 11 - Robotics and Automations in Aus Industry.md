@@ -41,7 +41,10 @@ Fast stops that can quickly cut the power to the system. Easy to hit and very ac
 ![](Attachments/Pasted%20image%2020231119144756.png)
 
 ## Off-Line Programming
-
+• **Offline Programming** (or Off-Line Programming) means programming robots outside the production environment. 
+• Offline Programming eliminates production downtime caused by shopfloor programming. 
+• Simulation and Offline Programming allows studying multiple scenarios of a robot work cell before setting up the production cell. 
+• Mistakes commonly made in designing a work cell can be predicted in time.
 
 # Additional Content
 ---

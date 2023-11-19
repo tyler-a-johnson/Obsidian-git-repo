@@ -11,7 +11,8 @@ Relevant Links:
 [Week 9](Attachments/Week%209-%20lecture%20workshop.pdf)
 # Maths and Distilled Info
 ---
-
+## Robotic Singularities
+Refers to a specific position where the roboto 
 
 
 # Conceptual Info
@@ -66,7 +67,11 @@ Leverages generative models and reinforcement learning.
 	4. Predictive maintenance
 	5. Quality control
 2. Product Development
-	1. Generative design 
+	1. Generative design using outlined design goals and requirements
+	2. Generation of design alternatives and variations
+	3. Continuous refinement
+	4. Performance optimization
+	5. 3D printing compatibility
 
 ## AI VS Machine Learning VS Deep Learning
 ![](Attachments/Pasted%20image%2020231119134152.png)

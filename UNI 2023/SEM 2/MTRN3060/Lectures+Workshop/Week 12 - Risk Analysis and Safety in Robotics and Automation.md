@@ -58,12 +58,19 @@ Can be categorized by cause of risk or nature of loss or both
 A practice involving coordinated activities to prevent, control, and minimizes losses incurred due to a risk exposure, and minimise losses incurred. Weighing alternatives and selecting appropriate actions by taking into account risk values, economic, legal, political, and technological issues.
 
 - **Uncertainty** in risk analysis can be attributed to ambiguity, approximations and inconsistency in defining the architecture, variables, parameters and performances.
-- 
+- **Uncertainty modeling** include characterization of the uncertainties, weaknesses or inaccuracies in the available data.
+- Improper uncertainty characterization may lead to greater likelihood of an adverse event occurring.
+- Uncertainty modeling started with the employment of safety factors that is followed by probabilistic analysis.
+- Uncertainty can be classified as:
+	- Objective uncertainty: It included the physical and statistical variability.
+	- Subjective uncertainty: It included lack of knowledge, inconsistency in knowledge.
+
+## Qualitative Risk Assessment
+**Risk Matrices:** It is a two-dimensional presentation of likelihood and consequences of risk estimation. Qualitative scales for both dimensions to characterize the risk by categorizing probabilities and consequences on the two axes of a matrix.
+![](Attachments/Pasted%20image%2020231119160357.png)
 
 
-
-
-
+## HAZard and OPerability (HAZOP) 
 
 # Additional Content
 ---

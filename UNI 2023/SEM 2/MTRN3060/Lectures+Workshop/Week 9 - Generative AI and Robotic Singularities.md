@@ -29,7 +29,7 @@ $$\text{If } Det(J) \neq 0 \text{ J is invertble}$$
 $$\text{If } Det(J) \approx 0 \text{ Is invertible but  dangerous joint velocities will occur}$$
 ![](Attachments/2x2.png)
 ![](Attachments/equation-3-determinant-of-a-3x3-matrix.png)
-We find the equation for the determinants, we can treat lengths as constants and solve that equation or when the determinant is equal to 0. When the determinant is zero, there is a singularity. 
+We find the equation for the determinants, we can treat lengths as constants and solve that equation or when the determinant is equal to 0. When the determinant is zero, there is a singularity. Prismatic joints and revolute joints so we use d and $\theta$ as variables.
 
 # Conceptual Info
 ---

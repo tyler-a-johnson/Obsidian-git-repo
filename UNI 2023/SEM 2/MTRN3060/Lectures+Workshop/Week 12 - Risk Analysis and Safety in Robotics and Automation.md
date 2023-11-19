@@ -149,8 +149,13 @@ The sum of each success/failure probability pair, at each specific node adds up 
 	- Reduce errors
 	- Increase production
 	- Enhance safety and comfort
-
-
+- **Human Error** is an undsirable result of a human decision or behaviour that reduces
+	- effectiveness
+	- safety
+	- system performance
+### Discrete Action Classifications
+- Errors of omission
+- Errors of communication
 
 # Additional Content
 ---

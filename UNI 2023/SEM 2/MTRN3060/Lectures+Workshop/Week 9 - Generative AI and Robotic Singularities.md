@@ -49,8 +49,14 @@ Leverages generative models and reinforcement learning.
 	6. Data generation
 	7. Complex scenarios
 	8. 24/7 Uptime
-2. Data Augmentation with Generative Models
-3. 
+2. Data Augmentation with Generative Models improve the diversity of training data
+	1. Enhancing training data quantity
+	2. Improving data quality
+		1. Noise reduction
+		2. Anomaly detection
+	3. Continuous learning
+
+### Generative AI in Autom
 
 
 ## AI VS Machine Learning VS Deep Learning

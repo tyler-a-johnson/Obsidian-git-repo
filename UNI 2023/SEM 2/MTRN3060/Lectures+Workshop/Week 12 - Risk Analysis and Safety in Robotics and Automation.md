@@ -266,8 +266,14 @@ As t approaches infinity the reliability goes to 0
 $\lambda(t) = const = \lambda$
 Which leads to
 
+$R(t) = \exp(- \lambda t)$
+$F(t) = 1-\exp(-\lambda t)$
 
+**Maintenance Scheduling based on failure probability**
 
+Consider:
+$$P(t) = 1-e^{-\mu t}$$
+The main
 
 # Additional Content
 ---

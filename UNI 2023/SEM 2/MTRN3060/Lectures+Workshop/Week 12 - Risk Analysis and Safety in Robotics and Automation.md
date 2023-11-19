@@ -22,7 +22,8 @@ Systematic and scientific method to predict and subsequently assist to prevent o
 It can be applied in all stages of design
 
 **Event Consequence:** Degree of damage or loss from a failure
-**Safety:** Judgement of risk acceptibility 
+**Safety:** Judgement of risk acceptability for the system, it is based on avoidance of risk
+**Qualitative Risk Analysis:** Potential loss is qualitatively estimated using linguistic scales, Low, Medium, High. A risk matrix is formed to categorize the level of the risk in form of frequency,
 
 
 

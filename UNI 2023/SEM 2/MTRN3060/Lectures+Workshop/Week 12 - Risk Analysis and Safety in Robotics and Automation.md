@@ -201,7 +201,17 @@ The sum of each success/failure probability pair, at each specific node adds up 
 ![](Attachments/Pasted%20image%2020231119170931.png)
 **Reactive**
 - Basically "run till it breaks"
-- No actions or efforts are take 
+- No actions or efforts are taken to maintain the equipment 
+	- Low cost
+	- Less staff
+
+	- Increased cost of unplanned downtime
+	- Increased labour cost, especially with overtime
+	- Cost involved with repair or replacement of equipment
+	- Secondary equipment or process damage from equipment failure
+
+**Preventative**
+- Preventative maintenance,
 
 
 # Additional Content

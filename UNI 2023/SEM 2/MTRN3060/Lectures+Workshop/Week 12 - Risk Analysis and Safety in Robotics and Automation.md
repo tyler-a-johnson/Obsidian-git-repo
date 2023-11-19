@@ -101,6 +101,15 @@ Different techniques available for QRA, however, Fault Tree Analysis, Event Tree
 - FT is a logic diagram based on the principle of multi-causality defining all branches of events which could contribute to an accident or failure
 - The relation between causes and an undesired event in FT is based on Boolean algebra basic operators
 
+**Operators**
+![](Attachments/Pasted%20image%2020231119162709.png)
+![](Attachments/Pasted%20image%2020231119162739.png)
+![](Attachments/Pasted%20image%2020231119162751.png)
+
+
+**Rectangle**
+![](Attachments/Pasted%20image%2020231119162811.png)
+Fault event usually resulting from more basic 
 
 ### Event Tree Analysis (ETA)
 

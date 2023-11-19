@@ -40,7 +40,8 @@ It can be applied in all stages of design
 	2. Minimize exposure to the hazard (protective gear, shields)
 	3. Mitigate the hazardous conditions (eg, cooling, sprinklers, emergency evacuation system
 4. **Event consequence assessment**: This step involves using analytical modelling tool to assess the hazard potential and subsequently translate into the potential consequences.
-5. **Estimation of frequency **
+5. **Estimation of frequency (or Probability)**: This step involve analytical modelling tool to assess the hazard potential and subsequently translate into the potential consequences (harm to people, assets, contamination)
+6. **Risk assessment and evaluation**: Assess risk by combining results of previous event likelyhood and consequence steps for 
 
 # Additional Content
 ---

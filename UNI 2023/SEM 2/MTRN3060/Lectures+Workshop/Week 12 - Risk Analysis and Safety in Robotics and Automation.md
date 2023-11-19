@@ -216,7 +216,13 @@ The sum of each success/failure probability pair, at each specific node adds up 
 
 	- Cost effective in many capital processes
 	- Flexibility allows for the adjustment of maintenance
-	- I
+	- Increased component life cycle
+	- Energy saving
+	- 12% to 18% saving s over reactive
+
+	- Labour intensive
+	- Can include unneeded maintenance
+	- Potential for in
 
 # Additional Content
 ---

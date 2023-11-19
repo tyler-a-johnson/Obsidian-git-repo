@@ -31,10 +31,6 @@ $$\text{If } Det(J) \approx 0 \text{ Is invertible but  dangerous joint velociti
 ![](Attachments/equation-3-determinant-of-a-3x3-matrix.png)
 We find the equation for the determinants, we can treat lengths as constants and solve that equation or when the determinant is equal to 0. When the determinant is zero, there is a singularity. Prismatic joints and revolute joints so we use d and $\theta$ as variables.
 
-**A momentary singularity** refers to a specific configuration or state in which a robotic manipulator experiences a momentary loss of control over a degree of freedom, or behaves unexpectedly. This occurs when the robots joints align in a way that results in mathematical singularities.
-
-A singularity is a point where the **Jacobian Matrix** becomes singular, meaning it is not invertible. When this happens the robots control system cannot uniquely determine how to move the end effector in response to certain joint motions. As a result, the robot may exhibit erratic behavior, and it can be challenging to control movement.
-
 Typically robot control algorithms and software are designed to avoid or navigate through singularities to ensure stable operation. This may involve:
 - Joint limit avoidance
 - Joint velocity

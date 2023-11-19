@@ -12,7 +12,9 @@ Relevant Links:
 # Maths and Distilled Info
 ---
 ## Robotic Singularities
-Refers to a specific position where the roboto 
+Refers to a specific position where the robot arm or mechanism loses one or more degrees of freedom. Making it unable to be controlled properly.
+- **Momentary**: Brief or temporary pass through a singular config. Does not remain stuck
+- **Permanent Singularity**: Robot arm becomes mechanicallty loced
 
 
 # Conceptual Info

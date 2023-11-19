@@ -30,7 +30,11 @@ Relevant Links:
 - Typically run unsupervised and use a cooperative zero-sum game framework to learn where ones gains equals another's loss.
 
 ### Variational Autoencoders (VAEs)
-- Alternative form of autoencoders (neural network 
+- Alternative form of autoencoders (neural network used primarily for compression and feature learning)
+- VAEs have the added ability to generate new data points that are similar to the training data, making them useful for generative applications
+
+### Reinforcement Learning (RL)
+RL is a subfield of machine learning where an agent learns to make a 
 
 
 ## AI VS Machine Learning VS Deep Learning

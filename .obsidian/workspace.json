@@ -13,26 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fbd338da3e3f6a64",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "45b9e6937d7eccf4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf"
               }
             }
           }
@@ -102,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.50499725341797,
-    "collapsed": true
+    "width": 300.50499725341797
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -131,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf"
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md"
               }
             }
           },
@@ -225,7 +208,7 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "45b9e6937d7eccf4",
+  "active": "594a024c67b15575",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",

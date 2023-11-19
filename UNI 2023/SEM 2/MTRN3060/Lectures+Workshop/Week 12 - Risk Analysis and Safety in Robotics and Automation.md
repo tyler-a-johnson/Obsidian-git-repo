@@ -34,7 +34,8 @@ It can be applied in all stages of design
 
 *Method*
 1. Definition of System: Define the system boundaries and objectives. collect information for assessing failure consequences.
-2. Identification of Hazards: Identifies the possible hazards of concern for the defined system. Example: Toxins, corrosives, 
+2. Identification of Hazards: Identifies the possible hazards of concern for the defined system. Example: Toxins, corrosives, smoke, hire, dropping or moving object, hazardous processes
+3. 
 
 # Additional Content
 ---

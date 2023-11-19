@@ -34,7 +34,9 @@ Relevant Links:
 - VAEs have the added ability to generate new data points that are similar to the training data, making them useful for generative applications
 
 ### Reinforcement Learning (RL)
-RL is a subfield of machine learning where an agent learns to make a 
+RL is a subfield of machine learning where an agent (model) learns to make a sequence of decision by interacting with an environment to maximise cumulative reward signal. It is inspired by the behavioural psychology concept of learning through trial and error.
+
+Leverages generative models and reinforcement learning.
 
 
 ## AI VS Machine Learning VS Deep Learning

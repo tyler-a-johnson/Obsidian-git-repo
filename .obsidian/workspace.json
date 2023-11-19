@@ -23,11 +23,11 @@
         ]
       },
       {
-        "id": "6599a044ad41de06",
+        "id": "003860f78dab0dc2",
         "type": "tabs",
         "children": [
           {
-            "id": "4b302394a4da2354",
+            "id": "2b4309dc6b3e130c",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -224,9 +224,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "4b302394a4da2354",
+  "active": "2b4309dc6b3e130c",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 9 - Generative AI and Robotic Singularities.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 8 Lecture Workshop-1.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
@@ -258,7 +259,6 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 11 - Robotics and Automations in Aus Industry.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Robotic_and_Automation-Week 11.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 9 - Generative AI and Robotic Singularities.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 10, Lecture workshop-1.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 9- lecture workshop.pdf",
     "Distilled Notes/Greek Letters and Symbols.md",

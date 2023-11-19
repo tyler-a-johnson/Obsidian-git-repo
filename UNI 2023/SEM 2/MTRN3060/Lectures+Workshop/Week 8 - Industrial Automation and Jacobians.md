@@ -62,7 +62,9 @@ SCADA stands for Supervisory Control and Data Acquisition. It is a type of softw
 
 ### Components of SCADA Systems (HMI, RTUs, Comms Protocol)
 
-
+There are two main types of industrial controllers: 
+1) Programmable Logic Controller (PLC): PLCs are one of the most common types of industrial controllers. They are rugged, reliable, and highly versatile. PLCs use ladder logic, function block diagrams, or other programming languages to control machines and processes. They can handle a wide range of inputs and outputs, making them suitable for a variety of industrial applications. 
+2) Distributed Control System (DCS): DCS is a type of industrial controller typically used in large-scale and complex industrial processes, such as chemical plants, power generation facilities, and oil refineries.
 
 
 # Additional Content

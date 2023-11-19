@@ -117,10 +117,23 @@ Fault event usually resulting from more basic fault event (it is a useful operat
 **Example**
 ![](Attachments/Pasted%20image%2020231119163214.png)
 
+Let’s assume fuel is released because of any three different failures and the probabilities of these failures are 0.1, 0.02 and 0.09 Simply means if A or B or C fails, fuel is released.
+
+![](Attachments/Pasted%20image%2020231119163242.png)
+- Add the probabilities which sit below an OR gate (this isn’t strictly correct, but is a ‘rare event’ approximation) 
+- Multiply the probabilities which sit below an AND gate In this example, combining probabilities upwards to the next level gives: 
+- Probability of FUEL being present = 0.1 + 0.02 + 0.09 = 0.21 
+- Probability of OXYGEN being present = 1 
+- Probability of IGNITION being present = 0.2 + 0.05 + 0.1 = 0.35 So, the probability of fire to happen: 
+- 0.21(1)(0.35) = 0.0735 (So, the probability of the top event which is the fire in this example is 0.0735
 
 ### Event Tree Analysis (ETA)
-
-
+Its used to investigate the consequences of loss-making events in order to find ways of mitigating, rather than preventing, losses
+1. Identify the primary event of concern 
+2. Identify the controls that are assigned to deal with the primary event such as automatic safety systems, alarms on operator actions 
+3. Construct the event tree beginning with the initiating event and proceeding through failures of the safety functions 
+4. Establish the resulting accident sequences 
+5. Identify the critical failures that need to be addressed
 
 
 # Additional Content

@@ -197,5 +197,12 @@ The sum of each success/failure probability pair, at each specific node adds up 
 - Paired comparison
 - Technique for human error rate prediction (THERP)
 
+## Maintenance Types
+![](Attachments/Pasted%20image%2020231119170931.png)
+**Reactive**
+- Basically "run till it breaks"
+- No actions or efforts are take 
+
+
 # Additional Content
 ---

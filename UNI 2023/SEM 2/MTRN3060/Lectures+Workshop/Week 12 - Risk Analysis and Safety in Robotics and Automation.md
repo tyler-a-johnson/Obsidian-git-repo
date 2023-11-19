@@ -18,7 +18,7 @@ Relevant Links:
 ---
 
 ## Risk Analysis
-Systematic and scientific method to predict and subsequentlyffff 
+Systematic and scientific method to predict and subsequently
 
 
 # Additional Content

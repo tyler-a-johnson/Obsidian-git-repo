@@ -95,9 +95,10 @@ A practice involving coordinated activities to prevent, control, and minimizes l
 Different techniques available for QRA, however, Fault Tree Analysis, Event Tree Analysis, and Bow-tie Analysis are the famous and user-friendly ones that are discussed here
 ![](Attachments/Pasted%20image%2020231119161144.png)
 
-
 ### Fault Tree Analysis (FTA)
-
+- It defines multiple causes leading to an undesired event
+- Used in accident investigation and in detailed hazard assessment
+- FT is a logic diagram based on the principle of multi
 
 
 ### Event Tree Analysis (ETA)

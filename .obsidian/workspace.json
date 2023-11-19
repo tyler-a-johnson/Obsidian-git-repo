@@ -19,29 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cae9b842959b79cb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf"
-              }
-            }
-          },
-          {
-            "id": "224464f79cb4142d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 13 lecture workshop class.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf"
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md"
               }
             }
           },
@@ -229,8 +208,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "cae9b842959b79cb",
+  "active": "594a024c67b15575",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 12 - Risk Analysis and Safety in Robotics and Automation.md",

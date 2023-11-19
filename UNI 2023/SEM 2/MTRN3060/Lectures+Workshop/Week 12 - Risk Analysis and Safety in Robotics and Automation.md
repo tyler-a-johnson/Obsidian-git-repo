@@ -256,7 +256,18 @@ The sum of each success/failure probability pair, at each specific node adds up 
 - This is called average failure rate and is represented by μ with units of faults/time
 - The probability that the component is not fail during the time interval (0,t) (called reliability) is given by a Poisson distribution as below
 $$R(t) = e ^{-\mu t}$$
-As t approaches infinity the reliability goes to 
+As t approaches infinity the reliability goes to 0
+
+### Reliability
+![](Attachments/Pasted%20image%2020231119172727.png)
+
+
+**Exponential Distribution - Constant Failure Rate**
+$\lambda(t) = const = \lambda$
+Which leads to
+
+
+
 
 # Additional Content
 ---

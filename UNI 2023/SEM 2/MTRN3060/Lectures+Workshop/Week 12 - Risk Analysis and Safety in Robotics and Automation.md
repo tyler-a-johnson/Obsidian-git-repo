@@ -18,7 +18,10 @@ Relevant Links:
 ---
 
 ## Risk Analysis
-Systematic and scientific method to predict and subsequently
+Systematic and scientific method to predict and subsequently assist to prevent occurrence of accident in a system.
+It can be applied in all stages of design
+
+**Event Consequence:** 
 
 
 # Additional Content

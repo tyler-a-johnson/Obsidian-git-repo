@@ -37,7 +37,9 @@ Can scan the area to determine objects in the way. Can be used in automation or 
 ![](Attachments/Pasted%20image%2020231119144534.png)
 
 **Emergency Stops**
-Fast stops that can quickly 
+Fast stops that can quickly cut the power to the system. Easy to hit and very accessible.
+![](Attachments/Pasted%20image%2020231119144756.png)
+
 
 
 # Additional Content

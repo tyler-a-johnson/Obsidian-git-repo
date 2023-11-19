@@ -33,13 +33,14 @@ It can be applied in all stages of design
 3. What are the consequences if it does go wrong?-Estimates the magnitude of potential losses.
 
 *Method*
-1. Definition of System: Define the system boundaries and objectives. collect information for assessing failure consequences.
-2. Identification of Hazards: Identifies the possible hazards of concern for the defined system. Example: Toxins, corrosives, smoke, hire, dropping or moving object, hazardous processes
-3. Identification of System barriers:
+1. **Definition of System:** Define the system boundaries and objectives. collect information for assessing failure consequences.
+2. **Identification of Hazards**: Identifies the possible hazards of concern for the defined system. Example: Toxins, corrosives, smoke, hire, dropping or moving object, hazardous processes
+3. **Identification of System barriers**:
 	1. Physically surround and isolate the hazard (passive structures)
 	2. Minimize exposure to the hazard (protective gear, shields)
 	3. Mitigate the hazardous conditions (eg, cooling, sprinklers, emergency evacuation system
-4. Event consequence assessment: This step involve 
+4. **Event consequence assessment**: This step involves using analytical modelling tool to assess the hazard potential and subsequently translate into the potential consequences.
+5. **Estimation of frequency **
 
 # Additional Content
 ---

@@ -273,7 +273,11 @@ $F(t) = 1-\exp(-\lambda t)$
 
 Consider:
 $$P(t) = 1-e^{-\mu t}$$
-The main
+The maintenance interval (t) required to achieve the target probability
+
+$$t = \frac{-\ln(1-P(t))}{\mu}$$
+So if we know the probability of failure P(t) for a component and the failure rate $\mu$ it is possible to estimate the time required for the maintenance from the above
+
 
 # Additional Content
 ---

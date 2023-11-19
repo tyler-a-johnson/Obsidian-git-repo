@@ -17,11 +17,11 @@ Refers to a specific position where the robot arm or mechanism loses one or more
 - **Permanent Singularity**: Robot arm becomes mechanically locked or reaches a config where it cannot continue without external intervention
 
 Singularities happen **when our Jacobian matrix is not Invertible**
-$$v = J \theta$$
+$$v = J \dot{\theta}$$
 $v$ = Cartesian Velocities
 $J$ = Jacobian
 $\theta$ = Joint velocities
-$$\theta = J^{-1} v$$
+$$\dot{\theta} = J^{-1} v$$
 Given v we can find $\theta$
 
 

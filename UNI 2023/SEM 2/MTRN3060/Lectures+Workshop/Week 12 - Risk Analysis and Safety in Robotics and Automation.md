@@ -109,7 +109,11 @@ Different techniques available for QRA, however, Fault Tree Analysis, Event Tree
 
 **Rectangle**
 ![](Attachments/Pasted%20image%2020231119162811.png)
-Fault event usually resulting from more basic 
+Fault event usually resulting from more basic fault event (it is a useful operator when we have a very large FT and we can break it into smaller FTs and integrate them with this operator.
+
+**Circle (Primary basic event)**
+![](Attachments/Pasted%20image%2020231119162937.png)
+
 
 ### Event Tree Analysis (ETA)
 

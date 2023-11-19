@@ -155,7 +155,15 @@ The sum of each success/failure probability pair, at each specific node adds up 
 	- system performance
 ### Discrete Action Classifications
 - Errors of omission
-- Errors of communication
+- Errors of commission
+- Sequence errors
+- Timing errors
+
+- Skill based
+	-  Controlled by sub-conscious behaviour and stored patterns of behaviour
+	- Error of execution
+- Rule-based
+	- Applies to familiar or 
 
 # Additional Content
 ---

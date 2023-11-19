@@ -55,7 +55,7 @@ Can be categorized by cause of risk or nature of loss or both
 5. **Environment Risk Analysis** Determine losses due to noise, contamination, and pollution
 
 ## Risk Management
-A practice involving coordinated activities to prevent, control, and minimizes losses incurred due to a risk exposure, and minimise losses incurred. Weighing alternatives and selective 
+A practice involving coordinated activities to prevent, control, and minimizes losses incurred due to a risk exposure, and minimise losses incurred. Weighing alternatives and selecting appropriate actions by taking into account risk values, econo
 
 
 

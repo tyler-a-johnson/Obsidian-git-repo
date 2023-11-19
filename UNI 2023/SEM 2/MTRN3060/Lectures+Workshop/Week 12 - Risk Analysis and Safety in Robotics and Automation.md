@@ -225,7 +225,18 @@ The sum of each success/failure probability pair, at each specific node adds up 
 	- Potential for incidental damage with unneeded maintenance
 
 **Predictive**
-Detects the onset of system degredation
+Detects the onset of system degradation (lower performance) allowing casual stressors to be eliminated or controlled. Prior to any significant deterioration in the component.
+
+Predictive maintenance differs from preventive maintenance by basing maintenance need on the actual condition of the machine rather than on some pre-set schedule
+• Increase component operational life/availability 
+• Allows for predictive corrective action 
+• Decrease in cost for parts and labours 
+• Better product quality 
+• Improved worker and environmental safety 
+• Improved worker morale 
+• Energy saving 
+• Estimated 8% to 12% cost savings over preventive maintenance program
+
 
 # Additional Content
 ---

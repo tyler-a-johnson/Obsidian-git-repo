@@ -191,8 +191,8 @@ The sum of each success/failure probability pair, at each specific node adds up 
 	2. Determining a nominal human unreliability score for the particular task (consult experts/resources)
 	3. Determine EPCs (error producing conditions) Get the total HEART effect of each EPC
 	4. Get experts assessed proportion of effect (0 to 1)
-	5. Calculate effect = ((Max effect = 1)$\mu l$proportion of effect)+1
-	6. 
+	5. Calculate effect = ((Max effect = 1)$*$proportion of effect)+1
+	6. Calculate final HEP as a product of all calculated effect and nominal human reliability
 - Absolutely probability judgement (APJ)
 - Paired comparison
 - Technique for human error rate prediction (THERP)

@@ -92,8 +92,16 @@ A practice involving coordinated activities to prevent, control, and minimizes l
 
 
 ## Quantitative Risk Analysis
+Different techniques available for QRA, however, Fault Tree Analysis, Event Tree Analysis, and Bow-tie Analysis are the famous and user-friendly ones that are discussed here
+![](Attachments/Pasted%20image%2020231119161144.png)
 
-### Fault Tree Analysis (F
+
+### Fault Tree Analysis (FTA)
+
+
+
+### Event Tree Analysis (ETA)
+
 
 
 

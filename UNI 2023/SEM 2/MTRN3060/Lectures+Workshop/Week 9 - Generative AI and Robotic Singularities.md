@@ -27,9 +27,8 @@ Given v we can find $\theta$
 
 $$\text{If } Det(J) \neq 0 \text{ J is invertble}$$
 $$\text{If } Det(J) \approx 0 \text{ Is invertible but  dangerous joint velocities will occur}$$
-![](Attachments/sddefault.jpg)
-
-
+![](Attachments/2x2.png)
+![](Attachments/equation-3-determinant-of-a-3x3-matrix.png)
 
 # Conceptual Info
 ---

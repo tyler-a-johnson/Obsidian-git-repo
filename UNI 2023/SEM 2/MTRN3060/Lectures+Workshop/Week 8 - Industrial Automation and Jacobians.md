@@ -61,5 +61,9 @@ SCADA stands for Supervisory Control and Data Acquisition. It is a type of softw
 - **Remote Access:** SCADA systems often support remote access, allowing authorized personnel to monitor and control processes from off-site locations, which can be useful for maintenance and troubleshooting
 
 ### Components of SCADA Systems (HMI, RTUs, Comms Protocol)
+
+
+
+
 # Additional Content
 ---

@@ -21,9 +21,14 @@ Relevant Links:
 ![](Attachments/Pasted%20image%2020231119134152.png)
 
 ## Neural Network Topologies
-### ()
+### Perceptron (P) (Single Layer)
+![](Attachments/Pasted%20image%2020231119134312.png)
+Used for classification. Has only input and output cells. Not capable of higher order tasks
 
-
+### Feedforward (FF)
+![](Attachments/Pasted%20image%2020231119134423.png)
+- Nodes do not ever form a cycle.
+- All perce
 
 # Additional Content
 ---

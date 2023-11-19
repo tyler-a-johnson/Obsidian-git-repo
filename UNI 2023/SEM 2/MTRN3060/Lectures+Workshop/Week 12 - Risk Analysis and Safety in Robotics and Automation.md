@@ -24,7 +24,12 @@ It can be applied in all stages of design
 **Event Consequence:** Degree of damage or loss from a failure
 **Safety:** Judgement of risk acceptability for the system, it is based on avoidance of risk
 **Qualitative Risk Analysis:** Potential loss is qualitatively estimated using linguistic scales, Low, Medium, High. A risk matrix is formed to categorize the level of the risk in form of frequency/likelihood of losses versus potential magnitude (amount) of losses in qualitative scales
-**Quantitative Risk Analysis:** The quantitative risk analysis attempt to estimate the risk in form of probability (
+**Quantitative Risk Analysis:** The quantitative risk analysis attempt to estimate the risk in form of probability/frequency of a loss.
+
+### Assessment
+1. What can go wrong? : identifies the set of undesirable (e.g., incident) scenarios. 
+2. What is the likelihood that it will go wrong? -Determine the probability or chances or frequencies of these scenarios. 
+3. What are the consequences if it does go wrong?-Estimates the magnitude of potential losses.
 
 
 

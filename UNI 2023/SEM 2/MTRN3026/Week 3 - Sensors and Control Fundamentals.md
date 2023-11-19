@@ -5,12 +5,12 @@ tags:
 status: Incomplete
 Relevant Docs:
   - "[Briefing for Motor Control Assignment 1](Attachments/Briefing%20for%20Motor%20Control%20Assignment%201.pdf)"
-Relevant Questions: []
-Relevant Notes: []
+Relevant Questions: 
+Relevant Notes: 
 Practical Docs: 
 Relevant Links:
 ---
-
+[Briefing for Motor Control Assignment 1](Attachments/Briefing%20for%20Motor%20Control%20Assignment%201.pdf)
 ￼￼Slides:￼￼
 ￼￼Attachments/Briefing for Motor Control Assignment.pptx￼￼
 ￼￼Attachments/Briefing for Motor Control Assignment.pdf￼￼

@@ -18,7 +18,13 @@ Refers to a specific position where the robot arm or mechanism loses one or more
 
 Singularities happen **when our Jacobian matrix is not Invertible**
 $$v = J \theta$$
-$v$ = Cartesni
+$v$ = Cartesian Velocities
+$J$ = Jacobian
+$\theta$ = Joint velocities
+
+$$\text{If } Det(J) \neq 0 \text{ J is invertble}$$
+$$\text{If } Det$$
+
 # Conceptual Info
 ---
 

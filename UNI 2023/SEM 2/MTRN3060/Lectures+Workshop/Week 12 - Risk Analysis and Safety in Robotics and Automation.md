@@ -135,6 +135,10 @@ Its used to investigate the consequences of loss-making events in order to find 
 4. Establish the resulting accident sequences 
 5. Identify the critical failures that need to be addressed
 
+**Example**
+![](Attachments/Pasted%20image%2020231119163706.png)
+To calculate the frequency of each final outcome (labelled a to h in the diagram), you multiply along the branches, travelling from left to right from initiating event to final outcome. Thus, from the diagram, the frequency of the initiating event happening AND systems 1 AND 2 AND 3 working properly is I x S1 x S2 x S3. 
+The sum of each success/failure probability pair, at each specific node adds up to 1. So, for example, S1 + F1 = 1. This means that if you are only given the value for success probability of a particular system, it is easy to calculate the failure probability for that same system, because the two will add up to give 1.
 
 # Additional Content
 ---

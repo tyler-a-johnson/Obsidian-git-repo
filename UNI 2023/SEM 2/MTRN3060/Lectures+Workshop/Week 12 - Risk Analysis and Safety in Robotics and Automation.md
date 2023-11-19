@@ -175,7 +175,15 @@ The sum of each success/failure probability pair, at each specific node adds up 
 	- Preventing damage to third parties
 
 - Success likelihood index method (SLIM)
-	- 
+	- Evaluating the probability of a human error occurring throughout the completion of a specific task
+	- Measures to reduce the likelihood of errors occurring within a system and therefore lead to an improvement in the overall levels of safety.
+		1. Selection of expert panel
+		2. Definition of situation and subsets
+		3. Elicitation of PSFs
+		4. Rating of tasks on the PSF scale
+		5. The calculation of Success Likelyhood Index (SLIs)
+		6. Conversion of SLIs into probabilities
+		7. Calculation of 
 - Human error assessment and reduction technique (HEART)
 - Absolutely probability judgement (APJ)
 - Paired comparison

@@ -14,9 +14,11 @@ Relevant Links:
 ## Robotic Singularities
 Refers to a specific position where the robot arm or mechanism loses one or more degrees of freedom. Making it unable to be controlled properly.
 - **Momentary**: Brief or temporary pass through a singular config. Does not remain stuck
-- **Permanent Singularity**: Robot arm becomes mechanicallty loced
+- **Permanent Singularity**: Robot arm becomes mechanically locked or reaches a config where it cannot continue without external intervention
 
-
+Singularities happen **when our Jacobian matrix is not Invertible**
+$$v = J \theta$$
+$v$ = Cartesni
 # Conceptual Info
 ---
 

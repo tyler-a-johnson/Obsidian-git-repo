@@ -25,6 +25,9 @@ $\theta$ = Joint velocities
 $$\text{If } Det(J) \neq 0 \text{ J is invertble}$$
 $$\text{If } Det(J) \approx 0 \text{ Is invertible but  dangerous joint velocities will occur}$$
 ![](Attachments/sddefault.jpg)
+
+
+
 # Conceptual Info
 ---
 

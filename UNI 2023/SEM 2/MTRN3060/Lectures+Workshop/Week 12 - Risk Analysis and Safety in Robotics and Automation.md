@@ -222,7 +222,10 @@ The sum of each success/failure probability pair, at each specific node adds up 
 
 	- Labour intensive
 	- Can include unneeded maintenance
-	- Potential for in
+	- Potential for incidental damage with unneeded maintenance
+
+**Predictive**
+Detects the onset of system degredation
 
 # Additional Content
 ---

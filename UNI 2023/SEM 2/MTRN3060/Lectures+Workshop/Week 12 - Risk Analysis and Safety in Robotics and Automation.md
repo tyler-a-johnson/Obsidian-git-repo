@@ -211,8 +211,12 @@ The sum of each success/failure probability pair, at each specific node adds up 
 	- Secondary equipment or process damage from equipment failure
 
 **Preventative**
-- Preventative maintenance,
+- Preventative maintenance, actions performed on time or machine based schedule that detect preclude or mitigate degradation of a component or system. 
+- Sustaining or extending its useful life
 
+	- Cost effective in many capital processes
+	- Flexibility allows for the adjustment of maintenance
+	- I
 
 # Additional Content
 ---

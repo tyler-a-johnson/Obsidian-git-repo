@@ -174,6 +174,12 @@ The sum of each success/failure probability pair, at each specific node adds up 
 	- Stop harmful effects on the environment
 	- Preventing damage to third parties
 
+- Success likelihood index method (SLIM)
+	- 
+- Human error assessment and reduction technique (HEART)
+- Absolutely probability judgement (APJ)
+- Paired comparison
+- Technique for human error rate prediction (THERP)
 
 # Additional Content
 ---

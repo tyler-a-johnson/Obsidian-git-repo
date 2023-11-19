@@ -70,7 +70,16 @@ A practice involving coordinated activities to prevent, control, and minimizes l
 ![](Attachments/Pasted%20image%2020231119160357.png)
 
 
-## HAZard and OPerability (HAZOP) 
+## HAZard and OPerability (HAZOP) Study
+- Hazards arise in a plant due to deviations from normal behavior.
+- A comprehensive HAZOP analysis identifies the all possible hazards and operability problems, recommended changes and studies etc.
+
+**Required Info**
+- Up-to-date process flow diagrams (PFDs)
+- Process and instrumentation diagrams (P&IDs)
+- Detailed equipment specifications, materials of construction, and mass and energy balances
+- A team of experts having a cross-section of experienced plant, laboratory, technical, and safety professionals
+
 
 # Additional Content
 ---

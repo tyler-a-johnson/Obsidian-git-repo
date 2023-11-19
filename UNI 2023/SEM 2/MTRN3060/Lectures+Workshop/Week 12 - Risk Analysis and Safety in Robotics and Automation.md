@@ -144,7 +144,12 @@ The sum of each success/failure probability pair, at each specific node adds up 
 
 ## Human Factors
 - Concerned with human efficiency and safety in man-machine system
-- Human factors deals with the psychological, social, phyu
+- Human factors deals with the psychological, social, physical, biological and safety characteristics of a user and the system
+- Goals: Human interaction with the system such that
+	- Reduce errors
+	- Increase production
+	- Enhance safety and comfort
+
 
 
 # Additional Content

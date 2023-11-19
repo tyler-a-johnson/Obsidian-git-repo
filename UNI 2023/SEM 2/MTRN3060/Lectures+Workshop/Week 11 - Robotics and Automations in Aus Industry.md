@@ -40,6 +40,7 @@ Can scan the area to determine objects in the way. Can be used in automation or 
 Fast stops that can quickly cut the power to the system. Easy to hit and very accessible.
 ![](Attachments/Pasted%20image%2020231119144756.png)
 
+## Off-Line Programming
 
 
 # Additional Content

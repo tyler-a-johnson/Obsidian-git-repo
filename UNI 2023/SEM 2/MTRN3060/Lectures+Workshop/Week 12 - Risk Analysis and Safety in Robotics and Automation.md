@@ -114,6 +114,9 @@ Fault event usually resulting from more basic fault event (it is a useful operat
 **Circle (Primary basic event)**
 ![](Attachments/Pasted%20image%2020231119162937.png)
 
+**Example**
+![](Attachments/Pasted%20image%2020231119163214.png)
+
 
 ### Event Tree Analysis (ETA)
 

@@ -33,7 +33,8 @@ It can be applied in all stages of design
 3. What are the consequences if it does go wrong?-Estimates the magnitude of potential losses.
 
 *Method*
-1. Definition of System: Define th
+1. Definition of System: Define the system boundaries and objectives. collect information for assessing failure consequences.
+2. Identification of Hazards: Identifies the possible hazards of concern for the defined system. Example: Toxins, corrosives, 
 
 # Additional Content
 ---

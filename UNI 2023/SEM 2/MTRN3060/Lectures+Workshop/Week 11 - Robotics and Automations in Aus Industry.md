@@ -25,7 +25,7 @@ Safety fencing is used to separate human workspaces from robots or heavy machine
 ![](Attachments/Pasted%20image%2020231119143850.png)
 
 **Light Curtain**
-
+Light curtain use beam brakes (usually IR) to determine proximity to the machine. If the light curtain is broken then the robot knows the human in interacting with 
 ![](Attachments/Pasted%20image%2020231119144002.png)
 
 

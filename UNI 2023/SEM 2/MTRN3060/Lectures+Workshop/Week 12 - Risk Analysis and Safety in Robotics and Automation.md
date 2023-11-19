@@ -35,7 +35,11 @@ It can be applied in all stages of design
 *Method*
 1. Definition of System: Define the system boundaries and objectives. collect information for assessing failure consequences.
 2. Identification of Hazards: Identifies the possible hazards of concern for the defined system. Example: Toxins, corrosives, smoke, hire, dropping or moving object, hazardous processes
-3. 
+3. Identification of System barriers:
+	1. Physically surround and isolate the hazard (passive structures)
+	2. Minimize exposure to the hazard (protective gear, shields)
+	3. Mitigate the hazardous conditions (eg, cooling, sprinklers, emergency evacuation system
+4. Event consequence assessment: This step involve 
 
 # Additional Content
 ---

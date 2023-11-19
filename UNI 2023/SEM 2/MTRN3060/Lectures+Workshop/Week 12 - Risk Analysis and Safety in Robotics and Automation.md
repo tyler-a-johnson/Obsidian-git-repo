@@ -167,7 +167,13 @@ The sum of each success/failure probability pair, at each specific node adds up 
 - Knowledge based
 	- Inadequate analysis or decision making
 
-##
+### Human Error Probability
+- Human error quantification technique involves calculation of human error probability which is the measure of human reliability assessment (HRA)
+	- Prevent death or injury of workers and general public
+	- Avoid damage to assets
+	- Stop harmful effects on the environment
+	- Preventing damage to third parties
+
 
 # Additional Content
 ---

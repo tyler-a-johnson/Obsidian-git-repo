@@ -29,8 +29,15 @@ Light curtain use beam brakes (usually IR) to determine proximity to the machine
 ![](Attachments/Pasted%20image%2020231119144002.png)
 
 **Interlock Gate Switch**
-Used with gate or fence systems. Esentially 
+Used with gate or fence systems. Essentially a switch with an E-stop to cut the whole system within the gate.
 ![](Attachments/Pasted%20image%2020231119144333.png)
+
+**Safety Scanner**
+Can scan the area to determine objects in the way. Can be used in automation or in robotics
+![](Attachments/Pasted%20image%2020231119144534.png)
+
+**Emergency Stops**
+Fast stops that can quickly 
 
 
 # Additional Content

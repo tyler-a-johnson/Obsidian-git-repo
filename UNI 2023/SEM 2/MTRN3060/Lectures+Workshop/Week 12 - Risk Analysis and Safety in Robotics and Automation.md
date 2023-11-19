@@ -47,7 +47,11 @@ It can be applied in all stages of design
 	3. Optimize at the system level
 
 ## Types of Risks
-Can be categorized by cause of risk or nature o
+Can be categorized by cause of risk or nature of loss or both
+1. **Health risk analysis** Determine potential diseases and losses of life affecting humans, animals, and plants
+2. **Safety Risk Analysis** Estimate potential harms caused by accidents (climate conditions, earthquakes, brush fires)
+3. **Security Risk Analysis** Estimate access and harm caused due to war, terrorism, riot, crime
+4. **Financial Risk Analysis**
 
 # Additional Content
 ---

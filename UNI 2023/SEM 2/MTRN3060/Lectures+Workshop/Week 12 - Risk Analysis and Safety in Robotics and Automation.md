@@ -21,7 +21,9 @@ Relevant Links:
 Systematic and scientific method to predict and subsequently assist to prevent occurrence of accident in a system.
 It can be applied in all stages of design
 
-**Event Consequence:** 
+**Event Consequence:** Degree of damage or loss from a failure
+**Safety:** Judgement of risk acceptibility 
+
 
 
 # Additional Content

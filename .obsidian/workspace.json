@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.50418853759766
+    "width": 446.50418853759766
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md"
+                "file": "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md"
               }
             }
           },
@@ -221,11 +222,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "2b4309dc6b3e130c",
+  "active": "0345c5695d8ae485",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 9 - Generative AI and Robotic Singularities.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 11 - Robotics and Automations in Aus Industry.md",

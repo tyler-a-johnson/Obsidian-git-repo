@@ -225,7 +225,7 @@ The sum of each success/failure probability pair, at each specific node adds up 
 	- Potential for incidental damage with unneeded maintenance
 
 **Predictive**
-Detects the onset of system degradation (lower performance) allowing casual stressors to be eliminated or controlled. Prior to any significant deterioration in the component.
+- Detects the onset of system degradation (lower performance) allowing casual stressors to be eliminated or controlled. Prior to any significant deterioration in the component.
 - Predictive maintenance differs from preventive maintenance by basing maintenance need on the actual condition of the machine rather than on some pre-set schedule
 	- Increase component operational life/availability 
 	- Allows for predictive corrective action 
@@ -240,6 +240,12 @@ Detects the onset of system degradation (lower performance) allowing casual stre
 	- Increased investment in staff training 
 	- Saving potential not readily seen by management
 
+### Risk-Based Maintenance
+- Risk-based maintenance (RBM) prioritizes maintenance resources toward assets that carry the most risk if they were to fail
+- RBM helps in determining the most economical use of maintenance resources 
+- A risk-based maintenance strategy is based on two main phases: 
+	- Risk assessment
+Maintenance planning based on the risk
 
 # Additional Content
 ---

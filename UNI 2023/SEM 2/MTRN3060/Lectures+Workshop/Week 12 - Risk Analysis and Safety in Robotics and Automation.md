@@ -41,7 +41,13 @@ It can be applied in all stages of design
 	3. Mitigate the hazardous conditions (eg, cooling, sprinklers, emergency evacuation system
 4. **Event consequence assessment**: This step involves using analytical modelling tool to assess the hazard potential and subsequently translate into the potential consequences.
 5. **Estimation of frequency (or Probability)**: This step involve analytical modelling tool to assess the hazard potential and subsequently translate into the potential consequences (harm to people, assets, contamination)
-6. **Risk assessment and evaluation**: Assess risk by combining results of previous event likelyhood and consequence steps for 
+6. **Risk assessment and evaluation**: Assess risk by combining results of previous event likelihood and consequence steps for each failure scenario and associated consequences.
+	1. Define risk acceptance criteria
+	2. Develop strategies to avoid hazards, failure of barriers
+	3. Optimize at the system level
+
+## Types of Risks
+Can be categorized by cause of risk or nature o
 
 # Additional Content
 ---

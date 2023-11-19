@@ -142,7 +142,9 @@ The sum of each success/failure probability pair, at each specific node adds up 
 
 ![](Attachments/Pasted%20image%2020231119164004.png)
 
-
+## Human Factors
+- Concerned with human efficiency and safety in man-machine system
+- Human factors deals with the psychological, social, phyu
 
 
 # Additional Content

@@ -70,7 +70,7 @@ A practice involving coordinated activities to prevent, control, and minimizes l
 ![](Attachments/Pasted%20image%2020231119160357.png)
 
 
-## HAZard and OPerability (HAZOP) Study
+### HAZard and OPerability (HAZOP) Study
 - Hazards arise in a plant due to deviations from normal behavior.
 - A comprehensive HAZOP analysis identifies the all possible hazards and operability problems, recommended changes and studies etc.
 
@@ -83,6 +83,17 @@ A practice involving coordinated activities to prevent, control, and minimizes l
 7. Examine the probable consequences for the deviation (if any). 
 8. Recommend the porbable action iteam (what? by whom? by when?) 
 9. Record all information in to the HazOp report.
+
+**Word guide**
+![](Attachments/Pasted%20image%2020231119160851.png)
+
+**HazOp Report**
+![](Attachments/Pasted%20image%2020231119160915.png)
+
+
+## Quantitative Risk Analysis
+
+### Fault Tree Analysis (F
 
 
 

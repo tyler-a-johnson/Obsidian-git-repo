@@ -4,32 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "003860f78dab0dc2",
+        "id": "adfbd7f52089f274",
         "type": "tabs",
         "children": [
           {
-            "id": "2b4309dc6b3e130c",
+            "id": "594a024c67b15575",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "fbd338da3e3f6a64",
+        "type": "tabs",
+        "children": [
           {
-            "id": "065ca3b239ea9e1e",
+            "id": "45b9e6937d7eccf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 12 - Risk Analysis and Safety in Robotics and Automation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf"
               }
             }
           }
@@ -99,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.50418853759766
+    "width": 300.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -127,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md"
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf"
               }
             }
           },
@@ -203,7 +207,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-ocr:Search OCR": false,
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": false,
@@ -218,56 +221,57 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "2b4309dc6b3e130c",
+  "active": "45b9e6937d7eccf4",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 12 - Risk Analysis and Safety in Robotics and Automation.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 13 - The Present and Future of Robotics.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
-    "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf",
-    "UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143453.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143143.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 9 - Generative AI and Robotic Singularities.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 13 - The Present and Future of Robotics.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 13 lecture workshop class.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 12 - Risk Analysis and Safety in Robotics and Automation.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 12 lecture workshop.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 11 - Robotics and Automations in Aus Industry.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 3-lecture workshop-ilearn.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 3 - Sensing and Perception in Robotic and Automation - Translation, Rotations, and Transformations.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 1-iearn-1 1.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Robotic_and_Automation-Week 11.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 10, Lecture workshop-1.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 9- lecture workshop.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 8 Lecture Workshop-1.pdf",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117133015.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117132544.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117132503.png",
+    "Distilled Notes/Greek Letters and Symbols.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 6 Lecture workshop class.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 12 lecture workshop.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231119172727.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231119172520.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231119170931.png",
-    "Distilled Notes/Untitled 2.md",
-    "Distilled Notes/H.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231119164004.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231119163706.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231119163242.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231119163214.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231119163137.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231119162937.png",
-    "Distilled Notes/Untitled 1.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231119162909.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 13 lecture workshop class.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Robotic_and_Automation-Week 11.pdf",
-    "Distilled Notes/Greek Letters and Symbols.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120848.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120751.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120628.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120539.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 3 - Sensing and Perception in Robotic and Automation - Translation, Rotations, and Transformations.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117115456.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 4-Lecture workshop-ilearn.pdf",
     "Distilled Notes/Untitled.md",
     "Resources/Markdown Latex Reference Sheet.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
     "Distilled Notes/Spatial Descriptions and Transformations in 3D Space.md",
     "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
     "UNI 2023/SEM 2/MTRN3026/Past Exams.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
+    "UNI 2023/SEM 2/MTRN3026/Drawing 2023-11-13 18.13.44.excalidraw.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

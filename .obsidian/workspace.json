@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "adfbd7f52089f274",
+        "id": "d41eb4845ab3b938",
         "type": "tabs",
         "children": [
           {
-            "id": "594a024c67b15575",
+            "id": "aff7a35ca4b10867",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
+                "file": "Distilled Notes/Amperes Circuital Law.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fbd338da3e3f6a64",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "45b9e6937d7eccf4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf"
               }
             }
           }
@@ -102,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.50499725341797,
-    "collapsed": true
+    "width": 300.50499725341797
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -131,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
+                "file": "Distilled Notes/Amperes Circuital Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
+                "file": "Distilled Notes/Amperes Circuital Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf"
+                "file": "Distilled Notes/Amperes Circuital Law.md"
               }
             }
           },
@@ -224,8 +207,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "45b9e6937d7eccf4",
+  "active": "aff7a35ca4b10867",
   "lastOpenFiles": [
+    "Distilled Notes/Ziegler Nicols PID Tuning.md",
+    "Distilled Notes/Untitled.md",
+    "Distilled Notes/H.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143453.png",
@@ -258,7 +244,6 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117115456.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 4-Lecture workshop-ilearn.pdf",
-    "Distilled Notes/Untitled.md",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
     "Distilled Notes/Spatial Descriptions and Transformations in 3D Space.md",
@@ -270,7 +255,6 @@
     "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Drawing 2023-11-13 18.13.44.excalidraw.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

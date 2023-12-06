@@ -85,7 +85,7 @@ body {
   --layer-1: hsl(var(--layer-hue-sat), 13%);
   --layer-2: hsl(var(--layer-hue-sat), 15%);
   --layer-3: hsl(var(--layer-hue-sat), 19%);
-  --layer-4: hsl(var(--layer-hue-sat), 30%);
+  --layer-4: hsl(var(--layer-hue-sat), 100%);
   --on-layer-tuple: 60, 30%, 96%;
 
   --red-hue: 10;

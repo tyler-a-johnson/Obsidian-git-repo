@@ -37,7 +37,7 @@
     "downscalePercent": 44
   },
   "defaultViewMode": "source",
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showLineNumber": false,
   "rightToLeft": false,
   "readableLineLength": true,

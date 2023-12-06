@@ -28,8 +28,7 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-teal",
   "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
-  "ul-theme-settings@@ul-color-accent": "ul-red",
-  "ul-theme-settings@@ul-theme-dark": "ul-shark-dt",
+  "ul-theme-settings@@ul-theme-dark": "ul-lyt-dt",
   "ul-theme-settings@@ul-bar": false,
   "ul-theme-settings@@ul-resize-border": true,
   "ul-theme-settings@@ul-work-border": true,
@@ -42,9 +41,9 @@
   "ul-theme-settings@@ul-header-line-h1": true,
   "ul-theme-settings@@ul-header-size": "ul-headings-opn",
   "ul-theme-settings@@grad": true,
-  "ul-theme-settings@@ul-floating-ribbon": true,
-  "ul-theme-settings@@ul-folders": "none",
-  "ul-theme-settings@@ul-theme-light": "ul-lobstertime-lt",
+  "ul-theme-settings@@ul-floating-ribbon": false,
+  "ul-theme-settings@@ul-folders": "ul-folder-psp",
+  "ul-theme-settings@@ul-theme-light": "ul-shark-lt",
   "ul-theme-settings@@ul-list-distinct": true,
   "ul-theme-settings@@ul-fancy-canvas-1": "ul-canvas-fancycolor20",
   "ul-theme-settings@@ul-radius-canvas": "12px",
@@ -57,5 +56,7 @@
   "ul-theme-settings@@font-title": "Getai",
   "ul-theme-settings@@ul-faintselect": true,
   "ul-theme-settings@@ul-accent-title": true,
-  "ul-theme-settings@@ul-canvas-center": false
+  "ul-theme-settings@@ul-canvas-center": false,
+  "ul-theme-settings@@ul-kanban-wrap": true,
+  "ul-theme-settings@@ul-kanban-style": "ul-kanban-notion"
 }

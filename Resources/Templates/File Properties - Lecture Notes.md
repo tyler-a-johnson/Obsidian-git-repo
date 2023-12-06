@@ -8,7 +8,7 @@ Relevant Notes: []
 Practical Docs: 
 Relevant Links:
 ---
-# Maths and Distilled Info
+# Maths Content
 ---
 
 

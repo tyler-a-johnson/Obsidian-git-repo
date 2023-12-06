@@ -6,7 +6,7 @@
 		{"id":"9e1da0801d922a54","x":-5040,"y":260,"width":1293,"height":805,"type":"file","file":"Attachments/Pasted image 20231206192718.png"},
 		{"id":"0be285297d5ed7ce","x":-5380,"y":900,"width":320,"height":220,"type":"text","text":"I have a  folder outside of my lecture/book notes called \"Distilled Notes\" that has zettel notes on different topics. I link to them in notes, and add to them as I go."},
 		{"id":"ca7cc1795f023476","x":-5380,"y":580,"width":325,"height":308,"type":"file","file":"Attachments/Pasted image 20231206193130.png"},
-		{"id":"6d4e157cc3ea8085","x":-5400,"y":300,"width":320,"height":220,"type":"text","text":"Ill take notes from a lecture or chapter and fill out this template with different subheadings. Since each week is usually a new topic I arrange them by class then week."}
+		{"id":"6d4e157cc3ea8085","x":-5400,"y":280,"width":320,"height":240,"type":"text","text":"Ill take notes from a lecture or chapter and fill out this template with different subheadings. Since each week is usually a new topic I arrange them by class then week."}
 	],
 	"edges":[
 		{"id":"aba2e3d5255be162","fromNode":"6d4e157cc3ea8085","fromSide":"bottom","toNode":"ca7cc1795f023476","toSide":"top"}

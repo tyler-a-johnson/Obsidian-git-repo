@@ -6,7 +6,6 @@
       {
         "id": "d41eb4845ab3b938",
         "type": "tabs",
-        "dimension": 79.26315789473685,
         "children": [
           {
             "id": "9c16345bcbc2a077",
@@ -16,27 +15,10 @@
               "state": {
                 "file": "Study Plan (Macquarie University).canvas",
                 "viewState": {
-                  "x": -4242.804164603382,
-                  "y": 991.6582843963047,
-                  "zoom": -0.6666666666666667
+                  "x": -4633.100737391614,
+                  "y": 733.9718624555306,
+                  "zoom": 0.16666666666666657
                 }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c8921733e0381f90",
-        "type": "tabs",
-        "dimension": 20.736842105263158,
-        "children": [
-          {
-            "id": "422acff927d25b1e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf"
               }
             }
           }

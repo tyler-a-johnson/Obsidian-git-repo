@@ -28,8 +28,8 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-teal",
   "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
-  "ul-theme-settings@@ul-color-accent": "ul-purple",
-  "ul-theme-settings@@ul-theme-dark": "ul-amoled-dt",
+  "ul-theme-settings@@ul-color-accent": "ul-red",
+  "ul-theme-settings@@ul-theme-dark": "ul-dracula-dt",
   "ul-theme-settings@@ul-list-distinct": false,
   "ul-theme-settings@@ul-bar": false,
   "ul-theme-settings@@ul-resize-border": true,
@@ -44,5 +44,6 @@
   "ul-theme-settings@@ul-header-size": "ul-headings-dec",
   "ul-theme-settings@@grad": true,
   "ul-theme-settings@@ul-floating-ribbon": false,
-  "ul-theme-settings@@ul-folders": "none"
+  "ul-theme-settings@@ul-folders": "none",
+  "ul-theme-settings@@ul-theme-light": "ul-lobstertime-lt"
 }

@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#8be1fe",
   "theme": "system",
   "baseFontSize": 19,
-  "cssTheme": "Typomagical",
+  "cssTheme": "Ultra Lobster",
   "textFontFamily": "Roboto",
   "interfaceFontFamily": "Roboto",
   "showViewHeader": true,

@@ -81,11 +81,11 @@ body {
 
 /*Dark Theme Variables*/
 .theme-dark {
-  --layer-0: hsl(var(--layer-hue-sat), 9%);
-  --layer-1: hsl(var(--layer-hue-sat), 13%);
-  --layer-2: hsl(var(--layer-hue-sat), 15%);
+  --layer-0: hsl(var(--layer-hue-sat), 17%);
+  --layer-1: hsl(var(--layer-hue-sat), 15%);
+  --layer-2: hsl(var(--layer-hue-sat), 10%);
   --layer-3: hsl(var(--layer-hue-sat), 19%);
-  --layer-4: hsl(var(--layer-hue-sat), 100%);
+  --layer-4: hsl(var(--layer-hue-sat), 30%);
   --on-layer-tuple: 60, 30%, 96%;
 
   --red-hue: 10;

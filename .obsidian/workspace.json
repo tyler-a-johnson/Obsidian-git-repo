@@ -6,18 +6,20 @@
       {
         "id": "d41eb4845ab3b938",
         "type": "tabs",
-        "dimension": 42.421052631578945,
+        "dimension": 79.26315789473685,
         "children": [
           {
             "id": "9c16345bcbc2a077",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Study Plan (Macquarie University).canvas",
+                "viewState": {
+                  "x": -4242.804164603382,
+                  "y": 991.6582843963047,
+                  "zoom": -0.6666666666666667
+                }
               }
             }
           }
@@ -26,7 +28,7 @@
       {
         "id": "c8921733e0381f90",
         "type": "tabs",
-        "dimension": 57.578947368421055,
+        "dimension": 20.736842105263158,
         "children": [
           {
             "id": "422acff927d25b1e",
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md",
+                "file": "Study Plan (Macquarie University).canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md",
+                "file": "Study Plan (Macquarie University).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md"
+                "file": "Study Plan (Macquarie University).canvas"
               }
             }
           },
@@ -227,9 +229,12 @@
   },
   "active": "9c16345bcbc2a077",
   "lastOpenFiles": [
-    "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf",
+    "Study Plan (Macquarie University).canvas",
+    "Attachments/Pasted image 20231206192718.png",
+    "Attachments",
     "Resources/Templates/File Properties - Lecture Notes.md",
+    "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
@@ -266,13 +271,10 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117132544.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117132503.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 6 Lecture workshop class.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120848.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120751.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120628.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120539.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117115456.png",
-    "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

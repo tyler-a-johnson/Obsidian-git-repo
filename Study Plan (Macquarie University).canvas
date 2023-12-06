@@ -4,11 +4,11 @@
 		{"type":"text","text":"# Bachelor of Engineering\n\n**Capstone:**\n- [ ] ENGG4001 - Professional Practice\n\n**Core Units (Essential):**\n- [x] ENGG1000\n- [x] ENGG1050\n- [x] ENGG2000\n- [x] ENGG3000\n\n**Specialization (Mechatronic):**\n- [x] MATH1010 - Calculus + Lin Alg\n- [x] MATH1020 - Calculus + Lin Alg II\n- [x] COMP1000 - Intro to Programming\n- [x] MECH1001 - Intro to Mech Engineering\n- [x] PHYS1510 - Eng Physics\n- [x] PHYS1520 - Phys for Electrical and Electronic Eng\n- [x] ELEC2070 - Linear Circuits and Devices\n- [x] ELEC2005 - Electrical and Electronic Systems\n- [x] ELEC2040 - Signals and Systems\n- [x] MATH2055 - Engineering Mathematics II\n- [x] MECH2003 - Mechanical Design\n- [x] MTRN2060 - Intro to Mechatronics\n- [x] ELEC3042 - Embedded Systems\n- [x] ELEC3024 - Control Systems\n- [x] MTRN3026 - Mechatronic Systems\n- [x] MTRN3060 - Robotics and Automation\n- [ ] MTRN4062 - Micro Electro Mechanical Systems (M.E.M.S)\n- [ ] MTRN4066 - Advanced Mechatronics\n- [ ] MTRN4068 - Wireless Mechatronics\n- [ ] MTRN4092 - Mechatronic Thesis A\n- [ ] MTRN4093 - Mechatronic Thesis B","id":"eca267a5d5a017ca","x":-120,"y":-520,"width":980,"height":1320},
 		{"type":"text","text":"# I have room for 1 elective (10cp)","id":"393894867cde5eb5","x":-540,"y":1140,"width":860,"height":120},
 		{"id":"9e1da0801d922a54","x":-5040,"y":260,"width":1293,"height":805,"type":"file","file":"Attachments/Pasted image 20231206192718.png"},
-		{"id":"6d4e157cc3ea8085","x":-5320,"y":260,"width":260,"height":260,"type":"text","text":"Ill take notes from a lecture or chapter and fill out this template with different subheadings. Since each week is usually a new topic I arrange them by week."},
-		{"id":"0be285297d5ed7ce","x":-5380,"y":900,"width":320,"height":160,"type":"text","text":"I have a  folder outside of my lecture/book notes called \"Distilled Notes\" that has zettel"},
-		{"id":"ca7cc1795f023476","x":-5380,"y":580,"width":325,"height":308,"type":"file","file":"Attachments/Pasted image 20231206193130.png"}
+		{"id":"0be285297d5ed7ce","x":-5380,"y":900,"width":320,"height":180,"type":"text","text":"I have a  folder outside of my lecture/book notes called \"Distilled Notes\" that has zettel notes on different topics"},
+		{"id":"ca7cc1795f023476","x":-5380,"y":580,"width":325,"height":308,"type":"file","file":"Attachments/Pasted image 20231206193130.png"},
+		{"id":"6d4e157cc3ea8085","x":-5400,"y":320,"width":320,"height":200,"type":"text","text":"Ill take notes from a lecture or chapter and fill out this template with different subheadings. Since each week is usually a new topic I arrange them by class then week."}
 	],
 	"edges":[
-		{"id":"67707aebeee97ffa","fromNode":"6d4e157cc3ea8085","fromSide":"bottom","toNode":"ca7cc1795f023476","toSide":"top"}
+		{"id":"aba2e3d5255be162","fromNode":"6d4e157cc3ea8085","fromSide":"bottom","toNode":"ca7cc1795f023476","toSide":"top"}
 	]
 }

@@ -6,6 +6,7 @@
       {
         "id": "d41eb4845ab3b938",
         "type": "tabs",
+        "dimension": 48.594548551959114,
         "children": [
           {
             "id": "9c16345bcbc2a077",
@@ -18,6 +19,21 @@
                 "backlinks": false,
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "443748de54e82852",
+        "type": "tabs",
+        "dimension": 51.405451448040886,
+        "children": [
+          {
+            "id": "d678178e2d649fd8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -207,8 +223,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9c16345bcbc2a077",
+  "active": "d678178e2d649fd8",
   "lastOpenFiles": [
+    "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
     "Distilled Notes/Equivalent Circuits.md",
     "Study Plan (Macquarie University).canvas",

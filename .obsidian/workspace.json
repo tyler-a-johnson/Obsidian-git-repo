@@ -4,36 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d41eb4845ab3b938",
-        "type": "tabs",
-        "dimension": 50.25553662691653,
-        "children": [
-          {
-            "id": "9c16345bcbc2a077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "443748de54e82852",
         "type": "tabs",
-        "dimension": 49.74446337308347,
         "children": [
           {
             "id": "d678178e2d649fd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Study Plan (Macquarie University).canvas",
+                "viewState": {
+                  "x": -319.22885780473814,
+                  "y": 173.1332296512046,
+                  "zoom": -0.0596259066898982
+                }
+              }
             }
           }
         ]
@@ -130,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
+                "file": "Study Plan (Macquarie University).canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
+                "file": "Study Plan (Macquarie University).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md"
+                "file": "Study Plan (Macquarie University).canvas"
               }
             }
           },

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Study Plan (Macquarie University).canvas",
                 "viewState": {
-                  "x": -148.93546703663867,
-                  "y": 343.1419303026089,
-                  "zoom": -0.0596259066898982
+                  "x": -148.89406213691336,
+                  "y": 274.8152496578252,
+                  "zoom": -2.0387925733565613
                 }
               }
             }
@@ -163,7 +163,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -209,7 +211,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d678178e2d649fd8",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",

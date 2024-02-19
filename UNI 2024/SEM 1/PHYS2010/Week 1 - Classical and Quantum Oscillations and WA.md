@@ -59,6 +59,13 @@ $=-kx$
 
 $\ddot{x} = -\omega^{2}x$ as before, oscillates about equilibrium position
 
+## General solution for Simple Harmonic Motion (SHM)
+
+$x = B \sin \omega t$ is a solution
+so is $x = A \cos \omega t$
+
+Gener
+
 # Conceptual Info
 ---
 

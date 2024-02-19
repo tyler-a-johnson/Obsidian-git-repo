@@ -64,7 +64,8 @@ $\ddot{x} = -\omega^{2}x$ as before, oscillates about equilibrium position
 $x = B \sin \omega t$ is a solution
 so is $x = A \cos \omega t$
 
-Gener
+General Solution
+$$x = A \cos$$
 
 # Conceptual Info
 ---

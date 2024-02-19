@@ -50,8 +50,14 @@ Position (x) of mass will oscillate with time
 
 ## Spring moving against gravity
 $mg = kd$ at equilibrium
+![](Attachments/Pasted%20image%2020240220102750.png)
+When displaced:
+$ma = F$
+$m \ddot{x} = mg - k (d+x)$
+$= (mg-kd)-kx$
+$=-kx$
 
-When displace
+$\ddot{x} = -\omega^{2}x$ as before, oscillates about equilibrium position
 
 # Conceptual Info
 ---

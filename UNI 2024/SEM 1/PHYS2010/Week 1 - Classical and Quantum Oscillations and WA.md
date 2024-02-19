@@ -40,7 +40,12 @@ $\omega=\sqrt{ \frac{k}{m} }$
 *One possible solution*
 - $x = A\sin \omega t$
 - $\frac{dx}{dt}=\dot{x}= A \omega \cos \omega t$
-- $\frac{d^{2}x}{dt}$
+- $\frac{d^{2}x}{dt^{2}}=\ddot{x}=-A \omega \sin \omega t = - \omega^2 x$
+
+Position (x) of mass will oscillate with time
+- Angular freq $\omega$
+- Period $T = \frac{2\pi}{\omega}$
+- 
 
 # Conceptual Info
 ---

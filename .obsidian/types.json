@@ -5,7 +5,7 @@
     "tags": "tags",
     "date": "date",
     "status": "text",
-    "Relevant Docs": "multitext",
+    "Relevant Docs": "text",
     "Relevant Questions": "multitext",
     "Relevant Notes": "multitext",
     "Practicals Docs": "multitext"

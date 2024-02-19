@@ -21,9 +21,14 @@
     {
       "folder": "Distilled Notes",
       "template": "Resources/Templates/File Properties - Distilled Note.md"
+    },
+    {
+      "folder": "UNI 2024",
+      "template": "Resources/Templates/File Properties - Lecture Notes.md"
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],

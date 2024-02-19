@@ -13,10 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0d9f591ea71346a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b8528388a715eca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf"
               }
             }
           }
@@ -86,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -114,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf"
               }
             }
           },
@@ -209,8 +226,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "6b8528388a715eca",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
+    "README.md",
     "Kanban Schedule.md",
     "Resources/Resources and Links.md",
     "Resources/Code Repository.md",
@@ -220,10 +241,7 @@
     "Resources/Templates/File Properties - Lecture Notes.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Resources/Templates/File Properties - Distilled Note.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments",
-    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "UNI 2024/SEM 1/ELEC3024/Untitled.md",
     "UNI 2024/SEM 1/ENGG4001.md",
     "UNI 2024/SEM 1/ENGG4001",
@@ -250,8 +268,6 @@
     "Attachments/Pasted image 20231206192718.png",
     "Attachments",
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143453.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143143.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117133015.png",

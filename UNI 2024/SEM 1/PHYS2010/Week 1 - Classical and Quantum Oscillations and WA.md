@@ -23,7 +23,7 @@ $$\frac{\partial^{2}u}{\partial t^{2}} = c^{2} \nabla u$$
 $$i \hbar \frac{\partial}{\partial t} \Psi (r,t) = \left[  -\frac{\hbar^{2}{2 \mu}}+V(r,t_{}) \right] \Psi (r,t)$$
 
 ## Mass on a spring, basic oscillation
-
+![](Attachments/Pasted%20image%2020240220102516.png)
 **Hooke's Law**
 $$F = -kd$$
 - d is extension **from relaxed length**
@@ -45,7 +45,13 @@ $\omega=\sqrt{ \frac{k}{m} }$
 Position (x) of mass will oscillate with time
 - Angular freq $\omega$
 - Period $T = \frac{2\pi}{\omega}$
-- 
+- Frequency $f = \frac{1}{T} = \frac{\omega}{2\pi}$
+- Amplitude $A$
+
+## Spring moving against gravity
+$mg = kd$ at equilibrium
+
+When displace
 
 # Conceptual Info
 ---

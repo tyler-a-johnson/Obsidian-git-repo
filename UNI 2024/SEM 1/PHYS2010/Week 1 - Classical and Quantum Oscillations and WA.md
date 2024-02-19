@@ -27,8 +27,12 @@ $$i \hbar \frac{\partial}{\partial t} \Psi (r,t) = \left[  -\frac{\hbar^{2}{2 \m
 **Hooke's Law**
 $$F = -kd$$
 - d is extension **from relaxed length**
-- Linear restoring force 
+- Linear restoring force characterized by **stiffness k**
 
+Consider a system at any non-equilibrium position $x$
+Since $F=ma$
+- $-kx = ma = m\ddot{x}$
+- $\ddot{x} = -\left( \frac{k}{m} \right)x$
 # Conceptual Info
 ---
 

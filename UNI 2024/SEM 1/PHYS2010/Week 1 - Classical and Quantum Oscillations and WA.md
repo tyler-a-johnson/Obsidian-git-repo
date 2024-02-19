@@ -19,7 +19,8 @@ Relevant Links:
 $$\frac{\partial^{2}u}{\partial t^{2}} = c^{2} \nabla u$$
 
 
-**Schroedinger's Equation**
+**Schrodinger's Equation**
+$$i \hbar \frac{\partial}{\partial t} \psi (r,t) = \left[ \frac{- \hbar^{2 } \right]$$
 # Conceptual Info
 ---
 

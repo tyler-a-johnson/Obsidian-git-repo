@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "414fbfaeae18e701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distilled Notes/Greek Letters and Symbols.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -240,8 +253,9 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
-    "Resources/Markdown Latex Reference Sheet.md",
+    "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+    "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "README.md",

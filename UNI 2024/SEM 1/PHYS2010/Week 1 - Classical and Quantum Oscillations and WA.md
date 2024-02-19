@@ -33,6 +33,15 @@ Consider a system at any non-equilibrium position $x$
 Since $F=ma$
 - $-kx = ma = m\ddot{x}$
 - $\ddot{x} = -\left( \frac{k}{m} \right)x$
+$$\ddot{x} = -\omega^{2}x$$
+Where:
+$\omega=\sqrt{ \frac{k}{m} }$
+
+*One possible solution*
+- $x = A\sin \omega t$
+- $\frac{dx}{dt}=\dot{x}= A \omega \cos \omega t$
+- $\frac{d^{2}x}{dt}$
+
 # Conceptual Info
 ---
 

@@ -14,8 +14,12 @@ Relevant Links:
 ---
 
 ## Waves, Diffraction and Interference
-$$\frac{}{}$$
 
+**Wave equation**
+$$\frac{\partial^{2}u}{\partial t^{2}} = c^{2} \nabla u$$
+
+
+**Schroedinger's Equation**
 # Conceptual Info
 ---
 

@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.50418853759766
+    "width": 257.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -209,7 +209,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d678178e2d649fd8",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
     "Kanban Schedule.md",
     "Resources/Resources and Links.md",

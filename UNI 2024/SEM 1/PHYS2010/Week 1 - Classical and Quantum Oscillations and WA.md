@@ -20,7 +20,15 @@ $$\frac{\partial^{2}u}{\partial t^{2}} = c^{2} \nabla u$$
 
 
 **Schrodinger's Equation**
-$$i \hbar \frac{\partial}{\partial t} \psi (r,t) = \left[  -\frac{\hbar^{2}{2 \mu}}+V(r,t_{}) \right]$$
+$$i \hbar \frac{\partial}{\partial t} \Psi (r,t) = \left[  -\frac{\hbar^{2}{2 \mu}}+V(r,t_{}) \right] \Psi (r,t)$$
+
+## Mass on a spring, basic oscillation
+
+**Hooke's Law**
+$$F = -kd$$
+- d is extension **from relaxed length**
+- Linear restoring force 
+
 # Conceptual Info
 ---
 

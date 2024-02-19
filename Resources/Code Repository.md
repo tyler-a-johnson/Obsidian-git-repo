@@ -1,7 +1,7 @@
 
 # C
 ## ATmega328P
-### ELEC3042 Major - Pass Requirements Only
+### ELEC3042 Major - Pass Requirements Only - Really suboptimal but functional
 ```c
 /*
 /*

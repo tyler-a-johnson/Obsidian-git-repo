@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Resources and Links.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Resources and Links.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Resources and Links.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Resources and Links.md"
+                "file": "README.md"
               }
             }
           },
@@ -211,8 +211,10 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
-    "Resources/File Repositories and Archives.md",
+    "Kanban Schedule.md",
     "Resources/Resources and Links.md",
+    "Resources/Code Repository.md",
+    "Resources/File Repositories and Archives.md",
     "Resources/Markdown Latex Reference Sheet.md",
     "Resources/MQ Uni.png",
     "Resources/Templates/File Properties - Lecture Notes.md",
@@ -250,8 +252,6 @@
     "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
     "UNI 2023/SEM 2/MTRN3026/Week 4 - Power Supplies for Mechatronics Systems.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
-    "Distilled Notes/Compressors - Gas.md",
-    "Distilled Notes/Diodes.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143453.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143143.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117133015.png",

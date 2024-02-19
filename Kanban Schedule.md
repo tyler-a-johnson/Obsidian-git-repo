@@ -14,18 +14,13 @@ kanban-plugin: basic
 
 ## IM WORKIN ON IT
 
-- [ ] Project Presentation #ENGG/3000 @{07-11-2023}
-
-
-## DONE AND DUSTED
-
-**Complete**
 
 
 ***
 
 ## Archive
 
+- [x] Project Presentation #ENGG/3000 @{07-11-2023}
 - [x] Statement of Work #ENGG/3000 @{05-11-2023}
 - [x] ENG3000 - Portfolio #ENGG/3000  @{05-11-2023}
 - [x] ELEC2005 Record Video

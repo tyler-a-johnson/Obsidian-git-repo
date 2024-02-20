@@ -65,7 +65,14 @@ $x = B \sin \omega t$ is a solution
 so is $x = A \cos \omega t$
 
 General Solution
-$$x = A \cos$$
+$$x = A \cos \omega t + B \sin \omega t$$
+
+Constants A and B are determined by initial conditions
+The sum is sinusoidal
+![](Attachments/Pasted%20image%2020240220103611.png)
+
+$$A = a \sin \phi$$
+$$B = a \cos \phi$$
 
 # Conceptual Info
 ---

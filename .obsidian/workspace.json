@@ -19,32 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cbb8e63eb3fb1a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Markdown Latex Reference Sheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "414fbfaeae18e701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distilled Notes/Greek Letters and Symbols.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -112,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -238,14 +211,14 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+    "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220103611.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220102750.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220102516.png",
     "Distilled Notes/Greek Letters and Symbols.md",
-    "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "README.md",
     "Kanban Schedule.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,22 +43,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0d9f591ea71346a3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6b8528388a715eca",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf"
               }
             }
           }
@@ -128,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -156,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md"
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md"
               }
             }
           },
@@ -253,9 +238,10 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220103611.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220102750.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220102516.png",
     "Distilled Notes/Greek Letters and Symbols.md",
@@ -299,7 +285,6 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143453.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143143.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117133015.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117132544.png",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

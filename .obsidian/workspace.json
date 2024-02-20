@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md"
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md"
               }
             }
           },
@@ -211,9 +211,11 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
+    "Resources/Markdown Latex Reference Sheet.md",
+    "Resources/Ender 3 V2 G-Code.md",
+    "Resources/Templates/File Properties - Lecture Notes.md",
     "Resources/Resources and Links.md",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
-    "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220103611.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
@@ -226,8 +228,6 @@
     "Resources/Code Repository.md",
     "Resources/File Repositories and Archives.md",
     "Resources/MQ Uni.png",
-    "Resources/Templates/File Properties - Lecture Notes.md",
-    "Resources/Ender 3 V2 G-Code.md",
     "Resources/Templates/File Properties - Distilled Note.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments",
     "UNI 2024/SEM 1/ELEC3024/Untitled.md",

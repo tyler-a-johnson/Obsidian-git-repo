@@ -132,6 +132,8 @@ $= A \omega^{2} \sin (\omega t + \phi + \pi)$
 **Acceleration out of phase by $\pi$ or 180 degrees**
 *Maximum positive acceleration half a cycle before maximum positive displacement, or at the same time as maximum negative displacement*
 
+
+
 # Conceptual Info
 ---
 

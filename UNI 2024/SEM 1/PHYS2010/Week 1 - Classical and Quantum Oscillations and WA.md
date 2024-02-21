@@ -74,6 +74,8 @@ The sum is sinusoidal
 $$A = a \sin \phi$$
 $$B = a \cos \phi$$
 
+a
+
 # Conceptual Info
 ---
 

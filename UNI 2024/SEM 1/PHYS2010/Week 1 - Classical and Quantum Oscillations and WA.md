@@ -124,11 +124,13 @@ $=A \omega \sin (\omega t + \phi + \pi)$
 $\ddot{x}=-A \omega^{2}\sin(\omega t+{\phi})$
 $= A \omega^{2} \sin (\omega t + \phi + \pi)$
 
+![](Attachments/Pasted%20image%2020240221125020.png)
+
 **Velocity leads position y $\frac{\pi}{2}$ or 90 degrees**
-*Max positive velocity occurs a quarter of a cycle before maxim*
+*Max positive velocity occurs a quarter of a cycle before maximum possible displacement*
 
 **Acceleration out of phase by $\pi$ or 180 degrees**
-
+*Maximum positive acceleration half a cycle before maximum positive displacement, or at the same time as maximum negative displacement*
 
 # Conceptual Info
 ---

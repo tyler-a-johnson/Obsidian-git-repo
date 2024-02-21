@@ -107,7 +107,15 @@ Alternatively we can construct a real-valued combination:
 $Ae^{i \omega t}+ Ae^{-i \omega t} = 2A \cos \omega t$
 $Ae^{i \omega t} + c.c. = 2A \cos \omega t$
 
+This is also a solution to $\ddot{x} + \omega^{2}x = 0$
+Useful for multiplying solutions in nonlinear problems
 
+## Position, Velocity and Acceleration
+
+**Displacement**
+$x(t) = A \sin (\omega t+\phi)$
+
+****
 
 # Conceptual Info
 ---

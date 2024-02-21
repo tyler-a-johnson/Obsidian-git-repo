@@ -115,7 +115,9 @@ Useful for multiplying solutions in nonlinear problems
 **Displacement**
 $x(t) = A \sin (\omega t+\phi)$
 
-****
+**Velocity**
+$\dot{x}(t) = A \omega \cos (\omega t })$
+
 
 # Conceptual Info
 ---

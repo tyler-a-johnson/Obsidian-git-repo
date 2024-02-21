@@ -74,7 +74,13 @@ The sum is sinusoidal
 $$A = a \sin \phi$$
 $$B = a \cos \phi$$
 
-a
+$a^{2}=A^{2}+B^{2}$
+
+$\phi = \sin^{-1}\left( \frac{A}{a} \right)$ or $\cos^{-1}\left( \frac{B}{a} \right)$
+
+$x = a \sin \phi \cos \omega t + a \cos \phi \sin \omega t$
+
+
 
 # Conceptual Info
 ---

@@ -50,13 +50,14 @@ Special characters / Symbols
 |`\omega`   | ω |           |   |
 
 ###### Other:
-|LaTex       |   | LaTex       |   |
-|-----------:|---|------------:|--:|
-|`\digamma`  | ϝ | `varepsilon`| ε       |
-|`\varkappa` | ϰ | `\varphi`   | ϕ       |
-|`\varpi`    | ϖ | `\varrho`   | ϱ       |
-|`\varsigma` | ς | `\vartheta` | ϑ       |
-|`\eth`      | ð | `\hbar`     | $\hbar$ |
+| LaTex |  | LaTex |  |
+| ---: | ---- | ---: | ---: |
+| `\digamma` | ϝ | `varepsilon` | ε |
+| `\varkappa` | ϰ | `\varphi` | ϕ |
+| `\varpi` | ϖ | `\varrho` | ϱ |
+| `\varsigma` | ς | `\vartheta` | ϑ |
+| `\eth` | ð | `\hbar` | $\hbar$ |
+|  |  |  |  |
 
 
 ## Other:

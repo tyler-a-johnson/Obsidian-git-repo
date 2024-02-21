@@ -21,19 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "8ccf89e0f2e8977e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +211,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "8ccf89e0f2e8977e",
+  "active": "d678178e2d649fd8",
   "lastOpenFiles": [
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",

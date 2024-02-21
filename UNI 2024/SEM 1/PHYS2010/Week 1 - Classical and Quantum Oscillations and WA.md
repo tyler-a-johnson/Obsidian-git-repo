@@ -87,6 +87,7 @@ Summing cos and sin creates a sinusoid with shifted phase
 
 
 ## Complex Exponentials
+![](Attachments/Pasted%20image%2020240221123502.png)
 Recall:
 $$e^{i \omega t} = \cos \omega t + i \sin \omega t$$
 

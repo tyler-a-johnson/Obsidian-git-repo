@@ -92,7 +92,9 @@ $$e^{i \omega t} = \cos \omega t + i \sin \omega t$$
 
 We can also say:
 $Re[Ae^{i \omega t}] = A \cos \omega t$
-$Re[Ae^{i(\omega t + \phi)}] = A \cos (\omega t)$
+$Re[Ae^{i(\omega t + \phi)}] = A \cos (\omega t+\phi)$
+$Re[Ae^{i \phi}e^{i \omega t}] = A \cos (\omega t + \phi)$
+$Re [Ze^{i \phi}e ]$
 
 # Conceptual Info
 ---

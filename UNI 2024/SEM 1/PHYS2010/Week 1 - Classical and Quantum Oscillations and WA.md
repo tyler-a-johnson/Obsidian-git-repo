@@ -97,7 +97,12 @@ $Re[Ae^{i \phi}e^{i \omega t}] = A \cos (\omega t + \phi)$
 $Re [Ze^{i \omega t}]= A \cos (\omega t + \phi)$
 
 $Ze^{i \omega t}$ is a solution to:
-$\ddot{x} +$
+$\ddot{x} + \omega^{2}x=0$
+
+We can use $x = Ze^{i \omega t}$ as our trial solution, and take the real part when we want a physical value.
+
+Alternatively we can construct a real-valued combination
+
 
 # Conceptual Info
 ---

@@ -94,7 +94,10 @@ We can also say:
 $Re[Ae^{i \omega t}] = A \cos \omega t$
 $Re[Ae^{i(\omega t + \phi)}] = A \cos (\omega t+\phi)$
 $Re[Ae^{i \phi}e^{i \omega t}] = A \cos (\omega t + \phi)$
-$Re [Ze^{i \phi}e ]$
+$Re [Ze^{i \omega t}]= A \cos (\omega t + \phi)$
+
+$Ze^{i \omega t}$ is a solution to:
+$\ddot{x} +$
 
 # Conceptual Info
 ---

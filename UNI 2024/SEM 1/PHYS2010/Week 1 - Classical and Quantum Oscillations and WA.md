@@ -102,7 +102,11 @@ $\ddot{x} + \omega^{2}x=0$
 
 We can use $x = Ze^{i \omega t}$ as our trial solution, and take the real part when we want a physical value.
 
-Alternatively we can construct a real-valued combination
+![](Attachments/Pasted%20image%2020240221123834.png)
+Alternatively we can construct a real-valued combination:
+$Ae^{i \omega t}+ Ae^{-i \omega t} = 2A \cos \omega t$
+$Ae^{i \omega t} + c.c. = 2A \cos \omega t$
+
 
 
 # Conceptual Info

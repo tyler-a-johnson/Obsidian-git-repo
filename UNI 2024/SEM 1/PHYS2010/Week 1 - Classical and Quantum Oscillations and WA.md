@@ -71,6 +71,7 @@ Constants A and B are determined by initial conditions
 The sum is sinusoidal
 ![](Attachments/Pasted%20image%2020240220103611.png)
 
+### Amplitude and phase
 $$A = a \sin \phi$$
 $$B = a \cos \phi$$
 
@@ -79,6 +80,13 @@ $a^{2}=A^{2}+B^{2}$
 $\phi = \sin^{-1}\left( \frac{A}{a} \right)$ or $\cos^{-1}\left( \frac{B}{a} \right)$
 
 $x = a \sin \phi \cos \omega t + a \cos \phi \sin \omega t$
+
+$$x = a \sin (\omega t  + \phi)$$
+
+Summing cos and sin creates a sinusoid with shifted phase
+
+
+## Complex Exponentials
 
 
 

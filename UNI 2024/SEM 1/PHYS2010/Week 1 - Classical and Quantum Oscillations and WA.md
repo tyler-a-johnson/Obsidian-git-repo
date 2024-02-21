@@ -116,7 +116,12 @@ Useful for multiplying solutions in nonlinear problems
 $x(t) = A \sin (\omega t+\phi)$
 
 **Velocity**
-$\dot{x}(t) = A \omega \cos (\omega t })$
+$\dot{x}(t) = A \omega \cos (\omega t + \phi)$
+$Ao$
+
+**Acceleration**
+$\ddot{x}=-A \omega^{2}\sin(\omega t+{\phi})$
+
 
 
 # Conceptual Info

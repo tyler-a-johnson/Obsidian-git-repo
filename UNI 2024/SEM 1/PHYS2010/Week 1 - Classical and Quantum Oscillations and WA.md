@@ -139,3 +139,5 @@ $= A \omega^{2} \sin (\omega t + \phi + \pi)$
 
 # Additional Content
 ---
+## Example Questions
+![](Attachments/Pasted%20image%2020240221125142.png)

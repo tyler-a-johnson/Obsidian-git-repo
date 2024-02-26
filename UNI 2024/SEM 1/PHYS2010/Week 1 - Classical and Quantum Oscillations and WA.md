@@ -180,6 +180,8 @@ Derive total energy
 - $KE = \frac{1}{2} (\rho LA)x^2$
 - $PE = (\rho x A)gx$
 - $KE + PE = \frac{1}{2} \rho LA x^{2}+ \rho g A x^2$
+Differentiate wrt time:
+$\rho L A \dot{x}\ddot{x} + 2 $
 
 # Conceptual Info
 ---

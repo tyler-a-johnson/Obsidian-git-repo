@@ -145,6 +145,8 @@ $$= A \omega^{2}\sin (\omega t + \phi + \pi)$$
 
 ## Kinetic and Potential Energy
 Consider simple harmonic motion with:
+$x(t) = A \sin(\omega t + \phi)$
+
 
 # Conceptual Info
 ---

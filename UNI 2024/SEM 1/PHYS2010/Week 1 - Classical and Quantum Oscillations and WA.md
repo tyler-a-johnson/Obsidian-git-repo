@@ -181,7 +181,8 @@ Derive total energy
 - $PE = (\rho x A)gx$
 - $KE + PE = \frac{1}{2} \rho LA x^{2}+ \rho g A x^2$
 Differentiate wrt time:
-$\rho L A \dot{x}\ddot{x} + 2 $
+$\rho L A \dot{x}\ddot{x} + 2 \rho  gAx \dot{x} = 0$
+$\ddot{x}= - \frac{2g}{L}x$ and $\omega = \sqrt{\frac{2g}{L}}$
 
 # Conceptual Info
 ---

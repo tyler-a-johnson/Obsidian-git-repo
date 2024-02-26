@@ -144,7 +144,7 @@ $$\ddot{x}(t)= - A \omega^{2}\sin(\omega t + \phi) $$
 $$= A \omega^{2}\sin (\omega t + \phi + \pi)$$
 
 ## Kinetic and Potential Energy
-
+Consider simple harmonic motion with:
 
 # Conceptual Info
 ---

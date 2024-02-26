@@ -148,6 +148,9 @@ Consider simple harmonic motion with:
 $x(t) = A \sin(\omega t + \phi)$
 $\dot{x}(t) = \omega A \cos(\omega t + \phi)$
 
+Kinetic energy depends on velocity:
+$KE = \frac{1}{2}mx^{2}A^{2}\cos^{2}(\omega t + \phi)$
+
 
 # Conceptual Info
 ---

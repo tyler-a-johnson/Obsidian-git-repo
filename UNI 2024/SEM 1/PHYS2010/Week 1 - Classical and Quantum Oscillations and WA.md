@@ -23,7 +23,7 @@ $$\frac{\partial^{2}u}{\partial t^{2}} = c^{2} \nabla u$$
 $$i \hbar \frac{\partial}{\partial t} \Psi (r,t) = \left[  -\frac{\hbar^{2}{2 \mu}}+V(r,t_{}) \right] \Psi (r,t)$$
 
 
-^ We wont be using these in this unit. 
+^ We wont be using these in this unit. Could potentially find a use for these anyways?
 ## Mass on a spring, basic oscillation
 ![](Attachments/Pasted%20image%2020240220102516.png)
 **Hooke's Law**
@@ -172,6 +172,11 @@ $$PE = \frac{1}{2}kA^{2}\sin^{2}(\omega t + \phi) = \frac{1}{2}kx^2$$
 
 
 ## U - Tube of SHM
+Uniform cross section A
+Fluid density $\rho$
+Displaced $\pm x$
+
+Derive total 
 
 # Conceptual Info
 ---

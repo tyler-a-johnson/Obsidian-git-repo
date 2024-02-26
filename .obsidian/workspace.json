@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0223db98cde40895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Markdown Latex Reference Sheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -102,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -228,9 +240,10 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
+    "Resources/Markdown Latex Reference Sheet.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240227095817.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
     "UNI 2024/SEM 1/FOSE3000/Attachments/PersonalReflectionWeek1(1).docx",
     "UNI 2024/SEM 1/FOSE3000/Attachments",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221125142.png",
@@ -239,7 +252,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221123834.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221123502.png",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
-    "Resources/Markdown Latex Reference Sheet.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Resources/Templates/File Properties - Lecture Notes.md",
     "Resources/Resources and Links.md",
@@ -274,7 +286,6 @@
     "UNI 2024",
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
-    "Attachments/Pasted image 20231206193130.png",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

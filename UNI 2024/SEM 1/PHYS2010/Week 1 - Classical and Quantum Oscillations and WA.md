@@ -140,7 +140,12 @@ $$x(t) = A \sin (\omega t + \phi)$$
 $$\dot{x}(t) = A \omega \cos (\omega t + \phi)$$
 $$= A \omega \sin \left(  \omega t + \phi + \frac{\pi}{2} \right)$$
 
-$$\ddot{x}(t)= $$
+$$\ddot{x}(t)= - A \omega^{2}\sin(\omega t + \phi) $$
+$$= A \omega^{2}\sin (\omega t + \phi + \pi)$$
+
+## Kinetic and Potential Energy
+
+
 # Conceptual Info
 ---
 

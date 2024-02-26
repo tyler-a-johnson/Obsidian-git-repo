@@ -193,6 +193,12 @@ Using $\tau = I \ddot{\theta}$ for a point mass
 - $\theta = A \cos(\omega t)$
 - Independent of mass
 
+For arbitrary shapes we need to know
+- Mass $m$
+- Distance from pivot to centre of mass $l_{CM}$
+- moment of inertia about the pivot I
+$$\omega= \sqrt{ \frac{mgl_{CM}}{l} }$$
+
 # Conceptual Info
 ---
 

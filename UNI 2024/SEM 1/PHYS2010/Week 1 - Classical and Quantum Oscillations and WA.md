@@ -184,6 +184,11 @@ Differentiate wrt time:
 $\rho L A \dot{x}\ddot{x} + 2 \rho  gAx \dot{x} = 0$
 $\ddot{x}= - \frac{2g}{L}x$ and $\omega = \sqrt{\frac{2g}{L}}$
 
+
+## Pendulum
+Using $\tau = I \ddot{\theta}$ for a point mass
+
+
 # Conceptual Info
 ---
 

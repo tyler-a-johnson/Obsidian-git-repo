@@ -169,7 +169,8 @@ $$PE = \frac{1}{2}kA^{2}\sin^{2}(\omega t + \phi) = \frac{1}{2}kx^2$$
 ![](Attachments/Pasted%20image%2020240227095817.png)
 
 ## Ubiquity of SHM
-SHM associated with a linear 
+SHM associated with a linear restoring force $F = -kx$
+- Equivalently, a parabolic potential well, $PE = \frac{1}{2}kx$
 
 
 # Conceptual Info

@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -239,7 +238,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "d678178e2d649fd8",
   "lastOpenFiles": [
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",

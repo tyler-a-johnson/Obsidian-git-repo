@@ -155,9 +155,9 @@ $= \frac{1}{2}k (A^{2}- x^2)$
 
 PE is work done against a conservative force.
 
-$PE = - \int  F \, dl$
+$PE = - \int  F \, dl = \int^{x}_{0} kx  \, dx$
 
-
+$= \frac{1}{2}$
 # Conceptual Info
 ---
 

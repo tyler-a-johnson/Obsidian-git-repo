@@ -176,7 +176,10 @@ Uniform cross section A
 Fluid density $\rho$
 Displaced $\pm x$
 
-Derive total 
+Derive total energy
+- $KE = \frac{1}{2} (\rho LA)x^2$
+- $PE = (\rho x A)gx$
+- $KE + PE = \frac{1}{2} \rho LA x^{2}+ \rho g A x^2$
 
 # Conceptual Info
 ---

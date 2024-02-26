@@ -176,6 +176,7 @@ Consider an arbitrary potential well
 - Expand potential as a taylor series around a stable point
 	- Of the general form $PE = A + Bx + Cx^{2}+ Dx^{3}+\dots$
 	- But Bx is zero at stable point
+	- $\therefore PE = Cx^{2}+\dots$ and so $F = 0 $
 
 
 # Conceptual Info

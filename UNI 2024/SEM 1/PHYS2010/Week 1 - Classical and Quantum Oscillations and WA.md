@@ -133,6 +133,11 @@ $= A \omega^{2} \sin (\omega t + \phi + \pi)$
 *Maximum positive acceleration half a cycle before maximum positive displacement, or at the same time as maximum negative displacement*
 
 
+## Displacement, Velocity and Time: Phasors
+
+$$x(t) = A \sin (\omega t + \phi)$$
+
+$$\dot{x}(t) = A \omega \cos (\omega t +0})$$
 
 # Conceptual Info
 ---

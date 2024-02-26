@@ -137,8 +137,10 @@ $= A \omega^{2} \sin (\omega t + \phi + \pi)$
 
 $$x(t) = A \sin (\omega t + \phi)$$
 
-$$\dot{x}(t) = A \omega \cos (\omega t +0})$$
+$$\dot{x}(t) = A \omega \cos (\omega t + \phi)$$
+$$= A \omega \sin \left(  \omega t + \phi + \frac{\pi}{2} \right)$$
 
+$$\ddot{x}(t)= $$
 # Conceptual Info
 ---
 

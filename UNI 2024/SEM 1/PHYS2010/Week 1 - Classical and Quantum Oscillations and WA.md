@@ -157,7 +157,12 @@ PE is work done against a conservative force.
 
 $PE = - \int  F \, dl = \int^{x}_{0} kx  \, dx$
 
-$= \frac{1}{2}$
+	$= \frac{1}{2}k x^{2}= \frac{1}{2}A^{2}\sin^{2}(\omega t + \phi)$
+
+
+Total energy is constant
+$$PE + KE = \frac{1}{2}kA^2$$
+
 # Conceptual Info
 ---
 

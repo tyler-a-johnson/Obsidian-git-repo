@@ -188,7 +188,10 @@ $\ddot{x}= - \frac{2g}{L}x$ and $\omega = \sqrt{\frac{2g}{L}}$
 ## Pendulum
 Using $\tau = I \ddot{\theta}$ for a point mass
 - $-mgl \sin \theta = ml^{2}\ddot{\theta}$
-- $\ddot{ \theta} = - \left( \frac{g}{l} \right) \theta$
+- $\ddot{ \theta} = - \left( \frac{g}{l} \right) \theta$  for small angles
+- SHM with $\omega = \sqrt{ \frac{g}{l} }$
+- $\theta = A \cos(\omega t)$
+- Independent of mass
 
 # Conceptual Info
 ---

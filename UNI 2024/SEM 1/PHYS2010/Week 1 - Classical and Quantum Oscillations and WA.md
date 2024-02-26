@@ -173,7 +173,9 @@ SHM associated with a linear restoring force $F = -kx$
 - Equivalently, a parabolic potential well, $PE = \frac{1}{2}kx^2$
 Consider an arbitrary potential well
 - Electric potential energy of molecular bonding
-- Expand potential as a 
+- Expand potential as a taylor series around a stable point
+	- Of the general form $PE = A + Bx + Cx^{2}+ Dx^{3}+\dots$
+	- But Bx is zero at stable point
 
 
 # Conceptual Info

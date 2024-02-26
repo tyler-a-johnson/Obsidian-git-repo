@@ -170,7 +170,10 @@ $$PE = \frac{1}{2}kA^{2}\sin^{2}(\omega t + \phi) = \frac{1}{2}kx^2$$
 
 ## Ubiquity of SHM
 SHM associated with a linear restoring force $F = -kx$
-- Equivalently, a parabolic potential well, $PE = \frac{1}{2}kx$
+- Equivalently, a parabolic potential well, $PE = \frac{1}{2}kx^2$
+Consider an arbitrary potential well
+- Electric potential energy of molecular bonding
+- Expand potential as a 
 
 
 # Conceptual Info

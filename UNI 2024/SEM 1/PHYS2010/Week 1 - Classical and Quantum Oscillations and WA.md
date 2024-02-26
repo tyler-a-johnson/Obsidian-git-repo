@@ -22,6 +22,8 @@ $$\frac{\partial^{2}u}{\partial t^{2}} = c^{2} \nabla u$$
 **Schrodinger's Equation**
 $$i \hbar \frac{\partial}{\partial t} \Psi (r,t) = \left[  -\frac{\hbar^{2}{2 \mu}}+V(r,t_{}) \right] \Psi (r,t)$$
 
+
+^ We wont be using these in this unit. 
 ## Mass on a spring, basic oscillation
 ![](Attachments/Pasted%20image%2020240220102516.png)
 **Hooke's Law**
@@ -168,6 +170,12 @@ $$KE = \frac{1}{2}kA^{2}\cos^{2}(\omega t + \phi)=\frac{1}{2}kA^{2}(A^{2}-x^2)$$
 $$PE = \frac{1}{2}kA^{2}\sin^{2}(\omega t + \phi) = \frac{1}{2}kx^2$$
 ![](Attachments/Pasted%20image%2020240227095817.png)
 
+
+## U - Tube of SHM
+
+# Conceptual Info
+---
+
 ## Ubiquity of SHM
 SHM associated with a linear restoring force $F = -kx$
 - Equivalently, a parabolic potential well, $PE = \frac{1}{2}kx^2$
@@ -176,12 +184,7 @@ Consider an arbitrary potential well
 - Expand potential as a taylor series around a stable point
 	- Of the general form $PE = A + Bx + Cx^{2}+ Dx^{3}+\dots$
 	- But Bx is zero at stable point
-	- $\therefore PE = Cx^{2}+\dots$ and so $F = 0 $
-
-
-# Conceptual Info
----
-
+	- $\therefore PE = Cx^{2}+\dots$ and so $F = -2Cx + \dots$
 
 
 # Additional Content

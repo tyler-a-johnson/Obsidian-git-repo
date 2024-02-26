@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b2954bcebcd55fd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "149513f4ea3ef483",
@@ -226,7 +237,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d678178e2d649fd8",
+  "active": "9b2954bcebcd55fd",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221125142.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221125020.png",

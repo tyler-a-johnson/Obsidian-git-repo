@@ -163,6 +163,10 @@ $PE = - \int  F \, dl = \int^{x}_{0} kx  \, dx$
 Total energy is constant
 $$PE + KE = \frac{1}{2}kA^2$$
 
+
+$$KE = \frac{1}{2}kA^{2}\cos^{2}(\omega t + \phi)=$$
+
+
 # Conceptual Info
 ---
 

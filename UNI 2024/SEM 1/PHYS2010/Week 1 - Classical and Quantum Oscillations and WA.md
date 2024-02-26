@@ -151,6 +151,11 @@ $\dot{x}(t) = \omega A \cos(\omega t + \phi)$
 Kinetic energy depends on velocity:
 $KE = \frac{1}{2}mx^{2}A^{2}\cos^{2}(\omega t + \phi)$
 $= \frac{1}{2}kA^{2}\cos^{2}(\omega t + \phi)$
+$= \frac{1}{2}k (A^{2}- x^2)$
+
+PE is work done against a conservative force.
+
+$PE = - \int  F \, dl$
 
 
 # Conceptual Info

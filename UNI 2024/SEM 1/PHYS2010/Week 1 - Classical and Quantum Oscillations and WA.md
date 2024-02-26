@@ -164,7 +164,9 @@ Total energy is constant
 $$PE + KE = \frac{1}{2}kA^2$$
 
 
-$$KE = \frac{1}{2}kA^{2}\cos^{2}(\omega t + \phi)=$$
+$$KE = \frac{1}{2}kA^{2}\cos^{2}(\omega t + \phi)=\frac{1}{2}kA^{2}(A^{2}-x^2)$$
+$$PE = \frac{1}{2}kA^{2}\sin^{2}(\omega t + \phi) = \frac{1}{2}kx^2$$
+![](Attachments/Pasted%20image%2020240227095817.png)
 
 
 # Conceptual Info

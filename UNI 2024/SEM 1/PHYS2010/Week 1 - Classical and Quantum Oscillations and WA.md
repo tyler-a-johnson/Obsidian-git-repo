@@ -187,7 +187,8 @@ $\ddot{x}= - \frac{2g}{L}x$ and $\omega = \sqrt{\frac{2g}{L}}$
 
 ## Pendulum
 Using $\tau = I \ddot{\theta}$ for a point mass
-
+- $-mgl \sin \theta = ml^{2}\ddot{\theta}$
+- $\ddot{ \theta} = - \left( \frac{g}{l} \right) \theta$
 
 # Conceptual Info
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Untitled.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 -.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Untitled.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Untitled.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Untitled.md"
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 -.md"
               }
             }
           },
@@ -213,10 +213,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "c08e9b789a4c1123",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
-    "UNI 2024/SEM 1/FOSE3000/Untitled.md",
+    "UNI 2024/SEM 1/FOSE3000/Week 2 -.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
     "Resources/Markdown Latex Reference Sheet.md",

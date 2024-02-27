@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md"
+                "file": "UNI 2024/SEM 1/FOSE3000/Untitled.md"
               }
             }
           },
@@ -213,10 +213,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c08e9b789a4c1123",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
-    "Resources/Markdown Latex Reference Sheet.md",
+    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
+    "UNI 2024/SEM 1/FOSE3000/Untitled.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+    "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240227095817.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "UNI 2024/SEM 1/FOSE3000/Attachments/PersonalReflectionWeek1(1).docx",
@@ -226,7 +229,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221124038.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221123834.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221123502.png",
-    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Resources/Templates/File Properties - Lecture Notes.md",
     "Resources/Resources and Links.md",
@@ -234,7 +236,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220102750.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220102516.png",
     "Distilled Notes/Greek Letters and Symbols.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "README.md",
     "Kanban Schedule.md",
     "Resources/Code Repository.md",

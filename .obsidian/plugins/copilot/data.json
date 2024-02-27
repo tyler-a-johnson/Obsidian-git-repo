@@ -1,5 +1,5 @@
 {
-  "openAIApiKey": "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",
+  "openAIApiKey": "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",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
   "anthropicApiKey": "",
@@ -8,8 +8,8 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "defaultModel": "gpt-3.5-turbo-16k",
-  "defaultModelDisplayName": "GPT-3.5 16K",
+  "defaultModel": "gpt-4",
+  "defaultModelDisplayName": "GPT-4",
   "temperature": 0.7,
   "maxTokens": 1000,
   "contextTurns": 3,

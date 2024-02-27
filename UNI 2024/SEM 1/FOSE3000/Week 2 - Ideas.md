@@ -6,16 +6,4 @@ Relevant Questions:
 Relevant Notes: 
 Relevant Links:
 ---
-**Lecture Slides:**
-# Maths Content
----
-
-
-
-# Conceptual Info
----
-
-
-
-# Additional Content
----
+**Lecture Sli

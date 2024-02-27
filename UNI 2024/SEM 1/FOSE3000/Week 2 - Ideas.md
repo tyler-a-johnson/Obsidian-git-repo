@@ -6,4 +6,10 @@ Relevant Questions:
 Relevant Notes: 
 Relevant Links:
 ---
-**Lecture Sli
+AI Camera for intersections
+
+Vertical plant beds
+
+Nickel Hydrogen batteries for energy storage in homes, scalable solution for grid storage - combine with solar/renewable
+
+

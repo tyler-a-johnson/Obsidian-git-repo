@@ -12,4 +12,6 @@ Vertical plant beds
 
 Nickel Hydrogen batteries for energy storage in homes, scalable solution for grid storage - combine with solar/renewable
 
+Kinetic sidewalks
+
 

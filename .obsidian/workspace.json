@@ -34,22 +34,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "149513f4ea3ef483",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b0ceeabf2b815bc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -115,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -125,7 +108,6 @@
       {
         "id": "371dfface0d3aee2",
         "type": "tabs",
-        "dimension": 74.28180574555402,
         "children": [
           {
             "id": "55715e4c07a4d5a4",
@@ -199,25 +181,10 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "94c37083c6cbb0fc",
-        "type": "tabs",
-        "dimension": 25.718194254445972,
-        "children": [
-          {
-            "id": "c4b450c7f663afdd",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,7 +205,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "c08e9b789a4c1123",
   "lastOpenFiles": [
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",

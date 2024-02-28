@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
-                "mode": "preview",
+                "file": "UNI 2024/SEM 1/SEM 1.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
+                "file": "UNI 2024/SEM 1/SEM 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
+                "file": "UNI 2024/SEM 1/SEM 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/FOSE3000.md"
+                "file": "UNI 2024/SEM 1/SEM 1.md"
               }
             }
           },
@@ -227,6 +227,8 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
+    "Kanban Schedule.md",
+    "UNI 2024/SEM 1/SEM 1.md",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240227095817.png",
@@ -248,7 +250,6 @@
     "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "README.md",
-    "Kanban Schedule.md",
     "Resources/Code Repository.md",
     "Resources/File Repositories and Archives.md",
     "Resources/MQ Uni.png",
@@ -271,7 +272,6 @@
     "UNI 2024/SEM 1/PHYS2010",
     "UNI 2024/SEM 1",
     "UNI 2024",
-    "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
     "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf",
     "Attachments",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

@@ -21,7 +21,12 @@ RTEGS Road thermo-electric generator systems
 ![500](Attachments/Pavegen_V3_step_.jpg)
 **Pavegen**
 Developed by Laurence Kemball-Cook Founder
-- Depth of travel around 5-10mm
-- Each step generates about 
-- Triangular design to maximise generation (more torque?)
-- Uses electromagnetism (what about piezo?)
+- Depth of travel around **5-10mm**
+- Each step generates **about 2 to 4 joules**
+
+Being generous
+
+Fifty people wal
+
+- **Triangular** design to maximise generation (more torque?)
+- Uses **electromagnetism** (what about piezo?)

@@ -31,7 +31,9 @@ Energy stored in batteries/capacitors and used for offsetting low power applianc
 [Pavegen plans to power the world with footsteps - YouTube](https://www.youtube.com/watch?v=VD15-2Uriyc)
 
 Can generate power for street lighting
-one step
+
+Needs more widespread and carefully placed installations. Lots of strips are installed near thoroughfares but in shapes or configs that dont actually utilise them properly. 
+Tech is scaleable, each tile supports itseld.
 
 
 - **Triangular** design to maximise generation (more torque?)

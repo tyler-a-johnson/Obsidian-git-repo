@@ -20,4 +20,7 @@ RTEGS Road thermo-electric generator systems
 # Kinetic Walkways
 ![500](Attachments/Pavegen_V3_step_.jpg)
 **Pavegen**
-Deeloped by Laurence Kemball-Cook
+Developed by Laurence Kemball-Cook Founder
+- Depth of travel around 5-10mm
+- Triangular design to maximise generation (more torque?)
+- Uses electromagnetism (what about piezo?)

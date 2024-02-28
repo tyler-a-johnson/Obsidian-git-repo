@@ -9,7 +9,7 @@
   "showEnclosingNote": false,
   "folderNoteType": "INSIDE_FOLDER",
   "ignorePaths": [
-    "_Attachments"
+    "Attachments"
   ],
   "useSpaces": false,
   "numSpaces": 2

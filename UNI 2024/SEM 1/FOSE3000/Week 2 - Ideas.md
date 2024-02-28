@@ -27,7 +27,12 @@ Developed by Laurence Kemball-Cook Founder
 Being generous
 ![](Attachments/Kinetic%20Walkwayus.xlsx)
 
-Energy stored in batteries/capacitors and used for offsetting low power applienaces
+Energy stored in batteries/capacitors and used for offsetting low power appliances
+[Pavegen plans to power the world with footsteps - YouTube](https://www.youtube.com/watch?v=VD15-2Uriyc)
+
+Can generate power for street lighting
+one step
+
 
 - **Triangular** design to maximise generation (more torque?)
 - Uses **electromagnetism** (what about piezo?)

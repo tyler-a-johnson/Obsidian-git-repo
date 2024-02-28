@@ -13,23 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 - Ideas.md",
-                "mode": "source",
+                "file": "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "149513f4ea3ef483",
+        "type": "tabs",
+        "children": [
           {
-            "id": "0223db98cde40895",
+            "id": "0b0ceeabf2b815bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Resources/Markdown Latex Reference Sheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf"
               }
             }
           }
@@ -108,6 +111,7 @@
       {
         "id": "371dfface0d3aee2",
         "type": "tabs",
+        "dimension": 74.28180574555402,
         "children": [
           {
             "id": "55715e4c07a4d5a4",
@@ -126,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 - Ideas.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 - Ideas.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 - Ideas.md"
+                "file": "UNI 2024/SEM 1/FOSE3000/FOSE3000.md"
               }
             }
           },
@@ -178,21 +182,28 @@
                 "searchQuery": ""
               }
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "94c37083c6cbb0fc",
+        "type": "tabs",
+        "dimension": 25.718194254445972,
+        "children": [
           {
-            "id": "96733f28a6198d95",
+            "id": "c4b450c7f663afdd",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
+    "width": 361.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -217,19 +228,17 @@
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
-    "UNI 2024/SEM 1/FOSE3000/Week 2 - Ideas.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
-    "Resources/Markdown Latex Reference Sheet.md",
+    "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240227095817.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
-    "UNI 2024/SEM 1/FOSE3000/Attachments/PersonalReflectionWeek1(1).docx",
-    "UNI 2024/SEM 1/FOSE3000/Attachments",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221125142.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221125020.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221124038.png",
+    "UNI 2024/SEM 1/FOSE3000/Week 2 - Ideas.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221123834.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221123502.png",
+    "Resources/Markdown Latex Reference Sheet.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Resources/Templates/File Properties - Lecture Notes.md",
     "Resources/Resources and Links.md",
@@ -237,6 +246,7 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220102750.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240220102516.png",
     "Distilled Notes/Greek Letters and Symbols.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "README.md",
     "Kanban Schedule.md",
     "Resources/Code Repository.md",
@@ -262,7 +272,8 @@
     "UNI 2024/SEM 1",
     "UNI 2024",
     "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 7 - PLC And PLC Systems.md",
+    "UNI 2023/SEM 2/MTRN3026/Attachments/Briefing for Motor Control Assignment 1.pdf",
+    "Attachments",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

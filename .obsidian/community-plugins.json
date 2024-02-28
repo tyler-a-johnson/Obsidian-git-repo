@@ -31,5 +31,6 @@
   "obsidian-git",
   "obsidian-ocr",
   "obsidian-pandoc",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "waypoint"
 ]

@@ -31,6 +31,7 @@ assuming 2 joules per step and an unavoidable strip of tiles 3 steps wide
 6 steps per customer (entering and leaving)
 $$10,000*6 = 60,000$$
 $$60,0000*2 = 120,000$$
+$$\text{over the course of a day, assuming 8am to 8pm }$$
 
 - **Triangular** design to maximise generation (more torque?)
 - Uses **electromagnetism** (what about piezo?)

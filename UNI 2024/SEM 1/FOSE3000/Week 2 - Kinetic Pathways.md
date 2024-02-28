@@ -32,8 +32,10 @@ Energy stored in batteries/capacitors and used for offsetting low power applianc
 
 Can generate power for street lighting
 
-Needs more widespread and carefully placed installations. Lots of strips are installed near thoroughfares but in shapes or configs that dont actually utilise them properly. 
-Tech is scaleable, each tile supports itseld.
+- Needs more widespread and carefully placed installations. Lots of strips are installed near thoroughfares but in shapes or configs that dont actually utilise them properly. 
+- Tech is scaleable, each tile supports itself.
+- Power from these can be stored up, and used during off time - trickle charging a battery and using them to power street lights during the night at a field or public place
+- 
 
 
 - **Triangular** design to maximise generation (more torque?)

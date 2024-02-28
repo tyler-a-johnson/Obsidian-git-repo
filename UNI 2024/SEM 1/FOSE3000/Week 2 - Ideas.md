@@ -26,7 +26,9 @@ Developed by Laurence Kemball-Cook Founder
 
 Being generous
 
-Fifty people wal
+10,000 customer walk through the door each day (lower end of the range for a mid sized super market)
+assuming 2 joules per step and an unavoidable strip of tiles 3 steps wide
+
 
 - **Triangular** design to maximise generation (more torque?)
 - Uses **electromagnetism** (what about piezo?)

@@ -1,6 +1,8 @@
 %% Begin Waypoint %%
 - **ELEC3024**
 	- [[Week 1]]
+- **ENGG4001**
+	- [[Electronic Braille Signs]]
 - **FOSE3000**
 	- [[Week 1 - Intros]]
 	- [[Week 2 - Kinetic Pathways]]

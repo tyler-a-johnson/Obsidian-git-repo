@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 265.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md"
+                "file": "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md"
               }
             }
           },
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +218,10 @@
   "active": "de65bb0eb3aeb48e",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
-    "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
+    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
+    "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2024/SEM 1/ENGG4001/Attachments/U2800.pdf",
     "UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240229124746.png",
     "UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240229124632.png",
@@ -230,8 +233,6 @@
     "UNI 2024/SEM 1/FOSE3000/Attachments/Pavegen_V3_step_.jpg",
     "UNI 2024/SEM 1/FOSE3000/Attachments/Pavegen_V3_step_ 1.jpg",
     "UNI 2024/SEM 1/FOSE3000/Attachments/Kinetic Walkwayus.xlsx",
-    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240227095817.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",

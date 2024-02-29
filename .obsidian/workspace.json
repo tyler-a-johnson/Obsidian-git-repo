@@ -11,12 +11,9 @@
             "id": "d678178e2d649fd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban Schedule.md"
               }
             }
           }
@@ -114,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
+                "file": "Kanban Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
+                "file": "Kanban Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md"
+                "file": "Kanban Schedule.md"
               }
             }
           },
@@ -211,6 +208,9 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/SEM 1.md",
+    "README.md",
+    "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
     "UNI 2024/SEM 1/ENGG4001/Attachments/U2800.pdf",
     "UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240229124746.png",
     "UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240229124632.png",
@@ -224,8 +224,6 @@
     "UNI 2024/SEM 1/FOSE3000/Attachments/Pavegen_V3_step_ 1.jpg",
     "UNI 2024/SEM 1/FOSE3000/Attachments/Pavegen_V3_step_.jpg",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
-    "UNI 2024/SEM 1/SEM 1.md",
-    "README.md",
     "Kanban Schedule.md",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
@@ -233,7 +231,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221125142.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221125020.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221124038.png",
-    "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221123834.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "Resources/Markdown Latex Reference Sheet.md",
@@ -257,7 +254,6 @@
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024",
     "UNI 2024/SEM 1/FOSE3000",
-    "UNI 2024/SEM 1/PHYS2010",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

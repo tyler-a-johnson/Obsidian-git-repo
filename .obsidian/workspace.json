@@ -175,12 +175,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +200,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "0223db98cde40895",
+  "active": "12db1fcb88c87871",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
     "UNI 2024/SEM 1/ENGG4001/Attachments/U2800.pdf",

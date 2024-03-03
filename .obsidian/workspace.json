@@ -11,14 +11,9 @@
             "id": "d678178e2d649fd8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas",
-                "viewState": {
-                  "x": -210,
-                  "y": 220,
-                  "zoom": -0.5460569894585803
-                }
+                "file": "Kanban Schedule.md"
               }
             }
           }
@@ -116,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas",
+                "file": "Kanban Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas",
+                "file": "Kanban Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas"
+                "file": "Kanban Schedule.md"
               }
             }
           },
@@ -213,9 +208,10 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/SEM 1.md",
+    "Study Plan (Macquarie University).canvas",
     "README.md",
     "Kanban Schedule.md",
-    "UNI 2024/SEM 1/SEM 1.md",
     "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
     "UNI 2024/SEM 1/ENGG4001/Attachments/U2800.pdf",
     "UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240229124746.png",
@@ -256,7 +252,6 @@
     "Daily Notes/20-07-2023.md",
     "Daily Notes/27-07-2023.md",
     "Daily Notes/Invalid date.md",
-    "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024",
     "UNI 2024/SEM 1/FOSE3000",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

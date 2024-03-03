@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Fose3000",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7179793503f86be",
@@ -206,7 +207,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d678178e2d649fd8",
+  "active": "9c0894b8c9bff8ed",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/SEM 1.md",
     "Study Plan (Macquarie University).canvas",

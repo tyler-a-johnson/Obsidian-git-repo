@@ -4,6 +4,14 @@ kanban-plugin: basic
 
 ---
 
+## Weekly Work
+
+- [ ] FOSE3000 Reflective Writing #FOSE3000
+- [ ] ELEC3042 Pre Workshop Quiz
+- [ ] ELEC3042 Workshop quiz
+- [ ] PHYS2010 Workshop test #PHYS2010
+
+
 ## LONG WAY OFF
 
 

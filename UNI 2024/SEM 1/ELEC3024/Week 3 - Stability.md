@@ -7,6 +7,8 @@ Relevant Notes:
 Relevant Links:
 ---
 **Lecture Slides:**
+![](Attachments/Nise%20-%20Ch06%20Highlights.pdf)
+
 # Maths Content
 ---
 

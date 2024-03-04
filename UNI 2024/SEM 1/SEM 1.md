@@ -1,8 +1,8 @@
 %% Begin Waypoint %%
 - **ELEC3024**
 	- [[Week 1]]
-	- [[Week 2 - Nise Chpt 4-5]]
-	- [[Week 3]]
+	- [[Week 2 - Time Response and Reduction of Multiple Subsystems]]
+	- [[Week 3 - Stability]]
 - **ENGG4001**
 	- [[Electronic Braille Signs]]
 - **FOSE3000**

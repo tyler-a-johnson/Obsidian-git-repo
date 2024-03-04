@@ -21,6 +21,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "b59dff09500c2e87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46909ea5a8ebf340",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -211,10 +228,10 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",

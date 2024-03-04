@@ -7,7 +7,7 @@ Relevant Notes:
 Relevant Links:
 ---
 **Lecture Slides:**
-[](Attachments/Nise%20-%20Ch06%20Highlights.pdf)
+[Stability](Attachments/Nise%20-%20Ch06%20Highlights.pdf)
 
 # Maths Content
 ---
@@ -21,10 +21,10 @@ A system is **stable** if the natural response approaches zero as time approache
 *Stable systems have closed-loop transfer functions with poles only in **left hand plane (negative real part)***
 
 A system is **unstable** if the natural response approaches infinity as time approaches infinity
-*Unstable systems have closed loop transfer functions with at least one pole in the right half-plane (positive real part)*
+*Unstable systems have closed loop transfer functions with at **least one pole in the right half-plane (positive real part) and/or poles of multiplicity greater than one on the imaginary axis***
 
 A system is **marginally stable** if the natural response neither decays nor grows but remains constant or oscillates
-
+*marginally stable systems have closed loop transfer functions *
 
 # Conceptual Info
 ---

@@ -24,7 +24,15 @@ A system is **unstable** if the natural response approaches infinity as time app
 *Unstable systems have closed loop transfer functions with at **least one pole in the right half-plane (positive real part) and/or poles of multiplicity greater than one on the imaginary axis***
 
 A system is **marginally stable** if the natural response neither decays nor grows but remains constant or oscillates
-*marginally stable systems have closed loop transfer functions *
+*marginally stable systems have closed loop transfer functions with **only imaginary axis poles of multiplicity 1** and poles in the **left hand plane***
+
+![](Attachments/Pasted%20image%2020240304224319.png)
+
+```ad-note
+These definitions assume implicitly there have been **no cancellations of RHP and/o**
+
+```
+
 
 # Conceptual Info
 ---

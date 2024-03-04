@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3.md"
               }
             }
           },
@@ -211,10 +211,13 @@
   },
   "active": "d678178e2d649fd8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Week 2 - Nise Chpt 4-5.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 3.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments",
-    "UNI 2024/SEM 1/ELEC3024/Week 2.md",
     "Kanban Schedule.md",
     "UNI 2024/SEM 1/SEM 1.md",
     "Study Plan (Macquarie University).canvas",
@@ -240,7 +243,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221125020.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221124038.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240221123834.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "Resources/Markdown Latex Reference Sheet.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Resources/Templates/File Properties - Lecture Notes.md",
@@ -249,7 +251,6 @@
     "Resources/Code Repository.md",
     "Resources/File Repositories and Archives.md",
     "Resources/Templates/File Properties - Distilled Note.md",
-    "UNI 2024/SEM 1/PHYS2010/Attachments",
     "UNI 2024/SEM 1/ENGG4001.md",
     "Daily Notes/29-06-2023.md",
     "Daily Notes/02-10-2023.md",

@@ -1,7 +1,8 @@
 %% Begin Waypoint %%
 - **ELEC3024**
 	- [[Week 1]]
-	- [[Week 2]]
+	- [[Week 2 - Nise Chpt 4-5]]
+	- [[Week 3]]
 - **ENGG4001**
 	- [[Electronic Braille Signs]]
 - **FOSE3000**

@@ -15,6 +15,7 @@ Relevant Links:
 
 ## Catagorization
 
+A system is **stable** 
 
 
 # Conceptual Info

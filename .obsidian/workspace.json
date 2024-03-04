@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -203,11 +204,13 @@
   },
   "active": "0223db98cde40895",
   "lastOpenFiles": [
-    "Distilled Notes/Greek Letters and Symbols.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
+    "Study Plan (Macquarie University).canvas",
+    "README.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+    "Distilled Notes/Greek Letters and Symbols.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 - 1 Page Brief.pdf",
@@ -241,15 +244,12 @@
     "Resources/Ender 3 V2 G-Code.md",
     "Resources/Templates/File Properties - Lecture Notes.md",
     "Resources/Resources and Links.md",
-    "README.md",
     "Resources/Code Repository.md",
     "Resources/File Repositories and Archives.md",
     "Resources/Templates/File Properties - Distilled Note.md",
     "UNI 2024/SEM 1/ELEC3024/Untitled.md",
     "UNI 2024/SEM 1/ENGG4001.md",
     "Daily Notes/29-06-2023.md",
-    "Daily Notes/02-10-2023.md",
-    "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

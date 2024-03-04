@@ -9,6 +9,7 @@
 	- [[Week 1 - Intros]]
 	- [[Week 2 - Kinetic Pathways]]
 - **PHYS2010**
-	- [[Week 1 - Classical and Quantum Oscillations and WA]]
+	- [[Week 1 - Simple Harmonic Motion]]
+	- [[Week 2 - Damped Harmonic Motion]]
 
 %% End Waypoint %%

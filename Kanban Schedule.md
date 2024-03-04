@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## Weekly Work
 
-- [x] FOSE3000 Reflective Writing #FOSE/3000
+- [ ] FOSE3000 Reflective Writing #FOSE/3000
 - [ ] ELEC3024 Pre Workshop Quiz #ELEC/3024
 - [ ] ELEC3024 Workshop quiz #ELEC/3024
 - [ ] PHYS2010 Workshop test #PHYS/2010
-- [x] PHYS2010 Python class #PHYS/2010
+- [ ] PHYS2010 Python class #PHYS/2010
 
 
 ## LONG WAY OFF

@@ -11,9 +11,12 @@
             "id": "d678178e2d649fd8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -64,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f7179793503f86be",
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2.md"
               }
             }
           },
@@ -207,12 +209,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9c0894b8c9bff8ed",
+  "active": "d678178e2d649fd8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Attachments",
+    "UNI 2024/SEM 1/ELEC3024/Week 2.md",
+    "Kanban Schedule.md",
     "UNI 2024/SEM 1/SEM 1.md",
     "Study Plan (Macquarie University).canvas",
     "README.md",
-    "Kanban Schedule.md",
     "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
     "UNI 2024/SEM 1/ENGG4001/Attachments/U2800.pdf",
     "UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240229124746.png",
@@ -240,12 +246,10 @@
     "Resources/Templates/File Properties - Lecture Notes.md",
     "Resources/Resources and Links.md",
     "Distilled Notes/Greek Letters and Symbols.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "Resources/Code Repository.md",
     "Resources/File Repositories and Archives.md",
     "Resources/Templates/File Properties - Distilled Note.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments",
-    "UNI 2024/SEM 1/ELEC3024/Untitled.md",
     "UNI 2024/SEM 1/ENGG4001.md",
     "Daily Notes/29-06-2023.md",
     "Daily Notes/02-10-2023.md",
@@ -253,8 +257,6 @@
     "Daily Notes/20-07-2023.md",
     "Daily Notes/27-07-2023.md",
     "Daily Notes/Invalid date.md",
-    "UNI 2024/SEM 1/ELEC3024",
-    "UNI 2024/SEM 1/FOSE3000",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

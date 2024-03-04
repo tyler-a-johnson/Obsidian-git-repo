@@ -52,7 +52,12 @@ Two edge cases
 1. The Routh table can have a zero only in the first column of a row
 2. The Routh table can have an entire row that consists of zeros
 
-Keep in mind: A zero does not have a definite sign. Zeros do not count as sign changes. Must watch out 
+Keep in mind: A zero does not have a definite sign. Zeros do not count as sign changes. Must watch out for them in the first column.
+
+### Examples
+Find the range of gain K > 0 for the system below that will cause the system to be stable, unstable, and marginally stable.
+![](Attachments/Pasted%20image%2020240304225546.png)
+
 
 # Conceptual Info
 ---

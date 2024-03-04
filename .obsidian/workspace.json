@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -204,8 +203,9 @@
   },
   "active": "0223db98cde40895",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+    "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
     "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
@@ -241,7 +241,6 @@
     "Resources/Ender 3 V2 G-Code.md",
     "Resources/Templates/File Properties - Lecture Notes.md",
     "Resources/Resources and Links.md",
-    "Distilled Notes/Greek Letters and Symbols.md",
     "README.md",
     "Resources/Code Repository.md",
     "Resources/File Repositories and Archives.md",

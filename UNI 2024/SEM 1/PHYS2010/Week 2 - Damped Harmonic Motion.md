@@ -7,6 +7,7 @@ Relevant Notes:
 Relevant Links:
 ---
 **Lecture Slides:**
+![Damped Harmonic Motion](Attachments/PHYS2010%20Week%202.pdf)
 # Maths Content
 ---
 

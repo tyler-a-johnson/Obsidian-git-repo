@@ -34,7 +34,10 @@ These definitions assume implicitly there have been are **no cancellations of RH
 ```
 
 ### Routh-Hurwitz Criterion
-Yields stability information withou
+Yields stability information without need to solve for the closed-loop system poles
+1. Generate *Routh Table*
+2. Interpret table to determine how many closed loop system poles are in the LHP and in the RHP
+
 
 # Conceptual Info
 ---

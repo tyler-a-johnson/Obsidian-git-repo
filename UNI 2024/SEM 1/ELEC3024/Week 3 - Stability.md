@@ -48,7 +48,11 @@ The number of roots of the polynomial that are in the right half plane is equal 
 Two sign changes, hence two poles in the right half-plane. System unstable
 
 #### Special Cases
-Two special but important 
+Two edge cases
+1. The Routh table can have a zero only in the first column of a row
+2. The Routh table can have an entire row that consists of zeros
+
+Keep in mind: A zero does not have a definite sign. Zeros do not count as sign changes. Must watch out 
 
 # Conceptual Info
 ---

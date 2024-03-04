@@ -37,7 +37,13 @@ These definitions assume implicitly there have been are **no cancellations of RH
 Yields stability information without need to solve for the closed-loop system poles
 1. Generate *Routh Table*
 2. Interpret table to determine how many closed loop system poles are in the LHP and in the RHP
+![](Attachments/Pasted%20image%2020240304224849.png)
+```ad-note
+Any row of the Routh table can be multiled by a positive constant without changing the values of the rows below
 
+```
+
+The number of roots of the polynomial that are in the right half plane is equal to the number of sig
 
 # Conceptual Info
 ---

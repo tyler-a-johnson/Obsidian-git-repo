@@ -29,10 +29,12 @@ A system is **marginally stable** if the natural response neither decays nor gro
 ![](Attachments/Pasted%20image%2020240304224319.png)
 
 ```ad-note
-These definitions assume implicitly there have been **no cancellations of RHP and/o**
+These definitions assume implicitly there have been are **no cancellations of RHP and/or certain imaginary axis poles!** There are systems that after cancellation only has LHP poles left, yet is unstable for non-zero initial conditions
 
 ```
 
+### Routh-Hurwitz Criterion
+Yields stability information withou
 
 # Conceptual Info
 ---

@@ -57,7 +57,8 @@ Keep in mind: A zero does not have a definite sign. Zeros do not count as sign c
 ### Examples
 Find the range of gain K > 0 for the system below that will cause the system to be stable, unstable, and marginally stable.
 ![](Attachments/Pasted%20image%2020240304225546.png)
-
+ - If K < 1386 then there will be no sign change in the first column, so system is stable. 
+ - If K > 1386 the first element of the third row becomes negative so that there will be two sign changes and the system has two RHP poles. So, in this case it is not stable.
 
 # Conceptual Info
 ---

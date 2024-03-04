@@ -15,7 +15,9 @@ Relevant Links:
 
 ## Catagorization
 
-A system is **stable** 
+A system is **stable** if the natural response approaches zero as time approaches infinity
+
+A system is **unstable** if the natural response approaches infinity as time approache
 
 
 # Conceptual Info

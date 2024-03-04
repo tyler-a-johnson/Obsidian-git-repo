@@ -43,7 +43,12 @@ Any row of the Routh table can be multiled by a positive constant without changi
 
 ```
 
-The number of roots of the polynomial that are in the right half plane is equal to the number of sig
+The number of roots of the polynomial that are in the right half plane is equal to the number of sign changes in the first column
+![](Attachments/Pasted%20image%2020240304225034.png)
+Two sign changes, hence two poles in the right half-plane. System unstable
+
+#### Special Cases
+Two special but important 
 
 # Conceptual Info
 ---

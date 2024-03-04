@@ -99,6 +99,7 @@ $Re[Ae^{i(\omega t + \phi)}] = A \cos (\omega t+\phi)$
 $Re[Ae^{i \phi}e^{i \omega t}] = A \cos (\omega t + \phi)$
 $Re [Ze^{i \omega t}]= A \cos (\omega t + \phi)$
 
+
 $Ze^{i \omega t}$ is a solution to:
 $\ddot{x} + \omega^{2}x=0$
 

@@ -68,6 +68,14 @@ Find the range of gain K > 0 for the system below that will cause the system to 
 Test waveforms for evaluating steady-state errors of control systems
 ![](Attachments/Pasted%20image%2020240305204441.png)
 
+### Evaluating Steady State Errors
+![](Attachments/Pasted%20image%2020240305211408.png)
+#todo 
+
+## Steady-State Error for Unity Feedback Systems
+
+
+
 
 
 # Conceptual Info

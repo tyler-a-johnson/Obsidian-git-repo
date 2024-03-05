@@ -138,12 +138,3 @@ Find the steady-state error component due to a step disturbance for the system b
 - Control systems often **do not have unity feedback** because of the compensation used to improve performance or because of the physical model for the system. 
 - When **nonunity feedback** is present, the plant's **actuating signal is not the actual error** or difference between the input and the output
 ![](Attachments/Pasted%20image%2020240305214231.png)
-
-
-# Conceptual Info
----
-
-
-
-# Additional Content
----

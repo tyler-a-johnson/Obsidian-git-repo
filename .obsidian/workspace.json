@@ -21,22 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "51b20e3e951cf958",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bf6eb656660569f5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

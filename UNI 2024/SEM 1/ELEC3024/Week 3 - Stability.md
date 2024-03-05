@@ -94,8 +94,9 @@ $$E(s) = \frac{R(s)}{1+G(s)}$$
 $$e(\infty) = \lim_{ s \to 0 }  \frac{sR(s)}{1+G(s)}$$
 
 
-### Static Error Consants and System Type
+### Static Error Constants and System Type
 
+Position constant $K_{p}$ where $K_{p} = $
 
 # Conceptual Info
 ---

@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md"
               }
             }
           },
@@ -225,10 +225,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "bf6eb656660569f5",
+  "active": "913cb04b7eea35e7",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305204250.png",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/SEM 1.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
@@ -257,7 +258,6 @@
     "UNI 2024/SEM 1/ENGG4001",
     "UNI 2024/SEM 1/FOSE3000/Attachments/image.webp",
     "UNI 2024/SEM 1/FOSE3000/Attachments/Pavegen_V3_step_ 1.jpg",
-    "UNI 2024/SEM 1/FOSE3000/Attachments/Pavegen_V3_step_.jpg",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
     "Resources/Markdown Latex Reference Sheet.md",

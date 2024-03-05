@@ -96,7 +96,11 @@ $$e(\infty) = \lim_{ s \to 0 }  \frac{sR(s)}{1+G(s)}$$
 
 ### Static Error Constants and System Type
 
-Position constant $K_{p}$ where $K_{p} = \lim_{ s \to 0 }$
+Position Constant $K_{p}$ where $K_{p} = \lim_{ s \to 0 } G(s)$
+
+Velocity Constant, $K_{v} = \lim_{ s \to 0 } sG(s)$
+
+Acceleration Constant, 
 
 # Conceptual Info
 ---

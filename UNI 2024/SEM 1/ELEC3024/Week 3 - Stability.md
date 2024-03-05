@@ -106,7 +106,12 @@ For a step input:
 $$e_{step} (\infty) = \frac{1}{1+ \lim_{ s \to 0 } G(s)}$$
 $$e(\infty) = \frac{1}{1+K_{p}}$$
 
-For a ram 
+For a ramp joint:
+$$e_{ramp}(\infty)=\frac{1}{\lim_{ s \to 0 } sG(s)}$$
+$$e(\infty) = \frac{1}{K_{v}}$$
+
+For a parabolic input:
+$$e_{\text{parabolic}}$$
 
 # Conceptual Info
 ---

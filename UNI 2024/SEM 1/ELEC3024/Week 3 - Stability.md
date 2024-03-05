@@ -111,7 +111,14 @@ $$e_{ramp}(\infty)=\frac{1}{\lim_{ s \to 0 } sG(s)}$$
 $$e(\infty) = \frac{1}{K_{v}}$$
 
 For a parabolic input:
-$$e_{\text{parabolic}}$$
+$$e_{\text{parabolic}} (\infty) = \frac{1}{\lim_{ s \to 0 } s^{2}G(s)}$$
+$$e(\infty) = \frac{1}{K_{a}}$$
+
+
+## System Type
+![](Attachments/Pasted%20image%2020240305213859.png)
+$$n = 0\dots \text{Ty}$$
+
 
 # Conceptual Info
 ---

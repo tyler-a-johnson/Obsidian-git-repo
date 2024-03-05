@@ -100,7 +100,9 @@ Position Constant $K_{p}$ where $K_{p} = \lim_{ s \to 0 } G(s)$
 
 Velocity Constant, $K_{v} = \lim_{ s \to 0 } sG(s)$
 
-Acceleration Constant, 
+Acceleration Constant, $K_{a}$, where $K_{a} = \lim_{ s \to 0 }s^{2}G(s)$
+
+
 
 # Conceptual Info
 ---

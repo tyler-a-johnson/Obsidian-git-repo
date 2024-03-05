@@ -63,7 +63,12 @@ Find the range of gain K > 0 for the system below that will cause the system to 
 
 ## Steady-State Errors
 ![](Attachments/Pasted%20image%2020240305204250.png)
-**Steady state error** is the difference betwe
+**Steady state error** is the difference between the input and the output for the prescribed test input as $t \rightarrow \infty$
+
+Test waveforms for evaluating steady-state errors of control systems
+![](Attachments/Pasted%20image%2020240305204441.png)
+
+
 
 # Conceptual Info
 ---

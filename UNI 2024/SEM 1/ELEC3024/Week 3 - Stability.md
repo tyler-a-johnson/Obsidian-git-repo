@@ -102,7 +102,11 @@ Velocity Constant, $K_{v} = \lim_{ s \to 0 } sG(s)$
 
 Acceleration Constant, $K_{a}$, where $K_{a} = \lim_{ s \to 0 }s^{2}G(s)$
 
+For a step input: 
+$$e_{step} (\infty) = \frac{1}{1+ \lim_{ s \to 0 } G(s)}$$
+$$e(\infty) = \frac{1}{1+K_{p}}$$
 
+For a ram 
 
 # Conceptual Info
 ---

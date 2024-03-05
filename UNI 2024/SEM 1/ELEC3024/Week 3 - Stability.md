@@ -128,6 +128,17 @@ $$n = 2\dots \text{Type 2 system}$$
 
 ### Example 2
 Given the control system, find the value of K so that there is 10% error in the steady state.
+![](Attachments/Pasted%20image%2020240305214126.png)
+
+### Example 3
+Find the steady-state error component due to a step disturbance for the system below
+![](Attachments/Pasted%20image%2020240305214152.png)
+
+### Steady-State Error for Non-unity Feedback Systems
+- Control systems often **do not have unity feedback** because of the compensation used to improve performance or because of the physical model for the system. 
+- When **nonunity feedback** is present, the plant's **actuating signal is not the actual error** or difference between the input and the output
+![](Attachments/Pasted%20image%2020240305214231.png)
+
 
 # Conceptual Info
 ---

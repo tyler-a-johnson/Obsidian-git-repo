@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md"
               }
             }
           },
@@ -225,10 +225,11 @@
   },
   "active": "913cb04b7eea35e7",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+    "UNI 2024/SEM 1/SEM 1.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/TImetable.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
@@ -242,7 +243,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments",
     "Kanban Schedule.md",
-    "UNI 2024/SEM 1/SEM 1.md",
     "Study Plan (Macquarie University).canvas",
     "README.md",
     "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
@@ -258,7 +258,6 @@
     "UNI 2024/SEM 1/FOSE3000/Attachments/Pavegen_V3_step_.jpg",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240227095817.png",
     "Resources/Markdown Latex Reference Sheet.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Resources/Templates/File Properties - Lecture Notes.md",

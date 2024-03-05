@@ -90,7 +90,12 @@ $$e(\infty) = \lim_{ s \to \infty } s R(s)[1-T(s)]$$
 $$E(s) = R(s) - C(s)$$
 $$C(s) = E(s)G(s)$$
 
-$E(s) - R()\$$$
+$$E(s) = \frac{R(s)}{1+G(s)}$$
+$$e(\infty) = \lim_{ s \to 0 }  \frac{sR(s)}{1+G(s)}$$
+
+
+### Static Error Consants and System Type
+
 
 # Conceptual Info
 ---

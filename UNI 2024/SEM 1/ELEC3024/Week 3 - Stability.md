@@ -8,7 +8,7 @@ Relevant Links:
 ---
 **Lecture Slides:**
 [Stability](Attachments/Nise%20-%20Ch06%20Highlights.pdf)
-
+[Steady-State Errors](Attachments/Nise%20-%20Ch07%20Highlights.pdf)
 # Maths Content
 ---
 

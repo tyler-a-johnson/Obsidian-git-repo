@@ -96,7 +96,7 @@ $$e(\infty) = \lim_{ s \to 0 }  \frac{sR(s)}{1+G(s)}$$
 
 ### Static Error Constants and System Type
 
-Position constant $K_{p}$ where $K_{p} = $
+Position constant $K_{p}$ where $K_{p} = \lim_{ s \to 0 }$
 
 # Conceptual Info
 ---

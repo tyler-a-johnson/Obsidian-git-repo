@@ -84,7 +84,13 @@ $$e(\infty)  \lim_{ t \to \infty } e(t) = \lim_{ s \to 0 } s E(s) $$
 $$e(\infty) = \lim_{ s \to \infty } s R(s)[1-T(s)]$$
 
 
+### Steady-State Error in Terms of G(s) - open loop transfer function
 
+![](Attachments/Pasted%20image%2020240305212227.png)
+$$E(s) = R(s) - C(s)$$
+$$C(s) = E(s)G(s)$$
+
+$E(s) - R()\$$$
 
 # Conceptual Info
 ---

@@ -935,6 +935,26 @@ if (PWM_counter >= MAX_count){{
 ```
 # Python
 
+## Physics
+
+### Dot Product
+
+```py
+def dot_product(xlist,ylist):
+    
+    if len(xlist) != len(ylist):
+        return None
+    
+    dotP = 0
+    for i in range(len(xlist)):
+         dotP = dotP + ( xlist[i] * ylist[i] )
+    return dotP
+
+```
+
+### Rangef - Range with step
+
+
 # Arduino (C mixed with C++ sprinkled with libraries)
 
 # C Sharp

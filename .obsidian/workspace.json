@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/SEM 1.md",
+                "file": "Resources/Code Repository.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/SEM 1.md",
+                "file": "Resources/Code Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/SEM 1.md",
+                "file": "Resources/Code Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/SEM 1.md"
+                "file": "Resources/Code Repository.md"
               }
             }
           },
@@ -210,6 +210,8 @@
   },
   "active": "2286d0a8ef8961dc",
   "lastOpenFiles": [
+    "Resources/Ender 3 V2 G-Code.md",
+    "UNI 2024/SEM 1/SEM 1.md",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "Daily Notes/05-03-2024.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
@@ -232,7 +234,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305212227.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305211545.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305211408.png",
-    "UNI 2024/SEM 1/SEM 1.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
@@ -250,7 +251,6 @@
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
     "Resources/Markdown Latex Reference Sheet.md",
-    "Resources/Ender 3 V2 G-Code.md",
     "Resources/Templates/File Properties - Lecture Notes.md",
     "Resources/Resources and Links.md",
     "Distilled Notes/Greek Letters and Symbols.md",

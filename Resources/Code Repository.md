@@ -953,7 +953,16 @@ def dot_product(xlist,ylist):
 ```
 
 ### Rangef - Range with step
-
+```
+def rangef(xmin, xmax, dx):
+    out = []
+    steps = int(round((xmax-xmin)/float(dx)))
+    for step in range(steps):
+        x = step*dx+xmin
+        out.append(x)
+        
+    return out
+```
 
 # Arduino (C mixed with C++ sprinkled with libraries)
 

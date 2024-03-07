@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"6f39a7308e51f0d9","x":-680,"y":-400,"width":520,"height":620,"type":"text","text":"**How do blind people know it's there?**\n- Small speaker / Beep (Proximity sensor to save power?)\n- "}
+		{"id":"6f39a7308e51f0d9","type":"text","text":"**How do blind people know it's there?**\n- Small speaker / Beep (Proximity sensor to save power?)\n- Floor mat?\n- Research how blind people find normal signs.","x":-680,"y":-400,"width":500,"height":240}
 	],
 	"edges":[]
 }

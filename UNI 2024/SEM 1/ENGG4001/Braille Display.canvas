@@ -5,7 +5,7 @@
 		{"id":"cc77459ee383510b","x":-160,"y":-100,"width":434,"height":198,"type":"text","text":"dot base diameter = 1.5 mm – 1.6 mm\n\ndot height = 0.6 mm – 0.9 mm\n\nspherical radius = 0.76 mm – 0.81 mm"},
 		{"id":"fa223fc0e4fa3309","type":"text","text":"**Relevant Links**\n[MOLBED - Modular Low Cost Braille Electronic Display : 5 Steps (with Pictures) - Instructables](https://www.instructables.com/MOLBED-Modular-Low-Cost-Braille-Electronic-Display/)\n\n[Braille Australia](https://brailleaustralia.org/about-braille/physical-specifications-for-braille/)\n\n","x":-680,"y":-140,"width":420,"height":520},
 		{"id":"9b694c6986e65348","x":180,"y":-520,"width":400,"height":400,"type":"file","file":"UNI 2024/SEM 1/ENGG4001/Attachments/FD8SXS1K2R9Q5RU.webp"},
-		{"id":"a8f94d597cc20b57","x":916,"y":-466,"width":644,"height":546,"type":"text","text":"**Ideal solution can:**\n- Low cost (less than $1000?)\n- 3D printable prototype\n- Changes display in less than 5 seconds\n- No moving parts\n- Low power usage (not constantly on to retain text)\n- Matches Australian Braille standards\n- Durable, can withstand being fully depressed without being pushed back into\n"}
+		{"id":"a8f94d597cc20b57","x":916,"y":-466,"width":644,"height":546,"type":"text","text":"**Ideal solution can:**\n- Low cost (less than $1000?)\n- 3D printable prototype\n- Changes display in less than 5 seconds\n- No moving parts\n- Low power usage (not constantly on to retain text)\n- Matches Australian Braille standards\n- Durable, can withstand being fully depressed without being pushed back into depressed\n"}
 	],
 	"edges":[]
 }

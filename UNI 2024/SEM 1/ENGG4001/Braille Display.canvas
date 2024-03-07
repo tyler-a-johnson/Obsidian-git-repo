@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"6f39a7308e51f0d9","type":"text","text":"**How do blind people know it's there?**\n- Small speaker / Beep (Proximity sensor to save power?)\n- Floor mat?\n- Research how blind people find normal signs.","x":-680,"y":-400,"width":500,"height":240}
+		{"id":"6f39a7308e51f0d9","type":"text","text":"**How do blind people know it's there?**\n- Small speaker / Beep (Proximity sensor to save power?)\n- Floor mat?\n- Research how blind people find normal signs.","x":-680,"y":-400,"width":500,"height":240},
+		{"id":"fa223fc0e4fa3309","x":-700,"y":-120,"width":420,"height":520,"type":"text","text":"**Relevant Links**\n[Braille Australia](https://brailleaustralia.org/about-braille/physical-specifications-for-braille/)\n"}
 	],
 	"edges":[]
 }

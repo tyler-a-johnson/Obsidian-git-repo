@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"6f39a7308e51f0d9","type":"text","text":"**How do blind people know it's there?**\n- Small speaker / Beep (Proximity sensor to save power?)\n- Floor mat?\n- Research how blind people find normal signs.","x":-680,"y":-400,"width":500,"height":240},
-		{"id":"fa223fc0e4fa3309","type":"text","text":"**Relevant Links**\n\n[Braille Australia](https://brailleaustralia.org/about-braille/physical-specifications-for-braille/)\n","x":-700,"y":-120,"width":420,"height":520},
 		{"id":"5add390477e9939a","x":-160,"y":-520,"width":322,"height":400,"type":"file","file":"UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240307124410.png"},
-		{"id":"cc77459ee383510b","x":-160,"y":-100,"width":434,"height":198,"type":"text","text":"dot base diameter = 1.5 mm – 1.6 mm\n\ndot height = 0.6 mm – 0.9 mm\n\nspherical radius = 0.76 mm – 0.81 mm"}
+		{"id":"cc77459ee383510b","x":-160,"y":-100,"width":434,"height":198,"type":"text","text":"dot base diameter = 1.5 mm – 1.6 mm\n\ndot height = 0.6 mm – 0.9 mm\n\nspherical radius = 0.76 mm – 0.81 mm"},
+		{"id":"fa223fc0e4fa3309","type":"text","text":"**Relevant Links**\n[MOLBED - Modular Low Cost Braille Electronic Display : 5 Steps (with Pictures) - Instructables](https://www.instructables.com/MOLBED-Modular-Low-Cost-Braille-Electronic-Display/)\n\n[Braille Australia](https://brailleaustralia.org/about-braille/physical-specifications-for-braille/)\n\n","x":-680,"y":-140,"width":420,"height":520}
 	],
 	"edges":[]
 }

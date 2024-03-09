@@ -25,7 +25,7 @@ kanban-plugin: basic
 - [ ] Tender #ENGG/4001   @{29-05-2024}
 - [ ] Video Presentation #ENGG/4001  @{31-05-2024}
 - [ ] Portfolio #ENGG/4001  @{02-06-2024}
-- [ ] Progress Report #ENGG\4001 @{31-03-2024}
+- [ ] Progress Report #ENGG/4001  @{31-03-2024}
 
 
 ## IM WORKIN ON IT

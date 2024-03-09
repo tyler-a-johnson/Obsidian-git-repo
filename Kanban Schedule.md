@@ -19,6 +19,10 @@ kanban-plugin: basic
 
 ## TO DO
 
+- [ ] Quiz 2 #ENGG/4001
+- [ ] Quiz 3 #ENGG/4001
+- [ ] Quiz 4 #ENGG/4001
+- [ ] Tender #ENGG\4001
 
 
 ## IM WORKIN ON IT

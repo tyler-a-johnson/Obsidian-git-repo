@@ -19,10 +19,13 @@ kanban-plugin: basic
 
 ## TO DO
 
-- [ ] Quiz 2 #ENGG/4001
-- [ ] Quiz 3 #ENGG/4001
-- [ ] Quiz 4 #ENGG/4001
+- [ ] Quiz 2 #ENGG/4001 @{01-05-2024}
+- [ ] Quiz 3 #ENGG/4001 @{08-05-2024}
+- [ ] Quiz 4 #ENGG/4001 @{15-05-2024}
 - [ ] Tender #ENGG\4001
+- [ ] Video Presentation #ENGG\4001
+- [ ] Portfolio #ENGG\4001
+- [ ] Progress Report #ENGG\4001
 
 
 ## IM WORKIN ON IT

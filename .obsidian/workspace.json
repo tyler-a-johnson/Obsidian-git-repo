@@ -6,6 +6,7 @@
       {
         "id": "080ca25c4d5f5506",
         "type": "tabs",
+        "dimension": 46.96048632218845,
         "children": [
           {
             "id": "2286d0a8ef8961dc",
@@ -25,6 +26,7 @@
       {
         "id": "4d00ad82859bbc20",
         "type": "tabs",
+        "dimension": 53.03951367781154,
         "children": [
           {
             "id": "6ff23df544203853",
@@ -226,9 +228,9 @@
   },
   "active": "2286d0a8ef8961dc",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311203246.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311203246.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311202858.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311202714.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311202555.png",
@@ -246,7 +248,6 @@
     "UNI 2024/SEM 1/ENGG4001/Attachments/simbraille-cell 1.jpg",
     "UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240307124410.png",
     "UNI 2024/SEM 1/ENGG4001/Attachments/FD8SXS1K2R9Q5RU.webp",
-    "UNI 2024/SEM 1/ENGG4001/Attachments/ABA-braille-dot-layout-1024x864.jpg",
     "Resources/Ender 3 V2 G-Code.md",
     "Daily Notes/05-03-2024.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",

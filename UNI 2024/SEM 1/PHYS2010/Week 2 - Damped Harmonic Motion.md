@@ -58,7 +58,9 @@ We find static figures when the ratio of frequencies is a rational number
 m is y, n is x
 
 ### Beating
-T
+Two simultaneous oscillations along the same axis create beating at the **difference** frequency
+$\omega_{2}-\omega_{1}$
+$$x = a \sin(\omega_{1})$$
 
 
 # Conceptual Info

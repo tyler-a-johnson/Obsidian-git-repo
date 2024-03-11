@@ -197,8 +197,8 @@ $$ Q = \omega_{d}/\gamma$$
 
 
 ## Damped SHM Summary
+![](Attachments/Pasted%20image%2020240311234501.png)
 
-$$\ddot{x} + y \dot{x} + \omega_{0}^{2}$$
 
 
 # Conceptual Info

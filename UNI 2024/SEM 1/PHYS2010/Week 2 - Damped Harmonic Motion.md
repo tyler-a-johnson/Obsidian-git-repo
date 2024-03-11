@@ -185,7 +185,11 @@ Q = Number of radians for energy to decay to $E_{0}e^{-1}$
 
 ```
 ```ad-info
-Alternatively $Q = 2 \pi \frac{\text{Energy stored in system}}{\text{Energy lost per cycle}$
+Alternatively $Q = 2 \pi \frac{\text{Energy stored in system}}{\text{Energy lost per cycle}}$
+
+After one cycle $t = 2 \pi/ \omega_{d}$ and $E = E_{0}e^{-2 \pi \gamma/\omega_{d}}$
+
+Energy lost per cycle $d$
 
 ```
 

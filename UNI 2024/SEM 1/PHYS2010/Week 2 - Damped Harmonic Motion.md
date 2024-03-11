@@ -101,7 +101,11 @@ $$x = Ce^{-\gamma t/2}e^{t (\gamma^{2} / 4-\omega_{0}^{2})^{1/2}}$$
 $$\text{or } Ce^{-\gamma t/2}e^{-t(\gamma^2/4-\omega_{0}^2)^{1/2}}$$
 
 **General Solution**
-$$x = e^{- \frac{\gamma}{2}t}$$
+$$x = e^{- \frac{\gamma}{2}t} (Ae^{\Omega t}+Be^{-\Omega t})$$
+With A and B determined by initial conditions
+
+***Behaviour depends on:***
+$$\Omega= \left( \frac{\gamma^{2}}{4} - \omega_{0 }^{2} \right)^{1/2}$$
 
 
 # Conceptual Info

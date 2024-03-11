@@ -13,10 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4d00ad82859bbc20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ff23df544203853",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf"
               }
             }
           }
@@ -114,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md"
               }
             }
           },
@@ -210,6 +226,7 @@
   },
   "active": "2286d0a8ef8961dc",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/ENGG4001/Untitled.md",
@@ -240,7 +257,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305214231.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305214152.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305214126.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
@@ -257,7 +273,6 @@
     "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
     "Resources/Templates/File Properties - Lecture Notes.md",
     "Distilled Notes/Greek Letters and Symbols.md",
-    "Resources/File Repositories and Archives.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

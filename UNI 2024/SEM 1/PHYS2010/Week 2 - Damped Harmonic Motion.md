@@ -8,10 +8,11 @@ Relevant Notes:
 Relevant Links:
 ---
 **Lecture Slides:**
-![Damped Harmonic Motion](Attachments/PHYS2010%20Week%202.pdf)
+[Damped Harmonic Motion](Attachments/PHYS2010%20Week%202.pdf)
 # Maths Content
 ---
-
+Using $\tau = I \ddot{\theta}$ for a point mass
+- $-mgl \sin \theta = ml^{2}$
 
 
 # Conceptual Info

@@ -117,7 +117,8 @@ $$x = (A+Bt)e^{\frac{-\gamma}{2}t}$$
 Imaginary: $\gamma < 2 \omega_{0}$ Underdamped
 Solution becomes
 $$x = e^{\frac{-\gamma}{2}t}(Ae^{i \omega_{d} t}+Be^{-i \omega_{d}t})$$
-Where $\omega_{d} = (\omega^{2}_{0})$
+Where $\omega_{d} = \left( \omega^{2}_{0} - \frac{\gamma^{2}}{4} \right)^{1/2}$
+
 
 
 # Conceptual Info

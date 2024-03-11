@@ -200,7 +200,10 @@ $$ Q = \omega_{d}/\gamma$$
 ## Damped SHM Summary
 ![](Attachments/Pasted%20image%2020240311234501.png)
 
-# LCR Circuits and SHM
+# RLC Circuits and SHM
+![](Attachments/Pasted%20image%2020240311235259.png)
+
+[[RLC
 
 
 ---

@@ -151,7 +151,7 @@ $\delta$ is the logarithmic decrement
 ## Relaxation Time
 Another way to characterise is the time taken $\tau$ for the amplitude to decay by a factor $e^{-1} \approx 0.37$
 ![](Attachments/Pasted%20image%2020240311225953.png)
-
+From $x(t) = x_{0}e^{- \frac{\gamma}{2}t}\cos(\omega_{d}t)$ 
 
 # Conceptual Info
 ---

@@ -67,8 +67,10 @@ $$= 2a \sin \left[ \left( \frac{\omega_{1}+\omega_{2}}{2} \right)t \right]\cos \
 ## Damped SHM
 Damped by moving through liquid (air included), has a **viscous term** and **pressure term**
 - Drag force $\vec{F}_{drag} = -k_{1}\vec{v} - k_{2}v^{2}\hat{v}$
-- Dissipated power $\frac{d}{dt}(-\vec{F}_{drag})$
+- Dissipated power $\frac{d}{dt}(-\vec{F}_{drag}*\vec{v}) = P_{drag} = k_{1}v^{2}k_{2}v^{3}$
 
+Pressure term dominates at high speed (Skydiver)
+Viscous term dominates at low speed (Sinking in oil)
 # Conceptual Info
 ---
 

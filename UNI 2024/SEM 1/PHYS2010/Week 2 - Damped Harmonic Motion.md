@@ -196,6 +196,10 @@ $$ Q = \omega_{d}/\gamma$$
 ```
 
 
+## Damped SHM Summary
+
+$$\ddot{x} + y \dot{x} + \omega_{0}^{2}$$
+
 
 # Conceptual Info
 ---

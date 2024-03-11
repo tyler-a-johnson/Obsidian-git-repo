@@ -11,6 +11,8 @@ Relevant Links:
 [Damped Harmonic Motion](Attachments/PHYS2010%20Week%202.pdf)
 # Maths Content
 ---
+
+## Pendulum
 Using $\tau = I \ddot{\theta}$ for a point mass
 - $-mgl \sin \theta = ml^{2} \ddot{\theta}$
 - $\ddot{\theta} = -\left( \frac{g}{l} \right) \theta$ for small angles
@@ -21,6 +23,8 @@ For arbitrary shapes, we need:
 - distance from pivot to centre of mass $l_{CM}$
 - moment of inertia about the pivot $I$
 - $\omega = \sqrt{ \frac{mgl_{CM}}{I} }$
+
+- $KE + PE = \frac{1}{2} mx^{2}+ \frac{1}{2}kx^2$
 - 
 
 # Conceptual Info

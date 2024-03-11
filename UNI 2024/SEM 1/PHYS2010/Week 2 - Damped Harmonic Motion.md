@@ -149,7 +149,9 @@ Ratio between peaks $n$ and $n+1 = e^{\delta} = e^{(\gamma T_{d}/2)}$
 $\delta$ is the logarithmic decrement
 
 ## Relaxation Time
-Another way to characterise is the time taken $\tau$  
+Another way to characterise is the time taken $\tau$ for the amplitude to decay by a factor $e^{-1} \approx 0.37$
+![](Attachments/Pasted%20image%2020240311225953.png)
+
 
 # Conceptual Info
 ---

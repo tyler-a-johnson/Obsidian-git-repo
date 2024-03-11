@@ -71,6 +71,13 @@ Damped by moving through liquid (air included), has a **viscous term** and **pre
 
 Pressure term dominates at high speed (Skydiver)
 Viscous term dominates at low speed (Sinking in oil)
+
+
+### Vis
+
+![](Attachments/Pasted%20image%2020240311204956.png)
+
+
 # Conceptual Info
 ---
 

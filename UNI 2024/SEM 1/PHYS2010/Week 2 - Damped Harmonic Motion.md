@@ -87,7 +87,10 @@ Where $\omega_{0}$ is the SHM frequency the system would have if damping were ab
 ![400](Attachments/Pasted%20image%2020240311204956.png)
 Try a trial solution
 $$x  = Ce^{\alpha t}$$
+$$\dot{x} = C \alpha e^{\alpha t} \text{ and }\ddot{x}=C \alpha^{2}e^{\alpha t}$$
 
+**Sub in to get:**
+$$Ce^{\alpha t}$$
 
 
 # Conceptual Info

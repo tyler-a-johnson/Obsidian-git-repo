@@ -64,7 +64,7 @@ $$x = a \sin(\omega_{1}t) + a \sin (\omega_{2}t)$$
 $$= 2a \sin \left[ \left( \frac{\omega_{1}+\omega_{2}}{2} \right)t \right]\cos \left[ \left( \frac{\omega_{2}-\omega_{1}}{2} \right) \right]$$
 ![](Attachments/Pasted%20image%2020240311203912.png)
 
-## Damped SHM (Drag)
+# Damped SHM (Drag)
 Damped by moving through liquid (air included), has a **viscous term** and **pressure term**
 - Drag force $\vec{F}_{drag} = -k_{1}\vec{v} - k_{2}v^{2}\hat{v}$
 - Dissipated power $\frac{d}{dt}(-\vec{F}_{drag}*\vec{v}) = P_{drag} = k_{1}v^{2}k_{2}v^{3}$
@@ -72,8 +72,9 @@ Damped by moving through liquid (air included), has a **viscous term** and **pre
 Pressure term dominates at high speed (Skydiver)
 Viscous term dominates at low speed (Sinking in oil)
 
+Dependent on [[Reynold's Number]]
 
-### Drag with mass on a spring
+## Drag with mass on a spring
 
 - Restoring force $-kx$ resists displacement
 - Drag force $-b \dot{x}$ resists velocity ($\dot{x}$ is dx/dt)

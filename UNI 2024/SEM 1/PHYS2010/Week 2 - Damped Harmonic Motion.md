@@ -139,8 +139,11 @@ C and $\phi$ determined by initial conditions
 ## Logarithmic Decrement
 Consider motion
 $x(t) = x_{0}e^{- \frac{\gamma}{2}t}\cos(\omega_{d}t)$
+
 Look at successive values where cosine is max
-$t_{n} = n 2 \pi /\omega_{a}$
+$t_{n} = n 2 \pi /\omega_{a}=nT_{d}$
+$x(t_{n}) = x_{0} e ^{-(\gamma t_{n}/2)}=x_{0}e^{-(\gamma  T_{d}/2)}$
+
 
 # Conceptual Info
 ---

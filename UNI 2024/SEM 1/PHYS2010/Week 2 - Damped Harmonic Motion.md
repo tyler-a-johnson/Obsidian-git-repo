@@ -48,8 +48,10 @@ $$y = b \sin (\omega_{y}t + \delta)$$
 A physical model of a lissajous figure, x and y have respective k values.
 
 ### 2D SHM with the same frequency
-$$x = a \sin(\omega t_{})$$
+$$x = a \sin(\omega t+\phi_{1})\text{, } y=a \sin (\omega t + \phi_{2})\text{, }  \delta = \phi_{2}-\phi_{1}$$
 ![](Attachments/Pasted%20image%2020240311202858.png)
+
+We df
 
 # Conceptual Info
 ---

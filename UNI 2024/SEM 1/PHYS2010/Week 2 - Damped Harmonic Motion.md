@@ -110,10 +110,9 @@ Real: $\gamma > 2 \omega_{0}$ Overdamped
 General solution simplifies
 $$x(t) = \frac{v_{0 }}{2 \Omega} (e^{- \frac{\gamma}{2}t}e^{\Omega t} - e^{- \frac{\gamma}{2}t}e^{-\Omega t})$$
 
-
 Zero: $\gamma = 2 \omega_{0}$ Critically Damped
-$$x = Ae^{\frac{-\gamma}{2}t}+Be^{\frac{-\gamma}{2}t}$$
-
+General solution simplifies
+$$x = (A+Bt)e^{\frac{-\gamma}{2}t}$$
 
 Imaginary: $\gamma < 2 \omega_{0}$ Underdamped
 

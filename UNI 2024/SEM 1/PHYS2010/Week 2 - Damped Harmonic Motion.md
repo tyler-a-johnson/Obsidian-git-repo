@@ -112,12 +112,13 @@ $$\Omega= \left( \frac{\gamma^{2}}{4} - \omega_{0 }^{2} \right)^{1/2}$$
 **Real: $\gamma > 2 \omega_{0}$ Overdamped**
 General solution simplifies
 $$x(t) = \frac{v_{0 }}{2 \Omega} (e^{- \frac{\gamma}{2}t}e^{\Omega t} - e^{- \frac{\gamma}{2}t}e^{-\Omega t})$$
+![](Attachments/Pasted%20image%2020240311224814.png)
 
 
 **Zero: $\gamma = 2 \omega_{0}$ Critically Damped**
 General solution simplifies
 $$x = (A+Bt)e^{\frac{-\gamma}{2}t}$$
-
+![](Attachments/Pasted%20image%2020240311224721.png)
 
 
 **Imaginary: $\gamma < 2 \omega_{0}$ Underdamped**
@@ -132,6 +133,7 @@ Write $2A = Ce^{i \phi}$
 $$x = e^{- \frac{\gamma}{2}t}Re[Ce^{i(w_{d}t + \phi)}]$$
 $$x = Ce^{\frac{-\gamma}{2}t} \cos(\omega_{d}t + \phi)$$
 C and $\phi$ determined by initial conditions
+![](Attachments/Pasted%20image%2020240311224830.png)
 
 
 # Conceptual Info

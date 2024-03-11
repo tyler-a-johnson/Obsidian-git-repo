@@ -25,7 +25,10 @@ For arbitrary shapes, we need:
 - $\omega = \sqrt{ \frac{mgl_{CM}}{I} }$
 
 - $KE + PE = \frac{1}{2} mx^{2}+ \frac{1}{2}kx^2$
-- 
+- differentiate wrt time
+- $\frac{1}{2}m 2 \dot{x} \ddot{x} + \frac{1}{2}k 2 x \dot{x} = 0$
+- $m\dot{x}\ddot{x} ++ k x \dot{x} = 00
+- $
 
 # Conceptual Info
 ---

@@ -148,6 +148,9 @@ Ratio between peaks $n$ and $n+1 = e^{\delta} = e^{(\gamma T_{d}/2)}$
 ![](Attachments/Pasted%20image%2020240311225614.png)
 $\delta$ is the logarithmic decrement
 
+## Relaxation Time
+Another way to characterise is the time taken $\tau$  
+
 # Conceptual Info
 ---
 

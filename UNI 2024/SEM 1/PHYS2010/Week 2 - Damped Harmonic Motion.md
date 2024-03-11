@@ -29,6 +29,13 @@ For arbitrary shapes, we need:
 - $\frac{1}{2}m 2 \dot{x} \ddot{x} + \frac{1}{2}k 2 x \dot{x} = 0$
 - $m\dot{x}\ddot{x} ++ k x \dot{x} = 0$
 - $\ddot{x} = -\left( \frac{k}{m} \right)x$, so $\omega =\sqrt{ \frac{k}{m} }$
+
+
+## Superposition
+- Sometimes a system vibrates in more than one frequency, and/or in more than one dimension
+	- Oscillations at the same frequency in the same dimension
+	- Oscillations at different frequency in the same dimension (BEATING)
+	- Oscillations in different dimensions (LISSAJOUS FIGURES)
 - 
 
 # Conceptual Info

@@ -142,8 +142,11 @@ $x(t) = x_{0}e^{- \frac{\gamma}{2}t}\cos(\omega_{d}t)$
 
 Look at successive values where cosine is max
 $t_{n} = n 2 \pi /\omega_{a}=nT_{d}$
-$x(t_{n}) = x_{0} e ^{-(\gamma t_{n}/2)}=x_{0}e^{-(\gamma  T_{d}/2)}$
+$x(t_{n}) = x_{0} e ^{-(\gamma t_{n}/2)}=x_{0}e^{-(\gamma  n T_{d}/2)}$
 
+Ratio between peaks $n$ and $n+1 = e^{\delta} = e^{(\gamma T_{d}/2)}$ 
+![](Attachments/Pasted%20image%2020240311225614.png)
+$\delta$ is the logarithmic decrement
 
 # Conceptual Info
 ---

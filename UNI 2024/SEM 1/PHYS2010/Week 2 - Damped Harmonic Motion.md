@@ -51,7 +51,15 @@ A physical model of a lissajous figure, x and y have respective k values.
 $$x = a \sin(\omega t+\phi_{1})\text{, } y=a \sin (\omega t + \phi_{2})\text{, }  \delta = \phi_{2}-\phi_{1}$$
 ![](Attachments/Pasted%20image%2020240311202858.png)
 
-We df
+We find static figures when the ratio of frequencies is a rational number
+- Rotation depends on phase
+- Ratio can be read by counting peaks in each dimension
+![](Attachments/Pasted%20image%2020240311203246.png)
+m is y, n is x
+
+### Beating
+T
+
 
 # Conceptual Info
 ---

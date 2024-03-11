@@ -83,6 +83,7 @@ $m \ddot{x} = -kx -b\dot{x}$
 $\ddot{x} + \frac{b}{m}\dot{x} + \frac{k}{m}x =0$
 
 $$\ddot{x}+ \gamma \dot{x} + \omega_{0}^{2}x = 0$$
+Where $\omega_{0}$ is the SHM frequency the system would have if damping were absent
 
 
 ![](Attachments/Pasted%20image%2020240311204956.png)

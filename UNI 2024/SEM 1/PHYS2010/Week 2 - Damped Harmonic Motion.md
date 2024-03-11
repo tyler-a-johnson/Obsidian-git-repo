@@ -189,7 +189,9 @@ Alternatively $Q = 2 \pi \frac{\text{Energy stored in system}}{\text{Energy lost
 
 After one cycle $t = 2 \pi/ \omega_{d}$ and $E = E_{0}e^{-2 \pi \gamma/\omega_{d}}$
 
-Energy lost per cycle $d$
+Energy lost per cycle $dE \approx E_{0} 2 \pi \gamma / \omega_{d}$ for small damping
+
+$$ Q = \omega_{d}/\gamma$$
 
 ```
 

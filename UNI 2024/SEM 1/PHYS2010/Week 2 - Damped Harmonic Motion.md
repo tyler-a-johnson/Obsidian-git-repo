@@ -165,8 +165,16 @@ $$KE = \frac{1}{2}m \dot{x}^{2} = \frac{1}{2}m x_{0}^{2}e^{-\gamma t}\left( \ome
 $$\approx \frac{1}{2} m \omega^{2}_{d}x^{2}_{0}e^{-\gamma t} \cos^{2} \omega_{d} t \text{ for weak damping}$$
 $$\approx kx_{0}^{2}e ^{-\gamma t} \cos^{2}\omega_{d} t$$
 
-Total mechanical energy
-$KE + PE = \frac{1}{2} k x_{0}^{2}$
+**Total mechanical energy:**
+$KE + PE = \frac{1}{2} k x_{0}^{2}e^{- \gamma t}$
+```ad-note
+Decay constant is $\gamma$ not $\frac{\gamma}{2}$
+
+```
+
+**Rate of energy loss is $\frac{dE(t)}{dt}=- \gamma E(t)$**
+Normalised loss rate $d$
+
 
 
 # Conceptual Info

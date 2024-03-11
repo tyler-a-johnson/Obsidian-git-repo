@@ -79,8 +79,10 @@ Viscous term dominates at low speed (Sinking in oil)
 - Drag force $-b \dot{x}$ resists velocity ($\dot{x}$ is dx/dt)
 
 $m \ddot{x} = -kx -b\dot{x}$
-$\ddot{x} + \frac{b}{m}x$
 
+$\ddot{x} + \frac{b}{m}\dot{x} + \frac{k}{m}x =0$
+
+$$\ddot{x}+ \gamma \dot{x} + \omega_{0}^{2}x = 0$$
 
 
 ![](Attachments/Pasted%20image%2020240311204956.png)

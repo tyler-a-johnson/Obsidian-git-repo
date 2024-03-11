@@ -16,6 +16,12 @@ Using $\tau = I \ddot{\theta}$ for a point mass
 - $\ddot{\theta} = -\left( \frac{g}{l} \right) \theta$ for small angles
 - Simple harmonic motion with $\omega = \sqrt{ \frac{g}{l} }$
 ![](Attachments/Pasted%20image%2020240311201316.png)
+For arbitrary shapes, we need:
+- mass $m$
+- distance from pivot to centre of mass $l_{CM}$
+- moment of inertia about the pivot $I$
+- $\omega = \sqrt{ \frac{mgl_{CM}}{I} }$
+- 
 
 # Conceptual Info
 ---

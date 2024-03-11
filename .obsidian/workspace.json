@@ -11,9 +11,12 @@
             "id": "2286d0a8ef8961dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 1/ENGG4001/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -111,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 1/ENGG4001/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 1/ENGG4001/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 1/ENGG4001/Untitled.md"
               }
             }
           },
@@ -207,6 +210,10 @@
   },
   "active": "2286d0a8ef8961dc",
   "lastOpenFiles": [
+    "Resources/Resources and Links.md",
+    "UNI 2024/SEM 1/ENGG4001/Untitled.md",
+    "Resources/Markdown Latex Reference Sheet.md",
+    "Kanban Schedule.md",
     "UNI 2024/SEM 1/SEM 1.md",
     "UNI 2024/SEM 1/TImetable.png",
     "Resources/Code Repository.md",
@@ -239,7 +246,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments",
-    "Kanban Schedule.md",
     "Study Plan (Macquarie University).canvas",
     "README.md",
     "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
@@ -249,9 +255,7 @@
     "UNI 2024/SEM 1/ENGG4001",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
-    "Resources/Markdown Latex Reference Sheet.md",
     "Resources/Templates/File Properties - Lecture Notes.md",
-    "Resources/Resources and Links.md",
     "Distilled Notes/Greek Letters and Symbols.md",
     "Resources/File Repositories and Archives.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

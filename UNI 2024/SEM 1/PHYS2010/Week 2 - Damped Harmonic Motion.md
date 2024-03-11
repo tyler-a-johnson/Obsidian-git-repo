@@ -92,6 +92,10 @@ $$\dot{x} = C \alpha e^{\alpha t} \text{ and }\ddot{x}=C \alpha^{2}e^{\alpha t}$
 **Sub in to get:**
 $$C e^{\alpha t}(\alpha^{2}+\gamma \alpha + \omega_{0}^{2})=0$$
 
+Trivial solution C = 0, or...
+
+$$\alpha^{2}+\gamma \alpha  + \omega_{0}^{2} = 0 \text{ with C an unknown constant}$$
+
 
 # Conceptual Info
 ---

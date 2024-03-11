@@ -122,7 +122,8 @@ The general solution needs to be real everywhere, constraining B = A*
 $$x = e ^{- \frac{\gamma}{2}t} Re[2A e ^{i \omega_{d}t}]$$
 
 Can be complex, representing amplitude and phase
-Write $2A = Ce $
+Write $2A = Ce^{}$
+
 # Conceptual Info
 ---
 

@@ -44,9 +44,12 @@ SHM in two orthogonal directions creates patterns of motion, Lissajous figures, 
 ![400](Attachments/Pasted%20image%2020240311202555.png)
 $$x = a \sin (\omega_{x}t)$$
 $$y = b \sin (\omega_{y}t + \delta)$$
-![50](Attachments/Pasted%20image%2020240311202714.png)
+![600](Attachments/Pasted%20image%2020240311202714.png)
+A physical model of a lissajous figure, x and y have respective k values.
 
-
+### 2D SHM with the same frequency
+$$x = a \sin(\omega t_{})$$
+![](Attachments/Pasted%20image%2020240311202858.png)
 
 # Conceptual Info
 ---

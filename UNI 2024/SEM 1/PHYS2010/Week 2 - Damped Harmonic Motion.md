@@ -115,7 +115,8 @@ General solution simplifies
 $$x = (A+Bt)e^{\frac{-\gamma}{2}t}$$
 
 Imaginary: $\gamma < 2 \omega_{0}$ Underdamped
-
+Solution becomes
+$$x = e^{\gamma}$$
 
 
 # Conceptual Info

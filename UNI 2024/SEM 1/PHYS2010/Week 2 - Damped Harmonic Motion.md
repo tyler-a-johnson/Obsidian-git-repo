@@ -106,15 +106,21 @@ With A and B determined by initial conditions
 
 ***Behaviour depends on:***
 $$\Omega= \left( \frac{\gamma^{2}}{4} - \omega_{0 }^{2} \right)^{1/2}$$
-Real: $\gamma > 2 \omega_{0}$ Overdamped
+
+
+
+**Real: $\gamma > 2 \omega_{0}$ Overdamped**
 General solution simplifies
 $$x(t) = \frac{v_{0 }}{2 \Omega} (e^{- \frac{\gamma}{2}t}e^{\Omega t} - e^{- \frac{\gamma}{2}t}e^{-\Omega t})$$
 
-Zero: $\gamma = 2 \omega_{0}$ Critically Damped
+
+**Zero: $\gamma = 2 \omega_{0}$ Critically Damped**
 General solution simplifies
 $$x = (A+Bt)e^{\frac{-\gamma}{2}t}$$
 
-Imaginary: $\gamma < 2 \omega_{0}$ Underdamped
+
+
+**Imaginary: $\gamma < 2 \omega_{0}$ Underdamped**
 Solution becomes
 $$x = e^{\frac{-\gamma}{2}t}(Ae^{i \omega_{d} t}+Be^{-i \omega_{d}t})$$
 Where $\omega_{d} = \left( \omega^{2}_{0} - \frac{\gamma^{2}}{4} \right)^{1/2}$
@@ -124,7 +130,7 @@ $$x = e ^{- \frac{\gamma}{2}t} Re[2A e ^{i \omega_{d}t}]$$
 Can be complex, representing amplitude and phase
 Write $2A = Ce^{i \phi}$
 $$x = e^{- \frac{\gamma}{2}t}Re[Ce^{i(w_{d}t + \phi)}]$$
-$$x = Ce^{\frac{-\gamma}{2}}$$
+$$x = Ce^{\frac{-\gamma}{2}t} \cos(\omega_{d}t + \phi)$$
 
 
 # Conceptual Info

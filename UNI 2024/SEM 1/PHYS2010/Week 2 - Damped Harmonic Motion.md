@@ -107,8 +107,14 @@ With A and B determined by initial conditions
 ***Behaviour depends on:***
 $$\Omega= \left( \frac{\gamma^{2}}{4} - \omega_{0 }^{2} \right)^{1/2}$$
 Real: $\gamma > 2 \omega_{0}$ Overdamped
+General solution simplifies
 $$x(t) = \frac{v_{0 }}{2 \Omega} (e^{- \frac{\gamma}{2}t}e^{\Omega t} - e^{- \frac{\gamma}{2}t}e^{-\Omega t})$$
+
+
 Zero: $\gamma = 2 \omega_{0}$ Critically Damped
+
+
+
 Imaginary: $\gamma < 2 \omega_{0}$ Underdamped
 
 

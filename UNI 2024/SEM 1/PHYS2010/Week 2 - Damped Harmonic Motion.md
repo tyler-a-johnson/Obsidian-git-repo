@@ -31,13 +31,13 @@ For arbitrary shapes, we need:
 - $\ddot{x} = -\left( \frac{k}{m} \right)x$, so $\omega =\sqrt{ \frac{k}{m} }$
 
 
-## Superposition
+# Superposition
 - Sometimes a system vibrates in more than one frequency, and/or in more than one dimension
 	- Oscillations at the same frequency in the same dimension
 	- Oscillations at different frequency in the same dimension (BEATING)
 	- Oscillations in different dimensions (LISSAJOUS FIGURES)
 
-### 2D SHM: Lissajous Figures
+## 2D SHM: Lissajous Figures
 SHM in two orthogonal directions creates patterns of motion, Lissajous figures, depending on:
 - Ratio of frequencies
 - Phase offset (for rational ratios)
@@ -47,7 +47,7 @@ $$y = b \sin (\omega_{y}t + \delta)$$
 ![600](Attachments/Pasted%20image%2020240311202714.png)
 A physical model of a lissajous figure, x and y have respective k values.
 
-### 2D SHM with the same frequency
+## 2D SHM with the same frequency
 $$x = a \sin(\omega t+\phi_{1})\text{, } y=a \sin (\omega t + \phi_{2})\text{, }  \delta = \phi_{2}-\phi_{1}$$
 ![](Attachments/Pasted%20image%2020240311202858.png)
 
@@ -199,12 +199,6 @@ $$ Q = \omega_{d}/\gamma$$
 ## Damped SHM Summary
 ![](Attachments/Pasted%20image%2020240311234501.png)
 
+## LCR Circuits
 
-
-# Conceptual Info
----
-
-
-
-# Additional Content
 ---

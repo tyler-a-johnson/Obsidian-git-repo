@@ -180,7 +180,8 @@ Normalised loss rate $\frac{{dE(t)}/{dt}}{E(t)}=-\gamma$ is constant
 A way to quantify loss in periodic systems. (High or low Q)
 ```ad-important
 Q = Number of radians for energy to decay to $E_{0}e^{-1}$
-- 
+- If $E(t) = E_{0}e^{- \gamma t}$ then $E(\tau) = E_{0}e^{-1}$ for $\tau = 1/\gamma$
+- If system oscillates wit
 
 ```
 

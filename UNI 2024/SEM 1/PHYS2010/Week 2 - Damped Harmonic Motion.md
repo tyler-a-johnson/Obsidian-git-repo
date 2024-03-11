@@ -162,6 +162,7 @@ $$KE = \frac{1}{2}m \dot{x}^{2} = \frac{1}{2}m x_{0}^{2}e^{-\gamma t}\left( \ome
 
 ![](Attachments/Pasted%20image%2020240311231057.png)
 
+$$\approx \frac{1}{2} m \omega^{2}_{d}x^{2}_{0}e^{-\gamma t} \cos^{2} \omega_{d} t$$
 
 
 

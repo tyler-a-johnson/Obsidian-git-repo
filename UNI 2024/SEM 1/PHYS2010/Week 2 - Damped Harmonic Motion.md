@@ -100,6 +100,10 @@ $$\rightarrow a = - \frac{\gamma}{2} \pm ( \gamma^{2}/4 - \omega^{2}_{0} )^{1/2}
 $$x = Ce^{-\gamma t/2}e^{t (\gamma^{2} / 4-\omega_{0}^{2})^{1/2}}$$
 $$\text{or } Ce^{-\gamma t/2}e^{-t(\gamma^2/4-\omega_{0}^2)^{1/2}}$$
 
+**General Solution**
+$$x = e^{- \frac{\gamma}{2}t}$$
+
+
 # Conceptual Info
 ---
 

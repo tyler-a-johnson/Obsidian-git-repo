@@ -123,7 +123,8 @@ $$x = e ^{- \frac{\gamma}{2}t} Re[2A e ^{i \omega_{d}t}]$$
 
 Can be complex, representing amplitude and phase
 Write $2A = Ce^{i \phi}$
-
+$$x = e^{- \frac{\gamma}{2}t}Re[Ce^{i(w_{d}t + \phi)}]$$
+$$x = Ce^{\frac{-\gamma}{2}}$$
 
 
 # Conceptual Info

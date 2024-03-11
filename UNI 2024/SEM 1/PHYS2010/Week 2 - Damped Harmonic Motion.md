@@ -66,7 +66,7 @@ $$= 2a \sin \left[ \left( \frac{\omega_{1}+\omega_{2}}{2} \right)t \right]\cos \
 
 ## Damped SHM
 Damped by moving through liquid (air included)
-
+- Drag force $\vec{F}_{drag} = -k_{1}\vec{v} - k_{2}$
 
 # Conceptual Info
 ---

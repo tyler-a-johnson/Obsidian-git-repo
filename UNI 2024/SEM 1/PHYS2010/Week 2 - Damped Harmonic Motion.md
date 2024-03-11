@@ -61,8 +61,8 @@ m is y, n is x
 Two simultaneous oscillations along the same axis create beating at the **difference** frequency
 $\omega_{2}-\omega_{1}$
 $$x = a \sin(\omega_{1}t) + a \sin (\omega_{2}t)$$
-$$= 2a \sin \left[(\frac{\omega_{1}+\omega_{2}}{2})t]$$
-
+$$= 2a \sin \left[ \left( \frac{\omega_{1}+\omega_{2}}{2} \right)t \right]\cos \left[ \left( \frac{\omega_{2}-\omega_{1}}{2} \right) \right]$$
+![](Attachments/Pasted%20image%2020240311203912.png)
 
 # Conceptual Info
 ---

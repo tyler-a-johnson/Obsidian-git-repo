@@ -12,8 +12,10 @@ Relevant Links:
 # Maths Content
 ---
 Using $\tau = I \ddot{\theta}$ for a point mass
-- $-mgl \sin \theta = ml^{2}$
-
+- $-mgl \sin \theta = ml^{2} \ddot{\theta}$
+- $\ddot{\theta} = -\left( \frac{g}{l} \right) \theta$ for small angles
+- Simple harmonic motion with $\omega = \sqrt{ \frac{g}{l} }$
+![](Attachments/Pasted%20image%2020240311201316.png)
 
 # Conceptual Info
 ---

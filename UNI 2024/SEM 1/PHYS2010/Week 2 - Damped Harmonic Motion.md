@@ -90,7 +90,7 @@ $$x  = Ce^{\alpha t}$$
 $$\dot{x} = C \alpha e^{\alpha t} \text{ and }\ddot{x}=C \alpha^{2}e^{\alpha t}$$
 
 **Sub in to get:**
-$$Ce^{\alpha t}$$
+$$C e^{\alpha t}(\alpha^{2}+\gamma \alpha + \omega_{0}^{2})=0$$
 
 
 # Conceptual Info

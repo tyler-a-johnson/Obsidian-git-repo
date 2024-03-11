@@ -173,7 +173,16 @@ Decay constant is $\gamma$ not $\frac{\gamma}{2}$
 ```
 
 **Rate of energy loss is $\frac{dE(t)}{dt}=- \gamma E(t)$**
-Normalised loss rate $d$
+Normalised loss rate $\frac{{dE(t)}/{dt}}{E(t)}=-\gamma$ is constant
+
+
+## Q Factor
+A way to quantify loss in periodic systems. (High or low Q)
+```ad-important
+Q = Number of radians for energy to decay to $E_{0}e^{-1}$
+- 
+
+```
 
 
 

@@ -184,6 +184,10 @@ Q = Number of radians for energy to decay to $E_{0}e^{-1}$
 - If system oscillates with $\omega= \omega_{d} \rightarrow Q = \omega_{d}/\gamma$
 
 ```
+```ad-info
+Alternatively $Q = 2 \pi \frac{\text{Energy stored in system}}{\text{Energy lost per cycle}$
+
+```
 
 
 

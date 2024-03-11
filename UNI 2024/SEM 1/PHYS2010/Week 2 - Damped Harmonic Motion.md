@@ -36,7 +36,13 @@ For arbitrary shapes, we need:
 	- Oscillations at the same frequency in the same dimension
 	- Oscillations at different frequency in the same dimension (BEATING)
 	- Oscillations in different dimensions (LISSAJOUS FIGURES)
-- 
+
+### 2D SHM: Lissajous Figures
+SHM in two orthogonal directions creates patterns of motion, Lissajous figures, depending on:
+- Ratio of frequencies
+- Phase offset (for rational ratios)
+
+
 
 # Conceptual Info
 ---

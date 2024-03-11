@@ -203,8 +203,11 @@ $$ Q = \omega_{d}/\gamma$$
 # RLC Circuits and SHM
 ![](Attachments/Pasted%20image%2020240311235259.png)
 ![](Attachments/Pasted%20image%2020240311235620.png)
+![](Attachments/Pasted%20image%2020240311235634.png)
 
+![](Attachments/Pasted%20image%2020240311235648.png)
 
+![](Attachments/Pasted%20image%2020240311235659.png)
 
 
 ---

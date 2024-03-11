@@ -155,7 +155,9 @@ From $x(t) = x_{0}e^{- \frac{\gamma}{2}t}\cos(\omega_{d}t)$ we see $\tau = \frac
 
 
 ## Energy in an underdamped oscillator
+Consider $x(t) = x_{0} e^{- \frac{\gamma}{2}t}\sin(\omega_{d}t)$
 
+$$PE = \frac{1}{2}kx^{2}= \frac{1}{2}kx_{0}^{2} e^{-\gamma t}\sin^2(\omega_{d}t)$$
 
 
 # Conceptual Info

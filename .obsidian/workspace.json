@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md"
               }
             }
           },
@@ -210,6 +210,8 @@
   },
   "active": "2286d0a8ef8961dc",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/ENGG4001/Untitled.md",
     "Resources/Resources and Links.md",
     "Resources/Markdown Latex Reference Sheet.md",
@@ -224,7 +226,6 @@
     "UNI 2024/SEM 1/ENGG4001/Attachments/FD8SXS1K2R9Q5RU.webp",
     "UNI 2024/SEM 1/ENGG4001/Attachments/ABA-braille-dot-layout-1024x864.jpg",
     "Resources/Ender 3 V2 G-Code.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "Daily Notes/05-03-2024.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "copilot-conversations/Chat-2023_10_05-21_04_43.md",
@@ -233,7 +234,6 @@
     "UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md",
     "UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md",
     "UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",

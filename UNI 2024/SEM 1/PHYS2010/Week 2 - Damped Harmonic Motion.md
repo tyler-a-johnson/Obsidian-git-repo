@@ -41,6 +41,10 @@ For arbitrary shapes, we need:
 SHM in two orthogonal directions creates patterns of motion, Lissajous figures, depending on:
 - Ratio of frequencies
 - Phase offset (for rational ratios)
+![400](Attachments/Pasted%20image%2020240311202555.png)
+$$x = a \sin (\omega_{x}t)$$
+$$y = b \sin (\omega_{y}t + \delta)$$
+![50](Attachments/Pasted%20image%2020240311202714.png)
 
 
 

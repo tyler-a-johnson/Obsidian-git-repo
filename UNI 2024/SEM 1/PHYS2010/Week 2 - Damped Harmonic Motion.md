@@ -106,9 +106,9 @@ With A and B determined by initial conditions
 
 ***Behaviour depends on:***
 $$\Omega= \left( \frac{\gamma^{2}}{4} - \omega_{0 }^{2} \right)^{1/2}$$
-Real: $\gamma > 2 \omega_{0}$
-Zero: $y = 2 \omega_{0}$
-Imaginary: $\gamma < 2 \omega_{0}$
+Real: $\gamma > 2 \omega_{0}$ Overdamped
+Zero: $y = 2 \omega_{0}$ Critically Damped
+Imaginary: $\gamma < 2 \omega_{0}$ Underdamped
 
 
 

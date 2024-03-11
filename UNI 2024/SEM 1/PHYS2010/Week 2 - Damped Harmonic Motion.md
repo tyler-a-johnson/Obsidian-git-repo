@@ -95,7 +95,9 @@ $$C e^{\alpha t}(\alpha^{2}+\gamma \alpha + \omega_{0}^{2})=0$$
 Trivial solution C = 0, or...
 
 $$\alpha^{2}+\gamma \alpha  + \omega_{0}^{2} = 0 \text{ with C an unknown constant}$$
-$$\rightarrow a = - \frac{\gamma}{2} \pm \left(\gamma^{2}}{4 - \omega^{2}_{0} \right)^{1/2}$$
+$$\rightarrow a = - \frac{\gamma}{2} \pm ( \gamma^{2}/4 - \omega^{2}_{0} )^{1/2}$$
+
+$$x = Ce^{-\gamma t/2}e^{t (\gamma^{2} / 4-\omega_{0}^{2})^{}1/2}$$
 
 # Conceptual Info
 ---

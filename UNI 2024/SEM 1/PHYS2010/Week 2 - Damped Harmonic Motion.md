@@ -118,6 +118,7 @@ Imaginary: $\gamma < 2 \omega_{0}$ Underdamped
 Solution becomes
 $$x = e^{\frac{-\gamma}{2}t}(Ae^{i \omega_{d} t}+Be^{-i \omega_{d}t})$$
 Where $\omega_{d} = \left( \omega^{2}_{0} - \frac{\gamma^{2}}{4} \right)^{1/2}$
+The general solution needs to be real everywhere, constraining B = A*
 
 
 

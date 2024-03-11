@@ -60,7 +60,8 @@ m is y, n is x
 ### Beating
 Two simultaneous oscillations along the same axis create beating at the **difference** frequency
 $\omega_{2}-\omega_{1}$
-$$x = a \sin(\omega_{1})$$
+$$x = a \sin(\omega_{1}t) + a \sin (\omega_{2}t)$$
+$$= 2a \sin \left[(\frac{\omega_{1}+\omega_{2}}{2})t]$$
 
 
 # Conceptual Info

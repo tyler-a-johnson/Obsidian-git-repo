@@ -11,14 +11,9 @@
             "id": "0223db98cde40895",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
-                "viewState": {
-                  "x": 821.6903248155936,
-                  "y": -19.14704790930915,
-                  "zoom": -0.2625000000000007
-                }
+                "file": "UNI 2024/SEM 1/TImetable.png"
               }
             }
           }
@@ -88,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -116,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "file": "UNI 2024/SEM 1/TImetable.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "file": "UNI 2024/SEM 1/TImetable.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas"
+                "file": "UNI 2024/SEM 1/TImetable.png"
               }
             }
           },
@@ -206,13 +200,13 @@
   },
   "active": "0223db98cde40895",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/ENGG4001/Attachments/FD8SXS1K2R9Q5RU.webp",
     "UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240307124410.png",
     "UNI 2024/SEM 1/ENGG4001/Attachments/ABA-braille-dot-layout-1024x864.jpg",
     "UNI 2024/SEM 1/ENGG4001/Attachments/simbraille-cell 1.jpg",
     "UNI 2024/SEM 1/ENGG4001/Attachments/simbraille-cell.jpg",
     "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/TImetable.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305214231.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305214152.png",
@@ -230,7 +224,6 @@
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 - 1 Page Brief.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240304225546.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240304225034.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",

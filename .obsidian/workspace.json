@@ -11,9 +11,14 @@
             "id": "0223db98cde40895",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png"
+                "file": "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -83,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 306.51240158081055
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -110,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png",
+                "file": "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png",
+                "file": "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png"
+                "file": "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas"
               }
             }
           },
@@ -200,6 +205,11 @@
   },
   "active": "0223db98cde40895",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
+    "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
+    "UNI 2024/SEM 1/FOSE3000/DayOne STEM Packs.md",
+    "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
+    "UNI 2024/SEM 1/TImetable.png",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/ENGG4001/Attachments/FD8SXS1K2R9Q5RU.webp",
     "UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240307124410.png",
@@ -207,7 +217,6 @@
     "UNI 2024/SEM 1/ENGG4001/Attachments/simbraille-cell 1.jpg",
     "UNI 2024/SEM 1/ENGG4001/Attachments/simbraille-cell.jpg",
     "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 1/TImetable.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305214231.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305214152.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240305214126.png",
@@ -219,8 +228,6 @@
     "README.md",
     "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
-    "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
-    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 - 1 Page Brief.pdf",
     "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240304225546.png",
@@ -246,14 +253,12 @@
     "Resources/File Repositories and Archives.md",
     "Resources/Templates/File Properties - Distilled Note.md",
     "UNI 2024/SEM 1/ELEC3024/Untitled.md",
-    "UNI 2024/SEM 1/ENGG4001.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",
     "UNI 2023/ELEC3042/Major Project/Major Project.canvas",
     "Independent Projects/DND/Unnamed campaign.canvas",
     "UNI 2023/ELEC3042/Minor Project/Project.canvas",
-    "UNI 2023/ELEC3042/Untitled.canvas",
-    "UNI 2023/ELEC2040/Untitled.canvas"
+    "UNI 2023/ELEC3042/Untitled.canvas"
   ]
 }

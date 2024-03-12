@@ -11,14 +11,9 @@
             "id": "0223db98cde40895",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "UNI 2024/SEM 1/TImetable.png"
               }
             }
           }
@@ -115,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
+                "file": "UNI 2024/SEM 1/TImetable.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
+                "file": "UNI 2024/SEM 1/TImetable.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas"
+                "file": "UNI 2024/SEM 1/TImetable.png"
               }
             }
           },
@@ -205,8 +200,8 @@
   },
   "active": "0223db98cde40895",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
+    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Packs.md",
     "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
     "UNI 2024/SEM 1/TImetable.png",

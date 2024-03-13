@@ -12,9 +12,12 @@
             "id": "2286d0a8ef8961dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -23,7 +26,7 @@
       {
         "id": "4d00ad82859bbc20",
         "type": "tabs",
-        "dimension": 53.03951367781155,
+        "dimension": 53.03951367781154,
         "children": [
           {
             "id": "6ff23df544203853",
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md"
               }
             }
           },
@@ -225,6 +228,7 @@
   },
   "active": "2286d0a8ef8961dc",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/TImetable.png",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235659.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235648.png",

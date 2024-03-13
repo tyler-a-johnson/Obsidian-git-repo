@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 267.50418853759766
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md"
+                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md"
               }
             }
           },
@@ -226,10 +226,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "2286d0a8ef8961dc",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/TImetable.png",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+    "UNI 2024/SEM 1/TImetable.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235659.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235648.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235634.png",
@@ -240,7 +243,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311225953.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311225614.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311224830.png",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/ENGG4001/Untitled.md",
     "Resources/Resources and Links.md",
@@ -274,8 +276,6 @@
     "UNI 2024/SEM 1/ENGG4001",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
-    "Resources/Templates/File Properties - Lecture Notes.md",
-    "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

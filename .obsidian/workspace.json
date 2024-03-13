@@ -182,7 +182,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "94c37083c6cbb0fc",
@@ -201,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 878.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +223,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "2286d0a8ef8961dc",
+  "active": "c08e9b789a4c1123",
   "lastOpenFiles": [
     "Resources/Code Repository.md",
     "UNI 2024/SEM 1/PHYS2010/Week3 code.md",

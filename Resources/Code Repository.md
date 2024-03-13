@@ -939,7 +939,7 @@ if (PWM_counter >= MAX_count){{
 
 ### Dot Product
 
-```py
+```python
 def dot_product(xlist,ylist):
     
     if len(xlist) != len(ylist):
@@ -953,7 +953,7 @@ def dot_product(xlist,ylist):
 ```
 
 ### Rangef - Range with step
-```
+```python
 def rangef(xmin, xmax, dx):
     out = []
     steps = int(round((xmax-xmin)/float(dx)))

@@ -6,7 +6,7 @@
       {
         "id": "080ca25c4d5f5506",
         "type": "tabs",
-        "dimension": 46.96048632218846,
+        "dimension": 46.960486322188466,
         "children": [
           {
             "id": "2286d0a8ef8961dc",
@@ -14,10 +14,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
+                "file": "Resources/Code Repository.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -26,7 +26,7 @@
       {
         "id": "4d00ad82859bbc20",
         "type": "tabs",
-        "dimension": 53.03951367781154,
+        "dimension": 53.039513677811534,
         "children": [
           {
             "id": "6ff23df544203853",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
+                "file": "Resources/Code Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
+                "file": "Resources/Code Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md"
+                "file": "Resources/Code Repository.md"
               }
             }
           },
@@ -226,8 +226,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "2286d0a8ef8961dc",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week3 code.md",
+    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
@@ -274,8 +276,6 @@
     "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
     "UNI 2024/SEM 1/ENGG4001/Attachments",
     "UNI 2024/SEM 1/ENGG4001",
-    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
-    "UNI 2024/SEM 1/FOSE3000/FOSE3000.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

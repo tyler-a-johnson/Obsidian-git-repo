@@ -27,6 +27,11 @@ Each complex factor can be expressed as a vector of magnitude $M$ and angle $\th
 ![](Attachments/Pasted%20image%2020240314194910.png)
 
 ## Defining the Root Locus
-Example, a camera system that follo
+Example, a camera system that follows a subject
 ![](Attachments/Pasted%20image%2020240314195125.png)
+
+![](Attachments/Pasted%20image%2020240314195211.png)
+
+**Closed loop transfer of the camera system**
+![](Attachments/Pasted%20image%2020240314195238.png)
 

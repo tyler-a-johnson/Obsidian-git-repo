@@ -69,4 +69,4 @@ Starting point is when gain = 0
 ![](Attachments/Pasted%20image%2020240314203334.png)
 
 ## Properties of the Root Locus
-Using the properties of the root locus we can sketch the root locus for higher order systems without
+Using the properties of the root locus we can sketch the root locus for higher order systems without having top

@@ -109,3 +109,6 @@ $$K = - \frac{1}{G(\sigma)H(\sigma)}$$
 $\frac{dK}{d \sigma} = 0$ solving for $\sigma$ we find breakaway and break-in points
 looking for minimum points (breakin) and maximum (breakout)
 
+7. **Calculation of jw axis crossing**
+
+#todo 

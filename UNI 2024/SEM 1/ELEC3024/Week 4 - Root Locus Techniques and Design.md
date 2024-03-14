@@ -96,3 +96,5 @@ $$\sigma_{a}  = \frac{\sum \text{ finite poles} - \sum \text{finite zeros}}{\tex
 
 $$\theta_{a} = \frac{(2k+1)\pi }{\text{num of finite poles - num of finite zeroes}}$$
 where k is pm 0, 1, 2, 3...
+
+6. **Real axis breakaway and break in points** - The root locus breaks away from the real axis at a point where the gain is maximum and breaks into the real axis at a point where the gain is minimum ( x to inf )

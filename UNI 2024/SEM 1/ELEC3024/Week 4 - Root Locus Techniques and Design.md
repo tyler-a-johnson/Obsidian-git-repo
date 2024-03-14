@@ -7,15 +7,9 @@ Relevant Notes:
 Relevant Links:
 ---
 **Lecture Slides:**
-# Maths Content
----
 
-
-
-# Conceptual Info
----
-
-
-
-# Additional Content
----
+# Root Locus
+- A graphical technique that gives qualitative **description** of a control system's performance.
+- Provide solutions for systems of order greater than two
+- Describe qualitatively the performance (transient response) of a system as various parameters are changed
+- 

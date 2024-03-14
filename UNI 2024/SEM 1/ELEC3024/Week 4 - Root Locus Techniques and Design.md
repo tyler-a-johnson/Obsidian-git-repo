@@ -62,6 +62,8 @@ Example, a camera system that follows a subject
 
 **Pole location as a function of gain for the camera system**
 ![](Attachments/Pasted%20image%2020240314195931.png)
-Locatuio
+Location of poles as gain changes
 ![](Attachments/Pasted%20image%2020240314195942.png)
+These form a limit, here around -5.
+Starting point is when gain = 0
 ![](Attachments/Pasted%20image%2020240314203334.png)

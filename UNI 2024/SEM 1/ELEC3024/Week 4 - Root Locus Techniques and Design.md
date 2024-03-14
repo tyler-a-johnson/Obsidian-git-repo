@@ -119,5 +119,6 @@ looking for minimum points (breakin) and maximum (breakout)
 ![](Attachments/Pasted%20image%2020240314215644.png)
 Far enough away is classified as 5 times the distance p1 and 2 are from the jw axis
 
-2. Closed-loop zeroes near the closed-loop second-order pole pair are nearly cancelled by the close proximity of higher order closed loop poles
+2. Closed-loop zeroes near the closed-loop second-order pole pair are nearly cancelled by the close proximity of higher order closed loop poles (they both cancel out, treat as if its just p1 p2)
+3. Closed loop zeroes not cancelled by the close proximity of higher-order closed loop poles are far removed from the closed-loop second-order pole pair.
 ![](Attachments/Pasted%20image%2020240314215906.png)

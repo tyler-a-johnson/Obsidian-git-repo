@@ -47,6 +47,7 @@ $$\angle F(s) \text{ = is the phase angle}$$
 $$\text{ We can also use } M\angle \theta$$
 
 $$(s+z_{1})(s+z_{2})= M_{1} e^{j \phi_{1}}*M_{2}e^{j \phi _{2}} = M_{1} M_{2} e^{j(\phi_{1}+\phi_{2})}$$
+Division we change to $\phi_{1}-\phi_{2}$
 
 
 ## Defining the Root Locus

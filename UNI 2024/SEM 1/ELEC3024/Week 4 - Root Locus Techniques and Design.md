@@ -105,4 +105,7 @@ $$K = -\frac{1}{G(s)H(s)} $$
 For points along the real-axis segment of the root locus where breakaway and break-in points could exist $s = \sigma$
 
 $$K = - \frac{1}{G(\sigma)H(\sigma)}$$
-$$\frac{dK}{d \sigma} = 0$
+![](Attachments/Pasted%20image%2020240314214549.png)
+$\frac{dK}{d \sigma} = 0$ solving for $\sigma$ we find breakaway and break-in points
+looking for minimum points (breakin) and maximum (breakout)
+

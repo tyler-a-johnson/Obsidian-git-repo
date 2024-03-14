@@ -18,7 +18,9 @@ Relevant Links:
 
 ![](Attachments/Pasted%20image%2020240314194050.png)
 $$\bar{M} = Me^{j \text{ phase of m}}$$
-$$\text{ Vectors of form} $$
+$$F(s) = s  + a  = (\sigma + a) + j \omega $$
+
+Bottom right is a di
 $(s+a)$ is a complex number and can be represented by a vector drawn from the zero of the function to the point s
 
 The goal here is to keep the point s in the same spot, changing the origin of the vector.

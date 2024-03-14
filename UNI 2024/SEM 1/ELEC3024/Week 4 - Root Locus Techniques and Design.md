@@ -69,4 +69,6 @@ Starting point is when gain = 0
 ![](Attachments/Pasted%20image%2020240314203334.png)
 
 ## Properties of the Root Locus
-Using the properties of the root locus we can sketch the root locus for higher order systems without having top
+Using the properties of the root locus we can sketch the root locus for higher order systems without having to factor the denominator of the closed loop transfer function
+![](Attachments/Pasted%20image%2020240314204403.png)
+$s_{1}$ is a pole of $T(s)$ if the denominator is 0.

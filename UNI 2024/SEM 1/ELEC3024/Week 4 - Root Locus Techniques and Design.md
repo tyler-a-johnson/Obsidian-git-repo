@@ -99,4 +99,5 @@ where k is pm 0, 1, 2, 3...
 
 6. **Real axis breakaway and break in points** - The root locus breaks away from the real axis at a point where the gain is maximum and breaks into the real axis at a point where the gain is minimum
 We can find the points K:
-$$$$
+$$KG(s)H(s) = -1 - 1 \angle (2k+1)180 \degree$$
+$$K = -\frac{1}{} $$

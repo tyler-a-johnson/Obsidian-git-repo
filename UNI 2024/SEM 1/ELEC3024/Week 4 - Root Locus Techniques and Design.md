@@ -35,7 +35,9 @@ $(s+a)$ is a complex number and can be represented by a vector drawn from the ze
 
 
 Apply this to something more complex
-![](Attachments/Pasted%20image%2020240314194855.png)
+
+Product of all zeroes of the function over the product of all poles
+![](Attachments/Pasted%20image%2020240314201621.png)
 Each complex factor can be expressed as a vector of magnitude $M$ and angle $\theta$
 
 ![](Attachments/Pasted%20image%2020240314194910.png)

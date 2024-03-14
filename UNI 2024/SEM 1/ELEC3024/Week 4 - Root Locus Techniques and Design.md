@@ -95,3 +95,4 @@ $\sigma_{a}$ is the coordinate the asymptote crosses the x axis
 $$\sigma_{a}  = \frac{\sum \text{ finite poles} - \sum \text{finite zeros}}{\text{ num of poles - num of zeroes}}$$
 
 $$\theta_{a} = \frac{(2k+1)\pi }{\text{num of finite poles - num of finite zeroes}}$$
+where k is pm 0, 1, 2, 3...

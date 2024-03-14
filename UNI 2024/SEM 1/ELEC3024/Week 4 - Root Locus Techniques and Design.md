@@ -46,6 +46,8 @@ $$|F(s)|  \text{  = Length of vector}$$
 $$\angle F(s) \text{ = is the phase angle}$$
 $$\text{ We can also use } M\angle \theta$$
 
+$$(s+z_{1})(s+z_{2})$$
+
 ## Defining the Root Locus
 Example, a camera system that follows a subject
 ![](Attachments/Pasted%20image%2020240314195125.png)

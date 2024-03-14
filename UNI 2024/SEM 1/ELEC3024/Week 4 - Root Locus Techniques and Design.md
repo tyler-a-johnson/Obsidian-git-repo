@@ -25,12 +25,16 @@ Zeros are now at $- a$
 
 Bottom right we are evaluating $F(s) = s + 7$ at the point $s = 5  + j2$
 We pin the end of the vector at $5+j2$ and draw the zero at -7.
-Same as if we drew the start at 0 and the end is 12
+
+Same as if we drew the start at 0 and the end is $12+j2$
+
+
+**PHASE ANGLE AND MAGNITUDE REMAINS THE SAME**
 
 $(s+a)$ is a complex number and can be represented by a vector drawn from the zero of the function to the point s
 
 
-Apply this
+Apply this to something more complex
 ![](Attachments/Pasted%20image%2020240314194855.png)
 Each complex factor can be expressed as a vector of magnitude $M$ and angle $\theta$
 

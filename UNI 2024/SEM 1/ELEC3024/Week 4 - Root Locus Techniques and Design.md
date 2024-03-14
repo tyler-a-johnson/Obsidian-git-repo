@@ -23,7 +23,9 @@ $$F(s) = s  + a  = (\sigma + a) + j \omega $$
 Bottom right is a different way to draw the same vector, we aren't concerned with location
 Zeros are now at $- a$
 
-Bottom right we are evaluating $F(s) = s + 7$ at the point 
+Bottom right we are evaluating $F(s) = s + 7$ at the point $s = 5  + j2$
+We pin the end of the vector at $5+j2$ and draw the zero at -7.
+Same as if we drew the start at 0 and the end is 12
 
 $(s+a)$ is a complex number and can be represented by a vector drawn from the zero of the function to the point s
 

@@ -112,3 +112,6 @@ looking for minimum points (breakin) and maximum (breakout)
 7. **Calculation of jw axis crossing**
 
 #todo 
+
+
+## Transient Response Design via Gain Adjustment

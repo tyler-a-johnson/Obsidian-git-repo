@@ -115,4 +115,8 @@ looking for minimum points (breakin) and maximum (breakout)
 
 
 ## Transient Response Design via Gain Adjustment
-1. Higher order poles are much farther into the left half of the s-plane than the dominant second-order pair of poles. The response that results from a higher order pole does not appreciably change the transient response expected from the dominant 
+1. Higher order poles are much farther into the left half of the s-plane than the dominant second-order pair of poles. The response that results from a higher order pole does not appreciably change the transient response expected from the dominant second-order poles.
+![](Attachments/Pasted%20image%2020240314215644.png)
+Far enough away is classified as 5 times the distance p1 and 2 are from the jw axis
+
+2. Closed-loop zeroes near the closed-loop second-order pole pair are nrealy 

@@ -16,7 +16,10 @@ Relevant Links:
 
 ## Vector Representation of Complex Numbers (1)
 
-![](Attachments/Pasted%20image%2020240314194050.png)$(s+a)$ is a complex number and can be represented by a vector drawn from the zero of the function to the point s
+![](Attachments/Pasted%20image%2020240314194050.png)
+$$\bar{M} = Me^{j \text{ phase of m}}$$
+$$\text{ Vectors of form} $$
+$(s+a)$ is a complex number and can be represented by a vector drawn from the zero of the function to the point s
 
 The goal here is to keep the point s in the same spot, changing the origin of the vector.
 

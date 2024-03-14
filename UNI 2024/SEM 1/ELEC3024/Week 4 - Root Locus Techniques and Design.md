@@ -115,3 +115,4 @@ looking for minimum points (breakin) and maximum (breakout)
 
 
 ## Transient Response Design via Gain Adjustment
+1. Higher order poles are much farther into the left half of the s-plane than the dominant second-order pair of poles. The response that results from a higher order pole does not appreciably change the transient response expected from the dominant 

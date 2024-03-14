@@ -9,10 +9,17 @@
 		{"id":"16077deabd591680","x":-1220,"y":-1340,"width":250,"height":60,"type":"text","text":"Pins"},
 		{"id":"e17e600f1865d9fb","x":-900,"y":-1240,"width":156,"height":60,"type":"text","text":"Actuators"},
 		{"id":"381ff8520200e102","x":-660,"y":-1120,"width":189,"height":72,"type":"text","text":"Motherboard"},
-		{"id":"91d5d3d7e3df9705","x":-677,"y":-1225,"width":250,"height":60,"type":"text","text":"Microprocessor"}
+		{"id":"91d5d3d7e3df9705","x":-660,"y":-1300,"width":200,"height":60,"type":"text","text":"Microprocessor"},
+		{"id":"27a5a1f3db0abcfb","x":-220,"y":-1280,"width":200,"height":60,"type":"text","text":"Data from API"},
+		{"id":"98852cc2000a1bfb","x":-620,"y":-1480,"width":120,"height":60,"type":"text","text":"Power"}
 	],
 	"edges":[
 		{"id":"907a35bc22b3986a","fromNode":"e17e600f1865d9fb","fromSide":"left","toNode":"16077deabd591680","toSide":"right"},
-		{"id":"2b78aca086e223c5","fromNode":"381ff8520200e102","fromSide":"left","toNode":"e17e600f1865d9fb","toSide":"right"}
+		{"id":"2b78aca086e223c5","fromNode":"381ff8520200e102","fromSide":"left","toNode":"e17e600f1865d9fb","toSide":"right"},
+		{"id":"661975b7c90fce6d","fromNode":"27a5a1f3db0abcfb","fromSide":"left","toNode":"91d5d3d7e3df9705","toSide":"right"},
+		{"id":"04e385121f897ae9","fromNode":"91d5d3d7e3df9705","fromSide":"bottom","toNode":"381ff8520200e102","toSide":"top"},
+		{"id":"0b885cf089c1e282","fromNode":"98852cc2000a1bfb","fromSide":"right","toNode":"381ff8520200e102","toSide":"right"},
+		{"id":"a29bf2f681cdcaf9","fromNode":"98852cc2000a1bfb","fromSide":"bottom","toNode":"91d5d3d7e3df9705","toSide":"top"},
+		{"id":"7f3cb22504f1556c","fromNode":"98852cc2000a1bfb","fromSide":"left","toNode":"e17e600f1865d9fb","toSide":"right"}
 	]
 }

@@ -75,3 +75,6 @@ $s_{}$ is a pole of $T(s)$ if the denominator is 0.
 $$1 + KG(s)H(s) = 0$$
 $$KG(s)H(s) = -1$$
 
+Alternatively
+![](Attachments/Pasted%20image%2020240314205001.png)
+the angle of the complex number is an **odd** multiple of 180 degrees. That value of s is a system pole for some value of K.

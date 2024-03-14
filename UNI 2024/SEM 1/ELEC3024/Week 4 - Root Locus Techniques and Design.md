@@ -88,4 +88,5 @@ the angle of the complex number is an **odd** multiple of 180 degrees. That valu
 Here the root locus is in blue
 Xs are poles
 Dots are zeros
-4. **Starting and ending points** - 
+4. **Starting and ending points** - The root locus begins at the finite and infinite poles of G(s)H(s) and ends at the finite and infinite zeroes of G(s)H(s). Begins when gain is 0
+5. **Behaviour at infinity** - The roo

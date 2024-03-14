@@ -51,6 +51,7 @@ Division we change to $\phi_{1}-\phi_{2}$
 
 
 ## Defining the Root Locus
+**Root Locus** - Representation of the paths of the closed-loop poles as the gain is varied.
 Example, a camera system that follows a subject
 ![](Attachments/Pasted%20image%2020240314195125.png)
 

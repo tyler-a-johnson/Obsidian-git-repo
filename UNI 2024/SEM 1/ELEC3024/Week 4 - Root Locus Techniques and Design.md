@@ -20,10 +20,13 @@ Relevant Links:
 $$\bar{M} = Me^{j \text{ phase of m}}$$
 $$F(s) = s  + a  = (\sigma + a) + j \omega $$
 
-Bottom right is a di
+Bottom right is a different way to draw the same vector, we aren't concerned with location
+Zeros are now at $- a$
+
+Bottom right we are evaluating $F(s) = s + 7$ at the point 
+
 $(s+a)$ is a complex number and can be represented by a vector drawn from the zero of the function to the point s
 
-The goal here is to keep the point s in the same spot, changing the origin of the vector.
 
 Apply this
 ![](Attachments/Pasted%20image%2020240314194855.png)

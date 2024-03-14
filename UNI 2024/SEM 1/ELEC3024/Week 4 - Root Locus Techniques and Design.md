@@ -16,4 +16,4 @@ Relevant Links:
 
 ## Vector Representation of Complex Numbers (1)
 
-![](Attachments/Pasted%20image%2020240314194050.png)
+![](Attachments/Pasted%20image%2020240314194050.png)$(s+a)$ is a complex number and can be represented by a vector drawn from the zero of the function to the point s

@@ -16,7 +16,4 @@ Relevant Links:
 
 ## Vector Representation of Complex Numbers (1)
 
-$$s  = \sigma + j \omega$$
-$$(s+a)$$
-
 ![](Attachments/Pasted%20image%2020240314194050.png)

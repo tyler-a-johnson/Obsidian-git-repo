@@ -36,12 +36,14 @@ $(s+a)$ is a complex number and can be represented by a vector drawn from the ze
 
 Apply this to something more complex
 
-Product of all zeroes of the function over the product of all poles
+Product of all zeroes of the function over the product of all poles $\prod$  = product
 ![](Attachments/Pasted%20image%2020240314201621.png)
 Each complex factor can be expressed as a vector of magnitude $M$ and angle $\theta$
 
 ![](Attachments/Pasted%20image%2020240314194910.png)
-
+Vector written as
+$$|F(s)|  \text{  = Length of vector}$$
+$$\angleF)$$
 ## Defining the Root Locus
 Example, a camera system that follows a subject
 ![](Attachments/Pasted%20image%2020240314195125.png)

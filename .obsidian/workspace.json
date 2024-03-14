@@ -9,12 +9,15 @@
         "dimension": 46.960486322188466,
         "children": [
           {
-            "id": "2286d0a8ef8961dc",
+            "id": "610f3be7dd34148e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/TImetable.png"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md"
               }
             }
           },
@@ -224,8 +227,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c08e9b789a4c1123",
+  "active": "610f3be7dd34148e",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/TImetable.png",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "Resources/Code Repository.md",
     "UNI 2024/SEM 1/PHYS2010/Week3 code.md",
@@ -234,7 +238,6 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
-    "UNI 2024/SEM 1/TImetable.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235659.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235648.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235634.png",
@@ -280,7 +283,6 @@
     "UNI 2023/ELEC3042/Major Project/Major Project.canvas",
     "Independent Projects/DND/Unnamed campaign.canvas",
     "UNI 2023/ELEC3042/Minor Project/Project.canvas",
-    "UNI 2023/ELEC3042/Untitled.canvas",
-    "UNI 2023/ELEC2040/Untitled.canvas"
+    "UNI 2023/ELEC3042/Untitled.canvas"
   ]
 }

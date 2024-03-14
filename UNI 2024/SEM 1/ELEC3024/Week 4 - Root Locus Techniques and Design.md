@@ -91,4 +91,7 @@ Dots are zeros
 4. **Starting and ending points** - The root locus begins at the finite and infinite poles of G(s)H(s) and ends at the finite and infinite zeroes of G(s)H(s). Begins when gain is 0.
 5. **Behaviour at infinity** - The root locus approaches straight lines as asymptotes as the locus approaches infinity. Further, the equations of the asymptotes are given by the real-axis intercept and angle in radians as follows.
 
+$\sigma_{a}$ is the coordinate the asymptote crosses the x axis
 $$\sigma_{a}  = \frac{\sum \text{ finite poles} - \sum \text{finite zeros}}{\text{ num of poles - num of zeroes}}$$
+
+$$\theta_{a} = \frac{1}{2}$$

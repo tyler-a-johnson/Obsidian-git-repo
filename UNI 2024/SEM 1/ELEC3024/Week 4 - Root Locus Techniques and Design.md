@@ -17,3 +17,14 @@ Relevant Links:
 ## Vector Representation of Complex Numbers (1)
 
 ![](Attachments/Pasted%20image%2020240314194050.png)$(s+a)$ is a complex number and can be represented by a vector drawn from the zero of the function to the point s
+
+The goal here is to keep the point s in the same spot, changing the origin of the vector.
+
+Apply this
+![](Attachments/Pasted%20image%2020240314194855.png)
+Each complex factor can be expressed as a vector of magnitude $M$ and angle $\theta$
+
+
+![](Attachments/Pasted%20image%2020240314194910.png)
+
+

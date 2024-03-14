@@ -81,4 +81,6 @@ the angle of the complex number is an **odd** multiple of 180 degrees. That valu
 180 * (1, 3, 5, 7 etc)
 
 ## Sketching the Root Locus
-1. **Number of branches** - Number of branches of the root locus equals the number of closed-loop p
+1. **Number of branches** - Number of branches of the root locus equals the number of closed-loop poles
+2. **Symmetry** - The root locus is symmetrical about the real axis
+3. **Real-axis segments** - On the real axis, for K>0 the root locus exists to the left of an odd number of real-axis, finite open-loop poles and/or finite open-loop zeros.

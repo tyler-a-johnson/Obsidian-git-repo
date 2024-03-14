@@ -6,9 +6,10 @@
 		{"id":"6f39a7308e51f0d9","type":"text","text":"**How do blind people know it's there?**\n- Small speaker / Beep (Proximity sensor to save power?)\n- Floor mat?\n- Research how blind people find normal signs.","x":-680,"y":-480,"width":500,"height":240},
 		{"id":"5add390477e9939a","type":"file","file":"UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240307124410.png","x":-160,"y":-520,"width":322,"height":400},
 		{"id":"a8f94d597cc20b57","type":"text","text":"**Ideal solution can:**\n- Low cost (less than $1000?)\n- 3D printable prototype\n- Changes display in less than 5 seconds\n- No moving parts\n- Low power usage (not constantly on to retain text)\n- Matches Australian Braille standards\n- Durable, can withstand being fully depressed without being pushed back into depressed\n","x":1120,"y":-440,"width":644,"height":546},
-		{"id":"e17e600f1865d9fb","x":-880,"y":-1340,"width":156,"height":60,"type":"text","text":"Actuators"},
 		{"id":"16077deabd591680","x":-1220,"y":-1340,"width":250,"height":60,"type":"text","text":"Pins"},
-		{"id":"381ff8520200e102","x":-640,"y":-1080,"width":189,"height":72,"type":"text","text":"Motherboard"}
+		{"id":"e17e600f1865d9fb","x":-900,"y":-1240,"width":156,"height":60,"type":"text","text":"Actuators"},
+		{"id":"381ff8520200e102","x":-660,"y":-1120,"width":189,"height":72,"type":"text","text":"Motherboard"},
+		{"id":"91d5d3d7e3df9705","x":-677,"y":-1225,"width":250,"height":60,"type":"text","text":"Microprocessor"}
 	],
 	"edges":[
 		{"id":"907a35bc22b3986a","fromNode":"e17e600f1865d9fb","fromSide":"left","toNode":"16077deabd591680","toSide":"right"},

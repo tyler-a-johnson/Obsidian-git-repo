@@ -50,7 +50,7 @@ $$(s+z_{1})(s+z_{2})= M_{1} e^{j \phi_{1}}*M_{2}e^{j \phi _{2}} = M_{1} M_{2} e^
 Division we change to $\phi_{1}-\phi_{2}$
 
 
-## Defining the Root Locus
+# Defining the Root Locus
 **Root Locus** - Representation of the paths of the closed-loop poles as the gain is varied.
 Example, a camera system that follows a subject
 ![](Attachments/Pasted%20image%2020240314195125.png)
@@ -67,3 +67,6 @@ Location of poles as gain changes
 These form a limit, here around -5.
 Starting point is when gain = 0
 ![](Attachments/Pasted%20image%2020240314203334.png)
+
+## Properties of the Root Locus
+Using the properties of the root locus we can sketch the root locus for higher order systems without

@@ -24,7 +24,9 @@ Apply this
 ![](Attachments/Pasted%20image%2020240314194855.png)
 Each complex factor can be expressed as a vector of magnitude $M$ and angle $\theta$
 
-
 ![](Attachments/Pasted%20image%2020240314194910.png)
 
+## Defining the Root Locus
+Example, a camera system that follo
+![](Attachments/Pasted%20image%2020240314195125.png)
 

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"806880abb49b4de2","type":"text","text":"1. Honesty with self and others\n2. Respect for time and effort of others\n3. Accountability for mistakes\n4. Courage to say the right thing\n5. Clarity of communications, not making assumptions","x":-538,"y":-232,"width":538,"height":312},
-		{"id":"8568ec7912b3892f","x":-694,"y":-662,"width":534,"height":382,"type":"text","text":"STEM PACKS - What do we want\n- The ability for students to create de[\n\n"}
+		{"id":"8568ec7912b3892f","x":-694,"y":-662,"width":534,"height":382,"type":"text","text":"STEM PACKS - What do we want\n- The ability for students to create embedded systems (Not just breadboards - solderable prototype boards)\n- Tools - Is it reasonable to include tools and hardware\n- S\n\n\n\n\n\n"}
 	],
 	"edges":[]
 }

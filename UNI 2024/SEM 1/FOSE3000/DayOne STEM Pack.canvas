@@ -4,7 +4,7 @@
 		{"id":"be19e3974b8225f4","type":"text","text":"**Questions to answer**\n- What age are we targeting\n- What is the focus, guided projects or student experimentation? Both?","x":-320,"y":-900,"width":364,"height":580},
 		{"id":"8568ec7912b3892f","type":"text","text":"**STEM PACKS - What do we want**\n- The ability for students to create embedded systems (Not just breadboards - solderable prototype boards)\n- Tools - Is it reasonable to include tools and hardware\n- The S in STEM - how do we implement pure science topics? (Bio, Phys, Chem?)\n- Structural components - Motors and actuators are useless without mechanical links and mounts.\n**Challenges**\n- Finite Resource management - re-usable components and projects (non-destructive)\n- Safety - How do we manage fun versus safety\n- Price\n- Time\n\n\n\n\n\n\n\n\n\n","x":-960,"y":-900,"width":580,"height":580,"color":"6"},
 		{"id":"d1f3930bfadc5b45","x":63,"y":-900,"width":397,"height":580,"type":"text","text":"**Resources and Potential products**\n[5 / 10 / 20 / 50 / 100 pcs SG90 9G Micro Servo Motor For Robot 6CH RC Helicopter Airplane Controls for Arduino Wholesale - AliExpress](https://www.aliexpress.com/item/32425569444.html)\n\nSource arduino (easiest MP to use)"},
-		{"id":"ee7e9084f113a9c6","x":480,"y":-900,"width":600,"height":580,"type":"text","text":"**Components to add**\nWires (obv)\nLEDs (Prioritize RGB)\nSensors (*Proximity*, beam break?, humidity, light, "}
+		{"id":"ee7e9084f113a9c6","x":480,"y":-900,"width":600,"height":580,"type":"text","text":"**Components to add**\nWires (obv)\nLEDs (Prioritize RGB)\nSensors (*Proximity*, beam break?, humidity, light, touch)\nResistors "}
 	],
 	"edges":[]
 }

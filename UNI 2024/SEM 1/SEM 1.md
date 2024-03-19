@@ -8,8 +8,7 @@
 	- [[Electronic Braille Signs]]
 	- [[Untitled]]
 - **FOSE3000**
-	- [[Week 1 - Intros]]
-	- [[Week 2 - Kinetic Pathways]]
+
 - **PHYS2010**
 	- [[Week 1 - Simple Harmonic Motion]]
 	- [[Week 2 - Damped Harmonic Motion]]

@@ -6,12 +6,12 @@
 		{"id":"6f39a7308e51f0d9","type":"text","text":"**How do blind people know it's there?**\n- Small speaker / Beep (Proximity sensor to save power?)\n- Floor mat?\n- Research how blind people find normal signs.","x":-680,"y":-480,"width":500,"height":240},
 		{"id":"5add390477e9939a","type":"file","file":"UNI 2024/SEM 1/ENGG4001/Attachments/Pasted image 20240307124410.png","x":-160,"y":-520,"width":322,"height":400},
 		{"id":"a8f94d597cc20b57","type":"text","text":"**Ideal solution can:**\n- Low cost (less than $1000?)\n- 3D printable prototype\n- Changes display in less than 5 seconds\n- No moving parts\n- Low power usage (not constantly on to retain text)\n- Matches Australian Braille standards\n- Durable, can withstand being fully depressed without being pushed back into depressed\n","x":1120,"y":-440,"width":644,"height":546},
-		{"id":"16077deabd591680","x":-1220,"y":-1340,"width":250,"height":60,"type":"text","text":"Pins"},
-		{"id":"e17e600f1865d9fb","x":-900,"y":-1240,"width":156,"height":60,"type":"text","text":"Actuators"},
-		{"id":"381ff8520200e102","x":-660,"y":-1120,"width":189,"height":72,"type":"text","text":"Motherboard"},
-		{"id":"91d5d3d7e3df9705","x":-660,"y":-1300,"width":200,"height":60,"type":"text","text":"Microprocessor"},
-		{"id":"27a5a1f3db0abcfb","x":-220,"y":-1280,"width":200,"height":60,"type":"text","text":"Data from API"},
-		{"id":"98852cc2000a1bfb","x":-620,"y":-1480,"width":120,"height":60,"type":"text","text":"Power"}
+		{"id":"16077deabd591680","type":"text","text":"Pins","x":-1220,"y":-1340,"width":250,"height":60},
+		{"id":"e17e600f1865d9fb","type":"text","text":"Actuators","x":-900,"y":-1240,"width":156,"height":60},
+		{"id":"381ff8520200e102","type":"text","text":"Motherboard","x":-660,"y":-1120,"width":189,"height":72},
+		{"id":"91d5d3d7e3df9705","type":"text","text":"Microprocessor","x":-660,"y":-1300,"width":220,"height":50},
+		{"id":"27a5a1f3db0abcfb","type":"text","text":"Data from API","x":-220,"y":-1280,"width":200,"height":60},
+		{"id":"98852cc2000a1bfb","type":"text","text":"Power","x":-620,"y":-1480,"width":120,"height":60}
 	],
 	"edges":[
 		{"id":"907a35bc22b3986a","fromNode":"e17e600f1865d9fb","fromSide":"left","toNode":"16077deabd591680","toSide":"right"},

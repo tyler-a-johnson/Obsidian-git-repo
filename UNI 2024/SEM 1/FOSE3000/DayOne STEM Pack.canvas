@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"be19e3974b8225f4","x":-424,"y":-896,"width":250,"height":60,"type":"text","text":""},
 		{"id":"806880abb49b4de2","type":"text","text":"1. Honesty with self and others\n2. Respect for time and effort of others\n3. Accountability for mistakes\n4. Courage to say the right thing\n5. Clarity of communications, not making assumptions","x":-538,"y":-232,"width":538,"height":312},
-		{"id":"8568ec7912b3892f","x":-920,"y":-880,"width":560,"height":540,"color":"6","type":"text","text":"**STEM PACKS - What do we want**\n- The ability for students to create embedded systems (Not just breadboards - solderable prototype boards)\n- Tools - Is it reasonable to include tools and hardware\n- The S in STEM - how do we implement pure science topics? (Bio, Phys, Chem?)\n- Structural components - Motors and actuators are useless without mechanical links and mounts.\n**Challenges**\n- Finite Resource management\n- Safety - How do we manage fun versus safety\n- Price\n- Time\n\n\n\n\n\n\n\n\n\n"}
+		{"id":"be19e3974b8225f4","x":-320,"y":-860,"width":364,"height":320,"type":"text","text":"**Questions to answer**\n- What age are we targeting\n- What is the focus, guided projects or student experimentation? Both?\n- "},
+		{"id":"8568ec7912b3892f","x":-960,"y":-900,"width":560,"height":540,"color":"6","type":"text","text":"**STEM PACKS - What do we want**\n- The ability for students to create embedded systems (Not just breadboards - solderable prototype boards)\n- Tools - Is it reasonable to include tools and hardware\n- The S in STEM - how do we implement pure science topics? (Bio, Phys, Chem?)\n- Structural components - Motors and actuators are useless without mechanical links and mounts.\n**Challenges**\n- Finite Resource management - re-usable \n- Safety - How do we manage fun versus safety\n- Price\n- Time\n\n\n\n\n\n\n\n\n\n"}
 	],
 	"edges":[]
 }

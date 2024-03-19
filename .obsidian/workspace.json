@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "080ca25c4d5f5506",
+        "id": "443748de54e82852",
         "type": "tabs",
         "children": [
           {
-            "id": "610f3be7dd34148e",
+            "id": "0223db98cde40895",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "viewState": {
+                  "x": -544.5206831125361,
+                  "y": -1106.8525785009988,
+                  "zoom": -0.5291666666666671
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.50418853759766
+    "width": 306.51240158081055
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -95,7 +97,6 @@
       {
         "id": "371dfface0d3aee2",
         "type": "tabs",
-        "dimension": 74.28180574555402,
         "children": [
           {
             "id": "55715e4c07a4d5a4",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md"
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas"
               }
             }
           },
@@ -166,28 +167,21 @@
                 "searchQuery": ""
               }
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "94c37083c6cbb0fc",
-        "type": "tabs",
-        "dimension": 25.718194254445972,
-        "children": [
+          },
           {
-            "id": "c4b450c7f663afdd",
+            "id": "96733f28a6198d95",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
+    "width": 311.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -195,7 +189,7 @@
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
+      "command-palette:Open command palette": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "markdown-importer:Open format converter": false,
@@ -209,57 +203,56 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "610f3be7dd34148e",
+  "active": "0223db98cde40895",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314215906.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314215644.png",
-    "Distilled Notes/Untitled.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314214549.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314205629.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314205001.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314204958.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314204403.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314203334.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314201621.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314201600.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314195942.png",
-    "Resources/Markdown Latex Reference Sheet.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
-    "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
-    "Resources/Code Repository.md",
-    "UNI 2024/SEM 1/PHYS2010/Week3 code.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
-    "UNI 2024/SEM 1/ENGG4001/Untitled.md",
-    "Resources/Resources and Links.md",
-    "Kanban Schedule.md",
-    "UNI 2024/SEM 1/SEM 1.md",
+    "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
-    "Resources/Ender 3 V2 G-Code.md",
-    "Daily Notes/05-03-2024.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
-    "copilot-conversations/Chat-2023_10_05-21_04_43.md",
-    "Articles/Untitled.md",
-    "UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md",
-    "UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md",
-    "UNI 2023/SEM 1/ELEC3042/Week 2 - Bit Logic and Interrupts.md",
+    "Resources/Code Repository.md",
+    "UNI 2024/SEM 1/TImetable.png",
+    "UNI 2024/SEM 1/PHYS2010/Week3 code.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235659.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235648.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235634.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235620.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311235259.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311234501.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311231057.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311225953.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240311225614.png",
+    "UNI 2024/SEM 1/ENGG4001/Untitled.md",
+    "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
+    "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
+    "UNI 2024/SEM 1/FOSE3000/DayOne STEM Packs.md",
+    "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+    "Study Plan (Macquarie University).canvas",
+    "README.md",
+    "Distilled Notes/Greek Letters and Symbols.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
+    "UNI 2024/SEM 1/FOSE3000/FOSE3000 - 1 Page Brief.pdf",
+    "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments",
-    "Study Plan (Macquarie University).canvas",
+    "Kanban Schedule.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 1.md",
+    "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
     "UNI 2024/SEM 1/ENGG4001/Attachments/U2800.pdf",
     "UNI 2024/SEM 1/ENGG4001/Attachments",
-    "UNI 2024/SEM 1/ENGG4001",
+    "Resources/Markdown Latex Reference Sheet.md",
+    "UNI 2024/SEM 1/FOSE3000/Week 2 - Ideas.md",
+    "UNI 2024/SEM 1/SEM 1.md",
+    "UNI 2024/SEM 1/FOSE3000/Attachments/Kinetic Walkwayus.xlsx",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Classical and Quantum Oscillations and WA.md",
+    "Resources/Ender 3 V2 G-Code.md",
+    "Resources/Templates/File Properties - Lecture Notes.md",
+    "Resources/Resources and Links.md",
+    "Resources/File Repositories and Archives.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

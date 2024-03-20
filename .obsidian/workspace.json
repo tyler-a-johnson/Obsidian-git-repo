@@ -11,12 +11,14 @@
             "id": "610f3be7dd34148e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "viewState": {
+                  "x": 391.5897321452136,
+                  "y": -496.4739018983159,
+                  "zoom": -0.459095768270995
+                }
               }
             }
           }
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md"
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas"
               }
             }
           },
@@ -211,9 +213,10 @@
   },
   "active": "610f3be7dd34148e",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314215906.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314215644.png",
@@ -240,7 +243,6 @@
     "Resources/Resources and Links.md",
     "Kanban Schedule.md",
     "UNI 2024/SEM 1/SEM 1.md",
-    "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "Resources/Ender 3 V2 G-Code.md",
     "Daily Notes/05-03-2024.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",

@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "f16a4382fd7f43ad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md"
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf"
               }
             }
           },
@@ -209,13 +220,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "610f3be7dd34148e",
+  "active": "f16a4382fd7f43ad",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
@@ -259,7 +270,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments",
     "Study Plan (Macquarie University).canvas",
-    "UNI 2024/SEM 1/ENGG4001/Attachments/U2800.pdf",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

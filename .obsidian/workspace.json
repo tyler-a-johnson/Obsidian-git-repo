@@ -11,9 +11,12 @@
             "id": "610f3be7dd34148e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week3 code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -111,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week3 code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week3 code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week3 code.md"
               }
             }
           },
@@ -208,7 +211,10 @@
   },
   "active": "610f3be7dd34148e",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
@@ -232,8 +238,6 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/ENGG4001/Untitled.md",
     "Resources/Resources and Links.md",
     "Kanban Schedule.md",
@@ -255,7 +259,6 @@
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ENGG4001/Attachments/U2800.pdf",
     "UNI 2024/SEM 1/ENGG4001/Attachments",
-    "UNI 2024/SEM 1/ENGG4001",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

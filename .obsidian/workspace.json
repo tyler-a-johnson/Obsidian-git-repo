@@ -11,14 +11,12 @@
             "id": "0223db98cde40895",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
-                "viewState": {
-                  "x": 135.6788184055391,
-                  "y": -356.71560237347137,
-                  "zoom": -0.5961134236849339
-                }
+                "file": "Resources/Code Repository.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "file": "Resources/Code Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "file": "Resources/Code Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas"
+                "file": "Resources/Code Repository.md"
               }
             }
           },
@@ -206,13 +204,13 @@
   },
   "active": "0223db98cde40895",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 - 1 Page Brief.pdf",
     "UNI 2024/SEM 1/ENGG4001/Untitled.md",
     "UNI 2024/SEM 1/SEM 1.md",
     "UNI 2024/SEM 1/TImetable.png",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
-    "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",

@@ -12,6 +12,6 @@
 - **PHYS2010**
 	- [[Week 1 - Simple Harmonic Motion]]
 	- [[Week 2 - Damped Harmonic Motion]]
-	- [[Week3 code]]
+	- [[Week 3 - Driven SHM]]
 
 %% End Waypoint %%

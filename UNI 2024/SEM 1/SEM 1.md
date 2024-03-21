@@ -13,5 +13,6 @@
 	- [[Week 1 - Simple Harmonic Motion]]
 	- [[Week 2 - Damped Harmonic Motion]]
 	- [[Week 3 - Driven SHM]]
+	- [[Week 4 - Coupled Oscillators]]
 
 %% End Waypoint %%

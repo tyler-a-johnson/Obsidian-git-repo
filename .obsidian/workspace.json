@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "a57f0f11da1f2ecd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,7 +222,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "610f3be7dd34148e",
+  "active": "a57f0f11da1f2ecd",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",

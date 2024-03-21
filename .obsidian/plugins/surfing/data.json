@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "8c18bec2a710d8ba",
-      "parent": 0,
-      "droppable": true,
-      "text": "Physical Specifications for Braille | Australian Braille Authority",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

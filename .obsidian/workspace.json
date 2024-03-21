@@ -16,8 +16,19 @@
                 "file": "UNI 2024/SEM 1/TImetable.png"
               }
             }
+          },
+          {
+            "id": "2bb95357e8e346dd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +209,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "0223db98cde40895",
+  "active": "2bb95357e8e346dd",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",

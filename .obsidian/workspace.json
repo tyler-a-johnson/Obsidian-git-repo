@@ -11,29 +11,13 @@
             "id": "610f3be7dd34148e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
-                "viewState": {
-                  "x": 391.5897321452136,
-                  "y": -496.4739018983159,
-                  "zoom": -0.459095768270995
-                }
-              }
-            }
-          },
-          {
-            "id": "a57f0f11da1f2ecd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas"
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf"
               }
             }
           },
@@ -222,8 +206,9 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a57f0f11da1f2ecd",
+  "active": "610f3be7dd34148e",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
@@ -247,7 +232,6 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/ENGG4001/Untitled.md",

@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md"
               }
             }
           },
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 710.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,7 +219,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f16a4382fd7f43ad",
+  "active": "c08e9b789a4c1123",
   "lastOpenFiles": [
     "Study Plan (Macquarie University).canvas",
     "README.md",

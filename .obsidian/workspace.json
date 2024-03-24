@@ -24,9 +24,9 @@
             "id": "f16a4382fd7f43ad",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf"
+                "file": "Kanban Schedule.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
+                "file": "Kanban Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
+                "file": "Kanban Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf"
+                "file": "Kanban Schedule.md"
               }
             }
           },
@@ -222,9 +222,12 @@
   },
   "active": "f16a4382fd7f43ad",
   "lastOpenFiles": [
+    "Study Plan (Macquarie University).canvas",
+    "README.md",
+    "UNI 2024/SEM 1/TImetable.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
@@ -245,7 +248,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314204403.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314203334.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314201621.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240314201600.png",
     "Resources/Markdown Latex Reference Sheet.md",
     "Resources/Code Repository.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
@@ -262,14 +264,12 @@
     "copilot-conversations/Chat-2023_10_05-21_04_43.md",
     "Articles/Untitled.md",
     "UNI 2023/SEM 1/ELEC3042/Week 5 - Interfacing with the Analog World.md",
-    "UNI 2023/SEM 1/ELEC2070/Week 3 - Ideal Operational Amplifiers.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments",
-    "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

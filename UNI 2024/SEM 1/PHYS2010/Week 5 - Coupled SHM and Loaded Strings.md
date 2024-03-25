@@ -112,4 +112,11 @@ $Re[A_{r}]=a_{r}=C \cos(r \theta + \phi)$
 
 $$\frac{Ce^{i(r+1)\theta + i \phi}+Ce^{i(r-1)\theta+i \phi}}{Ce^{i r \theta + i \phi}}= e^{i \theta}+e^{-i \theta} = 2 \cos \theta$$
 
-**Note the implicati**
+```ad-note
+$e^{x+y} = e^{x}e^{y}$
+
+$e^{x-y}=e^{x}/e^{y}$
+
+```
+
+

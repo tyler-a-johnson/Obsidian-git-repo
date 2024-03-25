@@ -108,3 +108,6 @@ Note: C is real
 
 Take real value to compare with physical coordinates:
 $Re[A_{r}]=a_{r}=C \cos(r \theta + \phi)$
+![](Attachments/Pasted%20image%2020240325222831.png)
+
+$$\frac{Ce^{i(r+1)\theta}}{2}$$

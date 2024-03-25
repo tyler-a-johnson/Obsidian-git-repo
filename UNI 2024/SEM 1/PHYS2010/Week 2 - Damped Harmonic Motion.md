@@ -64,7 +64,7 @@ $$x = a \sin(\omega_{1}t) + a \sin (\omega_{2}t)$$
 $$= 2a \sin \left[ \left( \frac{\omega_{1}+\omega_{2}}{2} \right)t \right]\cos \left[ \left( \frac{\omega_{2}-\omega_{1}}{2} \right) \right]$$
 ![](Attachments/Pasted%20image%2020240311203912.png)
 
-# Damped SHM (Drag)
+# Damped SHM
 Damped by moving through liquid (air included), has a **viscous term** and **pressure term**
 - Drag force $\vec{F}_{drag} = -k_{1}\vec{v} - k_{2}v^{2}\hat{v}$
 - Dissipated power $\frac{d}{dt}(-\vec{F}_{drag}*\vec{v}) = P_{drag} = k_{1}v^{2}k_{2}v^{3}$

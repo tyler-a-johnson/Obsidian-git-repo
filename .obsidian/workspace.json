@@ -21,6 +21,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "94cfd504a64a0fb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3d27c7b2327717f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.50418853759766
+    "width": 267.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -114,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md"
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf"
               }
             }
           },
@@ -187,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +225,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "610f3be7dd34148e",
+  "active": "c3d27c7b2327717f",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/SEM 1.md",
     "Study Plan (Macquarie University).canvas",
@@ -220,7 +239,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
@@ -257,7 +275,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

@@ -134,5 +134,7 @@ $$w_{j}^{2} = 2 \omega_{0}^{2}\left[ 1- \cos\left( \frac{j \pi}{n+1} \right) \ri
 
 
 ### Masses Lie on a Sine Curve
-
-
+![](Attachments/Pasted%20image%2020240325225551.png)
+n=1
+j=1
+$a_{1} = C \sin \left( \frac{\pi}{2} \right) = C$

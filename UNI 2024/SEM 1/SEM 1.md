@@ -11,6 +11,8 @@
 - **PHYS2010**
 	- [[Week 1 - Simple Harmonic Motion]]
 	- [[Week 2 - Damped Harmonic Motion]]
-	- [[Week3 code]]
+	- [[Week 3 - Driven SHM]]
+	- [[Week 4 - Coupled Oscillators]]
+	- [[Week 5 - Coupled SHM and Loaded Strings]]
 
 %% End Waypoint %%

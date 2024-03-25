@@ -94,3 +94,7 @@ Boundary conditions: $y_{0} = y_{n+1} = 0$
 Then look for normal modes:
 $$y_{r} = A_{r}e^{i \omega t}, y_{r+1}=A_{r+1}e^{i \omega t}, y_{r-1}=A_{r-1}e^{i \omega t}$$
 ![](Attachments/Pasted%20image%2020240325221641.png)
+
+$$-A_{r-1}+\left( 2- \frac{\omega^{2}ma}{T} \right) A_{r} - A_{r+1} = 0$$
+
+$$\frac{A_{r+1}+A_{r-1}}{2}$$

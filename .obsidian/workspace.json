@@ -6,7 +6,6 @@
       {
         "id": "080ca25c4d5f5506",
         "type": "tabs",
-        "dimension": 45.60041407867495,
         "children": [
           {
             "id": "610f3be7dd34148e",
@@ -18,23 +17,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "94cfd504a64a0fb2",
-        "type": "tabs",
-        "dimension": 54.399585921325055,
-        "children": [
-          {
-            "id": "c3d27c7b2327717f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf"
               }
             }
           }
@@ -228,19 +210,19 @@
   },
   "active": "610f3be7dd34148e",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230219.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
+    "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230204.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230133.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230055.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230029.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230017.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325225551.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325224222.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325222831.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325221641.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325221216.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325220359.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325220033.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325220009.png",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",

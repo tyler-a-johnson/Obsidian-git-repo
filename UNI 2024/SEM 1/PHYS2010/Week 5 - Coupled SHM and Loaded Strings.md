@@ -148,3 +148,10 @@ They really are on a sine curve
 ![](Attachments/Pasted%20image%2020240325230055.png)
 
 http://www.falstad.com/loadedstring/
+
+![](Attachments/Pasted%20image%2020240325230133.png)
+
+
+
+# Summary of Loaded String
+![](Attachments/Pasted%20image%2020240325230204.png)![](Attachments/Pasted%20image%2020240325230219.png)

@@ -28,4 +28,8 @@ Light string under tension, loaded with point masses
 **One mass**
 ![](Attachments/Pasted%20image%2020240325213244.png)
 - Light string
-- 
+- Point mass
+- Constant tension
+- Small deviation
+$$F = m \ddot{y} = -2T \sin(\theta) \approx -2T*\tan(\theta) \approx -\frac{2Ty}{a}$$
+$\approx$ for $\theta \ll 1$

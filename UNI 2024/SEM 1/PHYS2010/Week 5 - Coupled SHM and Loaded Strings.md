@@ -42,4 +42,4 @@ SHM with frequency $\omega^{2}= \frac{2T}{(ma)}$
 ![](Attachments/Pasted%20image%2020240325213656.png)
 
 *Left mass*
-$m \ddot{y}$
+$m \ddot{y}_{1} = -T\sin(\theta_{1})+T\sin (\alpha) \approx -T(y_{1} / a - (y_{2}-y_{1} / a))$

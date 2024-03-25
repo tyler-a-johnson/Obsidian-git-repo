@@ -44,7 +44,12 @@ SHM with frequency $\omega^{2}= \frac{2T}{(ma)}$
 *Left Mass*
 $m \ddot{y}_{1} = -T\sin(\theta_{1})+T\sin (\alpha) \approx -T(y_{1} / a - (y_{2}-y_{1}) / a)$
 
-$\ddot{y}_{1} + \left( \frT / ma \right)(2y_{1} - y_{2})=0$
+$\ddot{y}_{1} + \left(T / ma \right)(2y_{1} - y_{2})=0$
 
 *Right Mass*
-$\ddot{y}_{2}+(T / ma)$
+$\ddot{y}_{2}+(T / ma)(2y_{2} - y_{1})=0$
+
+
+*Add:*
+$\ddot{y}_{1}+\ddot{y}_{2}+(T / ma)(y_{1} + y_{2}) =0$
+

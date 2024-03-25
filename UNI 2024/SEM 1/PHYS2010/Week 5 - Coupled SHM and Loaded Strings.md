@@ -137,6 +137,14 @@ $$w_{j}^{2} = 2 \omega_{0}^{2}\left[ 1- \cos\left( \frac{j \pi}{n+1} \right) \ri
 ![](Attachments/Pasted%20image%2020240325225551.png)
 $n=1$
 $j=1$
-$\omega_{1} = 2 \omega$
+$\omega_{1} = 2 \omega_{0}$
 $a_{1} = C \sin \left( \frac{\pi}{2} \right) = C$
 
+Masses are connected by straight string segments (**any curvature implies infinite acceleration**)
+![](Attachments/Pasted%20image%2020240325230017.png)
+
+They really are on a sine curve
+![](Attachments/Pasted%20image%2020240325230029.png)
+![](Attachments/Pasted%20image%2020240325230055.png)
+
+http://www.falstad.com/loadedstring/

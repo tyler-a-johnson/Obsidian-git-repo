@@ -98,3 +98,10 @@ $$y_{r} = A_{r}e^{i \omega t}, y_{r+1}=A_{r+1}e^{i \omega t}, y_{r-1}=A_{r-1}e^{
 $$-A_{r-1}+\left( 2- \frac{\omega^{2}ma}{T} \right) A_{r} - A_{r+1} = 0$$
 
 $$\frac{A_{r+1}+A_{r-1}}{A_{r}} = \frac{2 \omega_{0}^{2}-\omega^2}{\omega_{0}^2}$$
+with $\omega_{0}^{2}= T / ma$
+
+```ad-important
+Look for modes with $A_{r} = Ce^{i(r \theta + \phi)}$
+
+Note: C is real
+```

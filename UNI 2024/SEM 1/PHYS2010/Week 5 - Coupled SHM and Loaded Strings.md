@@ -105,3 +105,6 @@ Look for modes with $A_{r} = Ce^{i(r \theta + \phi)}$
 
 Note: C is real
 ```
+
+Take real value to compare with physical coordinates:
+$Re[A_{r}]=a_{r}=C \cos(r \theta + \phi)$

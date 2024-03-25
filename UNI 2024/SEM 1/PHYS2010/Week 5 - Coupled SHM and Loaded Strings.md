@@ -11,13 +11,21 @@ Relevant Links:
 
 ## Review: Properties of Normal Modes
 
-For a **normal mode**:
-- Oscillation is independent of other normal modes coordinates
-- Energy is not transferred to other normal modes
-- All oscillators have a fixed phase relation
-- All oscillators have fixed amplitude ratio
-- All oscillators share the same frequency
+- For a **normal mode**:
+	- Oscillation is independent of other normal modes coordinates
+	- Energy is not transferred to other normal modes
+	- All oscillators have a fixed phase relation
+	- All oscillators have fixed amplitude ratio
+	- All oscillators share the same frequency
 
 - N oscillators $\rightarrow$ N normal modes
 - Lowest frequency mode has all oscillators in phase
 - Highest frequency mode has adjacent oscillators out of phase
+
+# Loaded String
+Light string under tension, loaded with point masses
+
+**One mass**
+![](Attachments/Pasted%20image%2020240325213244.png)
+- Light string
+- 

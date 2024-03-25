@@ -85,3 +85,8 @@ First and lass masses r = 1 and r = n are special
 
 ### N masses
 $$\ddot{y}_{r} + (T / ma) (2y_{r} - y_{r+1} - y_{r-1})=0$$
+r = 1, 2, ... , n
+![](Attachments/Pasted%20image%2020240325221216.png)
+First and last masses depend on the left and right endpoints, $y_{0}$ and $y_{n+1}$
+
+Boundary conditions: 

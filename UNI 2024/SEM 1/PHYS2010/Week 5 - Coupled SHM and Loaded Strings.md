@@ -59,3 +59,5 @@ $\ddot{y}_{1}-\ddot{y}_{2} + (3T / ma)(y_{1} - y_{2})=0$
 
 **Two masses have two normal modes**
 $Y_{1} = y_{1} + y_{2}$ with $\omega_{1}^{2} = T / ma$ and $A_{1} = A_{2}$
+
+$Y_{2} = y_{1} - y_{2}$ with $\omega_{2}^{2} = 3T / ma$ and $A_{1} = -A_{2}$

@@ -23,3 +23,7 @@ Relevant Links:
 ---
 ## 2019 Exam
 ![](Attachments/Pasted%20image%2020240325212708.png)
+![](Attachments/Pasted%20image%2020240325212728.png)
+![](Attachments/Pasted%20image%2020240325212745.png)
+![](Attachments/Pasted%20image%2020240325212826.png)
+![](Attachments/Pasted%20image%2020240325212837.png)

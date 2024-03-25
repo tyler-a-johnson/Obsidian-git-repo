@@ -120,3 +120,5 @@ $e^{x-y}=e^{x}/e^{y}$
 ```
 
 
+$A_{r} = Ce^{i (r \theta+\phi)}$
+is a valid solution as long as $2 \cos \theta = \frac{2 \omega_{0}^{2}-\omega^{2}}{\omega_{0}^2}$

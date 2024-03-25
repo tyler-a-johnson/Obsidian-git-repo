@@ -125,5 +125,9 @@ is a valid solution as long as $2 \cos \theta = \frac{2 \omega_{0}^{2}-\omega^{2
 ## Summary of N masses
 ![](Attachments/Pasted%20image%2020240325224222.png)
 
+$$a_{r} = C \sin \left( \frac{j \pi r}{n+1} \right)$$
 
+and
+
+$$w_{j}^{2} = 2$$
 # Masses Lie on a Sine Curve

@@ -69,3 +69,7 @@ $Y_{2} = y_{1} - y_{2}$ with $\omega_{2}^{2} = 3T / ma$ and $A_{1} = -A_{2}$
 **Bloody hell**
 ![](Attachments/Pasted%20image%2020240325220033.png)
 look at the rth mass: $\ddot{y}_{r}$ depends only on the positions $y_{r}, y_{r-1}$ and $y_{r+1}$
+
+![](Attachments/Pasted%20image%2020240325220359.png)
+
+$m \ddot{y}_{r} = -T \sin(\theta_{1})-T \sin(\theta_{2})$

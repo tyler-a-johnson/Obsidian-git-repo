@@ -130,4 +130,8 @@ $$a_{r} = C \sin \left( \frac{j \pi r}{n+1} \right)$$
 and
 
 $$w_{j}^{2} = 2 \omega_{0}^{2}\left[ 1- \cos\left( \frac{j \pi}{n+1} \right) \right]$$
+
+
 # Masses Lie on a Sine Curve
+
+

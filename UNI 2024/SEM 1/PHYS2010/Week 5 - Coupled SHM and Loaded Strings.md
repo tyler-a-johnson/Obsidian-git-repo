@@ -76,3 +76,12 @@ $m \ddot{y}_{r} = -T \sin(\theta_{1})-T \sin(\theta_{2})$
 $\approx -T[(y_{r} - y_{r-1}) / a + (y_{r}-y_{r+1}) / a]$
 
 $$\ddot{y}_{r} + (T / ma)(2y_{r}-y_{r+1}-y_{r-1})=0$$
+r = 1, 2, ... , n
+
+```ad-note
+First and lass masses r = 1 and r = n are special
+
+```
+
+### N masses
+$$\ddot{y}_{r} + (T / ma) (2y_{r} - y_{r+1} - y_{r-1})=0$$

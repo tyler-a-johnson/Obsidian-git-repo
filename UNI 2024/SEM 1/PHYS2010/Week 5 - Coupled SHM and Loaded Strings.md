@@ -53,3 +53,5 @@ $\ddot{y}_{2}+(T / ma)(2y_{2} - y_{1})=0$
 *Add:*
 $\ddot{y}_{1}+\ddot{y}_{2}+(T / ma)(y_{1} + y_{2}) =0$
 
+*Subtract*
+$\ddot{y}_{1}-\ddot{y}_{2} + (3T / ma)(y_{1} - y_{2})=0$

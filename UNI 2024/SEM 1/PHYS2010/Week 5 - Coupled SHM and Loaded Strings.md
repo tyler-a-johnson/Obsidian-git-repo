@@ -55,3 +55,6 @@ $\ddot{y}_{1}+\ddot{y}_{2}+(T / ma)(y_{1} + y_{2}) =0$
 
 *Subtract*
 $\ddot{y}_{1}-\ddot{y}_{2} + (3T / ma)(y_{1} - y_{2})=0$
+
+
+**Two masses have two normal modes**

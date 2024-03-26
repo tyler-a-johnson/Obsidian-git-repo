@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 Pre Lab.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 Pre Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 Pre Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md"
+                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 Pre Lab.md"
               }
             }
           },
@@ -204,9 +203,10 @@
   },
   "active": "0223db98cde40895",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+    "UNI 2024/SEM 1/PHYS2010/LAB 1 Pre Lab.md",
     "Resources/Code Repository.md",
     "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230219.png",
@@ -252,7 +252,6 @@
     "Kanban Schedule.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1.md",
     "Resources/Markdown Latex Reference Sheet.md",
-    "UNI 2024/SEM 1/FOSE3000/Week 2 - Ideas.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

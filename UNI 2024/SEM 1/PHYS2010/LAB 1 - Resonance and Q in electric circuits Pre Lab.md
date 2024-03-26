@@ -15,4 +15,6 @@ $\omega_{0} = 4.47 \frac{rad}{s}$
 $T = 1.40$
 
 3. How would your answer for the angular frequency 𝜔଴ in Q2 change if you doubled the resistance 𝑅? Would anything else change?
-Doubling the resistance would not change angular frequency. It will halve the Q factor, a
+Doubling the resistance would not change angular frequency. It will halve the Q factor, and reduce the maximum current.
+
+4. Suppose you connected a DMM set to ammeter mode in the circuit with the parameters in Q2. Describe what you would observe.

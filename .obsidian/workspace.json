@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 347.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -204,8 +204,9 @@
   "active": "0223db98cde40895",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
-    "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
     "Resources/Code Repository.md",
+    "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
+    "UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md",
     "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
@@ -251,7 +252,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments",
     "Kanban Schedule.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1.md",
-    "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

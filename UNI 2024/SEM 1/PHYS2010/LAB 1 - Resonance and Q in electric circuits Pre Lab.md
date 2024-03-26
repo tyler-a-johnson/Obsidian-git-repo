@@ -15,4 +15,4 @@ $\omega_{0} = 4.47 \frac{rad}{s}$
 $T = 1.40$
 
 3. How would your answer for the angular frequency 𝜔଴ in Q2 change if you doubled the resistance 𝑅? Would anything else change?
-The amplitude of the cu
+Doubling the resistance would not change angular frequency. 

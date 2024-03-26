@@ -7,7 +7,7 @@ Relevant Notes:
 Relevant Links:
 ---
 1. Based on the definitions in the notes, write down the units of the following quantities:
-	- Angular displacement: Meter
+	- Angular displacement: Radians
 	- Amplitude: Meters
-	- Angular Frequency: 
+	- Angular Frequency: Rad/s
 	- Coupling Constant: 

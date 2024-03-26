@@ -9,7 +9,7 @@
 - **FOSE3000**
 
 - **PHYS2010**
-	- [[LAB 1 Pre Lab]]
+	- [[LAB 1 - Resonance and Q in electric circuits Pre Lab]]
 	- [[Week 1 - Simple Harmonic Motion]]
 	- [[Week 2 - Damped Harmonic Motion]]
 	- [[Week 3 - Driven SHM]]

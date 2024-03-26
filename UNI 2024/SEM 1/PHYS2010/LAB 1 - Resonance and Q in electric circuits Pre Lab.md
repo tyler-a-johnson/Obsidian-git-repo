@@ -11,4 +11,4 @@ Relevant Links:
 2. Find the resonant angular frequency 𝜔଴ and the period 𝑇 for an RLC circuit with 𝑅 = 100 Ω, 𝐶 = 0.1 F, and 𝐿 = 0.5 H. (That’s a pretty large capacitance by the way).
 $$\omega_{0} = \frac{1}{\sqrt{ LC }}$$
 
-$\omega_{0} = 4.47$
+$\omega_{0} = 4.47 \frac{rad}{s}$

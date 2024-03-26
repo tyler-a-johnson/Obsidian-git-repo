@@ -15,8 +15,8 @@
               "state": {
                 "file": "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
                 "viewState": {
-                  "x": -187.19163724090333,
-                  "y": -466.504078930259,
+                  "x": -361.5494585856766,
+                  "y": -545.5506969020337,
                   "zoom": -0.32489174429115364
                 }
               }
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",

@@ -19,7 +19,7 @@ kanban-plugin: basic
 
 ## TO DO
 
-- [ ] Progress Report #ENGG/4001  @{31-03-2024}
+- [ ] Progress Report #ENGG/4001  @{3-04-2024}
 - [ ] Quiz 2 #ENGG/4001 @{01-05-2024}
 - [ ] Quiz 3 #ENGG/4001 @{08-05-2024}
 - [ ] Quiz 4 #ENGG/4001 @{15-05-2024}

@@ -11,12 +11,9 @@
             "id": "610f3be7dd34148e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban Schedule.md"
               }
             }
           }
@@ -114,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+                "file": "Kanban Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+                "file": "Kanban Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md"
+                "file": "Kanban Schedule.md"
               }
             }
           },
@@ -210,10 +207,10 @@
   },
   "active": "610f3be7dd34148e",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230219.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230204.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230133.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230055.png",

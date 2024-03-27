@@ -11,9 +11,14 @@
             "id": "610f3be7dd34148e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "viewState": {
+                  "x": 86.03554894284625,
+                  "y": -387.94108657021013,
+                  "zoom": 0.790904231729005
+                }
               }
             }
           }
@@ -111,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas"
               }
             }
           },
@@ -207,6 +212,8 @@
   },
   "active": "610f3be7dd34148e",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/TImetable.png",
+    "Kanban Schedule.md",
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230219.png",
@@ -245,12 +252,10 @@
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
     "UNI 2024/SEM 1/ENGG4001/Untitled.md",
     "Resources/Resources and Links.md",
-    "Kanban Schedule.md",
     "Resources/Ender 3 V2 G-Code.md",
     "Daily Notes/05-03-2024.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "copilot-conversations/Chat-2023_10_05-21_04_43.md",
-    "Articles/Untitled.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",

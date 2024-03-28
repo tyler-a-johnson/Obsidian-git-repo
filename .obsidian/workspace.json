@@ -11,14 +11,12 @@
             "id": "0223db98cde40895",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
-                "viewState": {
-                  "x": -409.8875512000344,
-                  "y": -114.59386588331745,
-                  "zoom": -0.0777367943541997
-                }
+                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas"
+                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md"
               }
             }
           },
@@ -204,6 +203,7 @@
   },
   "active": "0223db98cde40895",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
@@ -225,7 +225,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
-    "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 - 1 Page Brief.pdf",
     "UNI 2024/SEM 1/ENGG4001/Untitled.md",

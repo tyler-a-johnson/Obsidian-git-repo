@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
+                "file": "Resources/Code Repository.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "31fa505782cddf2a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
+                "file": "Resources/Code Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
+                "file": "Resources/Code Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md"
+                "file": "Resources/Code Repository.md"
               }
             }
           },
@@ -211,11 +200,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "31fa505782cddf2a",
+  "active": "0223db98cde40895",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
-    "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "Resources/Code Repository.md",
     "UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md",

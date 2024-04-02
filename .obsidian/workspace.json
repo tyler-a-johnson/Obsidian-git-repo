@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b1b319d0b6572b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Code Repository.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Code Repository.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Code Repository.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -207,53 +221,56 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "594a024c67b15575",
+  "active": "6b1b319d0b6572b8",
   "lastOpenFiles": [
+    "Resources/Code Repository.md",
+    "conflict-files-obsidian-git.md",
+    "UNI 2024/SEM 1/TImetable.png",
+    "UNI 2024/SEM 1/SEM 1.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325221641.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230219.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230204.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230133.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230055.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230029.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230017.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325225551.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325224222.png",
+    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+    "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments",
+    "UNI 2024/SEM 1/PHYS2010",
+    "UNI 2024/SEM 1/FOSE3000/Attachments/PersonalReflectionWeek1(1).docx",
+    "UNI 2024/SEM 1/FOSE3000/Attachments/Kinetic Walkwayus.xlsx",
+    "UNI 2024/SEM 1/FOSE3000/FOSE3000 - 1 Page Brief.docx",
+    "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
+    "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
+    "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
+    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
+    "Daily Notes/05-03-2024.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 2 - Transformation Operators, Components of Robots.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 8 - Industrial Automation and Jacobians.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 8 Lecture Workshop-1.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 5 + 6 - Inverse Kinematics.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 4 - Sensing and perception, Data acquisition system, X–Y–Z Fixed Angles.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 3-lecture workshop-ilearn.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 3 - Sensing and Perception in Robotic and Automation - Translation, Rotations, and Transformations.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 2 lecture.workshop ilearn.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 1 - Intro and Spatial Descriptions.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 7 - Sensors, Forward Kinematics.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 7-slides 3060.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143453.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117143143.png",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 9 - Generative AI and Robotic Singularities.md",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 13 - The Present and Future of Robotics.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 13 lecture workshop class.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 12 - Risk Analysis and Safety in Robotics and Automation.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 12 lecture workshop.pdf",
     "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 11 - Robotics and Automations in Aus Industry.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Robotic_and_Automation-Week 11.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Week 10 - Robot-Human Interface + Jacobian - Velocities and Static Forces.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 10, Lecture workshop-1.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Week 9- lecture workshop.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117133015.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117132544.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117132503.png",
-    "Distilled Notes/Greek Letters and Symbols.md",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Workshop Lecture week 5.pdf",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120848.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120751.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120628.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117120539.png",
-    "UNI 2023/SEM 2/MTRN3060/Lectures+Workshop/Attachments/Pasted image 20231117115456.png",
-    "Distilled Notes/Untitled.md",
-    "Resources/Markdown Latex Reference Sheet.md",
-    "Distilled Notes/Spatial Descriptions and Transformations in 3D Space.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 10 + 11 - Power Electronics and Inverters.md",
-    "UNI 2023/SEM 2/MTRN3026/Past Exams.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 9 - Hydraulics.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 5 + 6 - Performance Analysis of Induction Motors.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 1 - Introduction, Mechatronic Fundamental and Transformers.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 2 - DC Motors and Selection in MTRN Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 3 - Sensors and Control Fundamentals.md",
-    "UNI 2023/SEM 2/MTRN3026/Week 8 - Pneumatic Systems.md",
-    "UNI 2023/SEM 2/MTRN3026/Drawing 2023-11-13 18.13.44.excalidraw.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
@@ -261,7 +278,6 @@
     "UNI 2023/ELEC3042/Major Project/Major Project.canvas",
     "Independent Projects/DND/Unnamed campaign.canvas",
     "UNI 2023/ELEC3042/Minor Project/Project.canvas",
-    "UNI 2023/ELEC3042/Untitled.canvas",
-    "UNI 2023/ELEC2040/Untitled.canvas"
+    "UNI 2023/ELEC3042/Untitled.canvas"
   ]
 }

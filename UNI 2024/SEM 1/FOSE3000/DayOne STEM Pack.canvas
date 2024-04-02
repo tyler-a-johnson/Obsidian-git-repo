@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"806880abb49b4de2","type":"text","text":"1. Honesty with self and others\n2. Respect for time and effort of others\n3. Accountability for mistakes\n4. Courage to say the right thing\n5. Clarity of communications, not making assumptions","x":-538,"y":-232,"width":538,"height":312},
+		{"id":"be19e3974b8225f4","type":"text","text":"**Questions to answer**\n- What age are we targeting\n\t- Stage 2 - 9 to 10 year olds\n- What is the focus, guided projects or student experimentation? Both?","x":-360,"y":-900,"width":440,"height":580},
+		{"id":"8568ec7912b3892f","type":"text","text":"**STEM PACKS - What do we want**\n- The ability for students to create embedded systems (Not just breadboards - solderable prototype boards)\n- Tools - Is it reasonable to include tools and hardware\n- The S in STEM - how do we implement pure science topics? (Bio, Phys, Chem?)\n- Structural components - Motors and actuators are useless without mechanical links and mounts.\n**Challenges**\n- Finite Resource management - re-usable components and projects (non-destructive)\n- Safety - How do we manage fun versus safety\n- Price\n- Time\n\n\n\n\n\n\n\n\n\n","x":-960,"y":-900,"width":580,"height":580,"color":"6"},
+		{"id":"d1f3930bfadc5b45","type":"text","text":"**Resources and Potential products**\n[5 / 10 / 20 / 50 / 100 pcs SG90 9G Micro Servo Motor For Robot 6CH RC Helicopter Airplane Controls for Arduino Wholesale - AliExpress](https://www.aliexpress.com/item/32425569444.html)\n\nSource arduino (easiest MP to use)\n\n[Course content | NSW Education Standards](https://educationstandards.nsw.edu.au/wps/portal/nesa/k-10/learning-areas/tas/science-and-technology-k-6-new-syllabus/content)","x":100,"y":-900,"width":360,"height":580},
+		{"id":"ee7e9084f113a9c6","type":"text","text":"**Components to add**\nWires (obv)\nLEDs (Prioritize RGB)\nSensors (*Proximity*, beam break?, humidity, light, touch)\nResistors ","x":480,"y":-900,"width":600,"height":580}
+	],
+	"edges":[]
+}

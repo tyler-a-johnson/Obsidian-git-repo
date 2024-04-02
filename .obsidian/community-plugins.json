@@ -23,7 +23,6 @@
   "obsidian-custom-frames",
   "templater-obsidian",
   "mermaid-tools",
-  "copilot",
   "obsidian-icon-folder",
   "obsidian-latex-suite",
   "media-extended",
@@ -31,5 +30,6 @@
   "obsidian-git",
   "obsidian-ocr",
   "obsidian-pandoc",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "waypoint"
 ]

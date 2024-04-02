@@ -1,14 +1,13 @@
 ---
 date: <% tp.date.now() %>
-tags: []
+tags: 
 status: Incomplete
-Relevant Docs: []
-Relevant Questions: []
-Relevant Notes: []
-Practical Docs: 
+Relevant Questions: 
+Relevant Notes: 
 Relevant Links:
 ---
-# Maths and Distilled Info
+**Lecture Slides:**
+# Maths Content
 ---
 
 

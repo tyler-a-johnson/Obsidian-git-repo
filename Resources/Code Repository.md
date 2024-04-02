@@ -1,7 +1,7 @@
 
 # C
 ## ATmega328P
-### ELEC3042 Major - Pass Requirements Only
+### ELEC3042 Major - Pass Requirements Only - Really suboptimal but functional
 ```c
 /*
 /*
@@ -1185,6 +1185,78 @@ if (PWM_counter >= MAX_count){{
 }
 ```
 # Python
+
+## Physics
+
+### Dot Product
+
+```python
+def dot_product(xlist,ylist):
+    
+    if len(xlist) != len(ylist):
+        return None
+    
+    dotP = 0
+    for i in range(len(xlist)):
+         dotP = dotP + ( xlist[i] * ylist[i] )
+    return dotP
+
+```
+
+### Rangef - Range with step
+```python
+def rangef(xmin, xmax, dx):
+    out = []
+    steps = int(round((xmax-xmin)/float(dx)))
+    for step in range(steps):
+        x = step*dx+xmin
+        out.append(x)
+        
+    return out
+```
+
+```python
+>>> a = np.zeros((2, 3, 4))
+>>> a
+array([[[ 0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.]],
+
+       [[ 0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.],
+        [ 0.,  0.,  0.,  0.]]])
+```
+
+Arrays in NumPy are printed as the word `array` followed by structure, similar to embedded Python lists. Let's create a similar list:
+
+```python
+>>> l = [[[ 0.,  0.,  0.,  0.],
+          [ 0.,  0.,  0.,  0.],
+          [ 0.,  0.,  0.,  0.]],
+
+          [[ 0.,  0.,  0.,  0.],
+          [ 0.,  0.,  0.,  0.],
+          [ 0.,  0.,  0.,  0.]]]
+
+>>> l
+[[[0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]], 
+ [[0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0], [0.0, 0.0, 0.0, 0.0]]]
+```
+
+The first level of this compound list `l` has exactly 2 elements, just as the first dimension of the array `a` (# of rows). Each of these elements is itself a list with 3 elements, which is equal to the second dimension of `a` (# of columns). Finally, the most nested lists have 4 elements each, same as the third dimension of `a` (depth/# of colors).
+
+So you've got exactly the same structure (in terms of dimensions) as in Matlab, just printed in another way.
+
+Some caveats:
+
+1. Matlab stores data column by column ("Fortran order"), while NumPy by default stores them row by row ("C order"). This doesn't affect indexing, but may affect performance. For example, in Matlab efficient loop will be over columns (e.g. `for n = 1:10 a(:, n) end`), while in NumPy it's preferable to iterate over rows (e.g. `for n in range(10): a[n, :]` -- note `n` in the first position, not the last).
+    
+2. If you work with colored images in OpenCV, remember that:
+    
+    2.1. It stores images in BGR format and not RGB, like most Python libraries do.
+    
+    2.2. Most functions work on image coordinates (`x, y`), which are opposite to matrix coordinates (`i, j`).
+
 
 # Arduino (C mixed with C++ sprinkled with libraries)
 

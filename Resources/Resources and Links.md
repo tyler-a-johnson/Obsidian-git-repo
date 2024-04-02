@@ -47,8 +47,9 @@
 |                                                                                                             |                                                                                                                                                                                                             |      |
 
 
-# 3D Printing - Stores and Information
-
-Troubleshooting, tuning, upgrades, and tests. Diagonal Z hop??
-[Teaching Tech 3D Printer Calibration](https://teachingtechyt.github.io/calibration.html)
-
+# Emulation
+| Name             | Contents                     | Link                                |
+| ---------------- | ---------------------------- | ----------------------------------- |
+| Myrient          | Games and BIOS files         | https://myrient.erista.me/          |
+| PS3 IRD Database | IRD files for decrypting PS3 | https://ps3.aldostools.org/ird.html |
+|                  |                              |                                     |

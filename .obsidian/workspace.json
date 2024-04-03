@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3014489706482166",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +211,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0223db98cde40895",
+  "active": "3014489706482166",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",

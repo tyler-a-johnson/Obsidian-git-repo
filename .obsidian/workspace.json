@@ -24,12 +24,9 @@
             "id": "b785d5120e6eca31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Daily Notes/03-04-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban Schedule.md"
               }
             }
           }
@@ -127,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/03-04-2024.md",
+                "file": "Kanban Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/03-04-2024.md",
+                "file": "Kanban Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/03-04-2024.md"
+                "file": "Kanban Schedule.md"
               }
             }
           },
@@ -216,8 +213,8 @@
   },
   "active": "b785d5120e6eca31",
   "lastOpenFiles": [
-    "Resources/Code Repository.md",
     "Daily Notes/03-04-2024.md",
+    "Resources/Code Repository.md",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",

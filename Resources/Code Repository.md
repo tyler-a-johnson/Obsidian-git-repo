@@ -746,6 +746,257 @@ int main(void) {
 }
 ```
 
+
+### ELEC3042 Minor - Pass
+```c
+/*
+ * File: MinorProject.c
+ * Author: Tyler Johnson
+ *
+ * Created on 19th March 2022, 4:55 PM
+ */
+
+//==============Header files==============
+#include <xc.h>
+#include <avr/io.h>
+#include <avr/interrupt.h>
+#define A1 0b00000010                                   //Define variable for A1 pin
+#define A2 0b00000100                                   //Define variable for A2 pin
+
+//====================================== Global Variables and Functions ======================================
+char digits[4];                                         //char array of length 4 - in initial state
+volatile uint32_t clock_count = 0;                      //millisecond timer, this is updated every millisecond using a CTC timer interrupt
+volatile uint32_t display_time = 0;                     //Time being displayed
+volatile uint32_t saved_time = 0;                       //Time saved (during pause state)
+
+volatile uint32_t A1_time = 0;                          //Time variable for storing time since A1 is pressed first
+volatile uint32_t A2_time = 0;                          //Time variable for storing time since A1 is pressed first
+volatile uint8_t old_button = 0b00001110;               //Old Button State
+volatile uint8_t new_button = 0b00001110;               //New Button State
+volatile uint32_t debounce_timer = 0;                   //another millisecond timer running off the same timer interrupt to keep track of time for debouncing
+volatile uint8_t button_flags = 0;                      //Variable for setting button flags
+
+enum STATE {stateInitial, stateCount, statePaused};     //Define each state for the state machine
+enum STATE cur_state;                                   //Define a variable to keep track of the current state
+enum STATE next_state;                                  //Define a variable to keep track of the state being transitioned into
+
+//Segment byte maps for numbers 0 to 9
+const uint8_t SEGMENT_MAP[] = {
+    0xC0, 0xF9, 0xA4, 0xB0, 0x99, 0x92, 0x82, 0xF8, 0X80, 0X90,
+// Continuing on for A (10) to F (15)
+    0x88, 0x83, 0xC6, 0xA1, 0x86, 0x8E,
+// Then blank (16), dash (17)
+    0xFF, 0x40
+};
+
+//Returns the corresponding segmap value
+uint8_t segmentMap(uint8_t value) {
+    return SEGMENT_MAP[value];
+}
+
+//Interrupt for S1-A1 and S2-A2
+ISR(PCINT1_vect) {  
+    new_button = PINC;                                  //Current state of PINC
+    
+    uint8_t changed_bits = old_button^new_button;       //Calculate which bits have changed
+    
+    if (changed_bits & A1){                             //Check if button change has occurred on A1
+        if ((debounce_timer - A1_time)>3){              //If 30 ms has passed
+            A1_time = debounce_timer;                   //Set A1_time to equal the value of de-bounce (zero it)
+            if ((old_button & ~new_button) & A1){       //If there is still a change in A1
+                button_flags |= A1;                     //Set flag to high so it can be processed in loop
+            }
+            old_button = new_button;                    //Change the old button state to the new button state
+        }
+        
+    }
+    if (changed_bits & A2){                             //Check if button change has occurred on A1
+        if ((debounce_timer - A2_time)>3){              //If 30 ms has passed
+            A2_time = debounce_timer;                   //Set A2_time to equal the value of de-bounce (zero it)
+            if ((old_button & ~new_button) & A2){       //If there is still a change in A2
+                button_flags |= A2;                     //Set flag to high so it can be processed in loop
+            }
+            old_button = new_button;                    //Change the old button state to the new button state
+        }
+        
+    }
+}
+
+
+//Interrupt for timer
+ISR(TIMER1_COMPA_vect) {
+    clock_count++;                                      //Increment clock count (every millisecond))
+    debounce_timer++;                                   //Increment debounce tracking variable
+}
+
+void timer1Setup (){
+    TCCR1A = 0b01000000;                                //CTC Mode
+    TCCR1B = 0b00001011;                                // /64 Prescaler
+    OCR1A = 2500;                                       //Number we are "counting" up to.
+    TCNT1 = 0;                                          //Number we are "counting" up from.
+    ICR1 = 0;                                           //Input Capture Register
+    TIFR1 = 0b00000000;                                 //Timer interrupt flag register
+    TIMSK1 = 0b00000010;                                //Timer interrupt mask
+}
+
+void setup() {
+    timer1Setup();   //Runs timerSetup
+    
+    //DDR - 0 for input - 1 for output
+    //PORT - 0 for no pullup - 1 for pullup
+    
+    DDRB =  0b00111110;          //Direction Register B - Attached to port expander and button
+    PORTB = 0b00000001;         //PORTB Internal Pullups
+
+    DDRC =  0b00111110;          //Direction Register C - Attached to SRP LEDs, LCD Display, and Turnpot
+    PORTC = 0b00000000;         //PORTC Internal Pullups
+
+    DDRD =  0b10110100;          //Direction Register D - Attached to Port Expander, and SPR LEDs
+    PORTD = 0b01001000;         //PORTD Internal Pullups
+
+    EIMSK = 0;
+    EICRA = 0;
+    
+    PCMSK1 = 0b00001110;        //Pin Change Mask Register 0
+    PCICR =  0b00000010;         //Pin Change Interrupt Control Register
+    
+    sei();                      //Enable global interrupts
+}
+
+
+
+//Sending data to the 7 segment display using segments and digit array as input
+void sendData(uint8_t segments, uint8_t digits) {
+        PORTD |= _BV(7);                            //Set PD7 High
+     
+        for (int i = 0; i < 8; i++){                //Loop 8 times
+            PORTD &= ~_BV(7);                       //Set PD7 Low
+                if(segments & (0b10000000>>i))      //Compare segments to a mask that shifts based on the value of i
+                {
+                    PORTB |= _BV(0);                //Set PB0 High
+                }
+                else
+                {
+                    PORTB &= ~_BV(0);               //Set PB0 Low
+                }
+            PORTD |= _BV(7);                        //Set PD7 High
+        }
+        for(int j = 0; j < 8; j++){                 //Loop 8 times
+            PORTD &= ~_BV(7);                       //Set PD7 Low
+                if(digits & (0b10000000>>j))
+                {
+                    PORTB |= _BV(0);                //Set PB0 High
+                }
+                else
+                {
+                   PORTB &= ~_BV(0);                //Set PB0 Low
+                }
+            PORTD = 0b10000000;
+        }
+         PORTD = 0b10010000;
+}
+
+//Sends data from digits to the sendData function - which in turn
+//displays on the 7 segment
+void showDigits() {
+    sendData(segmentMap(digits[0]) & 0b01111111, (1<<0));   //Sends data and enables dp
+    sendData(segmentMap(digits[1]), (1<<1));
+    sendData(segmentMap(digits[2]) & 0b01111111, (1<<2));   //Sends data and enables dp
+    sendData(segmentMap(digits[3]), (1<<3));
+
+    sendData(segmentMap(16), 0);                            // blank the display
+}
+
+
+//===Main Loop==//
+int main(void) {
+    setup();
+    cur_state = stateInitial;                       //Set state to Initial off the bat
+    
+    while(1) {                                      //Main Loop
+        showDigits();                               //Displays digits (0.00.0)
+        switch(cur_state){                          //Switch statement
+            
+            case stateInitial:                      //Initial State - timer is at 0 and count doesn't increment
+                PORTB |= 0b11111111;                //Turn off all LEDs
+                
+                clock_count = 0;                    //Reset the time
+                display_time = 0;                   //Change the saved time to the current display time (0)
+                
+                if(button_flags & A1){                      //If A1 is pressed
+                    button_flags = button_flags & ~A1;      //Reset the flag
+                    next_state = stateInitial;              //Set the next state to initial
+                }
+                else{
+                    if(button_flags & A2){                  //If A2 is pressed
+                        next_state = stateCount;            //Set the next state transition to stateCount
+                        button_flags = button_flags & ~A2;  //Reset the flag
+                    }
+                }  
+                break;
+                
+            case stateCount:                                //Count State - Timer is counting up from either paused or initial
+                PORTB |= 0b11111111;                        //Turn off all LEDs
+                
+                display_time = clock_count;                 //Assign clock count to display_time - starting the timer from where it was given the previous state
+                
+                if(button_flags & A1){                      //If A1 is pressed
+                    button_flags = button_flags & ~A1;      //Reset the flag
+                    next_state = stateInitial;              //Set the next state transition to stateInitial
+                }
+                else{
+                    if(button_flags & A2){                  //If A2 is pressed
+                        button_flags = button_flags & ~A2;  //Reset the flag
+                        saved_time = display_time;          //Save the value of display_time so it can be resumed later
+                        next_state = statePaused;           //Set the next state transition to statePaused
+                        
+                    }
+                    else{
+                        next_state = stateCount;            //Return to stateCount
+                    }
+                }
+                break;
+                
+            case statePaused:                               //Pauses count and displays the same value, when start/stop is pressed it resumes
+                PORTB &= 0b11111011;                        //Turn on D4 LED
+                
+                if (button_flags & A2){                     //If A2 is pressed
+                    button_flags = button_flags & ~A2;      //Reset the flag
+                    clock_count = saved_time;               //Assign saved_time to clock_count - resuming counting from saved_time
+                    next_state = stateCount;                //Set the next state transition to stateCount
+                }
+                else{
+                    next_state = statePaused;               //Otherwise stay in statePaused
+                    
+                    if (button_flags & A1){                 //If A1 is pressed
+                        button_flags = button_flags & ~A1;  //Reset the flag
+                        next_state = stateInitial;          //Set the next state transition to stateCount
+                        clock_count = 0;                    //Reset clock_count to 0
+                    }
+                    else{
+                        if ((button_flags & A2)==1){            //If A2 = button_flags
+                            button_flags = button_flags & ~A2;  //Reset the flag
+                            next_state = statePaused;           //Set the next state transition to statePaused
+                        }
+
+                    }
+
+                }
+                break;
+                }
+        
+        cur_state = next_state;                             //set cur_state to next_state
+        
+        digits[0] = ((display_time/10)/600)%10;                 //update display_time to change the time displayed on the 7 segment display
+        digits[1] = ((display_time/100)%60)/10;
+        digits[2] = ((display_time/100)%60)%10;
+        digits[3] = (display_time/10)%10;
+        showDigits();
+    }
+}
+
+```
+
 ### Timers
 #### Timer0 Setup
 ```scss

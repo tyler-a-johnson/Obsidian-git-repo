@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
+                "file": "Resources/Code Repository.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "b785d5120e6eca31",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban Schedule.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "Resources/Code Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "Resources/Code Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "Resources/Code Repository.md"
               }
             }
           },
@@ -211,15 +200,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b785d5120e6eca31",
+  "active": "0223db98cde40895",
   "lastOpenFiles": [
-    "Daily Notes/03-04-2024.md",
-    "Resources/Code Repository.md",
-    "Resources/Markdown Latex Reference Sheet.md",
+    "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
-    "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
+    "Resources/Code Repository.md",
     "UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md",
     "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
@@ -262,6 +249,7 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments",
+    "Kanban Schedule.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

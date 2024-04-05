@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/04-04-2024.md",
+                "file": "Daily Notes/05-04-2024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/04-04-2024.md",
+                "file": "Daily Notes/05-04-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/04-04-2024.md",
+                "file": "Daily Notes/05-04-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/04-04-2024.md"
+                "file": "Daily Notes/05-04-2024.md"
               }
             }
           },
@@ -203,7 +203,9 @@
   "active": "0223db98cde40895",
   "lastOpenFiles": [
     "Resources/Code Repository.md",
+    "Daily Notes/05-04-2024.md",
     "Daily Notes/04-04-2024.md",
+    "Daily Notes/03-04-2024.md",
     "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
@@ -244,13 +246,11 @@
     "README.md",
     "Distilled Notes/Greek Letters and Symbols.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
-    "UNI 2023/SEM 2/ELEC2005/Week 11 - Fundamentals of Renewable Energy and Solar Photovoltaics.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments",
-    "Kanban Schedule.md",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

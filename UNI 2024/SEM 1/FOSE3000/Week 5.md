@@ -1,2 +1,2 @@
 
-Week 5 was spent focusing on our Bachelor of Commerce consultancy document, and evaluating the resources needed to achieve our one year goals. We were given the opportunity to prepare a 
+Week 5 was spent focusing on our Bachelor of Commerce consultancy document, and evaluating the resources needed to achieve our one year goals. We were given the opportunity to prepare a list of questions regarding 

@@ -32,7 +32,7 @@
       {
         "id": "5808f64fe8285c4f",
         "type": "tabs",
-        "dimension": 76.0036496350365,
+        "dimension": 76.0268231349539,
         "children": [
           {
             "id": "722bd1a166a65a70",
@@ -72,7 +72,7 @@
       {
         "id": "f7179793503f86be",
         "type": "tabs",
-        "dimension": 23.996350364963504,
+        "dimension": 23.973176865046103,
         "children": [
           {
             "id": "82f54e8032cf210c",
@@ -202,9 +202,13 @@
   },
   "active": "0223db98cde40895",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/FOSE3000/Week 6.md",
-    "UNI 2024/SEM 1/FOSE3000/Week 7.md",
     "UNI 2024/SEM 1/FOSE3000/Week 5.md",
+    "UNI 2024/SEM 1/FOSE3000/Week 7.md",
+    "UNI 2024/SEM 1/FOSE3000/Week 6.md",
+    "UNI 2024/SEM 1/FOSE3000/~$SE3000 GoGreener Questions.docx",
+    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+    "UNI 2024/SEM 1/FOSE3000/Attachments/Week 8.md",
     "Daily Notes/05-04-2024.md",
     "Resources/Code Repository.md",
     "Daily Notes/04-04-2024.md",
@@ -215,8 +219,6 @@
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md",
     "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230219.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230204.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325220009.png",
@@ -242,15 +244,12 @@
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Packs.md",
     "UNI 2024/SEM 1/FOSE3000/Week 2 - Kinetic Pathways.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

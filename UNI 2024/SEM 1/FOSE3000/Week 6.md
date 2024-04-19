@@ -1,1 +1,1 @@
-This week was 
+This week was focused on customer discovery and best practices on gathering information from customers and investors. 

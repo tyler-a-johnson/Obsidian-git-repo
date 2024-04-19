@@ -1,1 +1,1 @@
-This week was focused on customer discovery and best practices on gathering information from customers and investors. We learned about 
+This week was focused on customer discovery and best practices on gathering information from customers and investors. We learned about best practices when interviewing customers, asking effective questions, and having a solid value proposition. One of the most 

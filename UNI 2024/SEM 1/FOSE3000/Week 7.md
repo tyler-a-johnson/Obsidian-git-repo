@@ -1,1 +1,1 @@
-Unfortunately this week I was sick at home with a cough transmitted through my house. I was able to work from home on budgeting and justifying a budget. I was able to look over the 
+Unfortunately this week I was sick at home with a cough transmitted through my house. I was able to work from home on budgeting and justifying a budget. I was able to work on the project budget over the internet and helped suggest stuff 

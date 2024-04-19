@@ -1,2 +1,2 @@
 
-Week 5 was spent focusing on our Bachelor of Commerce consultancy document, and evaluating the resources needed to achieve our one year goals. We were given the opportunity to prepare a list of questions regarding the commerce and business side of our FOSE projects. Having little experience in business this was really valuable to me, as working out some of the business aspects is important 
+Week 5 was spent focusing on our Bachelor of Commerce consultancy document, and evaluating the resources needed to achieve our one year goals. We were given the opportunity to prepare a list of questions regarding the commerce and business side of our FOSE projects. 

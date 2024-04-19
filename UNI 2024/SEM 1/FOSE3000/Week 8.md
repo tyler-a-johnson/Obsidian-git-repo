@@ -1,1 +1,1 @@
-There ha
+There have been multiple instances in engineering where I have had to manage a large project. In ENGG3000 

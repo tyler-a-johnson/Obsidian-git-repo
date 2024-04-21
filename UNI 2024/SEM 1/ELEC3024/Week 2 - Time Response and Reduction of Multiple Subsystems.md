@@ -108,3 +108,9 @@ There are four possible response (when $a \geq 0$ and $b>0$):
 	$$c(t) = K_{1} e^{- \sigma_{1}t}+K_{2} t e^{- \sigma_{1} t} $$
 	
 
+### General Second Order Systems
+**Natural Frequency** $\omega_{n}$
+The frequency of oscillation without damping
+
+**Damping ratio** $\zeta$
+$$\zeta= \frac{\text{Exponential decay freq}}{\text{Natural frequency (rad/s)}}$$

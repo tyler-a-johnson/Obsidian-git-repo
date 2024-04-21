@@ -19,4 +19,7 @@ Relevant Links:
 ## Two major configurations
 - **open loop** - does not correct for disturbances and is commanded by the input. (eg, toaster) 
 ![](Attachments/Pasted%20image%2020240421155257.png)
-- **closed loop** - compensates for disturbances by measuring the output r
+- **closed loop** - compensates for disturbances by measuring the output response, feeding that measurement back through a feedback path, and comparing that response to the input at the summing junction.
+![](Attachments/Pasted%20image%2020240421155419.png)
+
+

@@ -21,7 +21,7 @@ Relevant Links:
 - How to approximate higher-order systems as first or second order
 - How to find the time response from the state-space representation
 
-
+### Poles and zeros of a First-Order System
 ```ad-note
 **Poles** of a transfer function are the values of the Laplace transform variable, $s$, that cause the transfer function to become infinite.
 
@@ -29,5 +29,5 @@ Relevant Links:
 
 ```
 
-### Poles and zeros of a First-Order System
 ![](Attachments/Pasted%20image%2020240421163106.png)
+We have a 

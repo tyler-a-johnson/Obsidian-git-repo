@@ -121,3 +121,4 @@ Without damping (a=0) the poles are on the imaginary axis and $G(s) = \frac{b}{s
 Then 
 $\omega_{n} = \sqrt{ b }$
 $b = \omega_{n}^2$
+

@@ -71,5 +71,8 @@ With a step input, we can measure the time constant and the steady-state value, 
 
 Let first order system be  $G(s) = \frac{K}{s+a}$
 
+And the step response $C(s) = \frac{K}{s(s+a)} = \frac{K /a}{s}-\frac{K /a}{s+a}$
 
-And the step response $C(s) = \frac{K}{s(s+a)} = \frac{K /a}{a}$
+1. Final value = 0.72
+2. 63% of final value = 0.63*0.72 = 0.45
+3. Curve reaches 0.45 at 0.13s hence K = 

@@ -233,4 +233,9 @@ $\% OS = e ^{-(\zeta \pi \sqrt{  1 - \zeta ^{2} })}*100$
 Given the plot, find $\zeta, \omega_{n}, T_{p}, \%OS \text{ and } T_{s}$
 ![](Attachments/Pasted%20image%2020240421221919.png)
 **Solution**
-$\zeta= \cos \theta = c$
+$\zeta= \cos \theta = \cos\left[ \arctan\left( \frac{7}{3} \right) \right] = 0.394$
+
+$\omega_{n} = \sqrt{ 7^{2}+3^{2 }}= 7.62$
+
+$T_{p} = \frac{\pi}{\omega_{d}} = \frac{\pi}{7} = 0.449$ seconds
+

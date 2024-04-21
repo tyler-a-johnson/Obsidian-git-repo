@@ -154,3 +154,6 @@ $$= 1 - \frac{1}{\sqrt{ 1-\zeta^{2} }}e^{- \zeta \omega_{n}t} \cos (\omega_{n} \
 
 Where: $\phi = \tan^{-1}\left( \frac{\zeta}{\sqrt{  1- \zeta^2 }} \right)$
 
+![](Attachments/Pasted%20image%2020240421211140.png)
+
+**Specifications:**

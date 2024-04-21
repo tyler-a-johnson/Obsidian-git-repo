@@ -65,3 +65,6 @@ time for the response to reach, and stay within 2% of its final value.
 $$T_{s}=\frac{4}{a}$$
 
 ```
+
+## First Order Fransfer Functions via Testing
+With a step inpui

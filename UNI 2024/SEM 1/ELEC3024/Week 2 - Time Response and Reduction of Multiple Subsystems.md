@@ -174,4 +174,6 @@ $$\zeta= \frac{- \ln (\% OS / 100)}{\sqrt{ \pi^{2}+ \ln ^{2} (\%OS / 100) }}$$
 ![500](Attachments/Pasted%20image%2020240421213529.png)
 
 **Evaluation of $T_{s}$**
-$$
+$$e^{-\zeta \omega_{n} t} \frac{1}{\sqrt{ 1- \zeta^{2} }}=0.02$$
+$$T_{s} = \frac{-\ln (0.02 \sqrt{  1-\zeta^2 })}{\zeta{\omega_{n}}}$$
+$$$$

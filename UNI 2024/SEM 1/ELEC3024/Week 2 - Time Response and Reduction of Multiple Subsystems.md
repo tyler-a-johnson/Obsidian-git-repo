@@ -23,6 +23,11 @@ Relevant Links:
 
 
 ```ad-note
-**Poles** of a transfer function are the values of the Laplace transform variable, $s$, that cause the transfer function to become zero.
+**Poles** of a transfer function are the values of the Laplace transform variable, $s$, that cause the transfer function to become infinite.
 
-**Zeros** of a tr
+**Zeros** of a transfer funtion are the values of the Laplace transform variable, $s$, that cause the transfer function to become zero.
+
+```
+
+### Poles and zeros of a First-Order System
+![](Attachments/Pasted%20image%2020240421163106.png)

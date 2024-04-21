@@ -45,3 +45,4 @@ To our output time response:
 $$c(t) = \frac{2}{5} + \frac{3}{5}e^{-5t}$$
 
 #### Example
+Given the system below, specify the natural and forced parts of the output 

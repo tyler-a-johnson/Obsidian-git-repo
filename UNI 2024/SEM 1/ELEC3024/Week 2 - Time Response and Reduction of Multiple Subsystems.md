@@ -79,3 +79,9 @@ And the step response $C(s) = \frac{K}{s(s+a)} = \frac{K /a}{s}-\frac{K /a}{s+a}
 4. Steady state value $K/a = 0.72,$ hence $K = 0.72*7.7 = 5.54$
 $$G(s) = \frac{5.54}{s+7.7}$$
 ![](Attachments/Pasted%20image%2020240421183413.png)
+
+## Second Order Systems Intro
+![](Attachments/Pasted%20image%2020240421183652.png)
+![](Attachments/Pasted%20image%2020240421183705.png)
+
+## Summary of Second Order Systems

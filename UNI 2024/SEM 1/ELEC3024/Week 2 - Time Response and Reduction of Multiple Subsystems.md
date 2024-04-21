@@ -143,3 +143,5 @@ $$s_{1,2} = - \zeta \omega_{n} \pm j \omega_{n} \sqrt{ 1-\zeta^2 }$$
 
 ### Underdamped Second Order Systems
 Represents a common model for physical problems
+
+Step response: $C(s) = \frac{\omega_{n}^{2}{s(s^{2}+2 \zeta \omega_{n} s + \omega_{n}^{2}}}$

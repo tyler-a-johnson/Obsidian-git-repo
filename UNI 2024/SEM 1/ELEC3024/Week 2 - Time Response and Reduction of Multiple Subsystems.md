@@ -254,3 +254,4 @@ $2 \zeta \omega_{n} = \frac{D}{J}$
 
 $\% OS = 20 \rightarrow \zeta = 0.456$
 $$T_{s} = 2 \approx \frac{4}{\zeta \omega_{n}} \rightarrow \sqrt{  \frac{K}{J} } = \frac{2}{\zeta} \rightarrow \frac{J}{K} = 0.052 \rightarrow J = 0.26$$
+$$D = 2 J \zeta \omega_{n} = 2 \zeta\sqrt{KJ} = 1.04$$

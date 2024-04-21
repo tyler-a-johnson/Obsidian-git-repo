@@ -239,3 +239,4 @@ $\omega_{n} = \sqrt{ 7^{2}+3^{2 }}= 7.62$
 
 $T_{p} = \frac{\pi}{\omega_{d}} = \frac{\pi}{7} = 0.449$ seconds
 
+$$

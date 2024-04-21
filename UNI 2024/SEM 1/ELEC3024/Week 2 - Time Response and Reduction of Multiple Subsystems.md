@@ -41,4 +41,4 @@ Input pole is the pole of our input $1/s$
 
 ```
 
-#### Poles and 
+#### P

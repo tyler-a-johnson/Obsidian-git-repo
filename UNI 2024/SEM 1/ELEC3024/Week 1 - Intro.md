@@ -40,3 +40,10 @@ $$\text{total response} = \text{natural response } + \text{forced response}$$
 The natural response must either:
 1. **Eventually approach zero**, thus leaving only the forced response
 2. **Oscillate**
+
+# Design Process
+![](Attachments/Pasted%20image%2020240421160352.png)
+
+## Example: Antenna Azimuth
+**Step 1**
+- Requirements: desire to position the antenna from a remore lo

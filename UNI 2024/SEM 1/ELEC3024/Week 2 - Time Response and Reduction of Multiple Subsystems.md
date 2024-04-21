@@ -105,5 +105,6 @@ There are four possible response (when $a \geq 0$ and $b>0$):
 4. **Critically damped responses**
 	*Poles:* Two real at $- \sigma_{1}$ and $\sigma_{1} > 0$
 	*Natural Response:* One term is and exponential whose time constant is equal to the reciprocal of the pole location. Another term is the product of time, t, and an exponential with time constant equal to the reciprocal of the pole location:
-	$$c(t) = K_{1} $$
+	$$c(t) = K_{1} e^{- \sigma_{1}t}+K_{2} t e^{- \sigma_{1} t} $$
+	
 

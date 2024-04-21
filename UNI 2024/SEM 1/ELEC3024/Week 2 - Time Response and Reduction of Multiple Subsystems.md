@@ -201,6 +201,9 @@ Where 2.3 is a normalised rise time corresponding to $\zeta$
 *Now evaluate peak time, settling time, and overshoot in terms of the pole location*
 
 $$G(s) = \frac{\omega_{n}^2}{s^{2}+2 \zeta \omega_{n} s + \omega_{n}^2}$$
+$$s_{1,2} = -\zeta \omega_{n} \pm \omega_{n} \sqrt{ \zeta^{2}- 1 }$$
+$$s_{1,2} = -\zeta \omega_{n} \pm \omega_{n} \sqrt{ 1-\zeta^{2} }$$
 
+From pythagoras theorem: $\cos $
 
 ![](Attachments/Pasted%20image%2020240421215552.png)

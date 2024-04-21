@@ -187,3 +187,6 @@ Find Tp %OS, Ts, and Tr for the transfer function
 
 $$G(s) = \frac{100}{s^{2}+ 15s + 100}$$
 
+$T_{p} = \frac{\pi}{\omega_{n} \sqrt{ 1- \zeta^{2} }}=0.475$
+
+$\% OS = e^{-(\zeta \pi / \sqrt{ 1-\zeta^{2} })}$

@@ -161,3 +161,4 @@ Where: $\phi = \tan^{-1}\left( \frac{\zeta}{\sqrt{  1- \zeta^2 }} \right)$
 2. *Peak time* $T_{p}$ the time required to reach the first or maximum peak.
 3. *Percent overshoot* %OS the amount that the waveform overshoots the steady state, or final value at the peak time, expressed as a percentage of the steady state value.
 4. *Settling time* $T_{s}$ The time required for the transient's damped oscillations to reach and stay within $\pm{2}$% of the steady state value.
+![](Attachments/Pasted%20image%2020240421212418.png)

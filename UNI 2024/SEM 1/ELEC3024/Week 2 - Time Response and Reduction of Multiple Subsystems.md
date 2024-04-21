@@ -257,5 +257,7 @@ $$T_{s} = 2 \approx \frac{4}{\zeta \omega_{n}} \rightarrow \sqrt{  \frac{K}{J} }
 $$D = 2 J \zeta \omega_{n} = 2 \zeta\sqrt{KJ} = 1.04$$
 
 ### System Response with Additional Poles
-- If a system has more than two poles or has zeros we cannot use the previously derived formulae to calculate the performance specs.
-- Howee
+- **If a system has more than two poles or has zeros we cannot use the previously derived formulae** to calculate the performance specs.
+- However **under certain conditions** a system with more than two poles or with zeros can be **approximated** as a second order system that has just **two complex dominant poles**.
+
+Consider a system with complex poles and a real pole

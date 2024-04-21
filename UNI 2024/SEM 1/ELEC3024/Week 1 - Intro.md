@@ -24,3 +24,9 @@ Relevant Links:
 
 # Analysis and design objectives
 - a **Control system** responds to an input by undergoing a *transient response* before reaching a ***steady state response***. 
+
+We want to
+ - producing the desired transient response
+ - reduce steady state error
+ - achieve stability
+ - achieving robust design

@@ -74,5 +74,6 @@ Let first order system be  $G(s) = \frac{K}{s+a}$
 And the step response $C(s) = \frac{K}{s(s+a)} = \frac{K /a}{s}-\frac{K /a}{s+a}$
 
 1. Final value = 0.72
-2. 63% of final value = 0.63*0.72 = 0.45
-3. Curve reaches 0.45 at 0.13s hence K = 
+2. 63% of final value $= 0.63*0.72 = 0.45$
+3. Curve reaches 0.45 at 0.13s hence $a = 1/0.13 = 7.7$
+4. Steady state value $K/a = 0.72,$ hence $K = 0.72*7.7 = $

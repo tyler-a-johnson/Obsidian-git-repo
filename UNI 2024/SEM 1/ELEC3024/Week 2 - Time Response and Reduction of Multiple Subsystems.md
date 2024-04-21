@@ -92,7 +92,9 @@ There are four possible response (when $a \geq 0$ and $b>0$):
 	$$c(t) = K_{1} e^{- \sigma_{1} t} + K_{2} e^{- \sigma_{2} t}$$
 1. **Underdamped response**
 	*Poles*: Two complex at $- \sigma_{d} \pm j \omega_{d}$  and $\sigma_{d} > 0$
-	*Natural Response:* Damped sinusoid with an exponential envelope whose time constant is equal 
+	*Natural Response:* Damped sinusoid with an exponential envelope whose time constant is equal to the reciprocal of the pole's real part. The radian frequency of the sinusoid, the damped frequency of oscillation, is equal to the imaginary part of the poles, or:
+	$$c(t) = A e^{-\sigma_{d}t}*\cos(\omega_{d}t - \phi)$$
+	
 1. Undamped response
 2. Critically damped responses
 ![](Attachments/Pasted%20image%2020240421183856.png)

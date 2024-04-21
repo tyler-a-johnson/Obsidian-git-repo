@@ -189,4 +189,11 @@ $$G(s) = \frac{100}{s^{2}+ 15s + 100}$$
 
 $T_{p} = \frac{\pi}{\omega_{n} \sqrt{ 1- \zeta^{2} }}=0.475$
 
-$\% OS = e^{-(\zeta \pi / \sqrt{ 1-\zeta^{2} })}$
+$\% OS = e^{-(\zeta \pi / \sqrt{ 1-\zeta^{2} })}*100=2.838$
+
+$T_{s} \approx \frac{4}{\zeta \omega_{n}} = 0.533$
+
+$T_{r} \approx \frac{2.3}{ \omega_{n}} = 0.23$
+
+Where 2.3 is a normalised rise time corresponding to $\zeta$
+

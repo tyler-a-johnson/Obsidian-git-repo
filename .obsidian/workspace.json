@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "641cf9c5c84281ee",
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distilled Notes/Partial Fractions.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distilled Notes/Partial Fractions.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distilled Notes/Partial Fractions.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md"
               }
             }
           },
@@ -241,8 +240,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bfaa042ab9352d74",
+  "active": "0223db98cde40895",
   "lastOpenFiles": [
+    "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "Distilled Notes/Untitled 2.md",
@@ -254,7 +254,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421183413.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421174729.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421174614.png",
-    "Distilled Notes/Partial Fractions.md",
     "Resources/Code Repository.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421165953.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421163106.png",

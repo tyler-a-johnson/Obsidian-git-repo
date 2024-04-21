@@ -6,4 +6,7 @@ Relevant Notes: []
 Relevant Links:
 ---
 **Factor the bottom**
-$\frac{}{2}$
+$$\frac{5x-4}{x^{2}-x-2} = \frac{5x-4}{(x-2)(x+1)}$$
+
+**Write one partial fraction for each factor of the denominator**
+$$$$

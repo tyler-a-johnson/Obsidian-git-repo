@@ -46,3 +46,7 @@ $$c(t) = \frac{2}{5} + \frac{3}{5}e^{-5t}$$
 
 #### Example
 Given the system below, specify the natural and forced parts of the output 
+![](Attachments/Pasted%20image%2020240421174614.png)
+
+## First Order Systems
+![](Attachments/Pasted%20image%2020240421174729.png)

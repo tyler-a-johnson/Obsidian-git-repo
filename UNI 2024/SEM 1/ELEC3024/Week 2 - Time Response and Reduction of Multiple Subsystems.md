@@ -213,7 +213,12 @@ $\sigma_{d}$ exponential damping frequency
 ![600](Attachments/Pasted%20image%2020240421215552.png)
 
 
+
+
+
+![](Attachments/Pasted%20image%2020240421220534.png)
 $$T_{s} = \frac{4}{\zeta \omega_{n}} = \frac{4}{ \sigma_{d}}$$
 $$T_{p} = \frac{\pi}{\omega_{d}} = \frac{\pi}{\omega_{n} \sqrt{  1-\zeta^2 } }$$
 
 $\cos \theta = \zeta$
+$\% OS = e ^{-(\zeta \pi \sqrt{  1 - \zeta ^{2} })}*100$

@@ -146,4 +146,4 @@ Represents a common model for physical problems
 
 Step response: $C(s) = \frac{\omega_{n}^{2}}{s(s^{2}+2 \zeta \omega_{n} s + \omega_{n}^{2})} = \frac{K_{1}}{s} + \frac{K_{2}s+K_{3}}{s^{2}+2 \zeta \omega_{n}s + \omega_{n}^{2}}$
 Expanding by partial fraction we obtain $(0 < \zeta < 1)$:
-$$C(s)$$
+$$C(s) = \frac{1}{s} - \frac{(s+\zeta \omega_{n})}{}$$

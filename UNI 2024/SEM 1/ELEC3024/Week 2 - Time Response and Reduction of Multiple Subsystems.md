@@ -139,3 +139,6 @@ $$s_{1,2} = -\zeta \omega_{n} \pm \omega_{n} \sqrt{ \zeta^{2}-1 }$$
 $$s_{1,2} = - \zeta \omega_{n} \pm j \omega_{n} \sqrt{ 1-\zeta^2 }$$
 ![](Attachments/Pasted%20image%2020240421204207.png)
 
+
+
+### Underdamped Second Order Systems

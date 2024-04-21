@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "296fb2c1b77168c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Code Repository.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "641cf9c5c84281ee",
@@ -139,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
+                "file": "Resources/Code Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
+                "file": "Resources/Code Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md"
+                "file": "Resources/Code Repository.md"
               }
             }
           },
@@ -226,12 +240,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0223db98cde40895",
+  "active": "296fb2c1b77168c0",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421165953.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421163106.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "Kanban Schedule.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
@@ -245,7 +259,6 @@
     "Distilled Notes/Untitled 1.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421160715.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421160510.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421160352.png",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/FOSE3000/Week 8.md",

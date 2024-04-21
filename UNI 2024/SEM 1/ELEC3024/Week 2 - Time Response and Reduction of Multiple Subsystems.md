@@ -85,3 +85,10 @@ $$G(s) = \frac{5.54}{s+7.7}$$
 ![](Attachments/Pasted%20image%2020240421183705.png)
 
 ## Summary of Second Order Systems
+There are four possible response (when $a \geq 0$ and $b>0$):
+1. **Overdamped responses**
+		**Poles:**
+2. Underdamped response
+3. Undamped response
+4. Critically damped responses
+![](Attachments/Pasted%20image%2020240421183856.png)

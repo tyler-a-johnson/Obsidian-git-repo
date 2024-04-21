@@ -22,11 +22,14 @@ Relevant Links:
 - **closed loop** - compensates for disturbances by measuring the output response, feeding that measurement back through a feedback path, and comparing that response to the input at the summing junction.
 ![](Attachments/Pasted%20image%2020240421155419.png)
 
-# Analysis and design objectives
+## Analysis and design objectives
 - a **Control system** responds to an input by undergoing a *transient response* before reaching a ***steady state response***. 
 
 We want to
  - producing the desired transient response
- - reduce steady state error
- - achieve stability
- - achieving robust design
+ - reduce **steady state error**
+ - achieve **stability**
+ - achieving **robust design***
+
+# Stability
+$$\text{total response} = \text{natural response} + $$

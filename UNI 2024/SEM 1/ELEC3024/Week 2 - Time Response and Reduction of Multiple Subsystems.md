@@ -142,3 +142,4 @@ $$s_{1,2} = - \zeta \omega_{n} \pm j \omega_{n} \sqrt{ 1-\zeta^2 }$$
 
 
 ### Underdamped Second Order Systems
+Represents a common model for physical problems

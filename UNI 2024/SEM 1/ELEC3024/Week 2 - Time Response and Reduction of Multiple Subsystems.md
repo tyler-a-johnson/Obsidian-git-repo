@@ -89,8 +89,9 @@ There are four possible response (when $a \geq 0$ and $b>0$):
 1. **Overdamped responses**
 	**Poles:** Two real at $- \sigma_{1}, - \sigma_{2}$ . Where $\sigma_{1} \neq \sigma_{2}$ and $\sigma_{1},\sigma_{2}>0$
 	**Natural Response:** Two exponentials with time constants equal to the reciprocal of the pole locations, or:
-	$$c(t) = K_{1} e^-$$
+	$$c(t) = K_{1} e^{- \sigma_{1} t} + K_{2} e^{- \sigma_{2} t}$$
 1. Underdamped response
+	**Poles:** Two complex at $- \sigma_{d} \pm $
 2. Undamped response
 3. Critically damped responses
 ![](Attachments/Pasted%20image%2020240421183856.png)

@@ -204,6 +204,11 @@ $$G(s) = \frac{\omega_{n}^2}{s^{2}+2 \zeta \omega_{n} s + \omega_{n}^2}$$
 $$s_{1,2} = -\zeta \omega_{n} \pm \omega_{n} \sqrt{ \zeta^{2}- 1 }$$
 $$s_{1,2} = -\zeta \omega_{n} \pm \omega_{n} \sqrt{ 1-\zeta^{2} }$$
 
-From pythagoras theorem: $\cos $
+From Pythagoras theorem: $\cos \theta = \zeta$
 
-![](Attachments/Pasted%20image%2020240421215552.png)
+$$T_{s} = \frac{4}{\zeta \omega_{n}}= \frac{4}{\sigma_{d}}$$
+
+$\omega_{d}$ damped frequency oscillation
+$\sigma_{d}$ exponential damping frequency
+![600](Attachments/Pasted%20image%2020240421215552.png)
+

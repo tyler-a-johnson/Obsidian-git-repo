@@ -241,3 +241,5 @@ $T_{p} = \frac{\pi}{\omega_{d}} = \frac{\pi}{7} = 0.449$ seconds
 
 $\%OS = e^{-(\zeta \pi / \sqrt{ 1-\zeta^{2 }})}*100= 26\%$
 
+$$T_{s} = \frac{4}{\sigma_{d} = \frac{4}{3}} = 1.333 \text{ seconds}$$
+

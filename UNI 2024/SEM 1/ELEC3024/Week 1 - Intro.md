@@ -59,4 +59,8 @@ Create a schematic
 
 **Step 4**
 **A mathematical model diagram**
-- Use physical laws such as kirchhoff's laws for electrical network
+- Use physical laws such as kirchhoff's laws for electrical networks and Newton's law for mechanical systems
+- Mathematical models can be described using 
+	1. Differential equations
+	2. Laplace transform
+	3. State-space representation

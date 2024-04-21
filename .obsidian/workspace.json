@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md"
               }
             }
           },
@@ -216,10 +216,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "36d47277b4c4da5f",
+  "active": "0223db98cde40895",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421154951.png",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
@@ -250,7 +251,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325213157.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325212837.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325212826.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325212745.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",

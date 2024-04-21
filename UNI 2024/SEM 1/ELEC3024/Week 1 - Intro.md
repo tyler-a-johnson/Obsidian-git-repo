@@ -11,4 +11,8 @@ Relevant Links:
 ---
 [Intro](Attachments/Intro%20to%20Control%20Systems%20v01_annotated.pdf)
 
+# Response Characteristics and System Configurations
+
+## Response Characteristic
+![](Attachments/Pasted%20image%2020240421154951.png)
 

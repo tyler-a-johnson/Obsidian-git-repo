@@ -243,3 +243,13 @@ $\%OS = e^{-(\zeta \pi / \sqrt{ 1-\zeta^{2 }})}*100= 26\%$
 
 $$T_{s} = \frac{4}{\sigma_{d} = \frac{4}{3}} = 1.333 \text{ seconds}$$
 
+#### Example
+Find J and D to yield a 20% overshoot and $T_{s} = 2s$ for step input torque $T(t)$
+![](Attachments/Pasted%20image%2020240421223710.png)
+$$G(s) = \frac{1 / J}{s^{2}+\frac{D}{J}s+\frac{K}{J}}$$
+
+$\omega_{n} = \sqrt{ \frac{K}{J} }$
+$2 \zeta \omega_{n} = \frac{D}{J}$
+
+
+$\% OS$

@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf"
               }
             }
           },
@@ -240,11 +240,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0223db98cde40895",
+  "active": "a11d59d6b90acbec",
   "lastOpenFiles": [
-    "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421204207.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
+    "Distilled Notes/Partial Fractions.md",
     "Distilled Notes/Untitled 2.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421185052.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421184220.png",
@@ -256,7 +257,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421174614.png",
     "Resources/Code Repository.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421165953.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421163106.png",
     "Kanban Schedule.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",

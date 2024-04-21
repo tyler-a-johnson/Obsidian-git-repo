@@ -66,5 +66,10 @@ $$T_{s}=\frac{4}{a}$$
 
 ```
 
-## First Order Fransfer Functions via Testing
-With a step inpui
+## First Order Transfer Functions via Testing
+With a step input, we can measure the time constant and the steady-state value, from which the transfer function can be calculated.
+
+Let first order system be  $G(s) = \frac{K}{s+a}$
+
+
+And the step response $C(s) = \frac{K}{s(s+a)} = \frac{K /a}{a}$

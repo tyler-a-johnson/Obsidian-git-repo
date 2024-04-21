@@ -117,3 +117,4 @@ $$\zeta= \frac{\text{Exponential decay freq}}{\text{Natural frequency (rad/s)}}=
 
 Consider $G(s) = \frac{b}{s^{2}+as+b}$
 Lets determine what is the term a and B in terms of omega and zeta
+Without damping (a=0) the poles are on the imaginary axis and $G(s) = \frac{b}{s^{2} + b}$

@@ -17,4 +17,5 @@ Relevant Links:
 ## Time Response
 - How to find the time response from the transfer function
 - How to use poles and zeros to determine the response of a control system
-- How to descrive quantitatively the transient response of first and second order systems
+- How to describe quantitatively the transient response of first and second order systems
+- How to approximate higher

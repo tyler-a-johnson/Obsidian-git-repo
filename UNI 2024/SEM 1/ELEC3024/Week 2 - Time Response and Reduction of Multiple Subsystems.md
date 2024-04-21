@@ -32,3 +32,5 @@ Relevant Links:
 ![](Attachments/Pasted%20image%2020240421163106.png)
 We have poles at -5 and zeros at -2
 $C(s) = G(s)R(s)$
+
+### Poles and Zeros of a

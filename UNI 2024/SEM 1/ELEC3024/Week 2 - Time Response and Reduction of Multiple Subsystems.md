@@ -122,3 +122,4 @@ Then
 $\omega_{n} = \sqrt{ b }$
 $b = \omega_{n}^2$
 
+Now we assume an underdamped system. The real part of the complex pole is $\sigma = -a 

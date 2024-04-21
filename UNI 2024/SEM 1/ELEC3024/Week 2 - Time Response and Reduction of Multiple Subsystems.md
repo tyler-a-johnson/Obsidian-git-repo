@@ -50,3 +50,5 @@ Given the system below, specify the natural and forced parts of the output
 
 ## First Order Systems
 ![](Attachments/Pasted%20image%2020240421174729.png)
+Initial slope $= \frac{1}{\text{time constant}} = a$
+

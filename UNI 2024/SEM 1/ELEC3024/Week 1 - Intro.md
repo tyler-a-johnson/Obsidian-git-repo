@@ -56,3 +56,7 @@ A functional block diagram
 **Step 3**
 Create a schematic
 ![](Attachments/Pasted%20image%2020240421160824.png)
+
+**Step 4**
+**A mathematical model diagram**
+- Use physical laws such as kirchhoff's laws for electrical network

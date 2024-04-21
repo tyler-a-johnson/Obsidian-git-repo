@@ -222,3 +222,5 @@ $$T_{p} = \frac{\pi}{\omega_{d}} = \frac{\pi}{\omega_{n} \sqrt{  1-\zeta^2 } }$$
 
 $\cos \theta = \zeta$
 $\% OS = e ^{-(\zeta \pi \sqrt{  1 - \zeta ^{2} })}*100$
+
+

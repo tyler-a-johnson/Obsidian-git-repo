@@ -212,3 +212,4 @@ $\omega_{d}$ damped frequency oscillation
 $\sigma_{d}$ exponential damping frequency
 ![600](Attachments/Pasted%20image%2020240421215552.png)
 
+

@@ -252,4 +252,5 @@ $\omega_{n} = \sqrt{ \frac{K}{J} }$
 $2 \zeta \omega_{n} = \frac{D}{J}$
 
 
-$\% OS$
+$\% OS = 20 \rightarrow \zeta = 0.456$
+$$T_{s} = 2 \approx \frac{4}{\zeta \omega_{n}} \rightarrow \sqrt{  \frac{K}{J} } = \frac{2}{\zeta} \rightarrow \frac{J}{K} = 0.052 \rightarrow J = 0.26$$

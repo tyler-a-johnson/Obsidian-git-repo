@@ -57,6 +57,11 @@ Initial slope $= \frac{1}{\text{time constant}} = a$
 **Time constant**
 $\frac{1}{a}$ it is the time it takes for the step response to rise to 63% of its final value.
 
-**Rise time**
+**Rise time $T_{r}$**
 Time for the waveform to go from 0.1 to 0.9 of its final value.
+
+**Settling time $T_{s}$**
+time for the response to reach, and stay within 2% of its final value.
+$$T_{s}=\frac{4}{a}$$
+
 ```

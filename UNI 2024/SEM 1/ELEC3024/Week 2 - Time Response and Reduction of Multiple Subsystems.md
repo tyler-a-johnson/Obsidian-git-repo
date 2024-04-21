@@ -126,4 +126,5 @@ Now we assume an underdamped system. The real part of the complex pole is $\sigm
 and it determines the exponential decay frequency.
 
 Hence:
-$$\zeta = \frac{\text{Exponential decay frequncy}}{\text{ Natural frequ}}$$
+$$\zeta = \frac{\text{Exponential decay freq}}{\text{ Natural freq (rad/s)}}= \frac{|\sigma|}{\omega_{n}}= \frac{\frac{a}{2}}{\omega_{n}} \rightarrow a = 2 \zeta \omega_{n}$$
+

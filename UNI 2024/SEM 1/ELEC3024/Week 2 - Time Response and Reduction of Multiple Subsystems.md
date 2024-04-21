@@ -255,3 +255,7 @@ $2 \zeta \omega_{n} = \frac{D}{J}$
 $\% OS = 20 \rightarrow \zeta = 0.456$
 $$T_{s} = 2 \approx \frac{4}{\zeta \omega_{n}} \rightarrow \sqrt{  \frac{K}{J} } = \frac{2}{\zeta} \rightarrow \frac{J}{K} = 0.052 \rightarrow J = 0.26$$
 $$D = 2 J \zeta \omega_{n} = 2 \zeta\sqrt{KJ} = 1.04$$
+
+### System Response with Additional Poles
+- If a system has more than two poles or has zeros we cannot use the previously derived formulae to calculate the performance specs.
+- Howee

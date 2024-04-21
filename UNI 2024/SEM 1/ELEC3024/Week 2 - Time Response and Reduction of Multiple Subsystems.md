@@ -176,4 +176,14 @@ $$\zeta= \frac{- \ln (\% OS / 100)}{\sqrt{ \pi^{2}+ \ln ^{2} (\%OS / 100) }}$$
 **Evaluation of $T_{s}$**
 $$e^{-\zeta \omega_{n} t} \frac{1}{\sqrt{ 1- \zeta^{2} }}=0.02$$
 $$T_{s} = \frac{-\ln (0.02 \sqrt{  1-\zeta^2 })}{\zeta{\omega_{n}}}$$
-$$$$
+$$T_{s} \approx \frac{4}{\zeta \omega_{n}}$$
+
+**Evaluation of $T_{r}$**
+-Cannot be found analytically?
+
+
+#### Example
+Find Tp %OS, Ts, and Tr for the transfer function
+
+$$G(s) = \frac{100}{s^{2}+ 15s + 100}$$
+

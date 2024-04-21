@@ -46,4 +46,9 @@ The natural response must either:
 
 ## Example: Antenna Azimuth
 **Step 1**
-- Requirements: desire to position the antenna from a remore lo
+- Requirements: desire to position the antenna from a remote location; weight, dimensions of the system
+- Design Specifications: Desired transient response, steady state accuracy.
+
+**Step 2**
+A functional block diagram
+![](Attachments/Pasted%20image%2020240421160715.png)

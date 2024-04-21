@@ -64,3 +64,7 @@ Create a schematic
 	1. Differential equations
 	2. Laplace transform
 	3. State-space representation
+
+**Step 5**
+**Reduce the block diagram**
+In order **to evaluate** the system response we **reduce** the large system's block diagram **to a single block** with a mathematical description that represents the system from its input to its output.

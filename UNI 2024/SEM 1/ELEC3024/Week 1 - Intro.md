@@ -68,3 +68,9 @@ Create a schematic
 **Step 5**
 **Reduce the block diagram**
 In order **to evaluate** the system response we **reduce** the large system's block diagram **to a single block** with a mathematical description that represents the system from its input to its output.
+![](Attachments/Pasted%20image%2020240421161605.png)
+
+
+**Step 6**
+- Analyze the system to see if the response specifications and performance requirements can be met by simple adjustments of system parameters.
+- If specifications cannot be met, the designer designs additional hardware in order to achieve a desired performance.

@@ -102,5 +102,8 @@ There are four possible response (when $a \geq 0$ and $b>0$):
 	*Natural Response:* Undamped sinusoid with radian frequency equal to the imaginary part of the poles, or
 	$$c(t) = A \cos (\omega_{1} t - \phi )$$
 	
-1. **Critically damped responses**
+4. **Critically damped responses**
+	*Poles:* Two real at $- \sigma_{1}$ and $\sigma_{1} > 0$
+	*Natural Response:* One term is and exponential whose time constant is equal to the reciprocal of the pole location. Another term is the product of time, t, and an exponential with time constant equal to the reciprocal of the pole location:
+	$$c(t) = K_{1} $$
 

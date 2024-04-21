@@ -40,5 +40,8 @@ We separate C(s) into $\frac{A}{s}+\frac{B}{s+5}$  using [[Partial Fractions]]
 Input pole is the pole of our input $1/s$
 
 ```
+We can convert our output transform$$\frac{\frac{2}{5}}{s} + \frac{\frac{3}{5}}{s+5}$$
+To our output time response:
+$$c(t) = \frac{2}{5} + \frac{3}{5}e^{-5t}$$
 
-#### P
+#### Example

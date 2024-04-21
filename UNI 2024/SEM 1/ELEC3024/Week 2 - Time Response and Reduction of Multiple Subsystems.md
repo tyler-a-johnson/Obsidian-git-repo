@@ -52,5 +52,11 @@ Given the system below, specify the natural and forced parts of the output
 ![](Attachments/Pasted%20image%2020240421174729.png)
 Initial slope $= \frac{1}{\text{time constant}} = a$
 
-Response is at 68% after one time constant has passed $\frac{1}{a}$.
+```ad-note
 
+**Time constant**
+$\frac{1}{a}$ it is the time it takes for the step response to rise to 63% of its final value.
+
+**Rise time**
+Time for the waveform to go from 0.1 to 0.9 of its final value.
+```

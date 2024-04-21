@@ -33,6 +33,9 @@ Relevant Links:
 We have poles at -5 and zeros at -2
 $C(s) = G(s)R(s) = \frac{s+2}{s+5} * \frac{1}{s}$
 
+We seperate 
+
+
 We separate 
 
 ### Poles and Zeros of a First-Order System

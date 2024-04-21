@@ -33,4 +33,5 @@ Relevant Links:
 We have poles at -5 and zeros at -2
 $C(s) = G(s)R(s)$
 
-### Poles and Zeros of a
+### Poles and Zeros of a First-Order System
+![](Attachments/Pasted%20image%2020240421165953.png)

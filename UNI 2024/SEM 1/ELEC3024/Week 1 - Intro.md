@@ -32,4 +32,11 @@ We want to
  - achieving **robust design***
 
 # Stability
-$$\text{total response} = \text{natural response} + $$
+$$\text{total response} = \text{natural response } + \text{forced response}$$
+
+- **Natural response** is dependent *only on the system* not the input
+- **Forced response** is *dependent on the input*
+
+The natural response must either:
+1. **Eventually approach zero**, thus leaving only the forced response
+2. **Oscillate**

@@ -21,22 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "934b59ca45150539",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "36d47277b4c4da5f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -220,6 +204,8 @@
   "lastOpenFiles": [
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421161920.png",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421161847.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421161605.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421161505.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421161038.png",
@@ -229,8 +215,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421160510.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421160352.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421155419.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421155257.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421154951.png",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",

@@ -72,5 +72,7 @@ In order **to evaluate** the system response we **reduce** the large system's bl
 
 
 **Step 6**
-- Analyze the system to see if the response specifications and performance requirements can be met by simple adjustments of system parameters.
-- If specifications cannot be met, the designer designs additional hardware in order to achieve a desired performance.
+- Analyze the system to see if the **response specifications and performance requirements can be met** by simple adjustments of system parameters.
+- If specifications *cannot be met, the designer designs additional hardware (???)* in order to achieve a desired performance.
+![](Attachments/Pasted%20image%2020240421161847.png)
+![](Attachments/Pasted%20image%2020240421161920.png)

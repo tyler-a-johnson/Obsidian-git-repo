@@ -113,4 +113,7 @@ There are four possible response (when $a \geq 0$ and $b>0$):
 The frequency of oscillation without damping
 
 **Damping ratio** $\zeta$
-$$\zeta= \frac{\text{Exponential decay freq}}{\text{Natural frequency (rad/s)}}$$
+$$\zeta= \frac{\text{Exponential decay freq}}{\text{Natural frequency (rad/s)}}= \frac{1}{2 \pi} \frac{\text{Natural Period (s)}}{\text{Exponential time constant}}$$
+
+Consider $G(s) = \frac{b}{s^{2}+as+b}$
+Lets determine what is the term a and B in terms of omega and zeta

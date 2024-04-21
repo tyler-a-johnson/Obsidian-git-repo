@@ -13,6 +13,10 @@ Relevant Links:
 
 # Response Characteristics and System Configurations
 
-## Response Characteristic
+## Response Characteristics
 ![](Attachments/Pasted%20image%2020240421154951.png)
 
+## Two major configurations
+- **open loop** - does not correct for disturbances and is commanded by the input. (eg, toaster) 
+![](Attachments/Pasted%20image%2020240421155257.png)
+- **closed loop** - compensates for disturbances by measuring the output r

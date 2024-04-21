@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf"
               }
             }
           },
@@ -216,11 +216,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0223db98cde40895",
+  "active": "36d47277b4c4da5f",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421160824.png",
+    "Distilled Notes/Untitled 1.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421160715.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421160510.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421160352.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240421155419.png",
@@ -250,8 +252,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230219.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325230204.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325220009.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325215922.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240325213656.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 5 Coupled SHM and loaded strings.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
@@ -261,7 +261,6 @@
     "UNI 2024/SEM 1/SEM 1.md",
     "UNI 2024/SEM 1/FOSE3000/Week 1 - Intros.md",
     "Distilled Notes/Untitled.md",
-    "UNI 2024/SEM 1/PHYS2010/Week3 code.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 2.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",

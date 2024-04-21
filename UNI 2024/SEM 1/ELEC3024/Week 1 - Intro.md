@@ -52,3 +52,7 @@ The natural response must either:
 **Step 2**
 A functional block diagram
 ![](Attachments/Pasted%20image%2020240421160715.png)
+
+**Step 3**
+Create a schematic
+![](Attachments/Pasted%20image%2020240421160824.png)

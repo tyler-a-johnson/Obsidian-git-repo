@@ -122,4 +122,8 @@ Then
 $\omega_{n} = \sqrt{ b }$
 $b = \omega_{n}^2$
 
-Now we assume an underdamped system. The real part of the complex pole is $\sigma = -a 
+Now we assume an underdamped system. The real part of the complex pole is $\sigma = -a / 2$
+and it determines the exponential decay frequency.
+
+Hence:
+$$\zeta = \frac{\text{Exponential decay frequncy}}{\text{ Natural frequ}}$$

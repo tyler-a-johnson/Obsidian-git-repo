@@ -200,4 +200,7 @@ Where 2.3 is a normalised rise time corresponding to $\zeta$
 
 *Now evaluate peak time, settling time, and overshoot in terms of the pole location*
 
-$$G(s) = \frac{\omega_{n}^2}{s^{2}+2 }$$
+$$G(s) = \frac{\omega_{n}^2}{s^{2}+2 \zeta \omega_{n} s + \omega_{n}^2}$$
+
+
+![](Attachments/Pasted%20image%2020240421215552.png)

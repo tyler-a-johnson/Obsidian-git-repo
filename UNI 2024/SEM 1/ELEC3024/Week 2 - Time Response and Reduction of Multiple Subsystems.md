@@ -165,4 +165,8 @@ Where: $\phi = \tan^{-1}\left( \frac{\zeta}{\sqrt{  1- \zeta^2 }} \right)$
 
 **Evaluate $T_{p}$**
 $T_{p}$ is found by differentiating c(t) and finding the first zero crossing after t=0.
-$$T_{p} \frac{\pi}{\omega_{n} \sqrt{  1- \zeta^2}}$$
+$$T_{p} \frac{\pi}{\omega_{n} \sqrt{  1- \zeta^{2}}}= \frac{\pi}{\omega_{d}}$$
+
+**Evaluate %OS**
+$$\% OS = e ^{-(\zeta \pi / \sqrt{ 1-\zeta^2 })}*100$$
+$$\zeta= \frac{- \ln (\%)}{2}$$

@@ -134,4 +134,6 @@ where
 $b = \omega_{n}^2$
 $a= 2 \zeta \omega_{n}$
 
-The poles of this transform fun
+The poles of this transfer function are:
+$$s_{1,2} = -\zeta \omega_{n} \pm \omega_{n} \sqrt{ \zeta^{2}-1 }$$
+$$s_{1,2} = - \zeta \omega_{n} \p$$

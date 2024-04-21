@@ -157,3 +157,5 @@ Where: $\phi = \tan^{-1}\left( \frac{\zeta}{\sqrt{  1- \zeta^2 }} \right)$
 ![](Attachments/Pasted%20image%2020240421211140.png)
 
 **Specifications:**
+1. *Rise time* $T_{r}$ The time required for the waveform to go from 0.1 of the final value of 0.8 of the final value
+2. *Peak *

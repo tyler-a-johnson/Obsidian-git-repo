@@ -312,4 +312,5 @@ $$C_{2}(s) = \frac{26.25 (s+4)}{s(s+4.01)(s+5)(s+6)}$$
 **Solution**
 $C_{1}(s)$ has no approximate cancellation
 
-$$C_{2}(s) = \frac{1}{2}$$
+$$C_{2}(s) = \frac{26.25(s+4)}{s (s+4.01)(s+5)(s+6)}$$
+$$C_{2}(s) = \frac{0.87}{s}- \frac{5.3}{s+5} + \frac{4.4}{s+6}  $$

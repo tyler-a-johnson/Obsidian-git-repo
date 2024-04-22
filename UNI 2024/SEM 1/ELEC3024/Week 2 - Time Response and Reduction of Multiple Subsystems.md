@@ -287,4 +287,4 @@ $$\text{If } a\gg b,c: T(s) \approx a \left[ \frac{1 / (-b+c)}{s+b} + \frac{1 / 
 
 Zero looks like a simple gain factor and does not change the relative amplitudes of the components of the response.
 ![500](Attachments/Pasted%20image%2020240422223355.png)
-- Let C(s) be the response of a system, T(s)
+- Let C(s) be the response of a system, T(s) with unity in the numerator

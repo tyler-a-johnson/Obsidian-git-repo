@@ -262,3 +262,5 @@ $$D = 2 J \zeta \omega_{n} = 2 \zeta\sqrt{KJ} = 1.04$$
 
 ![](Attachments/Pasted%20image%2020240422001550.png)
 
+
+$$c(t) = Au(t) + e^{- \zeta \omega_{n} t} (B \cos \omega_{d} t _{}$$

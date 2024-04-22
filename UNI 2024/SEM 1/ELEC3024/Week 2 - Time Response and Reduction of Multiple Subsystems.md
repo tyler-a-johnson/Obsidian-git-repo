@@ -313,4 +313,8 @@ $$C_{2}(s) = \frac{26.25 (s+4)}{s(s+4.01)(s+5)(s+6)}$$
 $C_{1}(s)$ has no approximate cancellation
 
 $$C_{2}(s) = \frac{26.25(s+4)}{s (s+4.01)(s+5)(s+6)}$$
-$$C_{2}(s) = \frac{0.87}{s}- \frac{5.3}{s+5} + \frac{4.4}{s+6}  $$
+$$C_{2}(s) = \frac{0.87}{s}- \frac{5.3}{s+5} + \frac{4.4}{s+6} + \frac{0.033}{s+4.01} $$
+Approximate cancellation, coefficient of the last term is at least an order of magnitude smaller than the others
+
+$$C_{2}(s) \approx \frac{0.87}{s}-\frac{5.3}{s+5}+\frac{4.4}{s+6}$$
+$$c(t) \approx 0.87$$

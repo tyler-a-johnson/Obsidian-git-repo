@@ -260,7 +260,5 @@ $$D = 2 J \zeta \omega_{n} = 2 \zeta\sqrt{KJ} = 1.04$$
 - **If a system has more than two poles or has zeros we cannot use the previously derived formulae** to calculate the performance specs.
 - However **under certain conditions** a system with more than two poles or with zeros can be **approximated** as a second order system that has just **two complex dominant poles**.
 
-Consider a system with complex poles and a real pole
-$$s_{1,2} = - \zeta \omega_{n} \pm \omega_{n} \sqrt{ \zeta^{2}-1 }$$
-$$s_{3} = -\alpha_{r}$$
+![](Attachments/Pasted%20image%2020240422001550.png)
 

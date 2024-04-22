@@ -294,3 +294,5 @@ $$(s+a)C(s) = sC(s) + aC(s)$$
 **If a is very large and positive** then the response is approximately a scaled version of the original response.
 
 **If a is small and positive** then the derivative term has a greater effect on the response ***more overshoot***
+
+****

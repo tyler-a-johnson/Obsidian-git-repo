@@ -295,4 +295,6 @@ $$(s+a)C(s) = sC(s) + aC(s)$$
 
 **If a is small and positive** then the derivative term has a greater effect on the response ***more overshoot***
 
-**If a is negative (right half plane)** then the derivative term will 
+**If a is negative (right half plane)** then the derivative term will be of a opposite sign from the scaled response term
+![](Attachments/Pasted%20image%2020240422230804.png)
+If the response begins to turn to

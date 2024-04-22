@@ -317,4 +317,5 @@ $$C_{2}(s) = \frac{0.87}{s}- \frac{5.3}{s+5} + \frac{4.4}{s+6} + \frac{0.033}{s+
 Approximate cancellation, coefficient of the last term is at least an order of magnitude smaller than the others
 
 $$C_{2}(s) \approx \frac{0.87}{s}-\frac{5.3}{s+5}+\frac{4.4}{s+6}$$
-$$c(t) \approx 0.87$$
+$$c(t) \approx 0.87 - 5.3 e^{-5t}+4.4e^{-6t}$$
+An approximate overdamped second order response

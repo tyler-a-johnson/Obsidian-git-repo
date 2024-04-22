@@ -280,3 +280,4 @@ $$c_{2}(t) = 1-0.29 e^{10t}-1.189 e^{-2t} \cos (4.532t-53.34\degree)$$
 $$c_{3}(t) = 1-1.14 e^{-3t}-0.707 e^{-2t} \cos (4.532t-78.63\degree)$$
 ![](Attachments/Pasted%20image%2020240422221125.png)
 
+## System Response with Zeros

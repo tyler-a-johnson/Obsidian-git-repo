@@ -283,4 +283,4 @@ $$c_{3}(t) = 1-1.14 e^{-3t}-0.707 e^{-2t} \cos (4.532t-78.63\degree)$$
 ## System Response with Zeros
 $$T(s) = \frac{(s+a)}{(s+b)(s+c)} = \frac{A}{(s+b)}+\frac{B}{(s+c)}$$
 $$ = \frac{(-b+a) / (-b+c)}{s+b} + \frac{(-c+a) / (-c+b)}{s+c}$$
-$$\text{If } a\gg b,c: T(s) \approx a \left[ \frac{1 / }{2} \right]$$
+$$\text{If } a\gg b,c: T(s) \approx a \left[ \frac{1 / (-b+c)}{s+b} + \frac{1 / (-c +b)}{s+c} \right]$$

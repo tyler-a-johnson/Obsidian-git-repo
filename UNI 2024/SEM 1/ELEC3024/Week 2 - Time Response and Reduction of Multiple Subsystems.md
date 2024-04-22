@@ -307,3 +307,9 @@ if the zero at $-z$ is very close to the pole at $-p_{3}$ then it can be shown u
 #### Example
 For the response functions below determine whether there is an approximate pole-zero cancellation and if so, find an approximate second order response.
 $$C_{1}(s) = \frac{26.25 (s+4)}{s(s+{3.5})(s+5)(s+6)}$$
+$$C_{2}(s) = \frac{26.25 (s+4)}{s(s+4.01)(s+5)(s+6)}$$
+
+**Solution**
+$C_{1}(s)$ has no approximate cancellation
+
+$$C_{2}(s) = \frac{1}{2}$$

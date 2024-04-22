@@ -276,4 +276,5 @@ $$T_{3}(s) = \frac{73.626}{(s+3)(s^{2}+4s + 24.542)}$$
 **Solution** Taking the laplace inverse transform $C_{i}(s) = T_{i}(s)R(s) for R(s) = s^{-1}$ and $i = 1,2,3$ gives
 
 $$c_{1}(t) = 1-1.09e^{-2t} \cos(4.532t - 23.8 \degree)$$
-$$c_{2}(t) = 1-0.29 e^{-10t}-1.189 e$$
+$$c_{2}(t) = 1-0.29 e^{10t}-1.189 e^{-2t} \cos (4.532t-53.34\degree)$$
+$$c_{3}(t) = 1-1.14 e^{-3t}-1.189 e^{-2t} \cos (4.532t-53.34\degree)$$

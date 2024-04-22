@@ -267,3 +267,7 @@ $$c(t) = Au(t) + e^{- \zeta \omega_{n} t} (B \cos \omega_{d} t  + C \sin \omega_
 ![](Attachments/Pasted%20image%2020240422215754.png)
 *We can assume exponential decay is negligible after five time constants.*
 
+#### Example
+Find the step response of the transfer functions below and compare them:
+$$T_{1}(s) = \frac{24.542}{s^{2}+4s + 24.542}$$
+$$T_{2}(s) = \frac{245.42}{(s+10)(s^{2}+ 4s + 24.542)}$$

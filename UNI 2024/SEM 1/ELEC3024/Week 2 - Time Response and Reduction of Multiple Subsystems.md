@@ -285,3 +285,5 @@ $$T(s) = \frac{(s+a)}{(s+b)(s+c)} = \frac{A}{(s+b)}+\frac{B}{(s+c)}$$
 $$ = \frac{(-b+a) / (-b+c)}{s+b} + \frac{(-c+a) / (-c+b)}{s+c}$$
 $$\text{If } a\gg b,c: T(s) \approx a \left[ \frac{1 / (-b+c)}{s+b} + \frac{1 / (-c +b)}{s+c} \right] = \frac{a}{(s+b)(s+c)}$$
 
+Zero looks like a simple gain factor and does not change the relative amplitudes of the components of the response.
+![500](Attachments/Pasted%20image%2020240422223355.png)

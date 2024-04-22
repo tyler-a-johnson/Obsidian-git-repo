@@ -297,4 +297,4 @@ $$(s+a)C(s) = sC(s) + aC(s)$$
 
 **If a is negative (right half plane)** then the derivative term will be of a opposite sign from the scaled response term
 ![](Attachments/Pasted%20image%2020240422230804.png)
-If the response begins to turn to
+If the response begins to turn towards the negative direction even though the final value is positive then the system is known as **nonminimum-phase system - (zero is in the right half plane)**

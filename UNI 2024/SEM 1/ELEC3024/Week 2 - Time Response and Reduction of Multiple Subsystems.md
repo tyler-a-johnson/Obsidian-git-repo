@@ -302,3 +302,4 @@ If the response begins to turn towards the negative direction even though the fi
 ### Pole Zero Cancellation
 Consider:
 $$T(s) = \frac{K(s+z)}{(s+p_{3})(s^{2}+as+b)}$$
+if the zero at $-z$ is very close to the pole at $-p_{3}$ then it can be shown using partial fraction expansion of T(s) that the residue of the pole at **p3 is much smaller than any other residues**

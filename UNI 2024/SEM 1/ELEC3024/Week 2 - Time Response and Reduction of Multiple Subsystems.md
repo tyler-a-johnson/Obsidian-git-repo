@@ -291,4 +291,6 @@ Zero looks like a simple gain factor and does not change the relative amplitudes
 - If we add a zero to the transfer function, yielding $(s+a)T(s)$ the laplace transform of the response will be:
 
 $$(s+a)C(s) = sC(s) + aC(s)$$
-**If a is very large and positive** then the response is approximately a scaled
+**If a is very large and positive** then the response is approximately a scaled version of the original response.
+
+**If a is small and positive** then the derivative term has a greater effect on the response ***more overshoot***

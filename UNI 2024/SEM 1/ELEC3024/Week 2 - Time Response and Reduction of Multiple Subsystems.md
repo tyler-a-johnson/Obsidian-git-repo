@@ -303,3 +303,7 @@ If the response begins to turn towards the negative direction even though the fi
 Consider:
 $$T(s) = \frac{K(s+z)}{(s+p_{3})(s^{2}+as+b)}$$
 if the zero at $-z$ is very close to the pole at $-p_{3}$ then it can be shown using partial fraction expansion of T(s) that the residue of the pole at **p3 is much smaller than any other residues**
+
+#### Example
+For the response functions below determine whether there is an approximate pole-zero cancellation and if so, find an approximate second order response.
+$$C_{1}(s) = \frac{26.25 (s+4)}{s(s+{3.5})(s+5)(s+6)}$$

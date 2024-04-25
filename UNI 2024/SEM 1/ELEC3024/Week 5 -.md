@@ -140,4 +140,6 @@ Hence phase at $\omega_{n}$ is 90deg
 
 Corrections to second-order Bode plots $G(s) = s^{2}+ 2 \zeta \omega_{n}s+ \omega_{n}^{2}$
 
--Ther
+- Thee is an error between the actual response and the asymptotic approximation of the second-order polynomial
+
+Actual response: $M = \sqrt{ (\omega_{n}^{2}-\omega^2)^{2}+(2 \zeta \omega)n }$

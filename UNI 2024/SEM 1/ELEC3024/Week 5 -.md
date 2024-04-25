@@ -76,4 +76,5 @@ From the above equation:
 
 ---
 
-It is often convenient to normalize the magnitude and scale the frequency so that the log-magnitude plot will be 0dB at a break frequency of unity.
+- It is often convenient to **normalize the magnitude** and **scale the frequency** so that the log-magnitude plot will be 0dB at a break frequency of unity.
+- Normalization and scaling makes it **easier to add components** to obtain the **Bode plot** of a function such as:  $$|G(s)| = \frac{K|(s+z_{1})||(s+z_{2})|\dots|(s+z_{k})|}{s^{m} |(s+p_{1})| |(s+p_{2})|\dots|(s+p_{n})|}$$

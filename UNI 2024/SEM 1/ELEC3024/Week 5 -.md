@@ -199,4 +199,5 @@ Normalised bandwidth vs damping ratio for:
 
 **Modelling time delay**
 - Assume: $R(s)$ input, $G(s)$ system, $C(s)$ output
-- If $G$
+- If $G'(s)$ delays the output by $T$ seconds, the output responses is $c(t-T)$
+- Laplace transform $c(t-T)$ is $e^{-s T}C(s)$

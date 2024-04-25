@@ -16,4 +16,9 @@ Relevant Links:
 	- Finding the stability of nonlinear systems
 	- In settling ambiguities when sketching root locus
 
-- In the steady state, sinusoidal inputs to a linear system generate sinusoidal resp
+- In the steady state, sinusoidal inputs to a linear system generate sinusoidal responses of the same frequency.
+- Responses are of the same frequency as the input, they differ in magnitude and phase angle from the input.
+- These differences are functions of frequency
+- **Sinusoids representation**
+	- Sinusoids can be represented as complex numbers called *phasors*
+	- A system 

@@ -163,4 +163,6 @@ Damping ratio and closed-loop frequency response
 *There will be no peak at frequencies above zero if $\zeta > 0.707$*
 
 
-**Damping Ratio and Closed-loop frequency responses**
+**Damping Ratio and Closed-loop frequency response**
+Since $\zeta$ is related to percent overshoot (OS), we can plot $M_{p}$ vs percent overshoot
+![](Attachments/Pasted%20image%2020240426010727.png)

@@ -132,3 +132,5 @@ At high frequencies: Phase = 180deg $G(j \omega) \approx - \omega^{2} = \omega^{
 
 Phase at $\omega_{n}$: $G(j \omega) = s^{2}+ 2 \zeta \omega_{n} s + \omega_{n}^{2}|_{s\rightarrow j \omega}$
 
+$G(j \omega_{n}) = j 2 \zeta \omega_{n}^{2}$
+Hence phase at $\omega_{n}$ is 90deg

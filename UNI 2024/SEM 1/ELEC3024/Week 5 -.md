@@ -107,4 +107,9 @@ $G(s) = s^{2}+ 2 \zeta \omega_{n} s + \omega_{n}^{2} = \omega^{2}_{n} \left( \fr
 
 At low frequencies: 
 $G(s) \approx \omega_{n}^{2} = \omega_{n}^{2} \angle 0$
-$$$$
+$20 \log M = 20 \log |G(j\omega)| = 20 \log \omega_{n}^{2}$
+
+At high frequencies:
+$G(s) \approx s^{2}$
+$G(j \omega) \approx - \omega^{2}= \omega^{2}\angle 180$
+$20 \log M = 20 \log |$

@@ -46,7 +46,7 @@ $$\dots - 20 \log|s^{m}| - 20 \log |(s+p_{1})|- \dots |_{s \rightarrow j \omega}
 **Phase frequency response**
 Is the sum of the phase frequency response curves of the **zero terms** minus the sum of the phase frequency response curves of the **pole terms**.
 
-**Bode plots for $G(s) = (s+a)$**
+### Bode plots for $G(s) = (s+a)$ Low frequency asymptote
 - Low frequency asymptote
 
 $$G(s) = (s+a), \text{ } s=j \omega$$
@@ -56,3 +56,5 @@ At low frequencies when $\omega$ approaches zero: $G(j \omega) \approx a$
 The magnitude response in dB is: $20 \log M = 20\log a$
 ![](Attachments/Pasted%20image%2020240425225545.png)
 ![](Attachments/Pasted%20image%2020240425225601.png)
+
+### Bode plots f

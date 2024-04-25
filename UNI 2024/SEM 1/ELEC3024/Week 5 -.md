@@ -33,4 +33,5 @@ As a function of **frequency** with separate magnitude and phase plots
 
 
 **Asymptotic Approximations: Bode Plots**
-- ****
+- **Bode plots** of Bode diagrams: Curves of the **log-magnitude** and **phase frequency** response as functions of $\log \omega$
+$$G(s) = \frac{K(s+z_{1})(s+z_{2})()}{2}$$

@@ -87,7 +87,11 @@ From the above equation:
 ![700](Attachments/Pasted%20image%2020240425233301.png)
 ![700](Attachments/Pasted%20image%2020240425233434.png)
 
+---
 We can find the normalised and **scaled Bode plots** for:
 ![](Attachments/Pasted%20image%2020240425235619.png)
 ![700](Attachments/Pasted%20image%2020240425235726.png)
 ![700](Attachments/Pasted%20image%2020240425235748.png)
+![700](Attachments/Pasted%20image%2020240425235915.png)
+
+---

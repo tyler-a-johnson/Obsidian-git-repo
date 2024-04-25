@@ -57,4 +57,8 @@ The magnitude response in dB is: $20 \log M = 20\log a$
 ![](Attachments/Pasted%20image%2020240425225545.png)
 ![](Attachments/Pasted%20image%2020240425225601.png)
 
-### Bode plots f
+### Bode plots for $G(s) = (s+a)$ High frequency asymptote
+At high frequencies, where $\omega \gg a$
+
+$$G(j \omega) = (j \omega+a) = a\left( j \frac{\omega}{a} + 1 \right)$$
+$$G(j \omega) \appr$$

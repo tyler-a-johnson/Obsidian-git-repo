@@ -134,3 +134,10 @@ Phase at $\omega_{n}$: $G(j \omega) = s^{2}+ 2 \zeta \omega_{n} s + \omega_{n}^{
 
 $G(j \omega_{n}) = j 2 \zeta \omega_{n}^{2}$
 Hence phase at $\omega_{n}$ is 90deg
+![](Attachments/Pasted%20image%2020240426004505.png)
+
+---
+
+Corrections to second-order Bode plots $G(s) = s^{2}+ 2 \zeta \omega_{n}s+ \omega_{n}^{2}$
+
+-Ther

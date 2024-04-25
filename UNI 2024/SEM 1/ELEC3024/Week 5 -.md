@@ -104,3 +104,5 @@ Similarly, we can find the normalised and scaled Bode plots for:
 **Bode plots for** $G(s) = s^{2}+ 2 \zeta \omega_{n} s + \omega_{n}^{2}$
 
 $G(s) = s^{2}+ 2 \zeta \omega_{n} s + \omega_{n}^{2} = \omega^{2}_{n} \left( \frac{s^{2}}{\omega^{2}_{n}} +  2 \zeta\frac{s}{\omega_{n}} + 1 \right)$
+
+At low frequencies: $G(s) \approx \omega_{n} $

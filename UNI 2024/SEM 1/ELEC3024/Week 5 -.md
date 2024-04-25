@@ -173,3 +173,11 @@ Normalised bandwidth vs damping ratio for:
 ![](Attachments/Pasted%20image%2020240426011032.png)
 
 - Peak time $T_{p}$
+![700](Attachments/Pasted%20image%2020240426012038.png)
+
+
+Normalised bandwidth vs damping ratio for:
+- Rise time: $T_{r}$
+- To relate the bandwidth to rise time, $T_{r}$ we can use fig 4.16 knowing the desired $\zeta$ and $T_{r}$
+![](Attachments/Pasted%20image%2020240426012226.png)
+

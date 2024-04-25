@@ -96,3 +96,5 @@ We can find the normalised and **scaled Bode plots** for:
 
 ---
 
+Similarly, we can find the normalised and scaled Bode plots for:
+![700](Attachments/Pasted%20image%2020240426000307.png)

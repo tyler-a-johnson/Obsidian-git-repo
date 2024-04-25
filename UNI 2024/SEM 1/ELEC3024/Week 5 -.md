@@ -147,3 +147,5 @@ Actual response: $M = \sqrt{ (\omega_{n}^{2}-\omega^2)^{2}+(2 \zeta \omega_{n} \
 Phase = $\tan^{-1} \frac{2 \zeta \omega_{n} \omega}{\omega_{n}^{2} - \omega^{2}}$
 ![](Attachments/Pasted%20image%2020240426005007.png)
 
+
+Bode plots for $G(s) = 1/(s^{2}+ 2 \zeta \omega_{n}s+ \omega_{n}^{2})$

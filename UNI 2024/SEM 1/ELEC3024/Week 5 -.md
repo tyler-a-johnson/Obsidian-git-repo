@@ -21,4 +21,8 @@ Relevant Links:
 - These differences are functions of frequency
 - **Sinusoids representation**
 	- Sinusoids can be represented as complex numbers called *phasors*
-	- A system 
+	- A system causes both the amplitude and phase angle of the input to be changed
+![500](Attachments/Pasted%20image%2020240425222054.png)
+
+- Analytical expressions for the frequency response can be obtained from the TF G(s).
+$$G()$$

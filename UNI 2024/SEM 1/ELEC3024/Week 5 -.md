@@ -186,4 +186,6 @@ Normalised bandwidth vs damping ratio for:
 ![](Attachments/Pasted%20image%2020240426012340.png)
 
 - The closed-loop bandwidth can be estimated from the open-loop frequency response
-- It can be shown that, approximately, the closed-loop bandwidth, $\omega$
+- It can be shown that, approximately, the closed-loop bandwidth, $\omega_{BW}$ equals the frequency at which the open-loop magnitude response is between -6 and -7.5 dB if the open-loop phase response is between -135deg and -225deg.
+![700](Attachments/Pasted%20image%2020240426012544.png)
+

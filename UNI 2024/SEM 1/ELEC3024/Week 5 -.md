@@ -8,15 +8,7 @@ Relevant Links:
 ---
 **Lecture Slides:**
 [Frequency Response](Attachments/Workshop%20Ch10%20-%20Frequency%20Response_v1_annotated-1.pdf)
-# Maths Content
----
+# Frequency Response (Bode Plots)
+- Not as intuitive as root locus
+- Provides a new vantage point from which to view feedback control system
 
-
-
-# Conceptual Info
----
-
-
-
-# Additional Content
----

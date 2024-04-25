@@ -120,3 +120,5 @@ After scaling and normalization:
 $G(s_{1}) / \omega_{n}^{2} = s_{1}^{2} + 2 \zeta s_{1} + 1$
 $s_{1} = s / \omega_{n}$
 
+![](Attachments/Pasted%20image%2020240426003048.png)
+![](Attachments/Pasted%20image%2020240426003123.png)

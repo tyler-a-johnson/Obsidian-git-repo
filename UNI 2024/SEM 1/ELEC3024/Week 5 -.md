@@ -112,4 +112,8 @@ $20 \log M = 20 \log |G(j\omega)| = 20 \log \omega_{n}^{2}$
 At high frequencies:
 $G(s) \approx s^{2}$
 $G(j \omega) \approx - \omega^{2}= \omega^{2}\angle 180$
-$20 \log M = 20 \log |$
+$20 \log M = 20 \log |G(j\omega)| = 20 \log \omega^{2}=40\log \omega$
+
+Break frequency: $\omega_{n}$
+
+After scaling and normalizarti

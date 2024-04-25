@@ -45,3 +45,5 @@ $$\dots - 20 \log|s^{m}| - 20 \log |(s+p_{1})|- \dots |_{s \rightarrow j \omega}
 
 **Phase frequency response**
 Is the sum of the phase frequency response curves of the **zero terms** minus the sum of the phase frequency response curves of the **pole terms**.
+
+**Bode plots for $G(s) = (s+a)$**

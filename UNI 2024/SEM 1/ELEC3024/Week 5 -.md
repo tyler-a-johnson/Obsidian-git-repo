@@ -122,3 +122,7 @@ $s_{1} = s / \omega_{n}$
 
 ![](Attachments/Pasted%20image%2020240426003048.png)
 ![](Attachments/Pasted%20image%2020240426003123.png)
+
+---
+
+Bode plots for $$

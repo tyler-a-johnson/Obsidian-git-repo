@@ -50,4 +50,9 @@ Is the sum of the phase frequency response curves of the **zero terms** minus th
 - Low frequency asymptote
 
 $$G(s) = (s+a), \text{ } s=j \omega$$
-$$G(j \omega) = (j \omega + a) = a \left( j \frac{\omega}{} \right)$$
+$$G(j \omega) = (j \omega + a) = a \left( j \frac{\omega}{a} + 1 \right)$$
+
+At low frequencies when $\omega$ approaches zero: $G(j \omega) \approx a$
+The magnitude response in dB is: $20 \log M = 20\log a$
+![](Attachments/Pasted%20image%2020240425225545.png)
+![](Attachments/Pasted%20image%2020240425225601.png)

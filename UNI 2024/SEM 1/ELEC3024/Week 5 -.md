@@ -206,3 +206,10 @@ Normalised bandwidth vs damping ratio for:
 - Dividing the two equations above: $G'(s) / G(s) = e^{sT} \rightarrow G'(s) = e^{-sT}G(s)$
 ![](Attachments/Pasted%20image%2020240426013831.png)
 
+- Frequency response perspective ($s = j \omega$)
+- Time delay:
+	- Does not affect magnitude
+	- It subtracts a linearly increasing phase shift ($\omega T$) from the phase of $G(j \omega)$
+	- Time reduces the phase margin
+	- Yields a reduced damping ratio for C/L system
+	- **Also reduces gain margin**

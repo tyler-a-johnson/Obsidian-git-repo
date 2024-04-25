@@ -160,3 +160,7 @@ Bode plots for $G(s) = 1/(s^{2}+ 2 \zeta \omega_{n}s+ \omega_{n}^{2})$
 
 Damping ratio and closed-loop frequency response
 ![](Attachments/Pasted%20image%2020240426010331.png)
+*There will be no peak at frequencies above zero if $\zeta > 0.707$*
+
+
+**Damping Ratio and Closed-loop frequency responses**

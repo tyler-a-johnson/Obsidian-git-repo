@@ -172,3 +172,4 @@ Normalised bandwidth vs damping ratio for:
 - settling time $T_{s}$
 ![](Attachments/Pasted%20image%2020240426011032.png)
 
+- Peak time $T_{p}$

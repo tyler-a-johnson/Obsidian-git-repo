@@ -191,4 +191,12 @@ Normalised bandwidth vs damping ratio for:
 
 
 # Systems with time delay
-- Delay between the commanded response (reference signal) and the start of the output respo
+- Delay between the commanded response (reference signal) and the start of the output response
+- This is **NOT** the same as transient response
+- **Nothing happens** at the output during delay
+![](Attachments/Pasted%20image%2020240426013100.png)
+
+
+**Modelling time delay**
+- Assume: $R(s)$ input, $G(s)$ system, $C(s)$ output
+- If $G$

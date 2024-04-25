@@ -151,3 +151,6 @@ Bode plots for $G(s) = 1/(s^{2}+ 2 \zeta \omega_{n}s+ \omega_{n}^{2})$
 
 ## Stability, gain margin, and phase margin via bode plots
 - **Gain margin, $G_{m}$** is the change in open-loop gain, expressed in decibels (dB), required at 180 of phase shift to make the closed-loop system unstable.
+- **Phase margin, $\phi_{m}$** is the change in open-loop phase shift required at unity gain to make the closed-loop system unstable.
+![](Attachments/Pasted%20image%2020240426010000.png)
+

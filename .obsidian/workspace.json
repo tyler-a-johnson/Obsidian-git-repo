@@ -13,10 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8736b91adace40a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3130a6a7e34741d0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch10 - Frequency Response_v1_annotated-1.pdf"
               }
             }
           }
@@ -86,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.50418853759766
+    "width": 452.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -113,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 -.md"
               }
             }
           },
@@ -202,6 +219,9 @@
   },
   "active": "b3120c05f15208b8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch10 - Frequency Response_v1_annotated-1.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
@@ -230,12 +250,10 @@
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "Distilled Notes/Untitled 1.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/FOSE3000/Week 8.md",
     "UNI 2024/SEM 1/FOSE3000/Week 7.md",
     "UNI 2024/SEM 1/FOSE3000/Week 6.md",
     "UNI 2024/SEM 1/FOSE3000/Week 5.md",
-    "UNI 2024/SEM 1/FOSE3000/~$SE3000 GoGreener Questions.docx",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/FOSE3000/Attachments/Week 8.md",
@@ -248,7 +266,6 @@
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md",
     "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 1/ENGG4001/Electronic Braille Signs.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

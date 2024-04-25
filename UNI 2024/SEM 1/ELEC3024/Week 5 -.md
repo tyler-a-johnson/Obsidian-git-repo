@@ -166,3 +166,7 @@ Damping ratio and closed-loop frequency response
 **Damping Ratio and Closed-loop frequency response**
 Since $\zeta$ is related to percent overshoot (OS), we can plot $M_{p}$ vs percent overshoot
 ![](Attachments/Pasted%20image%2020240426010727.png)
+
+**Response speed and closed loop frequency response**
+Normalised bandwidth vs damping ratio for:
+- settling time $T_{s}$

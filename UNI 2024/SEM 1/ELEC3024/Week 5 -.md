@@ -61,4 +61,5 @@ The magnitude response in dB is: $20 \log M = 20\log a$
 At high frequencies, where $\omega \gg a$
 
 $$G(j \omega) = (j \omega+a) = a\left( j \frac{\omega}{a} + 1 \right)$$
-$$G(j \omega) \appr$$
+$$G(j \omega) \approx a\left(\frac{j \omega}{a} \right) = a\left( \frac{\omega}{a} \right)\angle 90 = \omega \angle 90$$
+$$20 \log M = 20 \log a + 20 \log \frac{\omega}{a} = 20 \log \omega$$

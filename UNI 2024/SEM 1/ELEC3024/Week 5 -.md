@@ -116,4 +116,4 @@ $20 \log M = 20 \log |G(j\omega)| = 20 \log \omega^{2}=40\log \omega$
 
 Break frequency: $\omega_{n}$
 
-After scaling and normalizarti
+After scaling and normalization: $G(s_{1}) / \omega_{n}^2$

@@ -25,4 +25,7 @@ Relevant Links:
 ![500](Attachments/Pasted%20image%2020240425222054.png)
 
 - Analytical expressions for the frequency response can be obtained from the TF G(s).
-$$G()$$
+$$G(j \omega) = G(s)|_{s\rightarrow j \omega}$$
+
+- **Plotting of the frequency response**
+$$G(j \omega) = M_{G} (\omega) \angle \phi$$

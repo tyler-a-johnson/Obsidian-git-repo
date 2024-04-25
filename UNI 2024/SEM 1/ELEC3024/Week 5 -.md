@@ -128,4 +128,6 @@ $s_{1} = s / \omega_{n}$
 Bode plots for $G(s) = s^{2}+2 \zeta \omega_{n}s + \omega_{n}^2$
 ![](Attachments/Pasted%20image%2020240426003621.png)
 At low frequencies: Phase = 0deg $G(s) \approx \omega_{n}^{2} = \omega_{n}^{2} \angle 0$
-At high frequencies: Phase = 180deg $G(j \omega) \approx - \omega^{2} =$
+At high frequencies: Phase = 180deg $G(j \omega) \approx - \omega^{2} = \omega^{2} \angle 180$
+
+Phase at $\omega_{n}$: $G(j \omega) = s^{2}+ 2 \zeta \omega_{n} s + \omega_{n}^{2}|_{}$

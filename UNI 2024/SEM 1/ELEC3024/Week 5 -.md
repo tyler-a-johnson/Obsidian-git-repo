@@ -156,3 +156,7 @@ Bode plots for $G(s) = 1/(s^{2}+ 2 \zeta \omega_{n}s+ \omega_{n}^{2})$
 ![](Attachments/Pasted%20image%2020240426010223.png)
 
 
+# Relation between closed-loop transient (time) and closed-loop frequency responses
+
+Damping ratio and closed-loop frequency response
+![](Attachments/Pasted%20image%2020240426010331.png)

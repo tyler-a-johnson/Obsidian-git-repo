@@ -130,4 +130,5 @@ Bode plots for $G(s) = s^{2}+2 \zeta \omega_{n}s + \omega_{n}^2$
 At low frequencies: Phase = 0deg $G(s) \approx \omega_{n}^{2} = \omega_{n}^{2} \angle 0$
 At high frequencies: Phase = 180deg $G(j \omega) \approx - \omega^{2} = \omega^{2} \angle 180$
 
-Phase at $\omega_{n}$: $G(j \omega) = s^{2}+ 2 \zeta \omega_{n} s + \omega_{n}^{2}|_{}$
+Phase at $\omega_{n}$: $G(j \omega) = s^{2}+ 2 \zeta \omega_{n} s + \omega_{n}^{2}|_{s\rightarrow j \omega}$
+

@@ -28,4 +28,9 @@ Relevant Links:
 $$G(j \omega) = G(s)|_{s\rightarrow j \omega}$$
 
 - **Plotting of the frequency response**
-$$G(j \omega) = M_{G} (\omega) \angle \phi$$
+$$G(j \omega) = M_{G} (\omega) \angle \phi_{G} (\omega)$$
+As a function of **frequency** with separate magnitude and phase plots
+
+
+**Asymptotic Approximations: Bode Plots**
+- ****

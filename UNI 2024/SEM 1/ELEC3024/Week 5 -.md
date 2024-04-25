@@ -181,3 +181,9 @@ Normalised bandwidth vs damping ratio for:
 - To relate the bandwidth to rise time, $T_{r}$ we can use fig 4.16 knowing the desired $\zeta$ and $T_{r}$
 ![](Attachments/Pasted%20image%2020240426012226.png)
 
+# Relation between closed-loop transient and open-loop frequency responses
+**Damping ratio from phase margin**
+![](Attachments/Pasted%20image%2020240426012340.png)
+
+- The closed-loop bandwidth can be estimated from the open-loop frequency response
+- It can be shown that, approximately, the closed-loop bandwidth, $\omega$

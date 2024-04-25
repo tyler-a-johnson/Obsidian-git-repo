@@ -85,4 +85,4 @@ From the above equation:
 **Hence, the normalized and scaled frequency function is $(s_{1}+1)$**
 ![700](Attachments/Pasted%20image%2020240425233203.png)
 ![700](Attachments/Pasted%20image%2020240425233301.png)
-
+![700](Attachments/Pasted%20image%2020240425233434.png)

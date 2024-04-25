@@ -95,3 +95,4 @@ We can find the normalised and **scaled Bode plots** for:
 ![700](Attachments/Pasted%20image%2020240425235915.png)
 
 ---
+

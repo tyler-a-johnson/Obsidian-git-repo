@@ -202,4 +202,7 @@ Normalised bandwidth vs damping ratio for:
 - If $G'(s)$ delays the output by $T$ seconds, the output responses is $c(t-T)$
 - Laplace transform $c(t-T)$ is $e^{-s T}C(s)$
 - System without delay: $C(s)=R(s)G(s)$
-- System with delay: $e^{-sT}C(s)$
+- System with delay: $e^{-sT}C(s)=R(s)G'(s)$
+- Dividing the two equations above: $G'(s) / G(s) = e^{sT} \rightarrow G'(s) = e^{-sT}G(s)$
+![](Attachments/Pasted%20image%2020240426013831.png)
+

@@ -101,4 +101,5 @@ Similarly, we can find the normalised and scaled Bode plots for:
 
 ---
 
-**Bode plots for** $G(s)$
+**Bode plots for** $G(s) = s^{2}+ 2 \zeta \omega_{n} s + \omega_{n}^{2}$
+

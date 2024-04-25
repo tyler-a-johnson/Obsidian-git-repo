@@ -65,8 +65,15 @@ $$G(j \omega) \approx a\left(\frac{j \omega}{a} \right) = a\left( \frac{\omega}{
 $$20 \log M = 20 \log a + 20 \log \frac{\omega}{a} = 20 \log \omega$$
 ![700](Attachments/Pasted%20image%2020240425230216.png)
 
+---
+![](Attachments/Pasted%20image%2020240425232545.png)
+
+$$G(j \omega) = (j \omega+a) = a\left( j \frac{\omega}{a} + 1 \right)$$
 From the above equation:
 - At the **break frequency** a, phase is 45deg
 - At **low frequencies** the phase is 0deg
 - At **high frequencies** the phase is 90deg
 
+---
+
+It is often convenient to normalize the magnitude and scale the frequency so that the log-magnitude plot will be 0dB at a break frequency of unity.

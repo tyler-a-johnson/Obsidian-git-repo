@@ -125,4 +125,6 @@ $s_{1} = s / \omega_{n}$
 
 ---
 
-Bode plots for $$
+Bode plots for $G(s) = s^{2}+2 \zeta \omega_{n}s + \omega_{n}^2$
+![](Attachments/Pasted%20image%2020240426003621.png)
+At low frequencies:

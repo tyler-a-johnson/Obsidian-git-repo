@@ -142,4 +142,8 @@ Corrections to second-order Bode plots $G(s) = s^{2}+ 2 \zeta \omega_{n}s+ \omeg
 
 - Thee is an error between the actual response and the asymptotic approximation of the second-order polynomial
 
-Actual response: $M = \sqrt{ (\omega_{n}^{2}-\omega^2)^{2}+(2 \zeta \omega)n }$
+Actual response: $M = \sqrt{ (\omega_{n}^{2}-\omega^2)^{2}+(2 \zeta \omega_{n} \omega)^{2} }$
+
+Phase = $\tan^{-1} \frac{2 \zeta \omega_{n} \omega}{\omega_{n}^{2} - \omega^{2}}$
+![](Attachments/Pasted%20image%2020240426005007.png)
+

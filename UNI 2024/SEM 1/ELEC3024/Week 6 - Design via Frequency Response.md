@@ -57,4 +57,7 @@ Type 1 system:
 $$G(s) = K \frac{\prod^{n}_{i=1}(s+z_{i})}{s\prod_{i=1}^{m} (s+p_{i})}$$
 
 Velocity constant $K_{v}$
-$$K_{v} = \lim_{  s \to \infty } $$
+$$K_{v} = \lim_{  s \to 0 } sG(s) = K \frac{\prod _{i=1}^{n} z_{i}}{\prod_{i=1}^{m}p_{i}} $$
+
+G'(s) = 1, i.e, it intersects the frequency axis (0dB) at:
+$$K \frac{\prod _{i=1}^{n} z_{i}}{\prod_{i=1}^{m}p_{i}}$$

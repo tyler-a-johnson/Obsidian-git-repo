@@ -46,4 +46,6 @@ Position constant $K_{p}$
 $$K_{p} = K \frac{\prod _{i=1}^{n} z_{i}}{\prod_{i=1}^{m}p_{i}}$$
 
 At DC, or close to it ($\omega_{0}$) plot magnitude proportional to $K_{p}$
-$$20 \log M = 20 \log$$
+$$20 \log M = 20 \log K  \frac{\prod _{i=1}^{n} z_{i}}{\prod_{i=1}^{m}p_{i}} = 20 \log K_{p}$$
+
+**Error to unit step decreases if magnitude at $\omega_{0}$ increases:**

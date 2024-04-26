@@ -160,6 +160,8 @@ $$|G_{c}(j \omega_{max})| = \frac{1}{\sqrt{ \beta }}$$
 4. **Find the phase margin** to meet the damping ratio or percent overshoot requirement. Evaluate the additional phase contribution required from the compensator
 5. **Determine the value of $\beta$** from the lead compensator's required phase contribution.
 6. **Determine the compensator's magnitude** at the peak of the phase curve
-7. **Determine the new p**
+7. **Determine the new phase margin frequency** by finding where the uncompensated system's magnitude curve is the negative of the lead compensator's magnitude at the peak of the compensator's phase curve.
+8. **Design** the lead compensator's break frequencies
+9. **Perform simulation** to check that all specs are met by the design, **if not, redesign**
 
 ```

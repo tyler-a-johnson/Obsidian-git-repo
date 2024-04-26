@@ -184,3 +184,8 @@ Overall phase is negative (ie. lagging)
 ![](Attachments/Pasted%20image%2020240426214304.png)
 
 ### Design Procedure
+```ad-summary
+1. Set the gain K to the value that satisfies the steady state error specification and plot the Bode magnitude and phase diagrams for this value of gain.
+	1. **Assumes initial gain adjustment done to operate at desired phase margin (%OS)**
+
+```

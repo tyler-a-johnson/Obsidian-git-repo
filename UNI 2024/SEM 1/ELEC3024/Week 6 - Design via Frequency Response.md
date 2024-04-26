@@ -15,4 +15,4 @@ Relevant Links:
 	- Setting the gain accordingly
 	- Settling for the resulting steady-state error
 - Disadvantage
-	- Only the transient response and steady-state error represented by **poibnt**
+	- Only the transient response and steady-state error represented by **points along the root locus** are available

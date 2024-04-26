@@ -122,3 +122,13 @@ Open loop transfer function becomes $G(s) = \frac{58,390}{s(s+36)(s+100)}$
 ($K*100$ as per the diagram)
 
 Stability of the closed loop system and validity of second order assumptions need to be verified.
+![700](Attachments/Pasted%20image%2020240426204044.png)
+
+# Lead compensation
+**Lead compensation improves:**
+- The phase margin to reduce the percent overshoot.
+- The gain crossover to realise a faster transient response.
+
+Note that:
+- The low frequency portion of the Bode plot is unchanged (DC gain is unchanged)
+- 

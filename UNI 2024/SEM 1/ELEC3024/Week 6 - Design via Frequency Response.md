@@ -20,4 +20,6 @@ Relevant Links:
 
 *Bode plots vs Root Locus*
 - Stability and transient response design via gain adjustment
-	- Unlike root locus techniques, Bode plots can be implemented conveniently 
+	- Unlike root locus techniques, **Bode plots can be implemented conveniently without a computer or other tool except for testing the design.**
+	- We can easily draw bode plots using asymptotic approximations and **read the gain from the plots.**
+	- The computational disa

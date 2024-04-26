@@ -87,4 +87,12 @@ title: Type 2
 ```
 
 **Conclusion:**
-- Bode plot magnitude for $s \rightarrow 0$ rleate
+- Bode plot magnitude for $s \rightarrow 0$ relates to steady state error of time repsonse
+- Higher magnitude (or higher -ve slope) where $s \rightarrow 0$ means lower, or no, steady state error.
+
+# Transient Response via gain adjustment
+
+```ad-note
+- Draw the Bode magnitude and phase plots for a convenient value of gain
+- Determine the required phase margin from the per
+```

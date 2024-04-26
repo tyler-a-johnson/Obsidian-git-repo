@@ -118,4 +118,7 @@ For the position control system below, find the value of the preamplifier gain t
 ![](Attachments/Pasted%20image%2020240426203647.png)
 
 The value $K = 583.9$ yields a phase margin for $\% OS = 9.48 \%$
-Open loop transfer function becomes $G(s) = \frac{58,390}{2}$
+Open loop transfer function becomes $G(s) = \frac{58,390}{s(s+36)(s+100)}$
+($K*100$ as per the diagram)
+
+Stability of the closed loop system and validity of second order assumptions need to be verified.

@@ -157,6 +157,9 @@ $$|G_{c}(j \omega_{max})| = \frac{1}{\sqrt{ \beta }}$$
 1. **Find the closed loop bandwidth** required to meet the settling time, peak time or rise time requirement
 2. **Set the gain** K of the uncompensated system to the value that satisfies the steady-state error requirement
 3. **Plot the bode plot** magnitude and phase diagrams for this value of gain and determine the uncompensated system's phase margin.
-4. **Find the phase margin** to meet the damping ratio
+4. **Find the phase margin** to meet the damping ratio or percent overshoot requirement. Evaluate the additional phase contribution required from the compensator
+5. **Determine the value of $\beta$** from the lead compensator's required phase contribution.
+6. **Determine the compensator's magnitude** at the peak of the phase curve
+7. **Determine the new p**
 
 ```

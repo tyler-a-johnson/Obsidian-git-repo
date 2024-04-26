@@ -108,4 +108,8 @@ $$\Phi_{M} = \tan^{-1} \frac{2 \zeta}{\sqrt{ -2 \zeta^{2}+ \sqrt{  1+ 4 \zeta^4 
 For the position control system below, find the value of the preamplifier gain to K to yield a 9.5%  overshoot in the transient response.
 ![](Attachments/Pasted%20image%2020240426203128.png)
 ![](Attachments/Pasted%20image%2020240426203153.png)
-%OS = 9.5%, $\zeta$ = 0.6 $\rightarrow$ PM = 5
+%OS = 9.5%, $\zeta$ = 0.6 $\rightarrow$ PM = 59.2 deg. Draw the bode plot or K = 3.6 so that the bode plot starts at 0dB at $\omega = 0.1$rad/s
+
+- In the plot, PM = 59.2deg is achieved at $\omega=14.8$ rad/s
+- At $\omega= 14.8$ rad/s the magnitude response is $-44.2dB$
+- Thus K must be increased so that the magnitude response at 

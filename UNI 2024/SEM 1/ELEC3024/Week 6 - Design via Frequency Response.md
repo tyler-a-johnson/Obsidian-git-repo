@@ -135,4 +135,8 @@ Note that:
 
 **Lead compensator frequency response**
 - This form has DC gain equal to 1, where $\beta < 1$
-- Frequency $\omega_{max}$ at which the maximum phase angle $φ$
+- Frequency $\omega_{max}$ at which the maximum phase angle $φ_{max}$ occurs can be found using
+$$\omega_{max} = \frac{1}{T\sqrt{ \beta }}$$
+
+- The maximum phase angle $φ_{max}$
+$$\phi _{max} = \tan^{-1} \frac{1-\beta}{2 \sqrt{ \beta }}= \sin^{-1} \frac{1}{1+\b

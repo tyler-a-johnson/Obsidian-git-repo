@@ -165,3 +165,6 @@ $$|G_{c}(j \omega_{max})| = \frac{1}{\sqrt{ \beta }}$$
 9. **Perform simulation** to check that all specs are met by the design, **if not, redesign**
 
 ```
+![](Attachments/Pasted%20image%2020240426213552.png)
+
+## Lag compensation (optional)

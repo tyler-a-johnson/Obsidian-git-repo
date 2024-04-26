@@ -139,4 +139,8 @@ Note that:
 $$\omega_{max} = \frac{1}{T\sqrt{ \beta }}$$
 
 - The maximum phase angle $φ_{max}$
-$$\phi _{max} = \tan^{-1} \frac{1-\beta}{2 \sqrt{ \beta }}= \sin^{-1} \frac{1}{1+\b
+$$\phi _{max} = \tan^{-1} \frac{1-\beta}{2 \sqrt{ \beta }}= \sin^{-1} \frac{1-\beta}{1+\beta}$$
+
+![](Attachments/Pasted%20image%2020240426204833.png)
+- Compensator's magnitude at $\omega_{max}$ is
+$$|G_{c}(j \omega_{max})| = \frac{1}{\sqrt{ \beta }}$$

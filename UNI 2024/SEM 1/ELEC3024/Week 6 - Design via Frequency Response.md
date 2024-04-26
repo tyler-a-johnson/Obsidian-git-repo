@@ -22,4 +22,8 @@ Relevant Links:
 - Stability and transient response design via gain adjustment
 	- Unlike root locus techniques, **Bode plots can be implemented conveniently without a computer or other tool except for testing the design.**
 	- We can easily draw bode plots using asymptotic approximations and **read the gain from the plots.**
-	- The computational disa
+	- The **computational disadvantage** of root locus **vanishes** when using tools like MATLAB.
+- Transient response design via cascade compensation
+	- Bode plots are not as intuitive as the root locus
+	- It is something of an art to design cascade compensation with Bode plots
+	- In Bode plots, phase margin is related to percent overshoot

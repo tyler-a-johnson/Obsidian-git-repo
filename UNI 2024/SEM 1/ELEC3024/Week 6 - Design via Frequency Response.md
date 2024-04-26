@@ -53,3 +53,6 @@ $$e_{ss-step} = \frac{1}{1+K_{p}}$$
 
 ## Ramp input, assuming G(s) type 1:
 ![700](Attachments/Pasted%20image%2020240426200604.png)
+Type 1 system:
+$$G(s) = K \frac{\prod^{n}_{i=1}(s+z_{i})}{s\prod_{i=1}^{m} (s+p_{i})}$$
+

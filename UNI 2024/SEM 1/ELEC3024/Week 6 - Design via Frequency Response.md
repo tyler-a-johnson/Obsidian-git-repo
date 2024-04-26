@@ -62,4 +62,7 @@ $$K_{v} = \lim_{  s \to 0 } sG(s) = K \frac{\prod _{i=1}^{n} z_{i}}{\prod_{i=1}^
 G'(s) = 1, i.e, it intersects the frequency axis (0dB) at:
 $$\omega =K \frac{\prod _{i=1}^{n} z_{i}}{\prod_{i=1}^{m}p_{i}} = K_{v}$$
 
-Error to unit ramp decreases if G'(s)
+Error to unit ramp decreases if G'(s) intercept $\omega$ increases:
+$$e_{ss-ramp} = \frac{1}{K_{v}}$$
+
+## Visual inspection of Bode Magnitude plot at DC (low freq) where $s\rightarrow 0$

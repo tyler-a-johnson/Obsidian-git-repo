@@ -23,7 +23,12 @@ Relevant Links:
 	- Unlike root locus techniques, **Bode plots can be implemented conveniently without a computer or other tool except for testing the design.**
 	- We can easily draw bode plots using asymptotic approximations and **read the gain from the plots.**
 	- The **computational disadvantage** of root locus **vanishes** when using tools like MATLAB.
+- 
 - Transient response design via cascade compensation
 	- Bode plots are not as intuitive as the root locus
 	- It is something of an art to design cascade compensation with Bode plots
-	- In Bode plots, phase margin is related to percent overshoot
+	- In Bode plots, phase margin is related to percent overshoot and bandwidth is related to both damping ratio and settling time (or peak time), and the equations are rather complicated
+	- The reshaping of open-loop transfer function's frequency response can lead to several trials until all transient response requirements are met.
+
+- Steady-state error design via cascade compensation
+	- An advantage of bode plot 

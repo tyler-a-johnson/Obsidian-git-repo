@@ -99,6 +99,10 @@ title: Type 2
 
 $$\zeta = \frac{- \ln (\% OS / 100)}{\sqrt{ \pi^{2} + \ln^{2}(\% OS / 100) }}$$
 $$\Phi_{M} = \tan^{-1} \frac{2 \zeta}{\sqrt{ -2 \zeta^{2}+ \sqrt{  1+ 4 \zeta^4 } }}$$
-
+![](Attachments/Pasted%20image%2020240426202941.png)
 - **Find the frequency $\omega_{\Phi M}$** on the Bode phase diagram that yields the desired phase margin, CD
-- **Change**
+- **Change the gain** by an amount AB to force the magnitude curve to go through 0dB at $\omega_{\Phi M}$
+![700](Attachments/Pasted%20image%2020240426202958.png)
+
+## Example problem
+FOr the position control system below, find the value of the preamplifier gain to K to y

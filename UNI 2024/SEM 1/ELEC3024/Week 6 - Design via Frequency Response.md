@@ -94,5 +94,8 @@ title: Type 2
 
 ```ad-note
 - Draw the Bode magnitude and phase plots for a convenient value of gain
-- Determine the required phase margin from the per
+- Determine the required phase margin from the percent overshoot.
 ```
+
+$$\zeta = \frac{- \ln (\% OS / 100)}{\sqrt{ \pi^{2} + \ln^{2}(\% OS / 100) }}$$
+$$\Phi_{M} = \tan^{-1} \frac{2 \zeta}{\sqrt{ -2 \zeta }}$$

@@ -168,3 +168,6 @@ $$|G_{c}(j \omega_{max})| = \frac{1}{\sqrt{ \beta }}$$
 ![](Attachments/Pasted%20image%2020240426213552.png)
 
 ## Lag compensation (optional)
+**Lag compensation improves:**
+- Stability, by increasing the **gain margin** without changing crossover frequency or phase margin
+	- Phase margin determined during gain-adjustment design stage: unchanged by la

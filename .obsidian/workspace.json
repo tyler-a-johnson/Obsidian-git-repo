@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md"
               }
             }
           },
@@ -230,10 +230,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "463da82c6b405aad",
+  "active": "b3120c05f15208b8",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426204849.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426204833.png",
     "Resources/Markdown Latex Reference Sheet.md",

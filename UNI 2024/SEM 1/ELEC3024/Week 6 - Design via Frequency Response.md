@@ -112,4 +112,6 @@ For the position control system below, find the value of the preamplifier gain t
 
 - In the plot, PM = 59.2deg is achieved at $\omega=14.8$ rad/s
 - At $\omega= 14.8$ rad/s the magnitude response is $-44.2dB$
-- Thus K must be increased so that the magnitude response at 
+- Thus K must be increased so that the magnitude response at this frequency is 0dB.
+- To do this K must be increased from 3.6 by a factor of $10^{\frac{44.2 }{20}=}162.18$
+- Thus the desired value of K is $3.6*162.18 = 583.9$

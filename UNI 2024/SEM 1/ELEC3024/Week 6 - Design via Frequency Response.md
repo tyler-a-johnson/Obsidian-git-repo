@@ -60,4 +60,6 @@ Velocity constant $K_{v}$
 $$K_{v} = \lim_{  s \to 0 } sG(s) = K \frac{\prod _{i=1}^{n} z_{i}}{\prod_{i=1}^{m}p_{i}} $$
 
 G'(s) = 1, i.e, it intersects the frequency axis (0dB) at:
-$$K \frac{\prod _{i=1}^{n} z_{i}}{\prod_{i=1}^{m}p_{i}}$$
+$$\omega =K \frac{\prod _{i=1}^{n} z_{i}}{\prod_{i=1}^{m}p_{i}} = K_{v}$$
+
+Error to unit ramp decreases if G'(s)

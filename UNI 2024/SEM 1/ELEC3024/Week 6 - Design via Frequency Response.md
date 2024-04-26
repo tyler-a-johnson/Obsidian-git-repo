@@ -16,4 +16,7 @@ Relevant Links:
 	- Settling for the resulting steady-state error
 - Disadvantage
 	- Only the transient response and steady-state error represented by **points along the root locus** are available
-- **Cascade compensators** have been introduced to meet transient response specifications represented by **points not on the locus** and, independently, steady-state 
+- **Cascade compensators** have been introduced to meet transient response specifications represented by **points not on the locus** and, independently, steady-state error requirements.
+
+*Bode plots vs Root Locus*
+- Stability and transient response design via gain adjustment

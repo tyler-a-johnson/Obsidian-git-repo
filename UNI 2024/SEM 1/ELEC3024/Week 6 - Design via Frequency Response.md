@@ -66,3 +66,10 @@ Error to unit ramp decreases if G'(s) intercept $\omega$ increases:
 $$e_{ss-ramp} = \frac{1}{K_{v}}$$
 
 ## Visual inspection of Bode Magnitude plot at DC (low freq) where $s\rightarrow 0$
+```ad-note
+title: Type 0
+**No common "s" in the denominator of G(s)**
+- Magnitude is a horizontal ling when $s \rightarrow 0$
+- Shifting the Magnitude plot upwards where $s \rightarrow 0$ reduces steady state error to step input
+
+```

@@ -154,6 +154,8 @@ $$|G_{c}(j \omega_{max})| = \frac{1}{\sqrt{ \beta }}$$
 
 ```ad-note
 **Design procedure**
-1. **Find the closed loop bandwidth** requ
+1. **Find the closed loop bandwidth** required to meet the settling time, peak time or rise time requirement
+2. **Set the gain** K of the uncompensated system to the value that satisfies the steady-state error requirement
+3. **Plot the bode plot** 
 
 ```

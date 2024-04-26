@@ -75,7 +75,16 @@ title: Type 0
 ```
 ```ad-example
 title: Type 1
-**One common "s" the denominator of G(s)**
+**One common "s" in the denominator of G(s)**
 - Magnitude decrease by -20dB/decade when $s \rightarrow 0$ because of the 1/s term in G(s)
-- Intercept of initial magnitude slope line with frequency axis inversely proport
+- Intercept of initial magnitude slope line with frequency axis inversely proportional to ramp error
 ```
+```ad-bug
+title: Type 2
+**One common "s^2" in the denominator of G(s)**
+- Similar considerations to type 1 systems apply
+
+```
+
+**Conclusion:**
+- Bode plot magnitude for $s \rightarrow 0$ rleate

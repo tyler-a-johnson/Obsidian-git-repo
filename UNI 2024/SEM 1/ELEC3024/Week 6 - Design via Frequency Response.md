@@ -105,4 +105,7 @@ $$\Phi_{M} = \tan^{-1} \frac{2 \zeta}{\sqrt{ -2 \zeta^{2}+ \sqrt{  1+ 4 \zeta^4 
 ![700](Attachments/Pasted%20image%2020240426202958.png)
 
 ## Example problem
-FOr the position control system below, find the value of the preamplifier gain to K to y
+For the position control system below, find the value of the preamplifier gain to K to yield a 9.5%  overshoot in the transient response.
+![](Attachments/Pasted%20image%2020240426203128.png)
+![](Attachments/Pasted%20image%2020240426203153.png)
+%OS = 9.5%, $\zeta$ = 0.6 $\rightarrow$ PM = 5

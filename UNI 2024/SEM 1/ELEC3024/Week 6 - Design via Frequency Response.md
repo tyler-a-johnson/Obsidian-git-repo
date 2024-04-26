@@ -138,6 +138,10 @@ Note that:
 - Frequency $\omega_{max}$ at which the maximum phase angle $φ_{max}$ occurs can be found using
 $$\omega_{max} = \frac{1}{T\sqrt{ \beta }}$$
 
+
+$$G_{c}(s) = \frac{1}{\beta} \frac{s+ \frac{1}{T}}{s+ \frac{1}{\beta T}}$$
+
+![](Attachments/Pasted%20image%2020240426204849.png)
 - The maximum phase angle $φ_{max}$
 $$\phi _{max} = \tan^{-1} \frac{1-\beta}{2 \sqrt{ \beta }}= \sin^{-1} \frac{1-\beta}{1+\beta}$$
 

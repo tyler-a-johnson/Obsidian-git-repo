@@ -213,3 +213,9 @@ Normalised bandwidth vs damping ratio for:
 	- Time reduces the phase margin
 	- Yields a reduced damping ratio for C/L system
 	- **Also reduces gain margin**
+```ad-summary
+Time delay moves the system close to instability
+
+```
+![](Attachments/Pasted%20image%2020240426014116.png)
+![](Attachments/Pasted%20image%2020240426014130.png)

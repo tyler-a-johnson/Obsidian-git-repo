@@ -13,26 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8736b91adace40a2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3130a6a7e34741d0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch10 - Frequency Response_v1_annotated-1.pdf"
               }
             }
           }
@@ -102,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.50418853759766,
-    "collapsed": true
+    "width": 452.50418853759766
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -130,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 -.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 8.md"
               }
             }
           },
@@ -219,19 +202,21 @@
   },
   "active": "b3120c05f15208b8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Week 7.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 8.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 6.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426014130.png",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch10 - Frequency Response_v1_annotated-1.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426014116.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426013831.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426013100.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch10 - Frequency Response_v1_annotated-1.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426012544.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426012340.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426012226.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426012038.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426011032.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426010727.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426010331.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426010223.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426010000.png",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
@@ -265,8 +250,6 @@
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
-    "UNI 2023/SEM 1/ELEC2070/Week 5 - Second Order Circuits.md",
-    "conflict-files-obsidian-git.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",

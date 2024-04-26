@@ -5,7 +5,10 @@
 	- [[Week 2 - Time Response and Reduction of Multiple Subsystems]]
 	- [[Week 3 - Stability and Steady State Errors]]
 	- [[Week 4 - Root Locus Techniques and Design]]
-	- [[Week 5 -]]
+	- [[Week 5 - Frequency and Response (Bode Plots)]]
+	- [[Week 6]]
+	- [[Week 7]]
+	- [[Week 8]]
 - **ENGG4001**
 	- [[Electronic Braille Signs]]
 - **FOSE3000**

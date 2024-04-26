@@ -98,4 +98,7 @@ title: Type 2
 ```
 
 $$\zeta = \frac{- \ln (\% OS / 100)}{\sqrt{ \pi^{2} + \ln^{2}(\% OS / 100) }}$$
-$$\Phi_{M} = \tan^{-1} \frac{2 \zeta}{\sqrt{ -2 \zeta }}$$
+$$\Phi_{M} = \tan^{-1} \frac{2 \zeta}{\sqrt{ -2 \zeta^{2}+ \sqrt{  1+ 4 \zeta^4 } }}$$
+
+- **Find the frequency $\omega_{\Phi M}$** on the Bode phase diagram that yields the desired phase margin, CD
+- **Change**

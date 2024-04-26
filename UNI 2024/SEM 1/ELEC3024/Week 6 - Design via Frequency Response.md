@@ -190,6 +190,7 @@ Overall phase is negative (ie. lagging)
 2. Find frequency where phase margin is 10deg higher than desired value, to compensate for compensator phase lag
 3. Select a lag compensator whose magnitude response yields a compensated bode magnitude diagram that goes through 0dB at the frequency found in step 2 as follows:
 	1. Draw the compensator's high frequency asymptote to yield 0dB for the compensated system at the frequency found in step 2. If the frequency is 20log$K_{PM}$ then the compensator's high-frequency asymptote will be set to -20log$K_{PM}$
-	2. **Select** the upper break frequency (compensator zero) to be 1 decade below the f
+	2. **Select** the upper break frequency (compensator zero) to be 1 decade below the frequency found in step 2.
+	3. Select the low frequency asymptote to be at 0dB (compensator has a DC gain 
 
 ```

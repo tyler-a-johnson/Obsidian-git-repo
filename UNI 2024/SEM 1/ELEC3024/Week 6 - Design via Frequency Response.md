@@ -109,9 +109,13 @@ For the position control system below, find the value of the preamplifier gain t
 ![](Attachments/Pasted%20image%2020240426203128.png)
 ![](Attachments/Pasted%20image%2020240426203153.png)
 %OS = 9.5%, $\zeta$ = 0.6 $\rightarrow$ PM = 59.2 deg. Draw the bode plot or K = 3.6 so that the bode plot starts at 0dB at $\omega = 0.1$rad/s
-
+![700](Attachments/Pasted%20image%2020240426203708.png)
 - In the plot, PM = 59.2deg is achieved at $\omega=14.8$ rad/s
 - At $\omega= 14.8$ rad/s the magnitude response is $-44.2dB$
 - Thus K must be increased so that the magnitude response at this frequency is 0dB.
 - To do this K must be increased from 3.6 by a factor of $10^{\frac{44.2 }{20}=}162.18$
 - Thus the desired value of K is $3.6*162.18 = 583.9$
+![](Attachments/Pasted%20image%2020240426203647.png)
+
+The value $K = 583.9$ yields a phase margin for $\% OS = 9.48 \%$
+Open loop transfer function becomes $G(s) = \frac{58,390}{2}$

@@ -131,4 +131,8 @@ Stability of the closed loop system and validity of second order assumptions nee
 
 Note that:
 - The low frequency portion of the Bode plot is unchanged (DC gain is unchanged)
-- 
+![700](Attachments/Pasted%20image%2020240426204251.png)
+
+**Lead compensator frequency response**
+- This form has DC gain equal to 1, where $\beta < 1$
+- Frequency $\omega_{max}$ at which the maximum phase angle $φ$

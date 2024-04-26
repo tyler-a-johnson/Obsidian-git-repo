@@ -40,3 +40,5 @@ Steady-state error design via cascade compensation
 # Steady-state error insights from Bode plots
 Step input, assuming G(s) type 0:
 ![700](Attachments/Pasted%20image%2020240426195614.png)
+Type zero system:
+$$G(s) = K \frac{\prod^{n}_{}}{2}$$

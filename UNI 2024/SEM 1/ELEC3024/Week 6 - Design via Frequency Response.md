@@ -170,4 +170,7 @@ $$|G_{c}(j \omega_{max})| = \frac{1}{\sqrt{ \beta }}$$
 ## Lag compensation (optional)
 **Lag compensation improves:**
 - Stability, by increasing the **gain margin** without changing crossover frequency or phase margin
-	- Phase margin determined during gain-adjustment design stage: unchanged by la
+	- Phase margin determined during gain-adjustment design stage: unchanged by lag compensator.
+	- Ideally, no change in transient response between uncompensated and compensated system.
+- **The steady-state error**
+	- $K_{v}$ is high, while keeping the system stable (from fig below, the Uncomp system with desired $K_{v}$ would be unstable due to M 

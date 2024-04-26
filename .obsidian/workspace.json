@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 8.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 8.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 8.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 8.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md"
               }
             }
           },
@@ -202,10 +202,11 @@
   },
   "active": "b3120c05f15208b8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 8.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 8.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 6.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426014130.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch10 - Frequency Response_v1_annotated-1.pdf",
@@ -247,7 +248,6 @@
     "Daily Notes/05-04-2024.md",
     "Daily Notes/04-04-2024.md",
     "Daily Notes/03-04-2024.md",
-    "UNI 2024/SEM 1/PHYS2010/LAB 1 - Resonance and Q in electric circuits Pre Lab.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "Study Plan (Macquarie University).canvas",

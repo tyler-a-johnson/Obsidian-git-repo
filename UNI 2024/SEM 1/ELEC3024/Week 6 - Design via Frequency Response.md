@@ -31,4 +31,5 @@ Relevant Links:
 	- The reshaping of open-loop transfer function's frequency response can lead to several trials until all transient response requirements are met.
 
 - Steady-state error design via cascade compensation
-	- An advantage of bode plot 
+	- An advantage of bode plots is the ability to design derivative compensation, such as lead compensation, to improve both transient response and steady-state error.
+	- Using root locus there are an infinite number of possible solutions to the design of a lead comp

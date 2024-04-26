@@ -37,8 +37,6 @@ Steady-state error design via cascade compensation
 
 ![](Attachments/Pasted%20image%2020240426195341.png)
 
-Bode plots vs. root locus
-- Steady-state error design via cascade compensation
-	- *An advantage of using Bode plots is the ability to design derivative compensation, such as lead compensation, to improve both transient response and steady-state error.*
-	- Using root locus there are an infinite number of possible solutions to the design of a lead compensator
-	- Root locus 
+# Steady-state error insights from Bode plots
+Step input, assuming G(s) type 0:
+![700](Attachments/Pasted%20image%2020240426195614.png)

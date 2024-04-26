@@ -7,4 +7,7 @@ Relevant Notes:
 Relevant Links:
 ---
 **Lecture Slides:**
-![Design via ](Attachments/Workshop%20Ch11%20-%20Design%20via%20Frequency%20Response_annotated.pdf)
+[Design via Frequency Response](Attachments/Workshop%20Ch11%20-%20Design%20via%20Frequency%20Response_annotated.pdf)
+
+**Review of root locus design:**
+- 

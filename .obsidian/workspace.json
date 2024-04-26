@@ -21,6 +21,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "0e5a63b6ae6a2ade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463da82c6b405aad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.50418853759766
+    "width": 452.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -203,10 +220,10 @@
   "active": "b3120c05f15208b8",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Week 8.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426014130.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch10 - Frequency Response_v1_annotated-1.pdf",
@@ -236,7 +253,6 @@
     "Distilled Notes/Untitled 2.md",
     "Resources/Code Repository.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Intro to Control Systems v01_annotated.pdf",
     "Distilled Notes/Untitled 1.md",
     "UNI 2024/SEM 1/FOSE3000/Week 8.md",
     "UNI 2024/SEM 1/FOSE3000/Week 7.md",

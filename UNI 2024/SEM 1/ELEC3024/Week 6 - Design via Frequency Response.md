@@ -173,4 +173,10 @@ $$|G_{c}(j \omega_{max})| = \frac{1}{\sqrt{ \beta }}$$
 	- Phase margin determined during gain-adjustment design stage: unchanged by lag compensator.
 	- Ideally, no change in transient response between uncompensated and compensated system.
 - **The steady-state error**
-	- $K_{v}$ is high, while keeping the system stable (from fig below, the Uncomp system with desired $K_{v}$ would be unstable due to M 
+	- $K_{v}$ is high, while keeping the system stable (from fig below, the Uncomp system with desired $K_{v}$ would be unstable due to M > 0dB at crossover frequency.
+$$G_{c}(s) = \frac{1}{a}* \frac{s + \frac{1}{T}}{s + \frac{1}{\alpha T}}$$
+
+*Note: this expression provides $G_{c}(0) = 1$*
+![800](Attachments/Pasted%20image%2020240426214224.png)
+
+**Bode plot of a la**

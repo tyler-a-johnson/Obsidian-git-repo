@@ -152,3 +152,8 @@ $$|G_{c}(j \omega_{max})| = \frac{1}{\sqrt{ \beta }}$$
 ![](Attachments/Pasted%20image%2020240426212036.png)
 
 
+```ad-note
+**Design procedure**
+1. **Find the closed loop bandwidth** requ
+
+```

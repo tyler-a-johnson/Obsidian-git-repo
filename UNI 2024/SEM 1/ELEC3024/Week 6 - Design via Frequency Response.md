@@ -42,6 +42,8 @@ Step input, assuming G(s) type 0:
 ![700](Attachments/Pasted%20image%2020240426195614.png)
 Type zero system:
 $$G(s) = K \frac{\prod^{n}_{i=1}(s+z_{i})}{\prod_{i=1}^{m} (s+p_{i})}$$
-
 Position constant $K_{p}$
-$$K_{p} = K \frac{\prod _{i=1}^{n} z_{}}{2}$$
+$$K_{p} = K \frac{\prod _{i=1}^{n} z_{i}}{\prod_{i=1}^{m}p_{i}}$$
+
+At DC, or close to it ($\omega_{0}$) plot magnitude proportional to $K_{p}$
+$$20 \log M = 20 \log$$

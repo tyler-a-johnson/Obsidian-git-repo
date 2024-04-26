@@ -151,8 +151,8 @@ $$|G_{c}(j \omega_{max})| = \frac{1}{\sqrt{ \beta }}$$
 ![800](Attachments/Pasted%20image%2020240426212009.png)
 ![](Attachments/Pasted%20image%2020240426212036.png)
 
-
-```ad-note
+## Design procedure
+```ad-summary
 **Design procedure**
 1. **Find the closed loop bandwidth** required to meet the settling time, peak time or rise time requirement
 2. **Set the gain** K of the uncompensated system to the value that satisfies the steady-state error requirement
@@ -179,4 +179,8 @@ $$G_{c}(s) = \frac{1}{a}* \frac{s + \frac{1}{T}}{s + \frac{1}{\alpha T}}$$
 *Note: this expression provides $G_{c}(0) = 1$*
 ![800](Attachments/Pasted%20image%2020240426214224.png)
 
-**Bode plot of a la**
+**Bode plot of a lag compensator**
+Overall phase is negative (ie. lagging)
+![](Attachments/Pasted%20image%2020240426214304.png)
+
+### Design Procedure

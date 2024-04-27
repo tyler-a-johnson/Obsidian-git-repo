@@ -70,4 +70,6 @@ Relevant Links:
 - Our goal is to represent the digital system as a transfer function similar to that for any subsystem.
 - When signals are sampled, however, the Laplace transform becomes unwieldy.
 - **Laplace transform can be replaced** by another related transform called the **z-transform**
-- 
+- Using the model in Fig(b) the time equation of the sampled waveform becomes:
+![](Attachments/Pasted%20image%2020240427203231.png)
+$$f^{*}_{T_{W}}(t) = f(t) = $$

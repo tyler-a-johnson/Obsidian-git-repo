@@ -118,7 +118,8 @@ $$F(z) = \frac{A_{z}}{z-z_{1}}+\frac{B_{z}}{z-z_{2}}+\dots$$
 
 ### Power series method
 - The values of the sampled time waveform can also be found directly from F(z)
-- Although this method does not yield closed-
+- Although this method does not yield closed-form expressions for f(kT) it can be used for plotting.
+- The method consists of performing the indicated di
 
 ## Example
 ![](Attachments/Pasted%20image%2020240427205707.png)

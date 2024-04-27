@@ -97,3 +97,7 @@ $$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
 - The main goal is to **develop a transform** that contains the information of sampling from which sampled-data systems can be modelled with transfer functions, analysed, and designed with the ease and insight of Laplace transform.
 - Taking the Laplace transform of the sample time waveform (2), we obtain (3).
 - Letting $z = e^{Ts}$ we obtain the expression of the z-Transform F(z) (4)
+![](Attachments/Pasted%20image%2020240427205211.png)
+
+- An F(z) can be transformed to f(kT) and an f(kT) can be transformed to F(z)
+- 

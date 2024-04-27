@@ -6,7 +6,7 @@
       {
         "id": "8c6f543d1dbc547b",
         "type": "tabs",
-        "dimension": 32,
+        "dimension": 45.36363636363636,
         "children": [
           {
             "id": "b3120c05f15208b8",
@@ -26,7 +26,7 @@
       {
         "id": "84c67db01a59d799",
         "type": "tabs",
-        "dimension": 68,
+        "dimension": 54.63636363636364,
         "children": [
           {
             "id": "13d73986cf075d4d",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md"
               }
             }
           },
@@ -219,10 +219,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "13d73986cf075d4d",
+  "active": "b3120c05f15208b8",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427205211.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427204525.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427204500.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427204045.png",

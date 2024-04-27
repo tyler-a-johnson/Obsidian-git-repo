@@ -137,12 +137,15 @@ $$F(z) = \frac{A_{z}}{z-z_{1}}+\frac{B_{z}}{z-z_{2}}+\dots$$
 
 
 # Transfer functions
-![](Attachments/Pasted%20image%2020240427212705.png)
-![](Attachments/Pasted%20image%2020240427212720.png)
-![](Attachments/Pasted%20image%2020240427212733.png)
-
 - Let's apply the z-transform to physical systems by finding transfer functions of sampled-data systems
 - Consider the continuous system shown in Fig(a). If the **input is sampled** as shown in Fig(b) **the output is a continuous signal**.
 - If we are satisfied with **finding the output at the sampling instants** and not inbetween, the representation of the sampled-data system can be greatly simplified.
 - Our assumption is visually described in Fig(c), where the output is conceptually sampled in synchronization with the input by a phantom sampler.
-- Using the concept des
+- Using the concept described in Fig(c) we derive the pulse transfer function of G(s).
+![](Attachments/Pasted%20image%2020240427213611.png)
+
+## Example
+![](Attachments/Pasted%20image%2020240427212705.png)
+![](Attachments/Pasted%20image%2020240427212720.png)
+![](Attachments/Pasted%20image%2020240427212733.png)
+

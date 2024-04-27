@@ -149,3 +149,6 @@ $$F(z) = \frac{A_{z}}{z-z_{1}}+\frac{B_{z}}{z-z_{2}}+\dots$$
 ![](Attachments/Pasted%20image%2020240427212720.png)
 ![](Attachments/Pasted%20image%2020240427212733.png)
 
+# Block diagram reduction
+The main objective here is to be able to **find the closed-loop sampled-data transfer function** of an arrangement of subsystems that have a digital system in the loop.
+- To avoid mistakes by noticing that $z\{}$

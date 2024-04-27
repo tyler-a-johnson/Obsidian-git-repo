@@ -55,4 +55,6 @@ Relevant Links:
 - The dynamic range of the analogue signal's voltage is divided into discrete levels.
 - Each level is assigned a digital number.
 	- In Fig(b) from previous slide, the analogue signal is divided into eight levels ($2^3$ - a three bit digital number)
-	- The difference between quantization levels is M/8 volts, M is the 
+	- The difference between quantization levels is M/8 volts, M is the max analogue voltage.
+	- Typically the difference is $\frac{M}{2^n}$ volts, where n is the number of binary bits used for the A/D conversion.
+	- There is a 

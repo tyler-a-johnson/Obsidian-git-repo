@@ -59,4 +59,7 @@ Relevant Links:
 	- Typically the difference is $\frac{M}{2^n}$ volts, where n is the number of binary bits used for the A/D conversion.
 	- There is an **quantization error** for each digitized analogue value except the voltage at the boundaries such as M/8 and 2M/8
 	- Generally for a system using **roundoff**, the quantization error will be $\left( \frac{1}{2} \right)\left( \frac{M}{2^{n}} = \frac{M}{2^{2n+1}} \right)$
-- The sampling of data has an unusual effedc
+- Stability and transient response are now dependent upon the sampling rate.
+- If the sampling rate is too slow, the system can be unstable, since the values are not being updated rapidly enough.
+
+# Discrete-time modelling

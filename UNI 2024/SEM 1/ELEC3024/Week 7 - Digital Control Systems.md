@@ -84,4 +84,10 @@ After transformation, $f^{*}_{Tw}(t)$ becomes $f^{*}_{Tw}(t)=T_{w} \sum_{k=-\inf
 ## Modelling the Zero-Order Hold (ZOH)
 - The final step in modelling the digital system is modelling the ZOH that follows the sampler.
 - If we assume an ideal sampler (equivalent to setting $T_{w} = 1$), then $f^{*}(t)$ is represented by a sequence of delta functions.
-- The **ZOH yield s a staior**
+- The **ZOH yield s a staircase approximation** to $f(t)$ Hence, the output from the hold is a sequence of step functions whose amplitude is $f(t)$ at the sampling instant, or $f(kT)$.
+- Transfer function of ZOH is:
+$$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
+![](Attachments/Pasted%20image%2020240427204500.png)
+![](Attachments/Pasted%20image%2020240427204525.png)
+
+# Z-Transform

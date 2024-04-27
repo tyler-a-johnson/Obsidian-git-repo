@@ -27,3 +27,5 @@ Relevant Links:
 	- Changes and mods can be implemented in software instead of expensive hardware changes.
 - **Noise immunity**
 	- Digital systems exhibit **more noise immunity** than analog systems by method of implementation
+
+*DAC (Digital to analogue conversion)*

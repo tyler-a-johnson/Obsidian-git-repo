@@ -100,10 +100,21 @@ $$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
 ![](Attachments/Pasted%20image%2020240427205211.png)
 
 - Transforming F(z) and f(kT) is commutative.
+
+
+## Inverse Z transform
+- There are two methods for finding inverse Z transform:
+	- Partial-fraction expansion
+	- Power series method
+- Keep in mind that since the Z transform came from the sampled waveform, the inverse z-transform **will only yield values of the time function at the sampling instants.**
+- 
+
+## Example
 ![](Attachments/Pasted%20image%2020240427205707.png)
 ![](Attachments/Pasted%20image%2020240427205722.png)
 ![](Attachments/Pasted%20image%2020240427205734.png)
 ![](Attachments/Pasted%20image%2020240427205819.png)
+
 
 ## Partial table of Z and S transforms
 ![](Attachments/Pasted%20image%2020240427205856.png)

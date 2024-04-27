@@ -135,3 +135,8 @@ $$F(z) = \frac{A_{z}}{z-z_{1}}+\frac{B_{z}}{z-z_{2}}+\dots$$
 ## Z-transform theorems
 ![](Attachments/Pasted%20image%2020240427210000.png)
 
+
+# Transfer functions
+![](Attachments/Pasted%20image%2020240427212705.png)
+![](Attachments/Pasted%20image%2020240427212720.png)
+![](Attachments/Pasted%20image%2020240427212733.png)

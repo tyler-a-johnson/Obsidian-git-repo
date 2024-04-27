@@ -72,10 +72,10 @@ Relevant Links:
 - **Laplace transform can be replaced** by another related transform called the **z-transform**
 - Using the model in Fig(b) the time equation of the sampled waveform becomes:
 ![](Attachments/Pasted%20image%2020240427203231.png)
-$$f^{*}_{TW}(t) = f(t)s(t) = f(t) \sum_{k=-\infty}^{\infty} u(t-kT) - u(t-kT-Tw)$$
+$$f^{*}_{T_{W}}(t) = f(t)s(t) = f(t) \sum_{k=-\infty}^{\infty} u(t-kT) - u(t-kT-Tw)$$
 Where k is an integer between $- \infty$ and $+ \infty$, T is the period of the pulse train, and $T_{w}$ is the pulse width.
 
-After transformation, $f^{*}_{Tw}(t)$ becomes $f^{*}_{Tw}(t)=Tw \sum_{k=-\infty}^{\infty} f(kT) \delta(t-kT)$
+After transformation, $f^{*}_{Tw}(t)$ becomes $f^{*}_{Tw}(t)=T_{w} \sum_{k=-\infty}^{\infty} f(kT) \delta(t-kT)$
 - Where $\delta(t-kT)$ are **Dirac delta functions**
 - The equation above is depicted in figure below
 ![800](Attachments/Pasted%20image%2020240427204027.png)
@@ -83,4 +83,5 @@ After transformation, $f^{*}_{Tw}(t)$ becomes $f^{*}_{Tw}(t)=Tw \sum_{k=-\infty}
 
 ## Modelling the Zero-Order Hold (ZOH)
 - The final step in modelling the digital system is modelling the ZOH that follows the sampler.
-- If we assume an ideal sampler (equ
+- If we assume an ideal sampler (equivalent to setting $T_{w} = 1$), then $f^{*}(t)$ is represented by a sequence of delta functions.
+- The **ZOH yield s a staior**

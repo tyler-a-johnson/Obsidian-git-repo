@@ -76,3 +76,11 @@ $$f^{*}_{TW}(t) = f(t)s(t) = f(t) \sum_{k=-\infty}^{\infty} u(t-kT) - u(t-kT-Tw)
 Where k is an integer between $- \infty$ and $+ \infty$, T is the period of the pulse train, and $T_{w}$ is the pulse width.
 
 After transformation, $f^{*}_{Tw}(t)$ becomes $f^{*}_{Tw}(t)=Tw \sum_{k=-\infty}^{\infty} f(kT) \delta(t-kT)$
+- Where $\delta(t-kT)$ are **Dirac delta functions**
+- The equation above is depicted in figure below
+![800](Attachments/Pasted%20image%2020240427204027.png)
+![](Attachments/Pasted%20image%2020240427204045.png)
+
+## Modelling the Zero-Order Hold (ZOH)
+- The final step in modelling the digital system is modelling the ZOH that follows the sampler.
+- If we assume an ideal sampler (equ

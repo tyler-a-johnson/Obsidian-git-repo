@@ -72,4 +72,6 @@ Relevant Links:
 - **Laplace transform can be replaced** by another related transform called the **z-transform**
 - Using the model in Fig(b) the time equation of the sampled waveform becomes:
 ![](Attachments/Pasted%20image%2020240427203231.png)
-$$f^{*}_{T_{W}}(t) = f(t)s(t) = f(t) \sum$$
+$$f^{*}_{T_{W}}(t) = f(t)s(t) = f(t) \sum_{k=-\infty}^{\infty} u(t-kT) - u(t-kT-Tw)$$
+Where k is an integer between $- \infty$ and $+ \infty$, T is the period of the pulse train, and $T_{w}$ is the pulse width.
+

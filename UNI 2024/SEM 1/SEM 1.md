@@ -7,8 +7,7 @@
 	- [[Week 4 - Root Locus Techniques and Design]]
 	- [[Week 5 - Frequency and Response (Bode Plots)]]
 	- [[Week 6 - Design via Frequency Response]]
-	- [[Week 7]]
-	- [[Week 8]]
+	- [[Week 7 - Digital Control Systems]]
 - **ENGG4001**
 	- [[Electronic Braille Signs]]
 - **FOSE3000**

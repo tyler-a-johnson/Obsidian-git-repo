@@ -192,6 +192,7 @@ Overall phase is negative (ie. lagging)
 	1. Draw the compensator's high frequency asymptote to yield 0dB for the compensated system at the frequency found in step 2. If the frequency is 20log$K_{PM}$ then the compensator's high-frequency asymptote will be set to -20log$K_{PM}$
 	2. **Select** the upper break frequency (compensator zero) to be 1 decade below the frequency found in step 2.
 	3. Select the low frequency asymptote to be at 0dB (compensator has a DC gain = 1 ie 0dB)
-	4. Connect the compensator's high- and low- frequency 
+	4. Connect the compensator's high- and low- frequency asymptotes with a -20dB/decade line to locate the lower break frequency.
+4. Reset the system gain K to compensate for any attenuation in the lag network in order to keep the static error constant the same as that found in step 1.
 
 ```

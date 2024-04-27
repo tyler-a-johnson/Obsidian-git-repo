@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.50418853759766
+    "width": 452.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -202,9 +203,10 @@
   },
   "active": "b3120c05f15208b8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated 1.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+    "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf",

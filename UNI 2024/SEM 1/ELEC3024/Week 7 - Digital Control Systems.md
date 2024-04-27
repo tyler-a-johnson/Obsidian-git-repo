@@ -143,4 +143,6 @@ $$F(z) = \frac{A_{z}}{z-z_{1}}+\frac{B_{z}}{z-z_{2}}+\dots$$
 
 - Let's apply the z-transform to physical systems by finding transfer functions of sampled-data systems
 - Consider the continuous system shown in Fig(a). If the **input is sampled** as shown in Fig(b) **the output is a continuous signal**.
-- If we are satisfied with **finding the output **
+- If we are satisfied with **finding the output at the sampling instants** and not inbetween, the representation of the sampled-data system can be greatly simplified.
+- Our assumption is visually described in Fig(c), where the output is conceptually sampled in synchronization with the input by a phantom sampler.
+- Using the concept des

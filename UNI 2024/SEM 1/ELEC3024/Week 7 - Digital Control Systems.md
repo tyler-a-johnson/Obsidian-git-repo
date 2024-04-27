@@ -28,4 +28,8 @@ Relevant Links:
 - **Noise immunity**
 	- Digital systems exhibit **more noise immunity** than analog systems by method of implementation
 
+- The signals r, e, f and c shown in Fig(a) can take on two forms: digital or analogue
+- Loops containing both analogue signals to digital signals is called an analogue-to-digital converter (ADC)
+
+
 *DAC (Digital to analogue conversion)*

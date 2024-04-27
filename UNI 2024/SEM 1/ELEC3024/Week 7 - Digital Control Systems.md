@@ -48,4 +48,5 @@ Relevant Links:
 [Week 9 - Sampling](../../../UNI%202023/SEM%201/ELEC2040/Week%209%20-%20Sampling.md)
 - sampling rate must be at least **twice the bandwidth of the signal**
 - This minimum sampling frequency is called the **Nyquist Sampling rate**
-[
+- Analogue signal is sampled at periodic intervals and held over the sampling interval by a device called **zero-order sample-and-hold** (ZOH) that yields a staircase approximation to the analogue signal.
+- Higher order holds such as **first order hold** g

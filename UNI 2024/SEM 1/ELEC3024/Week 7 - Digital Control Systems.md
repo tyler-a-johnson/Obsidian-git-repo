@@ -67,4 +67,7 @@ Relevant Links:
 - This is not the case, we must come up with **mathematical representation** of this sample-and-hold process
 ![800](Attachments/Pasted%20image%2020240427202613.png)
 ## Modelling the sampler
-- Our goal is to represent the digital system as a transfer function similar to that for any subsys
+- Our goal is to represent the digital system as a transfer function similar to that for any subsystem.
+- When signals are sampled, however, the Laplace transform becomes unwieldy.
+- **Laplace transform can be replaced** by another related transform called the **z-transform**
+- 

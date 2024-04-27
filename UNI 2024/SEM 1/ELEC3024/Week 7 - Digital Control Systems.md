@@ -157,4 +157,7 @@ The main objective here is to be able to **find the closed-loop sampled-data tra
 
 (a) $C(z) = R(z)G(z)$
 (b) $C(z) = R(z)G_{1}G_{2}(z)$
-(c) $C(z)$
+(c) $C(z) = R(z)G_{1}(z)G_{2}(z)$
+(d) $C(z) = RG_{1}(z) G_{2}(z)$
+![](Attachments/Pasted%20image%2020240427214516.png)
+

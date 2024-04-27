@@ -103,3 +103,7 @@ $$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
 ![](Attachments/Pasted%20image%2020240427205707.png)
 ![](Attachments/Pasted%20image%2020240427205722.png)
 ![](Attachments/Pasted%20image%2020240427205734.png)
+![](Attachments/Pasted%20image%2020240427205819.png)
+
+## Partial table of Z and S transforms
+![](Attachments/Pasted%20image%2020240427205856.png)

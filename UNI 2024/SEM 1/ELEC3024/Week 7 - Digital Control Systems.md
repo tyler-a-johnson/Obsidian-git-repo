@@ -111,7 +111,10 @@ $$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
 - Laplace transform consists of a partial fraction that yields a sum of terms leading to exponentials, that is A/(s+a).
 - Using partial table for s and z transforms, we find that sampled exponential time functions are related to their z-transforms as follows:
 $$e^{-akT} \leftarrow \rightarrow \frac{z}{z-e^{aT}}$$
-We 
+We predict that a partial fraction expansion should  be of the following form:
+$$F(z) = \frac{A_{z}}{z-z_{1}}+\frac{B_{z}}{z-z_{2}}+\dots$$
+
+- Since F(s) does not contain terms with s in the numerator of the partial fractions, we first form F(z)/z to eliminate the z terms in the numerator, and perform a partial fraction expansion of 
 
 ## Example
 ![](Attachments/Pasted%20image%2020240427205707.png)

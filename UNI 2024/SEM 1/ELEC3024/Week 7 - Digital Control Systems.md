@@ -44,5 +44,8 @@ Relevant Links:
 *Analogue-to-digital (A/D) conversion*
 - **A/D** conversion is a 2 step process **not instant**
 - There is a **delay** between input analogue signal and output digital signal.
-- the analogue signal is first converted to a sampled [[sample signal, then converted to a sequence of binary numbers
-
+- the analogue signal is first converted to a sampled signal, then converted to a sequence of binary numbers
+[Week 9 - Sampling](../../../UNI%202023/SEM%201/ELEC2040/Week%209%20-%20Sampling.md)
+- sampling rate must be at least **twice the bandwidth of the signal**
+- This minimum sampling frequency is called the **Nyquist Sampling rate**
+[

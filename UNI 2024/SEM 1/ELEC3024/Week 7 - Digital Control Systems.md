@@ -54,4 +54,5 @@ Relevant Links:
 ![](Attachments/Pasted%20image%2020240427200646.png)
 - The dynamic range of the analogue signal's voltage is divided into discrete levels.
 - Each level is assigned a digital number.
-	- In Fig(b)
+	- In Fig(b) from previous slide, the analogue signal is divided into eight levels ($2^3$ - a three bit digital number)
+	- The difference between quantization levels is M/8 volts, M is the 

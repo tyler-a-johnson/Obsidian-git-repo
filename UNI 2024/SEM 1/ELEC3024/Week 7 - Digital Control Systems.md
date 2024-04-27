@@ -151,4 +151,5 @@ $$F(z) = \frac{A_{z}}{z-z_{1}}+\frac{B_{z}}{z-z_{2}}+\dots$$
 
 # Block diagram reduction
 The main objective here is to be able to **find the closed-loop sampled-data transfer function** of an arrangement of subsystems that have a digital system in the loop.
-- To avoid mistakes by noticing that $z\{}$
+- To avoid mistakes by noticing that $z\{  G_{1}(s) G_{1}(s) \} \neq G_{1}(z) G_{2}(z)$
+	- **z{...}** denotes z-Transform

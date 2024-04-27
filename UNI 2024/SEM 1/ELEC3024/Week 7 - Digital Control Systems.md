@@ -108,7 +108,7 @@ $$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
 	- Power series method
 - Keep in mind that since the Z transform came from the sampled waveform, the inverse z-transform **will only yield values of the time function at the sampling instants.**
 ### Partial Fraction Expansion
-- Laplace transform consists of a partial
+- Laplace transform consists of a partial fraction
 
 ## Example
 ![](Attachments/Pasted%20image%2020240427205707.png)

@@ -13,3 +13,6 @@ Relevant Links:
 
 - This will only cover frequency domain analysis and design.
 - Specifically, this will cover analysis and design of stability, steady state error, and transient response for discrete time systems.
+- Modern microcontrollers make this much easier
+- Microcontrollers can perform two main functions:
+	- **Supervisory** external to the feedback loop eg schedu

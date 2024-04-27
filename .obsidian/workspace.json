@@ -6,6 +6,7 @@
       {
         "id": "8c6f543d1dbc547b",
         "type": "tabs",
+        "dimension": 32,
         "children": [
           {
             "id": "b3120c05f15208b8",
@@ -25,6 +26,7 @@
       {
         "id": "84c67db01a59d799",
         "type": "tabs",
+        "dimension": 68,
         "children": [
           {
             "id": "13d73986cf075d4d",
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf"
               }
             }
           },
@@ -217,10 +219,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b3120c05f15208b8",
+  "active": "13d73986cf075d4d",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427204525.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427204500.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427204045.png",

@@ -96,4 +96,4 @@ $$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
 	- **Sampled-data systems** depend upon **sampling rate**
 - The main goal is to **develop a transform** that contains the information of sampling from which sampled-data systems can be modelled with transfer functions, analysed, and designed with the ease and insight of Laplace transform.
 - Taking the Laplace transform of the sample time waveform (2), we obtain (3).
-- Letting $z = e^{Ts}$
+- Letting $z = e^{Ts}$ we obtain the expression of the z-Transform F(z) (4)

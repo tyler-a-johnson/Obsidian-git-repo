@@ -99,5 +99,4 @@ $$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
 - Letting $z = e^{Ts}$ we obtain the expression of the z-Transform F(z) (4)
 ![](Attachments/Pasted%20image%2020240427205211.png)
 
-- An F(z) can be transformed to f(kT) and an f(kT) can be transformed to F(z)
-- 
+- Transforming F(z) and f(kT) is commutative.

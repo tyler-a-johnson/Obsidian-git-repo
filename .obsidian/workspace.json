@@ -21,6 +21,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "84c67db01a59d799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13d73986cf075d4d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +220,8 @@
   "active": "b3120c05f15208b8",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated 1.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated 1.pdf",
     "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
@@ -235,7 +251,6 @@
     "Kanban Schedule.md",
     "UNI 2024/SEM 1/PHYS2010/~$sonance and Q in Electric Circuits.docx",
     "UNI 2024/SEM 1/PHYS2010/~WRL1286.tmp",
-    "UNI 2024/SEM 1/PHYS2010/~WRD1266.tmp",
     "Distilled Notes/Partial Fractions.md",
     "Distilled Notes/Untitled 2.md",
     "Resources/Code Repository.md",

@@ -91,3 +91,7 @@ $$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
 ![](Attachments/Pasted%20image%2020240427204525.png)
 
 # Z-Transform
+- The stability and transient response of:
+	- **Analogue systems** depend upon **gain and component values.**
+	- **Sampled-data systems** depend upon **sampling rate**
+- The main goal is to **develop a transform** that contains the information of sampling from which sampled-data systems can be modelled with transfer functions, analysed, and designed with the ease and insight we enjoyed with the Laplace transform.

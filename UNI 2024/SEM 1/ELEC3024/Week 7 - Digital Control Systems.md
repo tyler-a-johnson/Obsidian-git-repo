@@ -41,4 +41,8 @@ Relevant Links:
 	- If the binary number is 110 the middle and bottom switches are on, and the analogue output is 6 volts. In actual use, the switches are electronic and are set by the input binary code.
 ![800](Attachments/Pasted%20image%2020240427195904.png)
 
+*Analogue-to-digital (A/D) conversion*
+- **A/D** conversion is a 2 step process **not instant**
+- There is a **delay** between input analogue signal and output digital signal.
+- the analogue signal is first converted to a sampled [[sample signal, then converted to a sequence of binary numbers
 

@@ -25,3 +25,5 @@ Relevant Links:
 	- Banks of equipment, meters and knobs are replaced with computer terminals
 - **Flexibility** in response to design changes
 	- Changes and mods can be implemented in software instead of expensive hardware changes.
+- **Noise immunity**
+	- Digital systems exhibit **more noise immunity** than analog systems by method of implementation

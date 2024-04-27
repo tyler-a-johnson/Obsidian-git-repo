@@ -100,3 +100,6 @@ $$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
 ![](Attachments/Pasted%20image%2020240427205211.png)
 
 - Transforming F(z) and f(kT) is commutative.
+![](Attachments/Pasted%20image%2020240427205707.png)
+![](Attachments/Pasted%20image%2020240427205722.png)
+![](Attachments/Pasted%20image%2020240427205734.png)

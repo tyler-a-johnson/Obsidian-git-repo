@@ -57,4 +57,6 @@ Relevant Links:
 	- In Fig(b) from previous slide, the analogue signal is divided into eight levels ($2^3$ - a three bit digital number)
 	- The difference between quantization levels is M/8 volts, M is the max analogue voltage.
 	- Typically the difference is $\frac{M}{2^n}$ volts, where n is the number of binary bits used for the A/D conversion.
-	- There is an associated error for each digitized analogue value except the voltage at the boundaries such as M/8 and 2M/8
+	- There is an **quantization error** for each digitized analogue value except the voltage at the boundaries such as M/8 and 2M/8
+	- Generally for a system using **roundoff**, the quantization error will be $\left( \frac{1}{2} \right)\left( \frac{M}{2^{n}} = \frac{M}{2^{2n+1}} \right)$
+- The sampling of data has an unusual effedc

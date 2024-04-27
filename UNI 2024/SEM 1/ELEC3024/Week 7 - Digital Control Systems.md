@@ -21,4 +21,5 @@ Relevant Links:
 
 *Advantages of microcontrollers over analogue systems*
 - **Reduced cost**
-	- A single digital system can replace numerous analogue controllers with a sub
+	- A single digital system can replace numerous analogue controllers with a subsequent reduction in cost
+	- Banks of equipment, meters and knobs are replaced with computer terminals, where information about settings and performance is obtained 

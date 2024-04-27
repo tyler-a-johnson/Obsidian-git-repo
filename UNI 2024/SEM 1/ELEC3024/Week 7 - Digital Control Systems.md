@@ -63,4 +63,5 @@ Relevant Links:
 - If the sampling rate is too slow, the system can be unstable, since the values are not being updated rapidly enough.
 
 # Discrete-time modelling
-**If A/D conversion *could* happen instantly,** and time samples occurred at intervals of time close to zero, there would be no need to differentiate between the digital and anolgue signals
+- **If A/D conversion *could* happen instantly,** and time samples occurred at intervals of time close to zero, there would be no need to differentiate between the digital and analogue signals
+- This is not the case, we must come up with **mathematical representation** of this 

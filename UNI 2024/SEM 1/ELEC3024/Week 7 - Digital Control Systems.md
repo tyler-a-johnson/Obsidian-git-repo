@@ -52,4 +52,4 @@ Relevant Links:
 - Higher order holds such as **first order hold** generate more complex and more accurate waveshapes between samples.
 - After sampling and holding, the A/D converter converts the sample to a digital number
 ![](Attachments/Pasted%20image%2020240427200646.png)
-
+- The dynamic range of the analogue signal's voltaga

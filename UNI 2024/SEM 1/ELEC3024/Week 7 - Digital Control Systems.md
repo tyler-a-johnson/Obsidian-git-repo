@@ -64,4 +64,7 @@ Relevant Links:
 
 # Discrete-time modelling
 - **If A/D conversion *could* happen instantly,** and time samples occurred at intervals of time close to zero, there would be no need to differentiate between the digital and analogue signals
-- This is not the case, we must come up with **mathematical representation** of this 
+- This is not the case, we must come up with **mathematical representation** of this sample-and-hold process
+![800](Attachments/Pasted%20image%2020240427202613.png)
+## Modelling the sampler
+- Our goal is to represent the digital system as a transfer function similar to that for any subsys

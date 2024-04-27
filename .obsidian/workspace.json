@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf"
               }
             }
           },
@@ -217,10 +217,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b3120c05f15208b8",
+  "active": "13d73986cf075d4d",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427195904.png",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427195532.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427195515.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated 1.pdf",
@@ -235,7 +236,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426212131.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426212036.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426212009.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426204849.png",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/ELEC3024/Week 8.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",

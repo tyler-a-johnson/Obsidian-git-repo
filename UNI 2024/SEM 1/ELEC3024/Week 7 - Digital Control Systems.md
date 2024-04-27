@@ -38,4 +38,7 @@ Relevant Links:
 - D/A conversion is simple and effectively instantaneous
 - Properly weighted voltages are summed together to yield the analogue output.
 	- In figure below, three weighted voltages are summed. The three-bit binary code is represented by the switches.
-	- If the binary number is 110 the middle and bottom 
+	- If the binary number is 110 the middle and bottom switches are on, and the analogue output is 6 volts. In actual use, the switches are electronic and are set by the input binary code.
+![800](Attachments/Pasted%20image%2020240427195904.png)
+
+

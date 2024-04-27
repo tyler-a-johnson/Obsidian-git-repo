@@ -94,4 +94,6 @@ $$G_{h}(s) = \frac{1-e^{-Ts}}{s}$$
 - The stability and transient response of:
 	- **Analogue systems** depend upon **gain and component values.**
 	- **Sampled-data systems** depend upon **sampling rate**
-- The main goal is to **develop a transform** that contains the information of sampling from which sampled-data systems can be modelled with transfer functions, analysed, and designed with the ease and insight we enjoyed with the Laplace transform.
+- The main goal is to **develop a transform** that contains the information of sampling from which sampled-data systems can be modelled with transfer functions, analysed, and designed with the ease and insight of Laplace transform.
+- Taking the Laplace transform of the sample time waveform (2), we obtain (3).
+- Letting $z = e^{Ts}$

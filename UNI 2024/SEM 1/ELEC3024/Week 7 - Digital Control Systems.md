@@ -49,4 +49,7 @@ Relevant Links:
 - sampling rate must be at least **twice the bandwidth of the signal**
 - This minimum sampling frequency is called the **Nyquist Sampling rate**
 - Analogue signal is sampled at periodic intervals and held over the sampling interval by a device called **zero-order sample-and-hold** (ZOH) that yields a staircase approximation to the analogue signal.
-- Higher order holds such as **first order hold** g
+- Higher order holds such as **first order hold** generate more complex and more accurate waveshapes between samples.
+- After sampling and holding, the A/D converter converts the sample to a digital number
+![](Attachments/Pasted%20image%2020240427200646.png)
+

@@ -13,39 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b0260a6f65d8f8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Markdown Latex Reference Sheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0e5a63b6ae6a2ade",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "463da82c6b405aad",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf"
               }
             }
           }
@@ -115,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.50418853759766,
-    "collapsed": true
+    "width": 452.50418853759766
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -143,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md"
               }
             }
           },
@@ -232,8 +202,12 @@
   },
   "active": "b3120c05f15208b8",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf",
+    "conflict-files-obsidian-git.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated 1.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426214304.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426214224.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426213552.png",
@@ -247,7 +221,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240426204251.png",
     "UNI 2024/SEM 1/ELEC3024/Week 8.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 7.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch10 - Frequency Response_v1_annotated-1.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
@@ -261,9 +234,7 @@
     "UNI 2024/SEM 1/PHYS2010/~$sonance and Q in Electric Circuits.docx",
     "UNI 2024/SEM 1/PHYS2010/~WRL1286.tmp",
     "UNI 2024/SEM 1/PHYS2010/~WRD1266.tmp",
-    "UNI 2024/SEM 1/PHYS2010/Resonance and Q in Electric Circuits.docx",
     "Distilled Notes/Partial Fractions.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "Distilled Notes/Untitled 2.md",
     "Resources/Code Repository.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
@@ -276,7 +247,6 @@
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/FOSE3000/Attachments/Week 8.md",
     "Daily Notes/05-04-2024.md",
-    "Daily Notes/04-04-2024.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "Study Plan (Macquarie University).canvas",

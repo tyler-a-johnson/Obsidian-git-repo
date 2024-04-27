@@ -153,3 +153,8 @@ $$F(z) = \frac{A_{z}}{z-z_{1}}+\frac{B_{z}}{z-z_{2}}+\dots$$
 The main objective here is to be able to **find the closed-loop sampled-data transfer function** of an arrangement of subsystems that have a digital system in the loop.
 - To avoid mistakes by noticing that $z\{  G_{1}(s) G_{1}(s) \} \neq G_{1}(z) G_{2}(z)$
 	- **z{...}** denotes z-Transform
+- Sampled-data systems and their z-transforms
+
+(a) $C(z) = R(z)G(z)$
+(b) $C(z) = R(z)G_{1}G_{2}(z)$
+(c) $C(z)$

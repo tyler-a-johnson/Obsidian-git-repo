@@ -184,3 +184,9 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 	- $z = e^{sT} = e^{-\omega T(\zeta / \sqrt{ 1-\zeta^2 })}e^{j \omega T}=e^{-\omega T(\zeta / \sqrt{ 1-\zeta^{2} })}\angle \omega T$
 ![800](Attachments/Pasted%20image%2020240428190046.png)
 
+
+## Stability design via root locus
+![](Attachments/Pasted%20image%2020240428192428.png)
+
+## Transient response via gain adjustment
+![](Attachments/Pasted%20image%2020240428192510.png)

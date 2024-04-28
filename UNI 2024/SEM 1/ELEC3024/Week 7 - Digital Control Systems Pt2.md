@@ -104,4 +104,7 @@ The Routh table for the above equation shows one root in the right half plane an
 Consider the digital feedback control system in Fig(a)
 ![800](Attachments/Pasted%20image%2020240428175904.png)
 
-- The digital system is represented by the sampler 
+- The digital system is represented by the sampler and ZOH
+- $G_{1}(s)$ is the transfer function of the plant
+- $\frac{1-e^{-Ts}}{s}$ is the transfer function of ZOH
+- $G(s)$ is the product of ZOH and G1(s) in fig(b)

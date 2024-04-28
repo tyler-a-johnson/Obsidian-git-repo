@@ -109,4 +109,5 @@ Consider the digital feedback control system in Fig(a)
 - $\frac{1-e^{-Ts}}{s}$ is the transfer function of ZOH
 - $G(s)$ is the product of ZOH and G1(s) in fig(b)
 - We use block diagram reduction techniques to find sampled error $E^{*}(s) = E(z)$
-- Adding synchronous samplers 
+- Adding synchronous samplers at the input and at the feedback we obtain fig(b)
+- Pushing G(s) and it

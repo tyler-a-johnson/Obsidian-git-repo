@@ -204,4 +204,7 @@ $$z = \frac{-\left( s+\frac{2}{T} \right)}{\left( s-\frac{2}{T} \right)} = \frac
 
 - As the sampling interval, T, gets smaller (higher sampling rate), the designed digital compensator's output **yields a closer match to the analogue compensator.**
 - If the **sampling rate is not high enough,** there is **a discrepancy at higher frequencies** between the digital and analogue filters' frequency responses.
-- *Astrom and Wittenmark* (Computer Controlled Systems: Theory and Design 1984) recommend sampling time, T, within: $\frac{0.15}{\omega}$
+
+- *Astrom and Wittenmark* (Computer Controlled Systems: Theory and Design 1984) recommend sampling time, T, within: $\frac{0.15}{\omega_{\Phi_{M}}} < T < \frac{0.5}{\omega_{\Phi_{M}}}$ where $\omega_{\Phi_{M}}$ is the phase margin frequency of the compensated system open-loop transfer function in the s-domain.
+
+## Practical insight for the continuous ti

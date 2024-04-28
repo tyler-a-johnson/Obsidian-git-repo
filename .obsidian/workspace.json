@@ -6,7 +6,6 @@
       {
         "id": "8c6f543d1dbc547b",
         "type": "tabs",
-        "dimension": 45.36363636363636,
         "children": [
           {
             "id": "b3120c05f15208b8",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,17 +23,16 @@
         ]
       },
       {
-        "id": "84c67db01a59d799",
+        "id": "89d581b20dd65ee7",
         "type": "tabs",
-        "dimension": 54.63636363636364,
         "children": [
           {
-            "id": "13d73986cf075d4d",
+            "id": "2272ddbfff4cf7ed",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated.pdf"
               }
             }
           }
@@ -104,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.50418853759766,
+    "width": 339.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md"
               }
             }
           },
@@ -221,8 +219,10 @@
   },
   "active": "b3120c05f15208b8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427214516.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427213611.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427212733.png",
@@ -235,7 +235,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240427205734.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated 1.pdf",
     "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf",
     "Resources/Markdown Latex Reference Sheet.md",
@@ -265,7 +264,6 @@
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/FOSE3000/Attachments/Week 8.md",
-    "Daily Notes/05-04-2024.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "Study Plan (Macquarie University).canvas",

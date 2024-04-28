@@ -167,4 +167,5 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 - For vertical lines on the s-plane, consider $s = \sigma_{1}+j \omega$
 	- Where $\sigma_{1} = -4 /T_{s}$ is constant and is in the left hand plane for stability
 - Subbing this into $z = e^{sT}$ we obtain $z = e^{\sigma_{1}T}e^{j \omega T} = r_{1}e^{j \omega T}$
-	- 
+	- Equation above represents **concentric circles** of radius $r_{1}$
+	- The circles of constant settling 

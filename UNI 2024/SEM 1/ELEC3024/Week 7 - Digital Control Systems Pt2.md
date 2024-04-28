@@ -25,5 +25,7 @@ Each region of the s-plane can be mapped into a corresponding region on the z-pl
 $$z = e^{Ts} = e^{T(\alpha+j \omega)}= e^{\alpha T}e^{j \omega T}$$
 $$=e^{\alpha T} (\cos \omega T + j \sin \omega T)$$
 $$=e^{\alpha T}\angle \omega T$$
-![](Attachments/Pasted%20image%2020240428164805.png)
+![800](Attachments/Pasted%20image%2020240428164805.png)
+![800](Attachments/Pasted%20image%2020240428164953.png)
 
+# Digital System v

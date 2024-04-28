@@ -56,4 +56,5 @@ $$T(z) = \frac{G(z)}{1+G(z)}$$![](Attachments/Pasted%20image%2020240428171243.pn
 To find G(z) first find the particial-fraction expansion of G(s)
 $$G(s) = 10 \frac{1-e^{-Ts}}{s(s+1)}= 10 (1-e^{-Ts})\left( \frac{1}{s} - \frac{1}{s+1} \right)$$
 
-Taking the z-transform
+Taking the z-transform, we obtain
+$$G(z) = \frac{10 (z-1)}{z}\left[ \frac{z}{z-1} - \frac{z}{z-e^{-T}} \right]$$

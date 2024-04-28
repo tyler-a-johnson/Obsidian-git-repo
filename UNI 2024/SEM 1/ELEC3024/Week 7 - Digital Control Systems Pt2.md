@@ -164,10 +164,13 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 	- **Radial lines** were lines of **constant percent overshoot**
 - In order to draw equivalent conclusions on the z-plane, we now map those lines through $z = e^{sT}$
 
-- For vertical lines on the s-plane, consider $s = \sigma_{1}+j \omega$
+## Lines on the Z plane
+- For *vertical lines* on the s-plane, consider $s = \sigma_{1}+j \omega$
 	- Where $\sigma_{1} = -4 /T_{s}$ is constant and is in the left hand plane for stability
 - Subbing this into $z = e^{sT}$ we obtain $z = e^{\sigma_{1}T}e^{j \omega T} = r_{1}e^{j \omega T}$
 	- Equation above represents **concentric circles** of radius $r_{1}$
 	- The circles of constant settling time ($T_{s}$) normalised to sampling interval (T) are shown in the figure, where $T_{s} = -\frac{4}{\ln r}$
+
+- For **
 ![800](Attachments/Pasted%20image%2020240428190046.png)
 

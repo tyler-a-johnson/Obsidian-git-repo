@@ -145,4 +145,9 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 	- For **ramp input** if G(z) has **two poles at z=1** the *steady state error will reduce to zero.*
 	- For **parabolic input** if G(z) has **two poles at z=1** the *steady state error will reduce to zero.*
 
-## Exam
+## Example - Finding steady state error4
+![](Attachments/Pasted%20image%2020240428183545.png)
+
+
+# Transient response on the z-plane
+- Continuous-time systems a transient response requirement was specidi

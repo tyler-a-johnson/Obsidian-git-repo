@@ -168,4 +168,6 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 	- Where $\sigma_{1} = -4 /T_{s}$ is constant and is in the left hand plane for stability
 - Subbing this into $z = e^{sT}$ we obtain $z = e^{\sigma_{1}T}e^{j \omega T} = r_{1}e^{j \omega T}$
 	- Equation above represents **concentric circles** of radius $r_{1}$
-	- The circles of constant settling 
+	- The circles of constant settling time ($T_{s}$) normalised to sampling interval (T) are shown in the figure, where $T_{s} = -\frac{4}{\ln r}$
+![800](Attachments/Pasted%20image%2020240428190046.png)
+

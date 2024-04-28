@@ -42,4 +42,4 @@ $$=e^{\alpha T}\angle \omega T$$
 ![800](Attachments/Pasted%20image%2020240428165944.png)
 
 ## Intro
-- For continuous systems, we can find the stability 
+- For continuous systems, we can find the stability of a system by determining if the **roots of the denominator of the CL TF function are in the stable region**

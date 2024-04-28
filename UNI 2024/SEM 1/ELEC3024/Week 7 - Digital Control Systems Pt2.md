@@ -136,3 +136,6 @@ $$K_{v} = \frac{1}{T} \lim_{ z \to 1 } (z-1)G(z)$$
 **Parabola**
 $$e^{*}(\infty) = \frac{1}{K_{a}}$$
 $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
+
+## Summary
+The equations developed previously for $e^{*}(\infty)$, $K_{p}$ and $K_{v}$ and $K_{a}$ are similar to the equations developed for the analogue systems.

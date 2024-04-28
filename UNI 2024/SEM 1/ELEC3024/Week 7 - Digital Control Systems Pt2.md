@@ -135,4 +135,4 @@ $$K_{v} = \frac{1}{T} \lim_{ z \to 1 } (z-1)G(z)$$
 
 **Parabola**
 $$e^{*}(\infty) = \frac{1}{K_{a}}$$
-$$K_{a} = \frac{1}{T}$$
+$$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$

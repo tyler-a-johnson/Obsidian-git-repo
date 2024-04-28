@@ -214,3 +214,7 @@ $$z = \frac{-\left( s+\frac{2}{T} \right)}{\left( s-\frac{2}{T} \right)} = \frac
 
 ### Example
 ![](Attachments/Pasted%20image%2020240428195316.png)
+
+
+![](Attachments/Pasted%20image%2020240428195357.png)
+![](Attachments/Pasted%20image%2020240428195401.png)

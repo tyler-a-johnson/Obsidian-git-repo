@@ -120,4 +120,5 @@ $$E(z) = \frac{R(z)}{1+G(z)}$$
 $$e^{*}(\infty) = \lim_{  z\to 1 } (1-z^{-1})E(z)$$
 Where $e^{*}(\infty)$ is the final sampled value of e(t) or the final value of e(kT).
 
-Applying the final value theorem on E(z), we find that the sampled steady state error $e^{*}(\infty)$
+Applying the final value theorem on E(z), we find that the sampled steady state error $e^{*}(\infty)$ for unity negative-feedback system.
+$$e^{*}(\infty) = \lim_{ z \to 1 }(1-z^{-1})E(z) = \lim_{ z \to 1 } (1-z^{-1}) \frac{R(z)}{1+G(z)}$$

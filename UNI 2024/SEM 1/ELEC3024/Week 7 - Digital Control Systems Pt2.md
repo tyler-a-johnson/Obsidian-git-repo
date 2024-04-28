@@ -122,3 +122,12 @@ Where $e^{*}(\infty)$ is the final sampled value of e(t) or the final value of e
 
 Applying the final value theorem on E(z), we find that the sampled steady state error $e^{*}(\infty)$ for unity negative-feedback system.
 $$e^{*}(\infty) = \lim_{ z \to 1 }(1-z^{-1})E(z) = \lim_{ z \to 1 } (1-z^{-1}) \frac{R(z)}{1+G(z)}$$
+We must now evaluate this for each input
+
+![](Attachments/Pasted%20image%2020240428182407.png)
+**Step:**
+$$e^{*}(\infty) = \frac{1}{1+K_{p}}$$
+$$K_{p} = \lim_{ z \to 1 }G(z) $$
+
+**Ramp:**
+$$e^{*}$$

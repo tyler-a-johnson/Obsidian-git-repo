@@ -157,3 +157,8 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 	- Then a **cascade compensator** was designed to reshape the original root locus to go through the desired closed-loop pole.
 	- A gain adjustment then completed the design.
 - Let's parallel the described continuous-time methods and apply similar techniques to discrete-time systems.
+
+- We know now that in the s-plane 
+	- **Vertical lines** were lines of **constant settling time**
+	- **Horizontal lines** were lines of **constant peak time** and
+	- **Radial lines** were lines of **constant percent overshoot**

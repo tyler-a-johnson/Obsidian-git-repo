@@ -11,4 +11,9 @@ Relevant Links:
 
 # Stability
 - The difference between analogue feedback control systems and digital feedback control systems is the **effect that the sampling rate has on the transient response.**
-- **Changes in sampling rate** not only change the nature of the response from overdamped to underdamped, but also can tur
+- **Changes in sampling rate** not only change the nature of the response from overdamped to underdamped, but also can turn a stable system into an unstable one.
+- Stability of digital systems from two perspectives:
+	- z-plane
+	- s-plane
+- **Routh-Hurwitz criterion** can be used only if we perform our analysis and the design on the s-plane
+

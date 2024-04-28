@@ -75,4 +75,10 @@ Of the form: $z = \frac{as+b}{cs+d}$
 
 and its inverse: $s = \frac{-dz + b}{cz-a}$
 
-- Different values of a,b,c and d have been derived for particular applications and **yield various degrees of accuracy** when comparing 
+- Different values of a,b,c and d have been derived for particular applications and **yield various degrees of accuracy** when comparing properties of the continuous and sampled functions.
+- Since the **transformations are not exact,** only the property for which they are designed can be relied upon.
+- For the stability transformation, **we cannot expect the resulting G(s) to have the same transient response as G(z).**
+
+## Digital system stability via the s-plane
+- The bilinear transformation:
+$$s = \frac{1}{}$$

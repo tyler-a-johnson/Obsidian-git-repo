@@ -181,6 +181,6 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 	- These radial lines are represented by
 	- $\frac{\sigma}{\omega} = -\tan(\sin^{-1}\zeta)= -\frac{\zeta}{\sqrt{ 1-\zeta^2 }}$
 - Transforming the above to the z-plane yields:
-	- $z = e^{sT} = e^{-\omega T (\zeta }{ \sqrt{ 1- \zeta^{2} })}$
+	- $z = e^{sT} = e^{-\omega T(\zeta / \sqrt{ 1-\zeta^2 })}e^{j \omega T}=e^{-\omega T(\zeta / \sqrt{ 1-\zeta^{2} })}\angle \omega T$
 ![800](Attachments/Pasted%20image%2020240428190046.png)
 

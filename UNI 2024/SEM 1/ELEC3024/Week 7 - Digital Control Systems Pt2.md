@@ -69,4 +69,8 @@ For 0.2<T<$\infty$, $(11e^{-T}-10)$ monotonically decreases from -1 to -10. Thus
 ## Bilinear Transformation
 - Bilinear transformations allow us to apply the s-plane analysis and design techniques to digital systems.
 - We **prefer a simple transformation** that would yield linear arguments when transforming in both directions (bilinear) through direct substitution and **without complicated z transform**
-- 
+- Bilinear transformations have been derived to **yield linear variables in s and z**
+
+Of the form: $z = \frac{as+b}{cs+d}$
+
+and its inverse: $s = \frac{-dz + b}{cz}$

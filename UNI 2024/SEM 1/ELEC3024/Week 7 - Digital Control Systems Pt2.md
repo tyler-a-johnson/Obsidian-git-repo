@@ -88,4 +88,6 @@ $$z = \frac{s+1}{s-1}$$
 Perform the required transformation
 
 ### Example - Stability via Ruth-Hurwitz
-**Problem:** Given $T(z) = \frac{N(z)}{D(z)}$ where $)$
+**Problem:** Given $T(z) = \frac{N(z)}{D(z)}$ where $D(z) = z^{3} - z^{2} - 0.2z + 0.1$, use the Routh-Hurwitz criterion to find the number of z-plane poles of T(z) inside, outside and on the unit circle. Is the system stable?
+
+**Solution:** Sub in equation 

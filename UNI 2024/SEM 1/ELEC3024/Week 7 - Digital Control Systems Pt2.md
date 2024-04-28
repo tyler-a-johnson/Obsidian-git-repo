@@ -35,4 +35,7 @@ $$=e^{\alpha T}\angle \omega T$$
 	- **Marginally stable** if poles of **multiplicity 1 are on the unit circle** and *all other poles are inside the unit circle*.
 
 ## Review
-- 
+- $j \omega$-axis in the s-plane is mapped to the unit circle in the z-plane
+- The left-hand s-plane is mapped to the inside of the unit circle
+- The right-hand s-plane maps to the outside of the unit circle
+![](Attachments/Pasted%20image%2020240428165915.png)

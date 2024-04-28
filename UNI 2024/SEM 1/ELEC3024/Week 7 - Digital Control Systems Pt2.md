@@ -150,4 +150,8 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 
 
 # Transient response on the z-plane
-- Continuous-time systems a transient response requirement was specidi
+- Continuous-time systems a transient response requirement was specified by selecting a closed-loop s-plane pole.
+- If the closed-loop **pole was on the existing root locus**
+	- Then the design consisted of a simple gain adjustement
+- If the closed-loop pole was not on the existing root locus
+	- Then a cascade compensator was designed to reshape the original 

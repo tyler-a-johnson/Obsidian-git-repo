@@ -202,4 +202,6 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 $$s = \frac{2(z-1)}{T(z+1)}$$
 $$z = \frac{-\left( s+\frac{2}{T} \right)}{\left( s-\frac{2}{T} \right)} = \frac{1+ \frac{T}{2}s}{1- \frac{T}{2}s}$$![700](Attachments/Pasted%20image%2020240428193900.png)
 
-- As the sampling interval, T, gets smaller (higher sampling rate), the designed digital compensator's output **yields a closer match to the analogue **
+- As the sampling interval, T, gets smaller (higher sampling rate), the designed digital compensator's output **yields a closer match to the analogue compensator.**
+- If the **sampling rate is not high enough,** there is **a discrepancy at higher frequencies** between the digital and analogue filters' frequency responses.
+- *Astrom and Wittenmark* (Computer Controlled Systems: Theory and Design 1984) recommend sampling time, T, within: $\frac{0.15}{\omega}$

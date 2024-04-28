@@ -57,4 +57,6 @@ To find G(z) first find the particial-fraction expansion of G(s)
 $$G(s) = 10 \frac{1-e^{-Ts}}{s(s+1)}= 10 (1-e^{-Ts})\left( \frac{1}{s} - \frac{1}{s+1} \right)$$
 
 Taking the z-transform, we obtain
-$$G(z) = \frac{10 (z-1)}{z}\left[ \frac{z}{z-1} - \frac{z}{z-e^{-T}} \right]$$
+$$G(z) = \frac{10 (z-1)}{z}\left[ \frac{z}{z-1} - \frac{z}{z-e^{-T}} \right] = 10 \frac{1-e^{-T}}{z-e^{-T}}$$
+
+Subbing in 

@@ -207,4 +207,6 @@ $$z = \frac{-\left( s+\frac{2}{T} \right)}{\left( s-\frac{2}{T} \right)} = \frac
 
 - *Astrom and Wittenmark* (Computer Controlled Systems: Theory and Design 1984) recommend sampling time, T, within: $\frac{0.15}{\omega_{\Phi_{M}}} < T < \frac{0.5}{\omega_{\Phi_{M}}}$ where $\omega_{\Phi_{M}}$ is the phase margin frequency of the compensated system open-loop transfer function in the s-domain.
 
-## Practical insight for the continuous ti
+## Practical insight for the continuous time domain design
+- Assuming a design is carried out in the s-domain, and the sampling time, T, of the computer is known
+- Controller designer in the s-domain can be improved by adding to the plant a delay due to the hold process

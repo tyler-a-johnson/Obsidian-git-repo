@@ -32,4 +32,5 @@ $$=e^{\alpha T}\angle \omega T$$
 - Digital control system is 
 	- **Stable if all poles of the closed-loop transfer function, T(z) are inside the unit circle on the z-plane**
 	- *Unstable if any pole is outside the unit circle* and/or there are poles of multiplicity greater than one on the unit circle.
-	- **Marginally **
+	- **Marginally stable** if poles of **multiplicity 1 are on the unit circle** and *all other poles are inside the unit circle*.
+

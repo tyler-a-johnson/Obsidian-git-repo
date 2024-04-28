@@ -17,3 +17,7 @@ Relevant Links:
 	- s-plane
 - **Routh-Hurwitz criterion** can be used only if we perform our analysis and the design on the s-plane
 
+
+Each region of the s-plane can be mapped into a corresponding region on the z-plane
+- If a positive $\rightarrow e^{\alpha T}>1 \rightarrow$ points outside unit circle (C)
+- If a zero $\rightarrow e^{\alpha T} \rightarrow$

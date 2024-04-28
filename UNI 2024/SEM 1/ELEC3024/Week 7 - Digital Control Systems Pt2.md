@@ -73,4 +73,6 @@ For 0.2<T<$\infty$, $(11e^{-T}-10)$ monotonically decreases from -1 to -10. Thus
 
 Of the form: $z = \frac{as+b}{cs+d}$
 
-and its inverse: $s = \frac{-dz + b}{cz}$
+and its inverse: $s = \frac{-dz + b}{cz-a}$
+
+- Different values of a,b,c and d have been derived for particular applications and **yield various degrees of accuracy** when comparing 

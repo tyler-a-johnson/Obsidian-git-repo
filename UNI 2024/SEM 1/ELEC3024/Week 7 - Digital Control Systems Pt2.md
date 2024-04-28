@@ -116,4 +116,8 @@ Consider the digital feedback control system in Fig(a)
 From fig(d) we calculate $E(z) = R(z) - E(z) G(z)$ or:
 $$E(z) = \frac{R(z)}{1+G(z)}$$
 ![](Attachments/Pasted%20image%2020240428181743.png)
-- The final value theorem for discrete signals 
+- The final value theorem for discrete signals states that:
+$$e^{*}(\infty) = \lim_{  z\to 1 } (1-z^{-1})E(z)$$
+Where $e^{*}(\infty)$ is the final sampled value of e(t) or the final value of e(kT).
+
+Applying the final value theorem on E(z), we find that the sampled steady state error $e^{*}(\infty)$

@@ -138,4 +138,7 @@ $$e^{*}(\infty) = \frac{1}{K_{a}}$$
 $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 
 ## Summary
-The equations developed previously for $e^{*}(\infty)$, $K_{p}$ and $K_{v}$ and $K_{a}$ are similar to the equations developed for the analogue systems.
+- The equations developed previously for $e^{*}(\infty)$, $K_{p}$ and $K_{v}$ and $K_{a}$ are similar to the equations developed for the analogue systems.
+- We know that multiple pole placement at the origin of the s-plane reduced steady-state errors to 0
+- We see that multiple pole placement at z=1 reduces the steady state error to zero for digital systems of the type discussed previously.
+	- For **step input** if G(z) has one pole at **z=1** the steady state 

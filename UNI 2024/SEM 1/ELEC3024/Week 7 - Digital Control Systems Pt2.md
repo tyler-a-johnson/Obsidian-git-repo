@@ -164,4 +164,4 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 	- **Radial lines** were lines of **constant percent overshoot**
 - In order to draw equivalent conclusions on the z-plane, we now map those lines through $z = e^{sT}$
 
-For 
+For vertical lines on the s-plane, consider $s = \sigma_{1}+j o$

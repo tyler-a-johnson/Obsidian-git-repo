@@ -110,4 +110,5 @@ Consider the digital feedback control system in Fig(a)
 - $G(s)$ is the product of ZOH and G1(s) in fig(b)
 - We use block diagram reduction techniques to find sampled error $E^{*}(s) = E(z)$
 - Adding synchronous samplers at the input and at the feedback we obtain fig(b)
-- Pushing G(s) and it
+- Pushing G(s) and its input sampler to the right past the pickoff point yields fig(c)
+- Using block diagram reduction, we can convert each to its z-transform resulting in fig(d)

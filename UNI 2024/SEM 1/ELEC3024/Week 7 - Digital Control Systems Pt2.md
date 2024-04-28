@@ -59,7 +59,7 @@ Eq (2)$$G(s) = 10 \frac{1-e^{-Ts}}{s(s+1)}= 10 (1-e^{-Ts})\left( \frac{1}{s} - \
 
 Taking the z-transform, we obtain
 Eq (3)$$G(z) = \frac{10 (z-1)}{z}\left[ \frac{z}{z-1} - \frac{z}{z-e^{-T}} \right] = 10 \frac{1-e^{-T}}{z-e^{-T}}$$
-Subbing Eq (3) into Eq (1):
+Subbing Eq (3) into Eq (1) yields Eq(4):
 $$T(z) = \frac{10(1-e^{-T})}{z-(11e^{-T}-10)}$$
 
 The pole of the above equation, $(11e^{-T}-10)$ monotonically decreases from +1 to -1 for 0<T<0.2.
@@ -90,4 +90,7 @@ Perform the required transformation
 ### Example - Stability via Ruth-Hurwitz
 **Problem:** Given $T(z) = \frac{N(z)}{D(z)}$ where $D(z) = z^{3} - z^{2} - 0.2z + 0.1$, use the Routh-Hurwitz criterion to find the number of z-plane poles of T(z) inside, outside and on the unit circle. Is the system stable?
 
-**Solution:** Sub in equation 
+**Solution:** Sub Eq(4) into D(z) = 0 and obtain:
+$$s^{3} - 19s^{2}-45s - 17 = 0$$
+
+The routh

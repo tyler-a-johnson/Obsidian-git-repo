@@ -155,4 +155,5 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 	- Then the design consisted of a simple gain adjustement
 - If the closed-loop pole was not on the existing root locus
 	- Then a **cascade compensator** was designed to reshape the original root locus to go through the desired closed-loop pole.
-	- 
+	- A gain adjustment then completed the design.
+- Let's parallel the described continuous-time methods and apply similar techniques to discrete-time systems.

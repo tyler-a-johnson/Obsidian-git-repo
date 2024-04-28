@@ -80,5 +80,12 @@ and its inverse: $s = \frac{-dz + b}{cz-a}$
 - For the stability transformation, **we cannot expect the resulting G(s) to have the same transient response as G(z).**
 
 ## Digital system stability via the s-plane
-- The bilinear transformation:
-$$s = \frac{1}{}$$
+The bilinear transformation:
+$$s = \frac{z+1}{z-1}$$
+
+and its inverse:
+$$z = \frac{s+1}{s-1}$$
+Perform the required transformation
+
+### Example - Stability via Ruth-Hurwitz
+**Problem:** Given $T(z) = \frac{N(z)}{D(z)}$ where $)$

@@ -99,4 +99,8 @@ The Routh table for the above equation shows one root in the right half plane an
 
 # Steady-state errors
 - For continuous time systems, there was only one open-loop transfer function.
-- For discrete time (digital) systems, the placement of the sampler changes the open loop transfer function 
+- For discrete time (digital) systems, **the placement of the sampler changes the open loop transfer function**
+
+Consider the digital feedback control system in Fig(a)
+![800](Attachments/Pasted%20image%2020240428175904.png)
+

@@ -52,11 +52,14 @@ $$=e^{\alpha T}\angle \omega T$$
 ## Example - Range of T for stability
 **Problem:** Determine the range of sampling interval, T, that will make the system shown in fig(13.15) below, and the range that will make it unstable.
 **Solution:** Since H(s) = 1, the z-transform of the closed-loop system T(z) is found from fig(13.10) to be:
-$$T(z) = \frac{G(z)}{1+G(z)}$$![](Attachments/Pasted%20image%2020240428171243.png)
+
+Eq (1)$$T(z) = \frac{G(z)}{1+G(z)}$$![](Attachments/Pasted%20image%2020240428171243.png)
 To find G(z) first find the particial-fraction expansion of G(s)
-$$G(s) = 10 \frac{1-e^{-Ts}}{s(s+1)}= 10 (1-e^{-Ts})\left( \frac{1}{s} - \frac{1}{s+1} \right)$$
+Eq (2)$$G(s) = 10 \frac{1-e^{-Ts}}{s(s+1)}= 10 (1-e^{-Ts})\left( \frac{1}{s} - \frac{1}{s+1} \right)$$
 
 Taking the z-transform, we obtain
-$$G(z) = \frac{10 (z-1)}{z}\left[ \frac{z}{z-1} - \frac{z}{z-e^{-T}} \right] = 10 \frac{1-e^{-T}}{z-e^{-T}}$$
+Eq (3)$$G(z) = \frac{10 (z-1)}{z}\left[ \frac{z}{z-1} - \frac{z}{z-e^{-T}} \right] = 10 \frac{1-e^{-T}}{z-e^{-T}}$$
+Subbing Eq (3) into Eq (1):
+$$T(z) = \frac{10(1-e^{-T})}{z-(11e^{-T}-10)}$$
 
-Subbing in 
+

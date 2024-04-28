@@ -28,4 +28,8 @@ $$=e^{\alpha T}\angle \omega T$$
 ![800](Attachments/Pasted%20image%2020240428164805.png)
 ![800](Attachments/Pasted%20image%2020240428164953.png)
 
-# Digital System v
+# Digital System via the z-Plane
+- Digital control system is 
+	- **Stable if all poles of the closed-loop transfer function, T(z) are inside the unit circle on the z-plane**
+	- *Unstable if any pole is outside the unit circle* and/or there are poles of multiplicity greater than one on the unit circle.
+	- **Marginally **

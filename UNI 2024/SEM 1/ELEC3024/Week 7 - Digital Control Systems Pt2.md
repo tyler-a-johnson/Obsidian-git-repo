@@ -197,4 +197,6 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 
 - We need a bilinear transformation that will preserve, at the sampling instants, the response of the continuous compensator.
 - The bilinear transformation covered previously will not meet that requirement.
-- A **bilinear transformation** that can be **performed with hand calculations** and yields 
+- A **bilinear transformation** that can be **performed with hand calculations** and yields a digital transfer function whose output response at the sampling instants is approximately the same as the equivalent analogue transfer function called the **Tustin transformation**.
+- The Tustin transformation and its inverse are given below:
+$$s = \frac{2(z-1)}{T(z+1_{})}$$

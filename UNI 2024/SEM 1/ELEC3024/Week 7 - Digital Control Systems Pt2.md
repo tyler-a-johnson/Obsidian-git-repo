@@ -174,6 +174,7 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 - For *horizontal lines* on the s-plane: let's consider $s = \sigma + j \omega_{1}$
 	- Where $\omega_{1} = \pi /T_{p}$ is constant
 - Substituting this into $z = e^{sT}$ we obtain $z = e^{\sigma T} e^{j \omega_{1}T} = e^{\sigma T}e^{j \theta_{1}}$
-	- Equation above represents 
+	- Equation above represents **radial lines** of an angle $\theta_{1}$
+	- the lines of constant peak time normalised to sampling interval (T) are shown in the gi
 ![800](Attachments/Pasted%20image%2020240428190046.png)
 

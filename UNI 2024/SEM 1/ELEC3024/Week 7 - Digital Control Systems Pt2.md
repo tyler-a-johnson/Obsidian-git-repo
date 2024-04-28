@@ -62,4 +62,4 @@ Eq (3)$$G(z) = \frac{10 (z-1)}{z}\left[ \frac{z}{z-1} - \frac{z}{z-e^{-T}} \righ
 Subbing Eq (3) into Eq (1):
 $$T(z) = \frac{10(1-e^{-T})}{z-(11e^{-T}-10)}$$
 
-
+The pole of the above equation, $(11e^{-T}-10)$ monotonically decreases from +1 to -1 for 0<T<0.2 for 0.2<T<$\infty$, (11e

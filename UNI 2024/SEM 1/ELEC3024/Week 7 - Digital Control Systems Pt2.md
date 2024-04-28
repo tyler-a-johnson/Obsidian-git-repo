@@ -114,4 +114,6 @@ Consider the digital feedback control system in Fig(a)
 - Using block diagram reduction, we can convert each to its z-transform resulting in fig(d)
 
 From fig(d) we calculate $E(z) = R(z) - E(z) G(z)$ or:
-$$E(z) = \frac{R(z)}{2}$$
+$$E(z) = \frac{R(z)}{1+G(z)}$$
+![](Attachments/Pasted%20image%2020240428181743.png)
+- The final value theorem for discrete signals 

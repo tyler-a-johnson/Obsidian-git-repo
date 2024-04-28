@@ -190,3 +190,6 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 
 ## Transient response via gain adjustment
 ![](Attachments/Pasted%20image%2020240428192510.png)
+
+# Cascade compensation via the s-plane
+- Rather than continuing on the path of design directly in the z-domain, we depart by covering

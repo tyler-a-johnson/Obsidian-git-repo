@@ -19,5 +19,7 @@ Relevant Links:
 
 
 Each region of the s-plane can be mapped into a corresponding region on the z-plane
-- If a positive $\rightarrow e^{\alpha T}>1 \rightarrow$ points outside unit circle (C)
-- If a zero $\rightarrow e^{\alpha T} \rightarrow$
+- If $\alpha$ positive $\rightarrow e^{\alpha T}>1 \rightarrow$ points outside unit circle (C)
+- If $\alpha$ zero $\rightarrow e^{\alpha T}=1 \rightarrow$ points on unit circle (B)
+- if $\alpha$ is negative $\rightarrow e^{\alpha T}<1 \rightarrow$ points inside unit circle (A)
+$$z = e^{Ts} = e^{T()}$$

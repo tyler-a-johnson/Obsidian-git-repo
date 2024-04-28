@@ -200,4 +200,5 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 - A **bilinear transformation** that can be **performed with hand calculations** and yields a digital transfer function whose output response at the sampling instants is approximately the same as the equivalent analogue transfer function called the **Tustin transformation**.
 - The Tustin transformation and its inverse are given below:
 $$s = \frac{2(z-1)}{T(z+1)}$$
-$$z = \frac{-\left( s+\frac{2}{T} \right)}{\left( s-\frac{2}{T} \right)} = \frac{1+ \frac{T}{2}s}{1- \frac{T}{2}s}$$![](Attachments/Pasted%20image%2020240428193900.png)
+$$z = \frac{-\left( s+\frac{2}{T} \right)}{\left( s-\frac{2}{T} \right)} = \frac{1+ \frac{T}{2}s}{1- \frac{T}{2}s}$$![700](Attachments/Pasted%20image%2020240428193900.png)
+

@@ -53,4 +53,5 @@ $$=e^{\alpha T}\angle \omega T$$
 **Problem:** Determine the range of sampling interval, T, that will make the system shown in fig(13.15) below, and the range that will make it unstable.
 **Solution:** Since H(s) = 1, the z-transform of the closed-loop system T(z) is found from fig(13.10) to be:
 $$T(z) = \frac{G(z)}{1+G(z)}$$![](Attachments/Pasted%20image%2020240428171243.png)
-
+To find G(z) first find the particial-fraction expansion of G(s)
+$$G(s) = 10 \frac{1-e^{-Ts}}{2}$$

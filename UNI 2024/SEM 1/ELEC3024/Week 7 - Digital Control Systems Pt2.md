@@ -113,4 +113,5 @@ Consider the digital feedback control system in Fig(a)
 - Pushing G(s) and its input sampler to the right past the pickoff point yields fig(c)
 - Using block diagram reduction, we can convert each to its z-transform resulting in fig(d)
 
-From fig(d) we calculate $E(z) = R(z) - E(z) G(z)$
+From fig(d) we calculate $E(z) = R(z) - E(z) G(z)$ or:
+$$E(z) = \frac{R(z)}{2}$$

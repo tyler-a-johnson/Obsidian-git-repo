@@ -211,3 +211,6 @@ $$z = \frac{-\left( s+\frac{2}{T} \right)}{\left( s-\frac{2}{T} \right)} = \frac
 - Assuming a design is carried out in the s-domain, and the sampling time, T, of the computer is known
 - Controller designer in the s-domain can be improved by adding to the plant a delay due to the hold process of 1/2 sampling time: $G_{d}(s) = \frac{1}{s \frac{T}{2}+1}$
 ![800](Attachments/Pasted%20image%2020240428195029.png)
+
+### Example
+![](Attachments/Pasted%20image%2020240428195316.png)

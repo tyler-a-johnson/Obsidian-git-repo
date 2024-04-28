@@ -48,3 +48,7 @@ $$=e^{\alpha T}\angle \omega T$$
 - **Tabular methods for determining stability** such as the Routh-Hurwitz method used for higher-order continuous systems, exist for sampled-data systems.
 	- Raible's tabular method
 	- Jury's stability test
+
+## Example - Range of T for stability
+**Problem:** Determine the range of sampling interval, T, that will make the system shown in the fig below, and the range that will make it unstable.
+**Solution:** Since H(s) = 1, the z-transform of the closed-loop system

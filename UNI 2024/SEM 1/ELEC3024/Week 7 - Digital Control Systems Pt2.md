@@ -104,3 +104,4 @@ The Routh table for the above equation shows one root in the right half plane an
 Consider the digital feedback control system in Fig(a)
 ![800](Attachments/Pasted%20image%2020240428175904.png)
 
+- The digital system is represented by the sampler 

@@ -98,4 +98,5 @@ The Routh table for the above equation shows one root in the right half plane an
 
 
 # Steady-state errors
-- For continuous time systems, there was only one open-loop transfer function. Upon which the general theory of steady-state error was based and 
+- For continuous time systems, there was only one open-loop transfer function.
+- For discrete time (digital) systems, the placement of the sampler changes the open loop transfer function 

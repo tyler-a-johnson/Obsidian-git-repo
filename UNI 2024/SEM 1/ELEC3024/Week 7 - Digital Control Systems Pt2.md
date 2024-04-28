@@ -94,3 +94,8 @@ Perform the required transformation
 $$s^{3} - 19s^{2}-45s - 17 = 0$$
 
 The Routh table for the above equation shows one root in the right half plane and two roots in the left half plane. Hence T(z) has one pole outside the unit circle, no poles on the unit circle, and two poles inside the circle. The system is unstable because of the pole outside the unit circle.
+![](Attachments/Pasted%20image%2020240428175140.png)
+
+
+# Steady-state errors
+- For continuous time systems, there was only one open-loop transfer function. Upon which the general theory of steady-state error was based and 

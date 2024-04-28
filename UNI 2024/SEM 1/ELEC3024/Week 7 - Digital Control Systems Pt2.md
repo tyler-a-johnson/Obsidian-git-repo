@@ -38,4 +38,8 @@ $$=e^{\alpha T}\angle \omega T$$
 - $j \omega$-axis in the s-plane is mapped to the unit circle in the z-plane
 - The left-hand s-plane is mapped to the inside of the unit circle
 - The right-hand s-plane maps to the outside of the unit circle
-![](Attachments/Pasted%20image%2020240428165915.png)
+![800](Attachments/Pasted%20image%2020240428165915.png)
+![800](Attachments/Pasted%20image%2020240428165944.png)
+
+## Intro
+- For continuous systems, we can find the stability 

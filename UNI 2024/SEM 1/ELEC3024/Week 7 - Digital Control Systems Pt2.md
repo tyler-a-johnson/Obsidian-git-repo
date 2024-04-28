@@ -64,4 +64,8 @@ $$T(z) = \frac{10(1-e^{-T})}{z-(11e^{-T}-10)}$$
 
 The pole of the above equation, $(11e^{-T}-10)$ monotonically decreases from +1 to -1 for 0<T<0.2.
 
-For 0.2<T<$\infty$, $(11e^{-T}-10)$ monotonically decreases from -1 to -10. Thus the pole of T(z) will be inside the unit circle, and the system will be stable if 0<T<0.2. In terms of frequency, where f = 1/T, the system will be stable as long as the sampling frequency is 1/0.2, 5Hz or greater
+For 0.2<T<$\infty$, $(11e^{-T}-10)$ monotonically decreases from -1 to -10. Thus the pole of T(z) will be inside the unit circle, and the system will be stable if 0<T<0.2. In terms of frequency, where f = 1/T, the system will be stable as long as the sampling frequency is 1/0.2, 5Hz or greater.
+
+## Bilinear Transformation
+- Bilinear transformations allow us to apply the s-plane analysis and design techniques to digital systems.
+- We **prefer a simple transformation** that would yield linear arguments wh

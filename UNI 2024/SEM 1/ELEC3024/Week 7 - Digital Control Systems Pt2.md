@@ -195,4 +195,6 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 - We can make use of previous knowledge by designing on the s-plane then transforming our s-plane design to a digital implementation.
 - Direct design of compensators on the z-plane is left for a dedicated course in digital control systems.
 
-- We need a bilinear transformation that will preserve, at the sampling instants, the response of t
+- We need a bilinear transformation that will preserve, at the sampling instants, the response of the continuous compensator.
+- The bilinear transformation covered previously will not meet that requirement.
+- A **bilinear transformation** that can be **performed with hand calculations** and yields 

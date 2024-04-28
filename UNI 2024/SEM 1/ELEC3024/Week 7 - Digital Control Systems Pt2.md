@@ -192,4 +192,4 @@ $$K_{a} = \frac{1}{T^{2}} \lim_{ z \to 1 } (z-1)^{2}G(z)$$
 ![](Attachments/Pasted%20image%2020240428192510.png)
 
 # Cascade compensation via the s-plane
-- Rather than continuing on the path of design directly in the z-domain, we depart by covering
+- Rather than continuing on the path of design directly in the z-domain, we depart by covering analysis and design techniques that allow us to make use of previous knowledge by designing on the s-plane then transforming our s-plane design to a digital 

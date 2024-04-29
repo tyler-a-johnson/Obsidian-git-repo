@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md"
               }
             }
           },
@@ -202,12 +202,12 @@
   },
   "active": "b3120c05f15208b8",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
+    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428195401.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428195357.png",

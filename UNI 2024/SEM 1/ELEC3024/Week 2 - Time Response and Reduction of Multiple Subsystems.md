@@ -248,10 +248,7 @@ $$D = 2 J \zeta \omega_{n} = 2 \zeta\sqrt{KJ} = 1.04$$
 ### System Response with Additional Poles
 - **If a system has more than two poles or has zeros we cannot use the previously derived formulae** to calculate the performance specs.
 - However **under certain conditions** a system with more than two poles or with zeros can be **approximated** as a second order system that has just **two complex dominant poles**.
-
 ![](Attachments/Pasted%20image%2020240422001550.png)
-
-
 $$c(t) = Au(t) + e^{- \zeta \omega_{n} t} (B \cos \omega_{d} t  + C \sin \omega_{d} t) + De^{- \alpha_{r}t}$$
 ![](Attachments/Pasted%20image%2020240422215754.png)
 *We can assume exponential decay is negligible after five time constants.*

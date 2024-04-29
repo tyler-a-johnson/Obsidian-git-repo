@@ -218,3 +218,37 @@ $$c_{2}(t) = 1-0.29 e^{10t}-1.189 e^{-2t} \cos (4.532t-53.34\degree)$$
 $$c_{3}(t) = 1-1.14 e^{-3t}-0.707 e^{-2t} \cos (4.532t-78.63\degree)$$
 ![](Attachments/Pasted%20image%2020240422221125.png)
 
+
+## System Response with Zeros
+$$T(s) = \frac{(s+a)}{(s+b)(s+c)} = \frac{A}{(s+b)}+\frac{B}{(s+c)}$$
+$$ = \frac{(-b+a) / (-b+c)}{s+b} + \frac{(-c+a) / (-c+b)}{s+c}$$
+$$\text{If } a\gg b,c: T(s) \approx a \left[ \frac{1 / (-b+c)}{s+b} + \frac{1 / (-c +b)}{s+c} \right] = \frac{a}{(s+b)(s+c)}$$
+Zero looks like a simple gain factor and does not change the relative amplitudes of the components of the response.
+![500](Attachments/Pasted%20image%2020240422223355.png)
+- Let C(s) be the response of a system, T(s) with unity in the numerator
+- If we add a zero to the transfer function, yielding $(s+a)T(s)$ the laplace transform of the response will be:
+
+$$(s+a)C(s) = sC(s) + aC(s)$$
+**If a is very large and positive** then the response is approximately a scaled version of the original response.
+**If a is small and positive** then the derivative term has a greater effect on the response ***more overshoot***
+**If a is negative (right half plane)** then the derivative term will be of a opposite sign from the scaled response term.
+### Pole Zero Cancellation
+Consider:
+$$T(s) = \frac{K(s+z)}{(s+p_{3})(s^{2}+as+b)}$$
+if the zero at $-z$ is very close to the pole at $-p_{3}$ then it can be shown using partial fraction expansion of T(s) that the residue of the pole at **p3 is much smaller than any other residues**
+
+#### Example
+For the response functions below determine whether there is an approximate pole-zero cancellation and if so, find an approximate second order response.
+$$C_{1}(s) = \frac{26.25 (s+4)}{s(s+{3.5})(s+5)(s+6)}$$
+$$C_{2}(s) = \frac{26.25 (s+4)}{s(s+4.01)(s+5)(s+6)}$$
+
+**Solution**
+$C_{1}(s)$ has no approximate cancellation
+
+$$C_{2}(s) = \frac{26.25(s+4)}{s (s+4.01)(s+5)(s+6)}$$
+$$C_{2}(s) = \frac{0.87}{s}- \frac{5.3}{s+5} + \frac{4.4}{s+6} + \frac{0.033}{s+4.01} $$
+Approximate cancellation, coefficient of the last term is at least an order of magnitude smaller than the others
+
+$$C_{2}(s) \approx \frac{0.87}{s}-\frac{5.3}{s+5}+\frac{4.4}{s+6}$$
+$$c(t) \approx 0.87 - 5.3 e^{-5t}+4.4e^{-6t}$$
+An approximate overdamped second order response

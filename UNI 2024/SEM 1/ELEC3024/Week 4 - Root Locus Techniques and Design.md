@@ -110,9 +110,11 @@ $\frac{dK}{d \sigma} = 0$ solving for $\sigma$ we find breakaway and break-in po
 looking for minimum points (breakin) and maximum (breakout)
 
 7. **Calculation of jw axis crossing**
+The root locus crosses the jw axis at the point where $\angle G(s) H(s) = (2k+1) 180\degree$
 
-#todo 
+**OR** By letting s = jw in the characteristic equation, equating both the real part and the imaginary part to zero, and solving for w and K.
 
+**OR** Using the Routh Hurwitz tw
 
 ## Transient Response Design via Gain Adjustment
 1. Higher order poles are much farther into the left half of the s-plane than the dominant second-order pair of poles. The response that results from a higher order pole does not appreciably change the transient response expected from the dominant second-order poles.

@@ -178,7 +178,6 @@ $$T_{s} \approx \frac{4}{\zeta \omega_{n}}$$
 **Evaluation of $T_{r}$**
 -Cannot be found analytically?
 
-
 #### Example
 Find Tp %OS, Ts, and Tr for the transfer function
 
@@ -193,6 +192,8 @@ $T_{s} \approx \frac{4}{\zeta \omega_{n}} = 0.533$
 $T_{r} \approx \frac{2.3}{ \omega_{n}} = 0.23$
 
 Where 2.3 is a normalised rise time corresponding to $\zeta$
+
+
 
 *Now evaluate peak time, settling time, and overshoot in terms of the pole location*
 

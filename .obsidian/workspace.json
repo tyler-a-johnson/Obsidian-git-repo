@@ -6,7 +6,6 @@
       {
         "id": "8c6f543d1dbc547b",
         "type": "tabs",
-        "dimension": 47.77272727272727,
         "children": [
           {
             "id": "b3120c05f15208b8",
@@ -18,23 +17,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "89d581b20dd65ee7",
-        "type": "tabs",
-        "dimension": 52.22727272727272,
-        "children": [
-          {
-            "id": "2272ddbfff4cf7ed",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated.pdf"
               }
             }
           }

@@ -8,45 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd752fd116a24759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "885d403bc63a9d9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a23ffa2d15cadb6e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3292653c3d6b46be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false

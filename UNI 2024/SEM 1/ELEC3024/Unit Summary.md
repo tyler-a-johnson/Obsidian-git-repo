@@ -17,7 +17,6 @@ Relevant Links:
 Cascaded Systems![](Attachments/Pasted%20image%2020240429200903.png)Parallel subsystems![](Attachments/Pasted%20image%2020240429200941.png)
 Feedback systems![](Attachments/Pasted%20image%2020240429201241.png)
 
-
 # Time Response
 ## First-Order System
 
@@ -253,7 +252,6 @@ $$C_{2}(s) \approx \frac{0.87}{s}-\frac{5.3}{s+5}+\frac{4.4}{s+6}$$
 $$c(t) \approx 0.87 - 5.3 e^{-5t}+4.4e^{-6t}$$
 An approximate overdamped second order response
 
-
 # Stability and Steady State Errors
 ## Stability
 
@@ -479,4 +477,5 @@ The root locus crosses the jw axis at the point where $\angle G(s) H(s) = (2k+1)
 2. Closed-loop zeroes near the closed-loop second-order pole pair are nearly cancelled by the close proximity of higher order closed loop poles (they both cancel out, treat as if its just p1 p2)
 3. Closed loop zeroes not cancelled by the close proximity of higher-order closed loop poles are far removed from the closed-loop second-order pole pair.
 ![](Attachments/Pasted%20image%2020240314215906.png)
+
 

@@ -133,3 +133,66 @@ $$c(t) - 1 - e^{- \zeta \omega_{n} t} \left(  \cos  \omega_{n}\sqrt{ 1- \zeta^{2
 $$= 1 - \frac{1}{\sqrt{ 1-\zeta^{2} }}e^{- \zeta \omega_{n}t} \cos (\omega_{n} \sqrt{  1- \zeta^{2} }t - \phi )$$
 
 Where: $\phi = \tan^{-1}\left( \frac{\zeta}{\sqrt{  1- \zeta^2 }} \right)$
+
+**Specifications:**
+1. *Rise time* $T_{r}$ The time required for the waveform to go from 0.1 of the final value of 0.8 of the final value
+2. *Peak time* $T_{p}$ the time required to reach the first or maximum peak.
+3. *Percent overshoot* %OS the amount that the waveform overshoots the steady state, or final value at the peak time, expressed as a percentage of the steady state value.
+4. *Settling time* $T_{s}$ The time required for the transient's damped oscillations to reach and stay within $\pm{2}$% of the steady state value.
+![](Attachments/Pasted%20image%2020240421212418.png)
+
+**Evaluate $T_{p}$**
+$T_{p}$ is found by differentiating c(t) and finding the first zero crossing after t=0.
+$$T_{p} \frac{\pi}{\omega_{n} \sqrt{  1- \zeta^{2}}}= \frac{\pi}{\omega_{d}}$$
+![500](Attachments/Pasted%20image%2020240421213518.png)
+
+**Evaluate %OS**
+$$\% OS = e ^{-(\zeta \pi / \sqrt{ 1-\zeta^2 })}*100$$
+$$\zeta= \frac{- \ln (\% OS / 100)}{\sqrt{ \pi^{2}+ \ln ^{2} (\%OS / 100) }}$$
+![500](Attachments/Pasted%20image%2020240421213529.png)
+
+**Evaluation of $T_{s}$**
+$$e^{-\zeta \omega_{n} t} \frac{1}{\sqrt{ 1- \zeta^{2} }}=0.02$$
+$$T_{s} = \frac{-\ln (0.02 \sqrt{  1-\zeta^2 })}{\zeta{\omega_{n}}}$$
+$$T_{s} \approx \frac{4}{\zeta \omega_{n}}$$
+
+**Evaluation of $T_{r}$**
+-Cannot be found analytically?
+
+#### Example
+Find Tp %OS, Ts, and Tr for the transfer function
+
+$$G(s) = \frac{100}{s^{2}+ 15s + 100}$$
+
+$T_{p} = \frac{\pi}{\omega_{n} \sqrt{ 1- \zeta^{2} }}=0.475$
+
+$\% OS = e^{-(\zeta \pi / \sqrt{ 1-\zeta^{2} })}*100=2.838$
+
+$T_{s} \approx \frac{4}{\zeta \omega_{n}} = 0.533$
+
+$T_{r} \approx \frac{2.3}{ \omega_{n}} = 0.23$
+
+Where 2.3 is a normalised rise time corresponding to $\zeta$
+
+#### Example 2
+Given the plot, find $\zeta, \omega_{n}, T_{p}, \%OS \text{ and } T_{s}$
+![400](Attachments/Pasted%20image%2020240421221919.png)
+**Solution**
+$\zeta= \cos \theta = \cos\left[ \arctan\left( \frac{7}{3} \right) \right] = 0.394$
+$\omega_{n} = \sqrt{ 7^{2}+3^{2 }}= 7.62$
+$T_{p} = \frac{\pi}{\omega_{d}} = \frac{\pi}{7} = 0.449$ seconds
+$\%OS = e^{-(\zeta \pi / \sqrt{ 1-\zeta^{2 }})}*100= 26\%$
+
+
+#### Example 3
+Find J and D to yield a 20% overshoot and $T_{s} = 2s$ for step input torque $T(t)$
+![](Attachments/Pasted%20image%2020240421223710.png)
+$$G(s) = \frac{1 / J}{s^{2}+\frac{D}{J}s+\frac{K}{J}}$$
+
+$\omega_{n} = \sqrt{ \frac{K}{J} }$
+$2 \zeta \omega_{n} = \frac{D}{J}$
+
+
+$\% OS = 20 \rightarrow \zeta = 0.456$
+$$T_{s} = 2 \approx \frac{4}{\zeta \omega_{n}} \rightarrow \sqrt{  \frac{K}{J} } = \frac{2}{\zeta} \rightarrow \frac{J}{K} = 0.052 \rightarrow J = 0.26$$
+$$D = 2 J \zeta \omega_{n} = 2 \zeta\sqrt{KJ} = 1.04$$

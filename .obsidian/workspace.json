@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81f772d877be69d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf"
               }
             }
           },
@@ -214,45 +224,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "floating": {
-    "id": "9e147a72af1c187b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e901d132259ac6ec",
-        "type": "window",
-        "children": [
-          {
-            "id": "4b5b21c099e26844",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "81f772d877be69d5",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2343,
-        "y": 72,
-        "width": 855,
-        "height": 1114,
-        "maximize": true,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "dd752fd116a24759",
+  "active": "81f772d877be69d5",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429201241.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429200941.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429200903.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429200839.png",
@@ -271,7 +247,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428195029.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428193900.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428193226.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428192510.png",
     "Distilled Notes/Untitled 3.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",

@@ -17,7 +17,7 @@ Relevant Links:
 ## Vector Representation of Complex Numbers (1)
 
 ![](Attachments/Pasted%20image%2020240314194050.png)
-$$\bar{M} = Me^{j \text{ phase of m}}$$
+$$\bar{M} = Me^{j \text{ (phase of m)}}$$
 $$F(s) = s  + a  = (\sigma + a) + j \omega $$
 
 Bottom right is a different way to draw the same vector, we aren't concerned with location

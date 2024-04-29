@@ -6,4 +6,6 @@ Relevant Questions:
 Relevant Notes: 
 Relevant Links:
 ---
-**Lecture Slides:**
+
+# Intro
+- a **Control system** responds to an input by undergoing a *transient response* before reaching a ***steady state response***. 

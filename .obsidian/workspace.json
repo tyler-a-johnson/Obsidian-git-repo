@@ -123,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1251.5110321044922
+    "width": 1470.5041885375977
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -237,7 +237,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dd752fd116a24759",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",

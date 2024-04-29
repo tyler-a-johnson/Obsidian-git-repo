@@ -64,8 +64,6 @@ $$G(j \omega) = (j \omega+a) = a\left( j \frac{\omega}{a} + 1 \right)$$
 $$G(j \omega) \approx a\left(\frac{j \omega}{a} \right) = a\left( \frac{\omega}{a} \right)\angle 90 = \omega \angle 90$$
 $$20 \log M = 20 \log a + 20 \log \frac{\omega}{a} = 20 \log \omega$$
 ![700](Attachments/Pasted%20image%2020240425230216.png)
-
----
 ![](Attachments/Pasted%20image%2020240425232545.png)
 
 $$G(j \omega) = (j \omega+a) = a\left( j \frac{\omega}{a} + 1 \right)$$

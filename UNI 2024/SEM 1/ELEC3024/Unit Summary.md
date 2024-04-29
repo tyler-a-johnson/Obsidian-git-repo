@@ -413,3 +413,13 @@ $$\text{ We can also use } M\angle \theta$$
 $$(s+z_{1})(s+z_{2})= M_{1} e^{j \phi_{1}}*M_{2}e^{j \phi _{2}} = M_{1} M_{2} e^{j(\phi_{1}+\phi_{2})}$$
 Division we change to $\phi_{1}-\phi_{2}$
 
+**Closed loop transfer function**
+![](Attachments/Pasted%20image%2020240314195238.png)
+
+**Pole location as a function of gain for the camera system**
+![](Attachments/Pasted%20image%2020240314195931.png)
+Location of poles as gain changes
+![](Attachments/Pasted%20image%2020240314195942.png)
+These form a limit, here around -5.
+Starting point is when gain = 0
+![](Attachments/Pasted%20image%2020240314203334.png)

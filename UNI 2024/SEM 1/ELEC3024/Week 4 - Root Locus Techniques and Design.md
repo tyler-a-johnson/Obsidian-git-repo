@@ -57,7 +57,7 @@ Example, a camera system that follows a subject
 
 ![](Attachments/Pasted%20image%2020240314195211.png)
 
-**Closed loop transfer of the camera system**
+**Closed loop transfer function**
 ![](Attachments/Pasted%20image%2020240314195238.png)
 
 **Pole location as a function of gain for the camera system**

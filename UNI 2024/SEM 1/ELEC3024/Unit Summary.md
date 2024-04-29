@@ -275,6 +275,25 @@ These definitions assume implicitly there have been are **no cancellations of RH
 
 ```
 
+## System Type
+![](Attachments/Pasted%20image%2020240305213859.png)
+$$n = 0\dots \text{Type 0 system}$$
+$$n =1 \dots \text{Type 1 system}$$
+$$n = 2\dots \text{Type 2 system}$$
+![](Attachments/Pasted%20image%2020240305214019.png)
+
+### Example
+ For the closed-loop system below, find the static error constants and the expected error for the standard step, ramp, and parabolic inputs
+![](Attachments/Pasted%20image%2020240305214051.png)
+
+### Example 2
+Given the control system, find the value of K so that there is 10% error in the steady state.
+![](Attachments/Pasted%20image%2020240305214126.png)
+
+### Example 3
+Find the steady-state error component due to a step disturbance for the system below
+![](Attachments/Pasted%20image%2020240305214152.png)
+
 ## Steady-State Errors
 **Steady state error** is the difference between the input and the output for the prescribed test input as $t \rightarrow \infty$
 
@@ -327,6 +346,10 @@ $$e(\infty) = \frac{1}{K_{a}}$$
 
 
 
+## Steady-State Error for Non-unity Feedback Systems
+- Control systems often **do not have unity feedback** because of the compensation used to improve performance or because of the physical model for the system. 
+- When **nonunity feedback** is present, the plant's **actuating signal is not the actual error** or difference between the input and the output
+![](Attachments/Pasted%20image%2020240305214231.png)
 
 # Routh-Hurwitz Criterion
 Yields stability information without need to solve for the closed-loop system poles

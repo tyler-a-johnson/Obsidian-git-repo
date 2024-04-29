@@ -479,7 +479,6 @@ The root locus crosses the jw axis at the point where $\angle G(s) H(s) = (2k+1)
 ![](Attachments/Pasted%20image%2020240314215906.png)
 
 
-
 # Frequency Response (Bode Plots)
 In the steady state, sinusoidal inputs to a linear system generate sinusoidal responses of the same frequency.
 - Responses are of the same frequency as the input, they differ in magnitude and phase angle from the input.

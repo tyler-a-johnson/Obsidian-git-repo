@@ -276,11 +276,11 @@ These definitions assume implicitly there have been are **no cancellations of RH
 ```
 
 ## Steady-State Errors
-![](Attachments/Pasted%20image%2020240305204250.png)
 **Steady state error** is the difference between the input and the output for the prescribed test input as $t \rightarrow \infty$
 
 Test waveforms for evaluating steady-state errors of control systems
-![](Attachments/Pasted%20image%2020240305204441.png)
+![700](Attachments/Pasted%20image%2020240305204441.png)
+
 
 
 # Routh-Hurwitz Criterion

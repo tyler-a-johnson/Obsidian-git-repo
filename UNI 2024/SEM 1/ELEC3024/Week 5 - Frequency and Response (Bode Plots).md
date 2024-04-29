@@ -154,7 +154,7 @@ Bode plots for $G(s) = 1/(s^{2}+ 2 \zeta \omega_{n}s+ \omega_{n}^{2})$
 ![](Attachments/Pasted%20image%2020240426010223.png)
 
 
-# Relation between closed-loop transient (time) and closed-loop frequency responses
+## Relation between closed-loop transient (time) and closed-loop frequency responses
 
 Damping ratio and closed-loop frequency response
 ![](Attachments/Pasted%20image%2020240426010331.png)
@@ -188,7 +188,7 @@ Normalised bandwidth vs damping ratio for:
 ![700](Attachments/Pasted%20image%2020240426012544.png)
 
 
-# Systems with time delay
+## Systems with time delay
 - Delay between the commanded response (reference signal) and the start of the output response
 - This is **NOT** the same as transient response
 - **Nothing happens** at the output during delay

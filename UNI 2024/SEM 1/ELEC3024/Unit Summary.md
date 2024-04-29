@@ -546,7 +546,6 @@ From the above equation:
 ![700](Attachments/Pasted%20image%2020240425233301.png)
 ![700](Attachments/Pasted%20image%2020240425233434.png)
 
----
 We can find the normalised and **scaled Bode plots** for:
 ![](Attachments/Pasted%20image%2020240425235619.png)
 ![700](Attachments/Pasted%20image%2020240425235726.png)
@@ -555,3 +554,41 @@ We can find the normalised and **scaled Bode plots** for:
 
 Similarly, we can find the normalised and scaled Bode plots for:
 ![700](Attachments/Pasted%20image%2020240426000307.png)
+## Stability, gain margin, and phase margin via bode plots
+- **Gain margin, $G_{m}$** is the change in open-loop gain, expressed in decibels (dB), required at 180 of phase shift to make the closed-loop system unstable.
+- **Phase margin, $\phi_{m}$** is the change in open-loop phase shift required at unity gain to make the closed-loop system unstable.
+![](Attachments/Pasted%20image%2020240426010000.png)
+![](Attachments/Pasted%20image%2020240426010223.png)
+
+
+## Systems with time delay
+- Delay between the commanded response (reference signal) and the start of the output response
+- This is **NOT** the same as transient response
+- **Nothing happens** at the output during delay
+![](Attachments/Pasted%20image%2020240426013100.png)
+
+
+**Modelling time delay**
+- Assume: $R(s)$ input, $G(s)$ system, $C(s)$ output
+- If $G'(s)$ delays the output by $T$ seconds, the output responses is $c(t-T)$
+- Laplace transform $c(t-T)$ is $e^{-s T}C(s)$
+- System without delay: $C(s)=R(s)G(s)$
+- System with delay: $e^{-sT}C(s)=R(s)G'(s)$
+- Dividing the two equations above: $G'(s) / G(s) = e^{sT} \rightarrow G'(s) = e^{-sT}G(s)$
+![](Attachments/Pasted%20image%2020240426013831.png)
+
+- Frequency response perspective ($s = j \omega$)
+- Time delay:
+	- Does not affect magnitude
+	- It subtracts a linearly increasing phase shift ($\omega T$) from the phase of $G(j \omega)$
+	- Time reduces the phase margin
+	- Yields a reduced damping ratio for C/L system
+	- **Also reduces gain margin**
+```ad-summary
+Time delay moves the system close to instability
+
+```
+![](Attachments/Pasted%20image%2020240426014116.png)
+![](Attachments/Pasted%20image%2020240426014130.png)
+
+

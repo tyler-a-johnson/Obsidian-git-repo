@@ -41,25 +41,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aec7fffa7fb620d",
+            "id": "b2cf30975735c023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bd45a0c918063a33",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf"
               }
             }
           }
@@ -245,6 +235,7 @@
   },
   "active": "885d403bc63a9d9a",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
@@ -258,7 +249,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429200903.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429200839.png",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",

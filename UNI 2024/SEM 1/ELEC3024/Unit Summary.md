@@ -376,3 +376,5 @@ Find the range of gain K > 0 for the system below that will cause the system to 
 ![](Attachments/Pasted%20image%2020240304225546.png)
  - If K < 1386 then there will be no sign change in the first column, so system is stable. 
  - If K > 1386 the first element of the third row becomes negative so that there will be two sign changes and the system has two RHP poles. So, in this case it is not stable.
+
+# Root Locus

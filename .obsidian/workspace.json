@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922,
+    "width": 493.50418853759766,
     "collapsed": true
   },
   "right": {
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md"
               }
             }
           },
@@ -221,11 +221,11 @@
   },
   "active": "b3120c05f15208b8",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428195401.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428195357.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428195316.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428195029.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428193900.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428193226.png",
@@ -234,7 +234,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428190046.png",
     "Distilled Notes/Untitled 3.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428183545.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240428182407.png",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated 1.pdf",

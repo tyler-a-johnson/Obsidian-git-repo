@@ -223,7 +223,7 @@ $\% OS = e ^{-(\zeta \pi \sqrt{  1 - \zeta ^{2} })}*100$
 
 #### Example
 Given the plot, find $\zeta, \omega_{n}, T_{p}, \%OS \text{ and } T_{s}$
-![300](Attachments/Pasted%20image%2020240421221919.png)
+![400](Attachments/Pasted%20image%2020240421221919.png)
 **Solution**
 $\zeta= \cos \theta = \cos\left[ \arctan\left( \frac{7}{3} \right) \right] = 0.394$
 $\omega_{n} = \sqrt{ 7^{2}+3^{2 }}= 7.62$

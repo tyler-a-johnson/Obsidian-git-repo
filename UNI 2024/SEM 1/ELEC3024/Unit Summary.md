@@ -196,3 +196,25 @@ $2 \zeta \omega_{n} = \frac{D}{J}$
 $\% OS = 20 \rightarrow \zeta = 0.456$
 $$T_{s} = 2 \approx \frac{4}{\zeta \omega_{n}} \rightarrow \sqrt{  \frac{K}{J} } = \frac{2}{\zeta} \rightarrow \frac{J}{K} = 0.052 \rightarrow J = 0.26$$
 $$D = 2 J \zeta \omega_{n} = 2 \zeta\sqrt{KJ} = 1.04$$
+
+
+
+
+
+
+### System Response with Additional Poles
+![](Attachments/Pasted%20image%2020240422001550.png)
+$$c(t) = Au(t) + e^{- \zeta \omega_{n} t} (B \cos \omega_{d} t  + C \sin \omega_{d} t) + De^{- \alpha_{r}t}$$
+
+#### Example
+Find the step response of the transfer functions below and compare them:
+$$T_{1}(s) = \frac{24.542}{s^{2}+4s + 24.542}$$
+$$T_{2}(s) = \frac{245.42}{(s+10)(s^{2}+ 4s + 24.542)}$$
+$$T_{3}(s) = \frac{73.626}{(s+3)(s^{2}+4s + 24.542)}$$
+
+**Solution** Taking the laplace inverse transform $C_{i}(s) = T_{i}(s)R(s) for R(s) = s^{-1}$ and $i = 1,2,3$ gives
+
+$$c_{1}(t) = 1-1.09e^{-2t} \cos(4.532t - 23.8 \degree)$$
+$$c_{2}(t) = 1-0.29 e^{10t}-1.189 e^{-2t} \cos (4.532t-53.34\degree)$$
+$$c_{3}(t) = 1-1.14 e^{-3t}-0.707 e^{-2t} \cos (4.532t-78.63\degree)$$
+![](Attachments/Pasted%20image%2020240422221125.png)

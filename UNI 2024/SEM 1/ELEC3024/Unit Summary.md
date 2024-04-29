@@ -480,3 +480,18 @@ The root locus crosses the jw axis at the point where $\angle G(s) H(s) = (2k+1)
 
 
 
+# Frequency Response (Bode Plots)
+In the steady state, sinusoidal inputs to a linear system generate sinusoidal responses of the same frequency.
+- Responses are of the same frequency as the input, they differ in magnitude and phase angle from the input.
+- These differences are functions of frequency
+- **Sinusoids representation**
+	- Sinusoids can be represented as complex numbers called *phasors*
+	- A system causes both the amplitude and phase angle of the input to be changed
+![500](Attachments/Pasted%20image%2020240425222054.png)
+
+- Analytical expressions for the frequency response can be obtained from the TF G(s).
+$$G(j \omega) = G(s)|_{s\rightarrow j \omega}$$
+
+- **Plotting of the frequency response**
+$$G(j \omega) = M_{G} (\omega) \angle \phi_{G} (\omega)$$
+As a function of **frequency** with separate magnitude and phase plots

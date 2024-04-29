@@ -282,6 +282,51 @@ Test waveforms for evaluating steady-state errors of control systems
 ![700](Attachments/Pasted%20image%2020240305204441.png)
 
 
+## Steady-State Error for Unity Feedback Systems
+
+Steady-State Error in terms if T(s) - *closed loop transfer function*
+![400](Attachments/Pasted%20image%2020240305211545.png)
+
+$$E(s)  = R(s) - C(s)$$
+$$E(s) = R(s) [1-T(s)]$$
+$$e(\infty)  \lim_{ t \to \infty } e(t) = \lim_{ s \to 0 } s E(s) $$
+...final value theorem (keep in mind valid conditions)
+$$e(\infty) = \lim_{ s \to \infty } s R(s)[1-T(s)]$$
+
+
+### Steady-State Error in Terms of G(s) - open loop transfer function
+
+![](Attachments/Pasted%20image%2020240305212227.png)
+$$E(s) = R(s) - C(s)$$
+$$C(s) = E(s)G(s)$$
+
+$$E(s) = \frac{R(s)}{1+G(s)}$$
+$$e(\infty) = \lim_{ s \to 0 }  \frac{sR(s)}{1+G(s)}$$
+
+
+### Static Error Constants and System Type
+
+Position Constant $K_{p}$ where $K_{p} = \lim_{ s \to 0 } G(s)$
+
+Velocity Constant, $K_{v} = \lim_{ s \to 0 } sG(s)$
+
+Acceleration Constant, $K_{a}$, where $K_{a} = \lim_{ s \to 0 }s^{2}G(s)$
+
+For a step input: 
+$$e_{step} (\infty) = \frac{1}{1+ \lim_{ s \to 0 } G(s)}$$
+$$e(\infty) = \frac{1}{1+K_{p}}$$
+
+For a ramp joint:
+$$e_{ramp}(\infty)=\frac{1}{\lim_{ s \to 0 } sG(s)}$$
+$$e(\infty) = \frac{1}{K_{v}}$$
+
+For a parabolic input:
+$$e_{\text{parabolic}} (\infty) = \frac{1}{\lim_{ s \to 0 } s^{2}G(s)}$$
+$$e(\infty) = \frac{1}{K_{a}}$$
+
+
+
+
 
 # Routh-Hurwitz Criterion
 Yields stability information without need to solve for the closed-loop system poles

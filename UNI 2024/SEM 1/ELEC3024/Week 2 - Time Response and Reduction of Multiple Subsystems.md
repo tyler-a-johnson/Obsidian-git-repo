@@ -33,8 +33,6 @@ Relevant Links:
 We have poles at -5 and zeros at -2
 $C(s) = G(s)R(s) = \frac{s+2}{s+5} * \frac{1}{s} = \frac{s+2}{s(s+5)}$
 We separate C(s) into $\frac{A}{s}+\frac{B}{s+5}$  using [[Partial Fractions]]
-
-
 ![](Attachments/Pasted%20image%2020240421165953.png)
 ```ad-note
 Input pole is the pole of our input $1/s$

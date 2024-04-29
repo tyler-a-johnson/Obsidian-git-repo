@@ -68,3 +68,28 @@ And the step response $C(s) = \frac{K}{s(s+a)} = \frac{K /a}{s}-\frac{K /a}{s+a}
 4. Steady state value $K/a = 0.72,$ hence $K = 0.72*7.7 = 5.54$
 $$G(s) = \frac{5.54}{s+7.7}$$
 ![600](Attachments/Pasted%20image%2020240421183413.png)
+
+
+## Summary of Second Order Systems
+![](Attachments/Pasted%20image%2020240421183856.png)
+There are four possible response (when $a \geq 0$ and $b>0$):
+1. **Overdamped responses**
+	*Poles*: Two real at $- \sigma_{1}, - \sigma_{2}$ . Where $\sigma_{1} \neq \sigma_{2}$ and $\sigma_{1},\sigma_{2}>0$
+	*Natural Response:* Two exponentials with time constants equal to the reciprocal of the pole locations, or:
+	$$c(t) = K_{1} e^{- \sigma_{1} t} + K_{2} e^{- \sigma_{2} t}$$
+2. **Underdamped response**
+	*Poles*: Two complex at $- \sigma_{d} \pm j \omega_{d}$  and $\sigma_{d} > 0$
+	*Natural Response:* Damped sinusoid with an exponential envelope whose time constant is equal to the reciprocal of the pole's real part. The radian frequency of the sinusoid, the damped frequency of oscillation, is equal to the imaginary part of the poles, or:
+	$$c(t) = A e^{-\sigma_{d}t}*\cos(\omega_{d}t - \phi)$$
+	Where $\omega_d$ is the damped frequency of oscillation
+	![500](Attachments/Pasted%20image%2020240421185052.png)
+3. **Undamped response**
+	*Poles:* Two imaginary at $\pm j \omega_{1}$
+	*Natural Response:* Undamped sinusoid with radian frequency equal to the imaginary part of the poles, or
+	$$c(t) = A \cos (\omega_{1} t - \phi )$$
+	
+4. **Critically damped responses**
+	*Poles:* Two real at $- \sigma_{1}$ and $\sigma_{1} > 0$
+	*Natural Response:* One term is and exponential whose time constant is equal to the reciprocal of the pole location. Another term is the product of time, t, and an exponential with time constant equal to the reciprocal of the pole location:
+	$$c(t) = K_{1} e^{- \sigma_{1}t}+K_{2} t e^{- \sigma_{1} t} $$
+	

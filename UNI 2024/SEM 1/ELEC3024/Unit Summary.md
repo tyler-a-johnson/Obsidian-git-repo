@@ -34,3 +34,37 @@ Input pole is the pole of our input $1/s$
 We can convert our output transform$$\frac{\frac{2}{5}}{s} + \frac{\frac{3}{5}}{s+5}$$
 To our output time response:
 $$c(t) = \frac{2}{5} + \frac{3}{5}e^{-5t}$$
+
+#### Example
+Given the system below, specify the natural and forced parts of the output 
+![](Attachments/Pasted%20image%2020240421174614.png)
+
+
+### First Order Systems
+![](Attachments/Pasted%20image%2020240421174729.png)
+Initial slope $= \frac{1}{\text{time constant}} = a$
+
+```ad-note
+
+**Time constant**
+$\frac{1}{a}$ it is the time it takes for the step response to rise to 63% of its final value.
+
+**Rise time $T_{r}$**
+Time for the waveform to go from 0.1 to 0.9 of its final value.
+
+**Settling time $T_{s}$**
+time for the response to reach, and stay within 2% of its final value.
+$$T_{s}=\frac{4}{a}$$
+
+```
+
+### First Order Transfer Functions via Testing
+With a step input, we can measure the time constant and the steady-state value, from which the transfer function can be calculated.
+Let first order system be  $G(s) = \frac{K}{s+a}$
+And the step response $C(s) = \frac{K}{s(s+a)} = \frac{K /a}{s}-\frac{K /a}{s+a}$
+1. Final value = 0.72
+2. 63% of final value $= 0.63*0.72 = 0.45$
+3. Curve reaches 0.45 at 0.13s hence $a = 1/0.13 = 7.7$
+4. Steady state value $K/a = 0.72,$ hence $K = 0.72*7.7 = 5.54$
+$$G(s) = \frac{5.54}{s+7.7}$$
+![600](Attachments/Pasted%20image%2020240421183413.png)

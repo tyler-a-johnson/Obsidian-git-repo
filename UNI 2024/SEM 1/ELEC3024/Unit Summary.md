@@ -7,5 +7,6 @@ Relevant Notes:
 Relevant Links:
 ---
 
-# Intro
-- a **Control system** responds to an input by undergoing a *transient response* before reaching a ***steady state response***. 
+# Block Diagrams
+![](Attachments/Pasted%20image%2020240429200839.png)![](Attachments/Pasted%20image%2020240429200903.png)![](Attachments/Pasted%20image%2020240429200941.png)
+

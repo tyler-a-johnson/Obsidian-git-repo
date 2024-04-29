@@ -424,3 +424,13 @@ These form a limit, here around -5.
 Starting point is when gain = 0
 ![](Attachments/Pasted%20image%2020240314203334.png)
 ## Properties of the Root Locus
+![](Attachments/Pasted%20image%2020240314204403.png)
+$s_{}$ is a pole of $T(s)$ if the denominator is 0.
+$$1 + KG(s)H(s) = 0$$
+$$KG(s)H(s) = -1$$
+
+Alternatively
+![](Attachments/Pasted%20image%2020240314205001.png)
+the angle of the complex number is an **odd** multiple of 180 degrees. That value of s is a system pole for some value of K.
+180 * (1, 3, 5, 7 etc)
+

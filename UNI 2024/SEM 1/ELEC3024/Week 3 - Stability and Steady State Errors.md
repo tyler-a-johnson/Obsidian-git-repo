@@ -71,7 +71,6 @@ Test waveforms for evaluating steady-state errors of control systems
 
 ### Evaluating Steady State Errors
 ![](Attachments/Pasted%20image%2020240305211408.png)
-#todo 
 
 ## Steady-State Error for Unity Feedback Systems
 

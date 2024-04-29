@@ -52,8 +52,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd45a0c918063a33",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf"
               }
             }
           },
@@ -233,7 +244,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "885d403bc63a9d9a",
+  "active": "bd45a0c918063a33",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",

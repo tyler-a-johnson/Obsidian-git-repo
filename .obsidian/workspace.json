@@ -26,25 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "81f772d877be69d5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md"
               }
             }
           },
@@ -224,15 +214,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "81f772d877be69d5",
+  "active": "dd752fd116a24759",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429201241.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429200941.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429200903.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429200839.png",
-    "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",

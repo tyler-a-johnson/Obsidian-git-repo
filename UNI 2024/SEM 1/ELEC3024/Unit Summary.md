@@ -19,7 +19,7 @@ Feedback systems![](Attachments/Pasted%20image%2020240429201241.png)
 
 
 # Time Response
-## Poles and Zeroes of First-Order System
+## First-Order System
 
 ![](Attachments/Pasted%20image%2020240421163106.png)
 We have poles at -5 and zeros at -2
@@ -93,3 +93,43 @@ There are four possible response (when $a \geq 0$ and $b>0$):
 	*Natural Response:* One term is and exponential whose time constant is equal to the reciprocal of the pole location. Another term is the product of time, t, and an exponential with time constant equal to the reciprocal of the pole location:
 	$$c(t) = K_{1} e^{- \sigma_{1}t}+K_{2} t e^{- \sigma_{1} t} $$
 
+### General Second Order Systems
+**Natural Frequency** $\omega_{n}$
+The frequency of oscillation without damping
+
+**Damping ratio** $\zeta$
+$$\zeta= \frac{\text{Exponential decay freq}}{\text{Natural frequency (rad/s)}}= \frac{1}{2 \pi} \frac{\text{Natural Period (s)}}{\text{Exponential time constant}}$$
+
+Consider $G(s) = \frac{b}{s^{2}+as+b}$
+Lets determine what is the term a and B in terms of omega and zeta
+Without damping (a=0) the poles are on the imaginary axis and $G(s) = \frac{b}{s^{2} + b}$
+Then 
+$\omega_{n} = \sqrt{ b }$
+$b = \omega_{n}^2$
+
+Now we assume an underdamped system. The real part of the complex pole is $\sigma = -a / 2$
+and it determines the exponential decay frequency.
+
+Hence:
+$$\zeta = \frac{\text{Exponential decay freq}}{\text{ Natural freq (rad/s)}}= \frac{|\sigma|}{\omega_{n}}= \frac{\frac{a}{2}}{\omega_{n}} \rightarrow a = 2 \zeta \omega_{n}$$
+
+Then, the general second-order transfer function is:
+$$G(s) = \frac{b}{s^{2}+ as + b} = \frac{\omega_{n}^{2}}{s^{2}+ 2 \zeta \omega_{n}s + \omega_{n}^2}$$
+where 
+$b = \omega_{n}^2$
+$a= 2 \zeta \omega_{n}$
+
+The poles of this transfer function are:
+$$s_{1,2} = -\zeta \omega_{n} \pm \omega_{n} \sqrt{ \zeta^{2}-1 }$$
+$$s_{1,2} = - \zeta \omega_{n} \pm j \omega_{n} \sqrt{ 1-\zeta^2 }$$
+
+### Underdamped Second Order Systems
+Step response: $C(s) = \frac{\omega_{n}^{2}}{s(s^{2}+2 \zeta \omega_{n} s + \omega_{n}^{2})} = \frac{K_{1}}{s} + \frac{K_{2}s+K_{3}}{s^{2}+2 \zeta \omega_{n}s + \omega_{n}^{2}}$
+Expanding by partial fraction we obtain $(0 < \zeta < 1)$:
+$$C(s) = \frac{1}{s} - \frac{(s+\zeta \omega_{n})+ \frac{\zeta}{\sqrt{ 1- \zeta^2 }}\omega_{n}\sqrt{ 1-\zeta^2 }}{(s + \zeta \omega_{n})^{2}+\omega_{n}^{2}(1-\zeta^{2})}$$
+
+Then in time domain:
+$$c(t) - 1 - e^{- \zeta \omega_{n} t} \left(  \cos  \omega_{n}\sqrt{ 1- \zeta^{2} }t + \frac{\zeta}{\sqrt{  1-\zeta^{2} }}\sin \omega_{n} \sqrt{ 1- \zeta ^{2} }t \right)$$
+$$= 1 - \frac{1}{\sqrt{ 1-\zeta^{2} }}e^{- \zeta \omega_{n}t} \cos (\omega_{n} \sqrt{  1- \zeta^{2} }t - \phi )$$
+
+Where: $\phi = \tan^{-1}\left( \frac{\zeta}{\sqrt{  1- \zeta^2 }} \right)$

@@ -519,3 +519,39 @@ The magnitude response in dB is: $20 \log M = 20\log a$
 ![700](Attachments/Pasted%20image%2020240425225545.png)
 ![700](Attachments/Pasted%20image%2020240425225601.png)
 
+### Bode plots for $G(s) = (s+a)$ High frequency asymptote
+At high frequencies, where $\omega \gg a$
+
+$$G(j \omega) = (j \omega+a) = a\left( j \frac{\omega}{a} + 1 \right)$$
+$$G(j \omega) \approx a\left(\frac{j \omega}{a} \right) = a\left( \frac{\omega}{a} \right)\angle 90 = \omega \angle 90$$
+$$20 \log M = 20 \log a + 20 \log \frac{\omega}{a} = 20 \log \omega$$
+![700](Attachments/Pasted%20image%2020240425230216.png)
+![](Attachments/Pasted%20image%2020240425232545.png)
+
+$$G(j \omega) = (j \omega+a) = a\left( j \frac{\omega}{a} + 1 \right)$$
+From the above equation:
+- At the **break frequency** a, phase is 45deg
+- At **low frequencies** the phase is 0deg
+- At **high frequencies** the phase is 90deg
+
+## Scaling and normalising bode plots
+- It is often convenient to **normalize the magnitude** and **scale the frequency** so that the log-magnitude plot will be 0dB at a break frequency of unity.
+- Normalization and scaling makes it **easier to add components** to obtain the **Bode plot** of a function such as:  $$|G(s)| = \frac{K|(s+z_{1})||(s+z_{2})|\dots|(s+z_{k})|}{s^{m} |(s+p_{1})| |(s+p_{2})|\dots|(s+p_{n})|}$$
+- To **normalize (s+a)** factor out the quantity a and form $a\left[ \left( \frac{s}{a} \right) + 1 \right]$
+- The **frequency is scaled** by defining a new frequency variable, $s_{1} = s / a$
+- The magnitude is divided by the quantity a to yield 0 dB at the break frequency.
+
+**Hence, the normalized and scaled frequency function is $(s_{1}+1)$**
+![700](Attachments/Pasted%20image%2020240425233203.png)
+![700](Attachments/Pasted%20image%2020240425233301.png)
+![700](Attachments/Pasted%20image%2020240425233434.png)
+
+---
+We can find the normalised and **scaled Bode plots** for:
+![](Attachments/Pasted%20image%2020240425235619.png)
+![700](Attachments/Pasted%20image%2020240425235726.png)
+![700](Attachments/Pasted%20image%2020240425235748.png)
+![700](Attachments/Pasted%20image%2020240425235915.png)
+
+Similarly, we can find the normalised and scaled Bode plots for:
+![700](Attachments/Pasted%20image%2020240426000307.png)

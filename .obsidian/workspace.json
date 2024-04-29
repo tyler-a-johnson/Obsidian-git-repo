@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "8f6f2b414c10ebe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a6a572ace048596e",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 621.5110321044922
+    "width": 1251.5110321044922
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -227,7 +240,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dd752fd116a24759",
+  "active": "8f6f2b414c10ebe2",
   "lastOpenFiles": [
     "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",

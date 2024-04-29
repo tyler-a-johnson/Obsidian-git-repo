@@ -423,3 +423,4 @@ Location of poles as gain changes
 These form a limit, here around -5.
 Starting point is when gain = 0
 ![](Attachments/Pasted%20image%2020240314203334.png)
+## Properties of the Root Locus

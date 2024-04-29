@@ -204,7 +204,6 @@ $$D = 2 J \zeta \omega_{n} = 2 \zeta\sqrt{KJ} = 1.04$$
 
 ### System Response with Additional Poles
 ![](Attachments/Pasted%20image%2020240422001550.png)
-$$c(t) = Au(t) + e^{- \zeta \omega_{n} t} (B \cos \omega_{d} t  + C \sin \omega_{d} t) + De^{- \alpha_{r}t}$$
 
 #### Example
 Find the step response of the transfer functions below and compare them:

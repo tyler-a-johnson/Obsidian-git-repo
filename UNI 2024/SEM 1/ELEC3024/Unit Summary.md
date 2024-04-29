@@ -378,3 +378,38 @@ Find the range of gain K > 0 for the system below that will cause the system to 
  - If K > 1386 the first element of the third row becomes negative so that there will be two sign changes and the system has two RHP poles. So, in this case it is not stable.
 
 # Root Locus
+## Vector Representation of Complex Numbers (1)
+
+![](Attachments/Pasted%20image%2020240314194050.png)
+$$\bar{M} = Me^{j \text{ (phase of m)}}$$
+$$F(s) = s  + a  = (\sigma + a) + j \omega $$
+
+Bottom right is a different way to draw the same vector, we aren't concerned with location
+Zeros are now at $- a$
+
+Bottom right we are evaluating $F(s) = s + 7$ at the point $s = 5  + j2$
+We pin the end of the vector at $5+j2$ and draw the zero at -7.
+
+Same as if we drew the start at 0 and the end is $12+j2$
+
+**PHASE ANGLE AND MAGNITUDE REMAINS THE SAME**
+
+$(s+a)$ is a complex number and can be represented by a vector drawn from the zero of the function to the point s
+
+
+Apply this to something more complex
+
+Product of all zeroes of the function over the product of all poles $\prod$  = product
+
+![](Attachments/Pasted%20image%2020240314201621.png)
+Each complex factor can be expressed as a vector of magnitude $M$ and angle $\theta$
+
+![](Attachments/Pasted%20image%2020240314194910.png)
+Vector written as
+$$|F(s)|  \text{  = Length of vector}$$
+$$\angle F(s) \text{ = is the phase angle}$$
+$$\text{ We can also use } M\angle \theta$$
+
+$$(s+z_{1})(s+z_{2})= M_{1} e^{j \phi_{1}}*M_{2}e^{j \phi _{2}} = M_{1} M_{2} e^{j(\phi_{1}+\phi_{2})}$$
+Division we change to $\phi_{1}-\phi_{2}$
+

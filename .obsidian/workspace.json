@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md"
               }
             }
           },
@@ -244,9 +243,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bd45a0c918063a33",
+  "active": "885d403bc63a9d9a",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
@@ -280,7 +280,6 @@
     "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch10 - Frequency Response_v1_annotated-1.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch06 Highlights.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
     "Kanban Schedule.md",
     "UNI 2024/SEM 1/PHYS2010/~$sonance and Q in Electric Circuits.docx",
     "Distilled Notes/Untitled 2.md",

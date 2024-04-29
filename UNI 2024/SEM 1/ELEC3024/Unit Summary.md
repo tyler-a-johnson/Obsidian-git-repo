@@ -434,3 +434,50 @@ Alternatively
 the angle of the complex number is an **odd** multiple of 180 degrees. That value of s is a system pole for some value of K.
 180 * (1, 3, 5, 7 etc)
 
+## Sketching the Root Locus
+1. **Number of branches** - Number of branches of the root locus equals the number of closed-loop poles
+2. **Symmetry** - The root locus is symmetrical about the real axis
+3. **Real-axis segments** - On the real axis, for K>0 the root locus exists to the left of a pole if there are an odd number of poles before it (inclusive of that pole), finite open-loop poles and/or finite open-loop zeros.
+![](Attachments/Pasted%20image%2020240314205629.png)
+Here the root locus is in blue
+Xs are poles
+Dots are zeros
+4. **Starting and ending points** - The root locus begins at the finite and infinite poles of G(s)H(s) and ends at the finite and infinite zeroes of G(s)H(s). Begins when gain is 0.
+5. **Behaviour at infinity** - The root locus approaches straight lines as asymptotes as the locus approaches infinity. Further, the equations of the asymptotes are given by the real-axis intercept and angle in radians as follows.
+
+$\sigma_{a}$ is the coordinate the asymptote crosses the x axis
+$$\sigma_{a}  = \frac{\sum \text{ finite poles} - \sum \text{finite zeros}}{\text{ num of poles - num of zeroes}}$$
+
+$$\theta_{a} = \frac{(2k+1)\pi }{\text{num of finite poles - num of finite zeroes}}$$
+where k is pm 0, 1, 2, 3...
+
+6. **Real axis breakaway and break in points** - The root locus breaks away from the real axis at a point where the gain is maximum and breaks into the real axis at a point where the gain is minimum
+$$KG(s)H(s) = -1 - 1 \angle (2k+1)180 \degree$$
+$$K = -\frac{1}{G(s)H(s)} $$
+
+
+For points along the real-axis segment of the root locus where breakaway and break-in points could exist $s = \sigma$
+
+$$K = - \frac{1}{G(\sigma)H(\sigma)}$$
+![](Attachments/Pasted%20image%2020240314214549.png)
+$\frac{dK}{d \sigma} = 0$ solving for $\sigma$ we find breakaway and break-in points
+looking for minimum points (breakin) and maximum (breakout)
+
+7. **Calculation of jw axis crossing**
+The root locus crosses the jw axis at the point where $\angle G(s) H(s) = (2k+1) 180\degree$
+
+**OR** By letting s = jw in the characteristic equation, equating both the real part and the imaginary part to zero, and solving for w and K.
+
+**OR** Using the Routh Hurwitz test.
+
+
+## Transient Response Design via Gain Adjustment
+1. Higher order poles are much farther into the left half of the s-plane than the dominant second-order pair of poles. The response that results from a higher order pole does not appreciably change the transient response expected from the dominant second-order poles.
+![](Attachments/Pasted%20image%2020240314215644.png)
+**Far enough away is classified as 5 times the distance p1 and 2 are from the jw axis**
+
+2. Closed-loop zeroes near the closed-loop second-order pole pair are nearly cancelled by the close proximity of higher order closed loop poles (they both cancel out, treat as if its just p1 p2)
+3. Closed loop zeroes not cancelled by the close proximity of higher-order closed loop poles are far removed from the closed-loop second-order pole pair.
+4. 
+![](Attachments/Pasted%20image%2020240314215906.png)
+

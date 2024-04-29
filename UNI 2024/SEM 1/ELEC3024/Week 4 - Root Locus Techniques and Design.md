@@ -114,12 +114,12 @@ The root locus crosses the jw axis at the point where $\angle G(s) H(s) = (2k+1)
 
 **OR** By letting s = jw in the characteristic equation, equating both the real part and the imaginary part to zero, and solving for w and K.
 
-**OR** Using the Routh Hurwitz tw
+**OR** Using the Routh Hurwitz test.
 
 ## Transient Response Design via Gain Adjustment
 1. Higher order poles are much farther into the left half of the s-plane than the dominant second-order pair of poles. The response that results from a higher order pole does not appreciably change the transient response expected from the dominant second-order poles.
 ![](Attachments/Pasted%20image%2020240314215644.png)
-Far enough away is classified as 5 times the distance p1 and 2 are from the jw axis
+**Far enough away is classified as 5 times the distance p1 and 2 are from the jw axis**
 
 2. Closed-loop zeroes near the closed-loop second-order pole pair are nearly cancelled by the close proximity of higher order closed loop poles (they both cancel out, treat as if its just p1 p2)
 3. Closed loop zeroes not cancelled by the close proximity of higher-order closed loop poles are far removed from the closed-loop second-order pole pair.

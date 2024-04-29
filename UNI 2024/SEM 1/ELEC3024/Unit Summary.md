@@ -70,7 +70,7 @@ $$G(s) = \frac{5.54}{s+7.7}$$
 ![600](Attachments/Pasted%20image%2020240421183413.png)
 
 
-## Summary of Second Order Systems
+## Second Order Systems
 ![](Attachments/Pasted%20image%2020240421183856.png)
 There are four possible response (when $a \geq 0$ and $b>0$):
 1. **Overdamped responses**

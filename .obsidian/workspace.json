@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3120c05f15208b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dd752fd116a24759",
             "type": "leaf",
             "state": {
@@ -45,32 +32,28 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a23ffa2d15cadb6e",
+        "type": "tabs",
+        "children": [
           {
-            "id": "8f6f2b414c10ebe2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf"
-              }
-            }
-          },
-          {
-            "id": "a6a572ace048596e",
+            "id": "5aec7fffa7fb620d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distilled Notes/Partial Fractions.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.50418853759766
+    "width": 382.50418853759766
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -253,10 +236,10 @@
   "active": "885d403bc63a9d9a",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
+    "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
-    "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429201241.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429200941.png",

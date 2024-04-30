@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.50418853759766,
-    "collapsed": true
+    "width": 272.50418853759766
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md"
               }
             }
           },
@@ -203,6 +202,10 @@
   },
   "active": "885d403bc63a9d9a",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
+    "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/440133697_453294520426463_8352833708120563913_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Attachments/439678565_975915570703742_8776906333981395456_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Attachments/439645985_409043245233011_6072187126074291172_n.jpg",
@@ -214,18 +217,13 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/439998173_2799919226823737_8265714904443808508_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Attachments/439477297_851535213657294_8875652896880303927_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
-    "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
-    "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240429201241.png",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated.pdf",

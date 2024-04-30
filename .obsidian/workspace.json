@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +217,11 @@
   },
   "active": "0ddf6096bc69651f",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
+    "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
-    "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/440133697_453294520426463_8352833708120563913_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Attachments/439678565_975915570703742_8776906333981395456_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Attachments/439645985_409043245233011_6072187126074291172_n.jpg",
@@ -232,7 +234,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/439477297_851535213657294_8875652896880303927_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
-    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "Distilled Notes/Partial Fractions.md",

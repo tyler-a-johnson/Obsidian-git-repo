@@ -591,3 +591,7 @@ Time delay moves the system close to instability
 ![](Attachments/Pasted%20image%2020240426014130.png)
 
 
+
+
+
+# Past r

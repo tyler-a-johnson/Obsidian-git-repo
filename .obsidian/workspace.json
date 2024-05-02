@@ -15,9 +15,9 @@
               "state": {
                 "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -105.5359983258644,
+                  "y": -237.81333329918382,
+                  "zoom": 1
                 }
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas"
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf"
               }
             }
           },
@@ -205,6 +205,8 @@
   },
   "active": "885d403bc63a9d9a",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Attachments/pololu-25d-metal-gearmotors.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/2676-bracket-dimensions.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/1081-4mm-4-40-hub-dimensions.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/adafruit_drv8871_brushed_dc_motor_driver_breakout-1396486.pdf",
@@ -239,11 +241,9 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 1_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Week 7 – Digital Control Systems - Part 2_v1_annotated 1.pdf",
     "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch11 - Design via Frequency Response_annotated.pdf",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/ELEC3024/Week 8.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Workshop Ch10 - Frequency Response_v1_annotated-1.pdf",
     "Kanban Schedule.md",
     "Distilled Notes/Untitled 2.md",
     "Distilled Notes/Untitled 1.md",

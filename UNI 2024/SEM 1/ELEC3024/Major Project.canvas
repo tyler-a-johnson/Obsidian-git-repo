@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"bd9a7b1a9a7331b9","x":35,"y":-280,"width":400,"height":400,"type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/2676-bracket-dimensions.pdf"},
+		{"id":"8a1b7bfcdd120d07","x":-16,"y":-176,"width":400,"height":400,"type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/adafruit_drv8871_brushed_dc_motor_driver_breakout-1396486.pdf"},
+		{"id":"06f15efc6ef707aa","x":-242,"y":-161,"width":400,"height":400,"type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/1081-4mm-4-40-hub-dimensions.pdf"}
+	],
+	"edges":[]
+}

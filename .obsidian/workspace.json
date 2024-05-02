@@ -15,8 +15,8 @@
               "state": {
                 "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "viewState": {
-                  "x": -105.5359983258644,
-                  "y": -237.81333329918382,
+                  "x": -103.9359998517433,
+                  "y": -26.513046642733336,
                   "zoom": 1
                 }
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas"
               }
             }
           },

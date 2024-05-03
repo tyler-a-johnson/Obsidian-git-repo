@@ -6,7 +6,8 @@
 		{"id":"8a1b7bfcdd120d07","x":-20,"y":120,"width":400,"height":400,"type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/adafruit_drv8871_brushed_dc_motor_driver_breakout-1396486.pdf"},
 		{"id":"c6120413afea0a1e","x":-340,"y":-300,"width":300,"height":420,"type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf"},
 		{"id":"73739c2ddc617bc4","x":-540,"y":160,"width":383,"height":265,"type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503095504.png"},
-		{"id":"8e02d9dfb8cdf770","x":-621,"y":449,"width":561,"height":891,"type":"text","text":"**Polou 4824 geared DC motor specs**\nRated V: 6V\nGear Ratio: 34.01\n\n*Typical no load specs*\nSpeed (RPM $\\pm$ 20%): 180\nCurrent (mA $\\pm$ 50%): 120 (With encoder)\n\n*At max efficiency*\nSpeed (RPM): 150\nTorque (kg$*$mm): 5.2\nCurrent (A): 0.31\nOutput (W): 0.78\nEfficiency (%): 42%\n\n*Max power (W):* 1.7\n\n*Stall Extrapolation*\nTorque (kg$*$mm): 39\nCurrent (A): 2.0"}
+		{"id":"8e02d9dfb8cdf770","x":-621,"y":449,"width":561,"height":891,"type":"text","text":"**Polou 4824 geared DC motor specs**\nRated V: 6V\nGear Ratio: 34.01\n\n*Typical no load specs*\nSpeed (RPM $\\pm$ 20%): 180\nCurrent (mA $\\pm$ 50%): 120 (With encoder)\n\n*At max efficiency*\nSpeed (RPM): 150\nTorque (kg$*$mm): 5.2\nCurrent (A): 0.31\nOutput (W): 0.78\nEfficiency (%): 42%\n\n*Max power (W):* 1.7\n\n*Stall Extrapolation*\nTorque (kg$*$mm): 39\nCurrent (A): 2.0"},
+		{"id":"6cf26150f3366b2d","x":207,"y":-282,"width":400,"height":287,"type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503100930.png"}
 	],
 	"edges":[]
 }

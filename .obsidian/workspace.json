@@ -15,9 +15,9 @@
               "state": {
                 "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "viewState": {
-                  "x": 307.3713312582967,
-                  "y": 351.5522206048017,
-                  "zoom": 1
+                  "x": -291.15704391318764,
+                  "y": 297.5349096994964,
+                  "zoom": 0.06666666666666633
                 }
               }
             }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/adafruit_drv8871_brushed_dc_motor_driver_breakout-1396486.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/adafruit_drv8871_brushed_dc_motor_driver_breakout-1396486.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/adafruit_drv8871_brushed_dc_motor_driver_breakout-1396486.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas"
               }
             }
           },

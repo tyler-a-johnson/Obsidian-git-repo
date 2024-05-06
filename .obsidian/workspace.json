@@ -11,14 +11,12 @@
             "id": "885d403bc63a9d9a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
-                "viewState": {
-                  "x": -291.15704391318764,
-                  "y": 297.5349096994964,
-                  "zoom": 0.06666666666666633
-                }
+                "file": "Resources/Markdown Latex Reference Sheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -115,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
+                "file": "Resources/Markdown Latex Reference Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
+                "file": "Resources/Markdown Latex Reference Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas"
+                "file": "Resources/Markdown Latex Reference Sheet.md"
               }
             }
           },
@@ -204,8 +202,8 @@
   },
   "active": "885d403bc63a9d9a",
   "lastOpenFiles": [
-    "Resources/Code Repository.md",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
+    "Resources/Code Repository.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503100930.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503095504.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf",

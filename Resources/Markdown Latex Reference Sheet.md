@@ -34,20 +34,20 @@ Special characters / Symbols
 |`\Omega`   | Ω |          |   |
 
 ##### Lowercase:
-|      LaTex |     |     LaTex |     |       |
-| ---------: | --: | --------: | --: | ----- |
-|   `\alpha` |   α |     `\nu` |   ν | $\nu$ |
-|    `\beta` |   β |  `\kappa` |   κ |       |
-|   `\gamma` |   γ | `\lambda` |   λ |       |
-|   `\delta` |   δ |     `\mu` |   µ |       |
-| `\epsilon` |   ϵ |   `\zeta` |   ζ |       |
-|     `\eta` |   η |  `\theta` |   θ |       |
-|    `\iota` |   ι |     `\xi` |   ξ |       |
-|      `\pi` |   π |    `\rho` |   ρ |       |
-|   `\sigma` |   σ |    `\tau` |   τ |       |
-| `\upsilon` |   υ |    `\phi` |   φ |       |
-|     `\chi` |   χ |    `\psi` |   ψ |       |
-|   `\omega` |   ω |           |     |       |
+|      LaTex |     |     LaTex |       |     |
+| ---------: | --: | --------: | ----: | --- |
+|   `\alpha` |   α |     `\nu` | $\nu$ |     |
+|    `\beta` |   β |  `\kappa` |     κ |     |
+|   `\gamma` |   γ | `\lambda` |     λ |     |
+|   `\delta` |   δ |     `\mu` |     µ |     |
+| `\epsilon` |   ϵ |   `\zeta` |     ζ |     |
+|     `\eta` |   η |  `\theta` |     θ |     |
+|    `\iota` |   ι |     `\xi` |     ξ |     |
+|      `\pi` |   π |    `\rho` |     ρ |     |
+|   `\sigma` |   σ |    `\tau` |     τ |     |
+| `\upsilon` |   υ |    `\phi` |     φ |     |
+|     `\chi` |   χ |    `\psi` |     ψ |     |
+|   `\omega` |   ω |           |       |     |
 
 ###### Other:
 | LaTex |  | LaTex |  |

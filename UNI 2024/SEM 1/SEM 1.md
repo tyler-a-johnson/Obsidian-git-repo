@@ -13,6 +13,9 @@
 - **ENGG4001**
 	- [[Electronic Braille Signs]]
 - **FOSE3000**
+	- **FOSE3000 Video presentation**
+		- **Adobe Premiere Pro Auto-Save**
+
 	- [[Week 5]]
 	- [[Week 6]]
 	- [[Week 7]]

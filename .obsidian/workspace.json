@@ -11,9 +11,14 @@
             "id": "885d403bc63a9d9a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project Final Defence/MajorProjectFinalDefence_V2_Final_Submitted.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
+                "viewState": {
+                  "x": -287.70364729743505,
+                  "y": -210.4680064031548,
+                  "zoom": 0.2848907398464569
+                }
               }
             }
           }
@@ -83,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 266.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -110,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project Final Defence/MajorProjectFinalDefence_V2_Final_Submitted.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project Final Defence/MajorProjectFinalDefence_V2_Final_Submitted.pdf",
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project Final Defence/MajorProjectFinalDefence_V2_Final_Submitted.pdf"
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas"
               }
             }
           },
@@ -199,6 +204,7 @@
   },
   "active": "885d403bc63a9d9a",
   "lastOpenFiles": [
+    "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project Final Defence/MajorProjectFinalDefence_V2_Final_Submitted.pdf",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/PHYS2010/~$sonance and Q in Electric Circuits.docx",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",

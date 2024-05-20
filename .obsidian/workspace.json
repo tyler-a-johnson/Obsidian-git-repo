@@ -11,12 +11,14 @@
             "id": "885d403bc63a9d9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Resources/Markdown Latex Reference Sheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
+                "viewState": {
+                  "x": -287.70364729743505,
+                  "y": -210.4680064031548,
+                  "zoom": 0.2848907398464569
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.50418853759766
+    "width": 266.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Markdown Latex Reference Sheet.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Markdown Latex Reference Sheet.md",
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Markdown Latex Reference Sheet.md"
+                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas"
               }
             }
           },
@@ -202,10 +204,18 @@
   },
   "active": "885d403bc63a9d9a",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/PHYS2010/~$sonance and Q in Electric Circuits.docx",
-    "UNI 2024/SEM 1/PHYS2010/~WRL0286.tmp",
-    "UNI 2024/SEM 1/PHYS2010/~WRD0263.tmp",
+    "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project Final Defence/MajorProjectFinalDefence_V2_Final_Submitted.pdf",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
+    "UNI 2024/SEM 1/PHYS2010/~$sonance and Q in Electric Circuits.docx",
+    "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
+    "Resources/Markdown Latex Reference Sheet.md",
+    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save/DayOne STEM Packs.prproj",
+    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save/DayOne STEM Packs-2024-05-06_22-42-38.prproj",
+    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save",
+    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/DayOne STEM Packs.prproj",
+    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation",
     "Resources/Code Repository.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503100930.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503095504.png",
@@ -213,13 +223,10 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/pololu-25d-metal-gearmotors.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/2676-bracket-dimensions.pdf",
     "UNI 2024/SEM 1/ELEC3024/Attachments/1081-4mm-4-40-hub-dimensions.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/adafruit_drv8871_brushed_dc_motor_driver_breakout-1396486.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch05 Highlights_annotated.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/440133697_453294520426463_8352833708120563913_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Attachments/439678565_975915570703742_8776906333981395456_n.jpg",
@@ -229,16 +236,11 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/439632343_26193170103615036_2905540687854133230_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Attachments/438332829_417141614394298_3522792758771689187_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Attachments/439586893_330302749761468_2190233671672662020_n.jpg",
-    "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch07 Highlights.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Nise - Ch04 Highlights_annotated.pdf",
     "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
     "Distilled Notes/Untitled 3.md",
     "conflict-files-obsidian-git.md",
-    "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/ELEC3024/Week 8.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
     "Kanban Schedule.md",

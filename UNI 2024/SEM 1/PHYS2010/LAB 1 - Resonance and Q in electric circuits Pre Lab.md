@@ -18,6 +18,6 @@ $T = 1.40$
 Doubling the resistance would not change angular frequency. It will halve the Q factor, and reduce the maximum current.
 
 4. **Suppose you connected a DMM set to ammeter mode in the circuit with the parameters in Q2. Describe what you would observe.**
-You would observe the current oscillating at the resonant frequency 4.47 rad/s, amplitude Imax, and period 1.40.
+You would observe the current oscillating at the resonant frequency 4.47 rad/s, amplitude Imax, and period 1.40s.
 
 $$\frac{\delta^{2}f}{\delta t^{2}} = c^{2} \frac{\delta^{2}f}{\delta x^{2}}$$

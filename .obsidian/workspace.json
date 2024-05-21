@@ -15,9 +15,9 @@
               "state": {
                 "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
                 "viewState": {
-                  "x": -287.70364729743505,
-                  "y": -210.4680064031548,
-                  "zoom": 0.2848907398464569
+                  "x": 246.33505368515202,
+                  "y": -289.1628742186341,
+                  "zoom": -0.28750000000000003
                 }
               }
             }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/pololu-25d-metal-gearmotors.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/pololu-25d-metal-gearmotors.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Major Project.canvas"
+                "file": "UNI 2024/SEM 1/ELEC3024/Attachments/pololu-25d-metal-gearmotors.pdf"
               }
             }
           },

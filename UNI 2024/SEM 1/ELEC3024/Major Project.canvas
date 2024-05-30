@@ -3,11 +3,11 @@
 		{"id":"38cf088db05ea0e4","type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/pololu-25d-metal-gearmotors.pdf","subpath":"#page=3","x":-220,"y":-660,"width":540,"height":760},
 		{"id":"06f15efc6ef707aa","type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/1081-4mm-4-40-hub-dimensions.pdf","x":400,"y":120,"width":400,"height":400},
 		{"id":"8a1b7bfcdd120d07","type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/adafruit_drv8871_brushed_dc_motor_driver_breakout-1396486.pdf","x":-180,"y":120,"width":560,"height":800},
-		{"id":"73739c2ddc617bc4","type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503095504.png","x":-660,"y":260,"width":463,"height":320},
 		{"id":"8e02d9dfb8cdf770","type":"text","text":"**Polou 4824 geared DC motor specs**\nRated V: 6V\nGear Ratio: 34.01\n\n*Typical no load specs*\nSpeed (RPM $\\pm$ 20%): 180\nCurrent (mA $\\pm$ 50%): 120 (With encoder)\n\n*At max efficiency*\nSpeed (RPM): 150\nTorque (kg$*$mm): 5.2\nCurrent (A): 0.31\nOutput (W): 0.78\nEfficiency (%): 42%\n\n*Max power (W):* 1.7\n\n*Stall Extrapolation*\nTorque (kg$*$mm): 39\nCurrent (A): 2.0","x":420,"y":560,"width":460,"height":640},
 		{"id":"bd9a7b1a9a7331b9","type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/2676-bracket-dimensions.pdf","x":700,"y":-560,"width":400,"height":400},
 		{"id":"6cf26150f3366b2d","type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503100930.png","x":740,"y":-140,"width":400,"height":287},
-		{"id":"c6120413afea0a1e","type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf","x":-880,"y":-900,"width":620,"height":900,"subpath":"#page=2"}
+		{"id":"c6120413afea0a1e","type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf","x":-880,"y":-900,"width":620,"height":900,"subpath":"#page=2"},
+		{"id":"73739c2ddc617bc4","type":"file","file":"UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503095504.png","x":-700,"y":200,"width":463,"height":320}
 	],
 	"edges":[]
 }

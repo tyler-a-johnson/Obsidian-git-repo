@@ -1,5 +1,7 @@
 %% Begin Waypoint %%
 - **ELEC3024**
+	- **deez**
+
 	- [[Gamers]]
 	- [[Unit Summary]]
 	- [[Week 1 - Intro]]

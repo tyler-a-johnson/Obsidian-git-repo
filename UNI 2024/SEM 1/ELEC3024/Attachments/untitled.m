@@ -16,6 +16,7 @@ p_conv = D;
 % Plant
 plant = p_conv * P_motor;
 
+step(plant)
 %% 
 
 % Sampling Time

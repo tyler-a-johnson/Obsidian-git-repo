@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a3c3b2675c76f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distilled Notes/Movie Recs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Gamers.md",
+                "file": "Distilled Notes/Movie Recs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Gamers.md",
+                "file": "Distilled Notes/Movie Recs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/ELEC3024/Gamers.md"
+                "file": "Distilled Notes/Movie Recs.md"
               }
             }
           },
@@ -200,8 +214,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "885d403bc63a9d9a",
+  "active": "6a3c3b2675c76f17",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/ELEC3024/Gamers.md",
+    "Distilled Notes/Movie Recs.md",
+    "Untitled",
     "UNI 2024/SEM 1/ELEC3024/deez/rootlocus-feedback-nocontroller-pureintegral.png",
     "UNI 2024/SEM 1/ELEC3024/deez/rootlocus-feedback-nocontroller-0.3settlingtime.png",
     "UNI 2024/SEM 1/ELEC3024/deez/rootlocus-feedback-nocontroller.png",
@@ -211,7 +228,6 @@
     "UNI 2024/SEM 1/ELEC3024/stepresponse-feedback-nocontroller.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/untitled.m",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
-    "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project Final Defence/MajorProjectFinalDefence_V2_Final_Submitted.pdf",
     "UNI 2024/SEM 1/PHYS2010/~$sonance and Q in Electric Circuits.docx",
@@ -223,7 +239,6 @@
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save/DayOne STEM Packs-2024-05-06_22-42-38.prproj",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/DayOne STEM Packs.prproj",
-    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation",
     "Resources/Code Repository.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503100930.png",
     "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503095504.png",
@@ -235,7 +250,6 @@
     "UNI 2024/SEM 1/ELEC3024/Attachments/440133697_453294520426463_8352833708120563913_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Attachments/439678565_975915570703742_8776906333981395456_n.jpg",
     "UNI 2024/SEM 1/ELEC3024/Attachments/439645985_409043245233011_6072187126074291172_n.jpg",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/439881564_803529818327443_4000939261363295158_n.jpg",
     "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",

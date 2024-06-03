@@ -24,14 +24,12 @@
             "id": "6a3c3b2675c76f17",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas",
-                "viewState": {
-                  "x": -210,
-                  "y": 220,
-                  "zoom": -0.18809478317043085
-                }
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md"
               }
             }
           },
@@ -218,6 +216,7 @@
   },
   "active": "6a3c3b2675c76f17",
   "lastOpenFiles": [
+    "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "Distilled Notes/Movie Recs.md",
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
@@ -264,10 +263,8 @@
     "Distilled Notes/Untitled 2.md",
     "Distilled Notes/Untitled 1.md",
     "UNI 2024/SEM 1/FOSE3000/Week 8.md",
-    "UNI 2024/SEM 1/FOSE3000/Week 7.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
-    "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

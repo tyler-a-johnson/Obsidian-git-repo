@@ -94,7 +94,7 @@ We can also say:
 $Re[Ae^{i \omega t}] = A \cos \omega t$,  $B\cos \omega t = Re[Ae^{-i \omega t}]$
 $Re[Ae^{i(\omega t + \phi)}] = A \cos (\omega t+\phi)$
 $Re[Ae^{i \phi}e^{i \omega t}] = A \cos (\omega t + \phi)$
-$Re [Ze^{i \omega t}]= A \cos (\omega t + \phi)$
+$Re [Ze^{i \omega t}]= Z \cos (\omega t + \phi)$
 
 
 $Ze^{i \omega t}$ is a solution to:

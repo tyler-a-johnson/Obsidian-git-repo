@@ -21,7 +21,6 @@ $$\frac{\partial^{2}u}{\partial t^{2}} = c^{2} \nabla u$$
 **Schrodinger's Equation**
 $$i \hbar \frac{\partial}{\partial t} \Psi (r,t) = \left[  -\frac{\hbar^{2}{2 \mu}}+V(r,t_{}) \right] \Psi (r,t)$$
 
-^ We wont be using these in this unit. Could potentially find a use for these anyways? (NOTE: This was a lie)
 ## Mass on a spring, basic oscillation
 ![](Attachments/Pasted%20image%2020240220102516.png)
 **Hooke's Law**

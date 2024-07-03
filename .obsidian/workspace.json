@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md"
               }
             }
           },
@@ -223,14 +223,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3d3641a81d974f0b",
+  "active": "6a3c3b2675c76f17",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+    "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "Movie Recs.md",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "Study Plan (Macquarie University).canvas",
-    "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "Untitled",
     "UNI 2024/SEM 1/ELEC3024/deez/rootlocus-feedback-nocontroller-pureintegral.png",
     "UNI 2024/SEM 1/ELEC3024/deez/rootlocus-feedback-nocontroller-0.3settlingtime.png",

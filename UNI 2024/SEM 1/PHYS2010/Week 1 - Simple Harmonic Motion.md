@@ -173,7 +173,7 @@ $$PE = \frac{1}{2}kA^{2}\sin^{2}(\omega t + \phi) = \frac{1}{2}kx^2$$
 Uniform cross section A
 Fluid density $\rho$
 Displaced $\pm x$
-
+![](Attachments/Pasted%20image%2020240703223343.png)
 Derive total energy
 - $KE = \frac{1}{2} (\rho LA)x^2$
 - $PE = (\rho x A)gx$
@@ -184,6 +184,7 @@ $\ddot{x}= - \frac{2g}{L}x$ and $\omega = \sqrt{\frac{2g}{L}}$
 
 
 ## Pendulum
+![](Attachments/Pasted%20image%2020240703223407.png)
 Using $\tau = I \ddot{\theta}$ for a point mass
 - $-mgl \sin \theta = ml^{2}\ddot{\theta}$
 - $\ddot{ \theta} = - \left( \frac{g}{l} \right) \theta$  for small angles

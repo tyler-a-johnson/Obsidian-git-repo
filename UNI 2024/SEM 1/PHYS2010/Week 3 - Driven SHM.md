@@ -58,7 +58,9 @@ $x = e ^{\frac{-\gamma}{2}t} (Ae^{i \omega_{d}t}+Be^{-i \omega_{d}t})$
 $\omega_{d} = (\omega_{0}^{2}-\frac{\gamma^{2}}{4})^{1/2}$    Real
 
 **Overdamped:**
-$x = e^{\frac{-\gamma}{2}t}(Ae^{i \omega_{d}t}+Be^{-i\omega _{d}t})$ 
+$x = e^{\frac{-\gamma}{2}t}(Ae^{\Omega t}+Be^{- \Omega t})$ 
+$\Omega = \left( \frac{\gamma^{2}}{4}- \omega_{0}^2 \right)^{1/2}$
+**
 
 
 # Conceptual Info

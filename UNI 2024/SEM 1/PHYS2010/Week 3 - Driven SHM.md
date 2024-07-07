@@ -54,8 +54,8 @@ $z_{d}=z_{2}-z_{1}$
 $$ \ddot{x}+ \gamma \dot{x} + \omega_{0}^{2}=0$$
 
 **Underdamped:** $\gamma < 2 \omega_{0}$
-$x = e ^{\frac{-\gamma}{2}t}$
-
+$x = e ^{\frac{-\gamma}{2}t} (Ae^{i \omega_{d}t}+Be^{-i \omega_{d}t})$
+$\omega_{d} = (\omega_{0}^{2}-\gamma$
 
 # Conceptual Info
 ---

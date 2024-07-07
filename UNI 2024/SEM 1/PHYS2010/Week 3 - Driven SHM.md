@@ -60,8 +60,10 @@ $\omega_{d} = (\omega_{0}^{2}-\frac{\gamma^{2}}{4})^{1/2}$    Real
 **Overdamped:**
 $x = e^{\frac{-\gamma}{2}t}(Ae^{\Omega t}+Be^{- \Omega t})$ 
 $\Omega = \left( \frac{\gamma^{2}}{4}- \omega_{0}^2 \right)^{1/2}$
-*O*
+*$\Omega < \frac{\gamma}{2}$ so both terms decay with time*
 
+**Critical Damping: $\gamma = 2 \omega_{0}$**
+$$x = (A+Bt)e^{-\frac{\gamma}{2}}$$
 
 # Conceptual Info
 ---

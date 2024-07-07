@@ -33,8 +33,10 @@ Inhomogeneous second-order linear differential equation
 **To solve**
 - Find any solution to $\ddot{z} + \gamma \dot{z} + \omega_{0}^{2}z=f_{0}e^{i \omega_{f}t}$
 	- $z = z_{p} (t)$ (Particular solution)
-	- Find the general solution to the complementary homogenous equation: $\ddot{z} + y\dot{z} + \omega_{0}^{2}z = f_{0} e ^{i \omega_{f}t}$
-		- $z = z_{P}(t)$
+- Find the general solution to the complementary homogenous equation: $\ddot{z} + y\dot{z} + \omega_{0}^{2}z = f_{0} e ^{i \omega_{f}t}$
+	- $z = z_{C}(t)$
+	- This is over/critical/underdamped motion depending on $\gamma , \omega_{0}$ and initial conditions.
+- General solution is $z = z_{p}(t) + z_{C}$
 # Conceptual Info
 ---
 

@@ -36,7 +36,11 @@ Inhomogeneous second-order linear differential equation
 - Find the general solution to the complementary homogenous equation: $\ddot{z} + y\dot{z} + \omega_{0}^{2}z = f_{0} e ^{i \omega_{f}t}$
 	- $z = z_{C}(t)$
 	- This is over/critical/underdamped motion depending on $\gamma , \omega_{0}$ and initial conditions.
-- General solution is $z = z_{p}(t) + z_{C}$
+- General solution is $z = z_{P}(t) + z_{C} (t)$
+
+*ANY particular solution will do*
+The difference of any 2 particular solutions is a complementary solution (choice of $z_{P}$ is ironed out by change in the complementary function)
+- Proof: Any two particular solutions $z_{1}$
 # Conceptual Info
 ---
 

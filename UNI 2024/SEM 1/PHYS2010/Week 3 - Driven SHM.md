@@ -69,6 +69,14 @@ Damping $\rightarrow$ Complementary function dies away over time: *transient*
 Long-term behaviour is determined by response to the driving force, not by the initial conditions.
 
 
+
+### Particular Solution
+
+
+
+
+
+
 # Conceptual Info
 ---
 

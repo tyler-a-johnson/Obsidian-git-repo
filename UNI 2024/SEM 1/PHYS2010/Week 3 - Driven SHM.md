@@ -78,7 +78,7 @@ $$(\alpha^{2}+\gamma \alpha + \omega_{0}^{2})Ae^{\alpha t} = f_{0}e^{i \omega_{f
 
 $\rightarrow \alpha= i \omega_{f}$ system oscillates at the driving frequency
 
-and $A = \frac{f_{0}}{(\omega_{0}^{2})}$
+and $A = \frac{f_{0}}{(\omega_{0}^{2}- \omega_{f}^{2})+ i \omega_{f}\gamma}$  **Note: Contains amplitude and phase**
 
 
 

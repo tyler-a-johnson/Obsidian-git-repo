@@ -91,6 +91,7 @@ title: Complex Numbers
 ```
 
 
+## Useful Maths
 ### Modulus, argument, complex exponential
 ![](Attachments/Pasted%20image%2020240707230516.png)
 $$|z| = \sqrt{ x^{2}+\gamma^{2} }=r$$
@@ -102,6 +103,11 @@ $$|e^{i \phi}| = 1$$
 $$z = r e^{i \phi}$$
 $$z_{1}z_{2} = |z_{1}| |z_{2}| e^{i (\phi_{1}+\phi_{2})}$$
 $$e^{z}=e^{x+i \gamma}= e^{x}e^{i \gamma}=e^{x} (\cos \gamma + i \sin \gamma)$$
+
+
+### Complex Conjugate
+![](Attachments/Pasted%20image%2020240707231047.png)
+
 
 
 

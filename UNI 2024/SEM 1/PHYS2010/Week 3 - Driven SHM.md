@@ -91,6 +91,9 @@ title: Complex Numbers
 ```
 
 
+### Modulus, argument, complex exponential
+![](Attachments/Pasted%20image%2020240707230516.png)
+$$|z| = \sqrt{  }$$
 
 
 # Conceptual Info

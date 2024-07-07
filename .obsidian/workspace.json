@@ -6,6 +6,7 @@
       {
         "id": "8c6f543d1dbc547b",
         "type": "tabs",
+        "dimension": 46.84782608695652,
         "children": [
           {
             "id": "885d403bc63a9d9a",
@@ -49,6 +50,7 @@
       {
         "id": "66f460f6fbd79335",
         "type": "tabs",
+        "dimension": 53.15217391304348,
         "children": [
           {
             "id": "16638850967ea152",
@@ -126,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -219,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,10 +245,11 @@
   },
   "active": "6a3c3b2675c76f17",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240707224233.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240707212557.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240707230516.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240707224233.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240707212557.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240707205154.png",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
@@ -274,7 +279,6 @@
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save/DayOne STEM Packs.prproj",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save/DayOne STEM Packs-2024-05-06_22-42-38.prproj",
     "Resources/Code Repository.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503100930.png",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",

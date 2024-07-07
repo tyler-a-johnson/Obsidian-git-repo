@@ -53,6 +53,8 @@ $z_{d}=z_{2}-z_{1}$
 ### Complementary Functions are Damped
 $$ \ddot{x}+ \gamma \dot{x} + \omega_{0}^{2}=0$$
 
+**Underdamped:** $\gamma < 2 \omega_{0}$
+$x = e ^{\frac{-\gamma}{2}t}$
 
 
 # Conceptual Info

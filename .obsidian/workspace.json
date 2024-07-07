@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "3b60c57d7a5fe67d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
             "id": "3d3641a81d974f0b",
             "type": "leaf",
             "state": {
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,7 +223,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3b60c57d7a5fe67d",
+  "active": "6a3c3b2675c76f17",
   "lastOpenFiles": [
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240703223407.png",

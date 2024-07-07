@@ -44,7 +44,7 @@ The difference of any 2 particular solutions is a complementary solution (choice
 
 $$\ddot{z}_{2}+ \gamma \dot{z}_{2}+\omega_{0}^{2}z_{2} = f_{0} e ^{i \omega_{f}t}$$
 $$\ddot{z}_{1}+\gamma \dot{z}_{1}+\omega_{0}^{2}z_{1}=f_{0}e^{i \omega_{f}t}$$
-$$\rightarrow \ddot{}$$
+$$\rightarrow \ddot{z}_{2}- \ddot{z}_{1} + $$
 
 
 

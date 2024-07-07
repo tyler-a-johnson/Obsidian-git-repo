@@ -65,6 +65,8 @@ $\Omega = \left( \frac{\gamma^{2}}{4}- \omega_{0}^2 \right)^{1/2}$
 **Critical Damping: $\gamma = 2 \omega_{0}$**
 $$x = (A+Bt)e^{-\frac{\gamma}{2}}$$
 
+Damping $\rightarrow$ Com
+
 # Conceptual Info
 ---
 

@@ -51,13 +51,17 @@ Where:
 $z_{d}=z_{2}-z_{1}$
 
 ### Complementary Functions are Damped
+$$ \ddot{x}+ \gamma \dot{x} + \omega_{0}^{2}=0$$
+
 
 
 # Conceptual Info
 ---
 
 ## Forced Motion
-
+- Simple harmonic motion that is being driven by a driving force at a particular frequency.
+	- Sum responses to describe arbitrary driving forces
+	- Find: resonances
 
 # Additional Content
 ---

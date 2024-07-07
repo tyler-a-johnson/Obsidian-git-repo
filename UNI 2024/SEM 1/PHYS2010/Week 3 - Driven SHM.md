@@ -119,7 +119,7 @@ $$(z_{1}+z_{2})^{*} = z^{*}_{1} +z^{*}_{2 }$$
 $$(z_{1}z_{2})^{*} = z^{*}_{1} z^{*}_{2 }$$
 
 
-$$\frac{1}{z} = \frac{1}{x+i\gamma}= \frac{1}{x+i\gamma} \frac{x-i \gamma}{x-i \gamma} =\frac{x-i\gamma}{x^{2}+\gamma^2}$$
+$$\frac{1}{z} = \frac{1}{x+i\gamma}= \frac{1}{x+i\gamma} \frac{x-i \gamma}{x-i \gamma} =\frac{x-i\gamma}{x^{2}+\gamma^{2}}= \frac{z^{*}}{|z|^{2}}=\frac{1}{r} e^{-i \theta}$$
 
 
 

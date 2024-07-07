@@ -42,7 +42,14 @@ Inhomogeneous second-order linear differential equation
 The difference of any 2 particular solutions is a complementary solution (choice of $z_{P}$ is ironed out by change in the complementary function)
 - Proof: Any two particular solutions $z_{1}$ and $z_{2}$
 
-$$\ddot{z}_{2}+ \gamma \dot{z}_{2}+\omega_{0}^{2}z_{2} = f_{0} e ^{i \omega_{f}t}$$![](Attachments/Pasted%20image%2020240707212557.png)
+$$\ddot{z}_{2}+ \gamma \dot{z}_{2}+\omega_{0}^{2}z_{2} = f_{0} e ^{i \omega_{f}t}$$
+$$\ddot{z}_{1}+\gamma \dot{z}_{1}+\omega_{0}^{2}z_{1}=f_{0}e^{i \omega_{f}t}$$
+$$\rightarrow \ddot{}$$
+
+
+
+
+![](Attachments/Pasted%20image%2020240707212557.png)
 
 
 

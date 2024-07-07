@@ -12,10 +12,15 @@ Relevant Links:
 ---
 ## Add a driving term
 ![](Attachments/Pasted%20image%2020240707205154.png)
+Where:
+$\gamma = \frac{b}{m}$
+$\omega_{0}^{2} = \frac{k}{m}$
+$f_{0} = a_{0} = \frac{F_{0}}{m}$
 
 $$m \ddot{x} + b \ddot{x} + kx = F_{0} \cos(\omega_{f} t)$$
-$$\ddot{x}+\gamma \ddot{x}  +\omega _{0}^{2} x = a_{0} \cos \omega_{f}t$$
-$$\ddot{z}+ \gamma \dot{z} + \omega_{0}^{2  z}= f_{0} e ^{i \omega}$$
+$$\ddot{x}+\gamma \dot{x}  +\omega _{0}^{2} x = a_{0} \cos \omega_{f}t$$
+$$\ddot{z}+ \gamma \dot{z} + \omega_{0}^{2  z}= f_{0} e ^{i \omega_{f}t}$$
+Where $x =$
 
 # Conceptual Info
 ---

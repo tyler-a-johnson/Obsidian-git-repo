@@ -80,6 +80,8 @@ $\rightarrow \alpha= i \omega_{f}$ system oscillates at the driving frequency
 
 and $A = \frac{f_{0}}{(\omega_{0}^{2}- \omega_{f}^{2})+ i \omega_{f}\gamma}$  **Note: Contains amplitude and phase**
 
+Therefore:
+$$z_{p} = \frac{f_{0}}{(\omega_{0}^{2}-\omega_{f}^{2})+i \omega_{f}\gamma}$$
 
 
 # Conceptual Info

@@ -108,6 +108,8 @@ $$e^{z}=e^{x+i \gamma}= e^{x}e^{i \gamma}=e^{x} (\cos \gamma + i \sin \gamma)$$
 ### Complex Conjugate
 ![](Attachments/Pasted%20image%2020240707231047.png)
 
+$$z^{*} = x - i \gamma = r e^{-i \phi}$$
+
 
 
 

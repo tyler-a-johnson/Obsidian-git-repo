@@ -100,7 +100,9 @@ $$e^{i \phi} = \cos \phi + i \sin \phi$$
 
 $$|e^{i \phi}| = 1$$
 $$z = r e^{i \phi}$$
-$$$$
+$$z_{1}z_{2} = |z_{1}| |z_{2}| e^{i (\phi_{1}+\phi_{2})}$$
+$$e^{z}=e^{x+i \gamma}= e^{x}e^{i \gamma}=e^{x} (\cos \gamma + i \sin \gamma)$$
+
 
 
 

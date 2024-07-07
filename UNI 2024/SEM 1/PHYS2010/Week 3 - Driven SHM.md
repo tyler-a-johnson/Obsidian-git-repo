@@ -71,9 +71,9 @@ Long-term behaviour is determined by response to the driving force, not by the i
 
 
 ### Particular Solution
+$$\ddot{z}+ \gamma \dot{z} + \omega_{0}^{2}z = f_{0}e^{i \omega_{f}t}$$
 
-
-
+Let's try $z_{p} = Ae^{\alpha t}$
 
 
 

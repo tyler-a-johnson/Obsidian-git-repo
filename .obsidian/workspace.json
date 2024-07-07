@@ -26,10 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3b60c57d7a5fe67d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
               }
             }
           },
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md"
               }
             }
           },
@@ -223,11 +233,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6a3c3b2675c76f17",
+  "active": "3b60c57d7a5fe67d",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240703223407.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240703223343.png",
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "Movie Recs.md",
@@ -262,7 +272,6 @@
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "UNI 2024/SEM 1/ELEC3024/Attachments/440133697_453294520426463_8352833708120563913_n.jpg",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/439678565_975915570703742_8776906333981395456_n.jpg",
     "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",

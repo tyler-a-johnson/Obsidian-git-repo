@@ -55,7 +55,11 @@ $$ \ddot{x}+ \gamma \dot{x} + \omega_{0}^{2}=0$$
 
 **Underdamped:** $\gamma < 2 \omega_{0}$
 $x = e ^{\frac{-\gamma}{2}t} (Ae^{i \omega_{d}t}+Be^{-i \omega_{d}t})$
-$\omega_{d} = (\omega_{0}^{2}-\gamma$
+$\omega_{d} = (\omega_{0}^{2}-\frac{\gamma^{2}}{4})^{1/2}$    Real
+
+**Overdamped:**
+$x = e^{\frac{-\gamma}{2}t}(Ae^{i \omega_{d}t}+Be^{-i\omega _{d}t})$ 
+
 
 # Conceptual Info
 ---

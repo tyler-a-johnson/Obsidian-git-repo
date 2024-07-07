@@ -46,18 +46,17 @@ $$\ddot{z}_{2}+ \gamma \dot{z}_{2}+\omega_{0}^{2}z_{2} = f_{0} e ^{i \omega_{f}t
 $$\ddot{z}_{1}+\gamma \dot{z}_{1}+\omega_{0}^{2}z_{1}=f_{0}e^{i \omega_{f}t}$$
 $$\rightarrow \ddot{z}_{2}- \ddot{z}_{1} + \gamma(\dot{z}_{2}-\dot{z}_{1}) + \omega_{0}^{2} (z_{2} - z_{1}) = 0$$
 
-$$\text{ Therefore } $$
+$$\text{ Therefore } \ddot{z}_{d} + \gamma \dot{z}_{d}  + \omega_{0}^{2}z_{d} = 0$$
+Where:
+$z_{d}=z_{2}-z_{1}$
 
-
-
-
-![](Attachments/Pasted%20image%2020240707212557.png)
-
+### Complementary Functions are Damped
 
 
 # Conceptual Info
 ---
 
+## Forced Motion
 
 
 # Additional Content

@@ -24,6 +24,9 @@ Where $z = x +iy$ and we take $Re[z]$ to get $x$
 
 How does the response of the system depend on $\omega_{f}$
 
+### How to Solve the ODE
+
+$$\ddot{z} + y\dot{z} + \omega_{0}^{2}z = f_{0} e $$
 # Conceptual Info
 ---
 

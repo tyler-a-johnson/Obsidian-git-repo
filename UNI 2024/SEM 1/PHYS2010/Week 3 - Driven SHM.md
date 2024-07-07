@@ -26,7 +26,14 @@ How does the response of the system depend on $\omega_{f}$
 
 ### How to Solve the ODE
 
-$$\ddot{z} + y\dot{z} + \omega_{0}^{2}z = f_{0} e $$
+$$\ddot{z} + y\dot{z} + \omega_{0}^{2}z = f_{0} e ^{i \omega_{f}t}$$
+
+Inhomogeneous second-order linear differential equation
+
+**To solve**
+- Find any solution to $\ddot{z} + \gamma \dot{z} + \omega_{0}^{2}z=f_{0}e^{i \omega_{f}t}$
+- 
+
 # Conceptual Info
 ---
 

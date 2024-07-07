@@ -20,7 +20,9 @@ $f_{0} = a_{0} = \frac{F_{0}}{m}$
 $$m \ddot{x} + b \ddot{x} + kx = F_{0} \cos(\omega_{f} t)$$
 $$\ddot{x}+\gamma \dot{x}  +\omega _{0}^{2} x = a_{0} \cos \omega_{f}t$$
 $$\ddot{z}+ \gamma \dot{z} + \omega_{0}^{2  z}= f_{0} e ^{i \omega_{f}t}$$
-Where $x =$
+Where $z = x +iy$ and we take $Re[z]$ to get $x$
+
+How does the response of the system depend on $\omega_{f}$
 
 # Conceptual Info
 ---

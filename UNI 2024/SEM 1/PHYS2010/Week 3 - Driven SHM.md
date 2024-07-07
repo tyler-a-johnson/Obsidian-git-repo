@@ -65,7 +65,9 @@ $\Omega = \left( \frac{\gamma^{2}}{4}- \omega_{0}^2 \right)^{1/2}$
 **Critical Damping: $\gamma = 2 \omega_{0}$**
 $$x = (A+Bt)e^{-\frac{\gamma}{2}}$$
 
-Damping $\rightarrow$ Com
+Damping $\rightarrow$ Complementary function dies away over time: *transient*
+Long-term behaviour is determined by response to the driving force, not by the initial conditions.
+
 
 # Conceptual Info
 ---

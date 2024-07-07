@@ -74,6 +74,11 @@ Long-term behaviour is determined by response to the driving force, not by the i
 $$\ddot{z}+ \gamma \dot{z} + \omega_{0}^{2}z = f_{0}e^{i \omega_{f}t}$$
 
 Let's try $z_{p} = Ae^{\alpha t}$
+$$(\alpha^{2}+\gamma \alpha + \omega_{0}^{2})Ae^{\alpha t} = f_{0}e^{i \omega_{f}t}$$
+
+$\rightarrow \alpha= i \omega_{f}$ system oscillates at the driving frequency
+
+and $A = \frac{f_{0}}{(\omega_{0}^{2})}$
 
 
 

@@ -84,6 +84,15 @@ Therefore:
 $$z_{p} = \frac{f_{0}}{(\omega_{0}^{2}-\omega_{f}^{2})+i \omega_{f}\gamma}$$
 
 
+```ad-note
+title: Complex Numbers
+![](Attachments/Pasted%20image%2020240707224233.png)
+
+```
+
+
+
+
 # Conceptual Info
 ---
 

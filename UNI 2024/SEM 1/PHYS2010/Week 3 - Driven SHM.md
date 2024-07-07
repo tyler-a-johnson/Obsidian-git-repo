@@ -93,7 +93,15 @@ title: Complex Numbers
 
 ### Modulus, argument, complex exponential
 ![](Attachments/Pasted%20image%2020240707230516.png)
-$$|z| = \sqrt{  }$$
+$$|z| = \sqrt{ x^{2}+\gamma^{2} }=r$$
+$$\phi = \tan^{-1}\left( \frac{\gamma}{x} \right)$$
+$$e^{i \phi} = \cos \phi + i \sin \phi$$
+
+
+$$|e^{i \phi}| = 1$$
+$$z = r e^{i \phi}$$
+$$$$
+
 
 
 # Conceptual Info

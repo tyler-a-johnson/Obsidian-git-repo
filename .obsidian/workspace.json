@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -45,6 +45,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "66f460f6fbd79335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16638850967ea152",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md"
+                "file": "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md"
               }
             }
           },
@@ -225,13 +241,15 @@
   },
   "active": "6a3c3b2675c76f17",
   "lastOpenFiles": [
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
+    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240703223407.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240703223343.png",
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "Movie Recs.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "Study Plan (Macquarie University).canvas",
     "Untitled",
     "UNI 2024/SEM 1/ELEC3024/deez/rootlocus-feedback-nocontroller-pureintegral.png",
@@ -271,7 +289,6 @@
     "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
     "Kanban Schedule.md",
     "Distilled Notes/Untitled 2.md",
-    "Distilled Notes/Untitled 1.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

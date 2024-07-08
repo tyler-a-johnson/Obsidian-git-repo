@@ -128,7 +128,7 @@ $$A = \frac{f_{0}}{(\omega_{0}^{2}-\omega_{f}^{2})+i \omega_{f}\gamma}$$
 
 As usual, its best to first express A in terms of its modulus $A_{P} = |A|$ and Phase $\phi_{P}$ example: $A = A_{P} e^{i \phi_{P}}$
 
-$$x_{P} = R$$
+$$x_{P} = Re[]$$
 
 # Conceptual Info
 ---

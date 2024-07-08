@@ -162,7 +162,9 @@ Steady state amplitude and phase is entirely defined as the driving force.
 $$x = A_{P} \cos (\omega_{f}t + \phi_{P}) + A_{C}e^{-\gamma t/2}\cos(\omega_{d}t+\phi_{C})$$
 - Transient behaviour can be complicated, and is significant only for a time of order $\gamma /2$
 
-
+### Steady State Behaviour - Undamped
+$$x_{P} = A_{P} \cos(\omega_{f}t + \phi_{P})$$
+$$A_{P} = \frac{f_{0}}{\sqrt{ \omeg }}$$
 
 
 # Conceptual Info

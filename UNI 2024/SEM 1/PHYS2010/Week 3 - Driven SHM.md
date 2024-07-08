@@ -138,6 +138,12 @@ $$= \frac{f_{0 }}{\omega_{0}^{2}-\omega_{f}^{2}+ i \omega_{f}\gamma} \frac{\omeg
 $$= f_{0} \frac{\omega_{0}^{2}-\omega_{f}^{2}- i \omega_{f}\gamma}{(\omega_{0}^{2}-\omega_{f}^{2})^{2}+  \omega_{f}^2\gamma^2}$$
 
 
+
+$$A_{P} = \frac{f_{0}}{\sqrt{ \omega_{0}^2-\omega_{f}^{2 }+om_}}$$
+
+
+
+
 # Conceptual Info
 ---
 

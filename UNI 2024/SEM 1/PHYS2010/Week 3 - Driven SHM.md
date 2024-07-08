@@ -166,8 +166,12 @@ $$x = A_{P} \cos (\omega_{f}t + \phi_{P}) + A_{C}e^{-\gamma t/2}\cos(\omega_{d}t
 $$x_{P} = A_{P} \cos(\omega_{f}t + \phi_{P})$$
 $$A_{P} = \frac{f_{0}}{\sqrt{( \omega_{0}^{2 }-\omega_{f}^{2})^{2}+\omega^{2}_{f}\gamma^{2}}}$$
 $$\phi_{P} = \tan^{-1} \frac{- \omega_{f}\gamma}{\omega_{0}^{2}-\omega_{f}^{2}}$$
+$$\gamma = 0 \rightarrow A_{P} = \frac{f_{0}}{| \omega_{0}^{2}-\omega_{f}^{2} |}$$
 
-$$\gamma = 0 \rightarrow A_{P} = \frac{f_{0}}{||}$$
+
+
+
+
 
 
 # Conceptual Info

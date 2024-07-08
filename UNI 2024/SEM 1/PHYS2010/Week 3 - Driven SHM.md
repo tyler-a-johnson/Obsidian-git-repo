@@ -124,7 +124,7 @@ $$\frac{1}{z} = \frac{1}{x+i\gamma}= \frac{1}{x+i\gamma} \frac{x-i \gamma}{x-i \
 **Take the real part:**
 
 $$z_{P} = Ae^{i \omega_{f}t}$$
-$$A = \frac{f_{0}}{(\omega_{0}^{2}-\omega_{f}^{2})+i \omega_{f}}$$
+$$A = \frac{f_{0}}{(\omega_{0}^{2}-\omega_{f}^{2})+i \omega_{f}\gamma}$$
 
 
 # Conceptual Info

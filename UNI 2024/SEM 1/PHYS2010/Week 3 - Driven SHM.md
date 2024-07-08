@@ -131,7 +131,9 @@ As usual, its best to first express A in terms of its modulus $A_{P} = |A|$ and 
 $$x_{P} = Re[z_{P}]= Re[A_{P}e^{i \phi_{P}}e^{i \omega_{f}t}] = A_{P} Re[e^{i(\omega_{f}t+\phi_{P})}]=A_{P} Re[e^{i(\omega_{f}t+\phi_{P})}]$$
 $$\text{Therefore:} A_{P} \cos(\omega_{f}t + \phi_{P})$$
 
+Now we find $A_{P}$ and $\phi_{P}$
 
+$$ A = \frac{f_{0}}{\omega_{0}^{2}-\omega_{f}^{2}}$$
 
 
 

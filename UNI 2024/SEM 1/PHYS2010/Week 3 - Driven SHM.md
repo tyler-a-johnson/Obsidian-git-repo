@@ -151,9 +151,14 @@ $$x = A_{P} \cos (\omega_{f}t + \phi_{P}) + A_{C}e^{-\gamma t/2}\cos(\omega_{d}t
 $A_{P}\cos$ is determined by driving force, $A_{C}$ section is determined by $x_{0}, v_{0}$
 ![](Attachments/Pasted%20image%2020240708220859.png)
 
-Transient phase while the complementary solution is significant. Sensitive to initial conditions
+*Transient* phase while the complementary solution is significant. Sensitive to initial conditions
 
 *Steady State* for $t\gg \frac{\gamma}{2}$ independent of initial conditions.
+
+### Transient Behaviour
+Steady state amplitude and phase is entirely defined as the driving force.
+- If the system is not consistent with the driven motion, there will be a transient state for 
+
 
 
 # Conceptual Info

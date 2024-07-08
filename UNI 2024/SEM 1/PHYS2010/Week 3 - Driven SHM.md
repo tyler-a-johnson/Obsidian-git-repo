@@ -148,7 +148,7 @@ $$\phi _{P} = \tan^{-1}\left( \frac{- \omega_{f}\gamma}{\omega_{0}^{2}- \omega_{
 $$x(t) = x_{P}(t) + x_{C}(t)$$
 $$x = A_{P} \cos (\omega_{f}t + \phi_{P}) + A_{C}e^{-\gamma t/2}\cos(\omega_{d}t+\phi_{C})$$
 
-$A$
+$A_{P}\cos$ is determined by driving force, $A_{C}$ section is determined by $x_{0}, v_{0}$
 
 
 ![](Attachments/Pasted%20image%2020240708214525.png)

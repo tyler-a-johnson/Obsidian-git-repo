@@ -133,7 +133,8 @@ $$\text{Therefore:} A_{P} \cos(\omega_{f}t + \phi_{P})$$
 
 Now we find $A_{P}$ and $\phi_{P}$
 
-$$ A = \frac{f_{0}}{\omega_{0}^{2}-\omega_{f}^{2}}$$
+$$ A = \frac{f_{0}}{\omega_{0}^{2}-\omega_{f}^{2}+i \omega_{f}\gamma}$$
+$$= \frac{f_{0 }}{\omega_{0}^{2}-\omega_{f}^{2}+ i \omega_{f}\gamma}$$
 
 
 

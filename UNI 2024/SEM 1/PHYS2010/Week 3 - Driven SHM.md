@@ -164,8 +164,8 @@ $$x = A_{P} \cos (\omega_{f}t + \phi_{P}) + A_{C}e^{-\gamma t/2}\cos(\omega_{d}t
 
 ### Steady State Behaviour - Undamped
 $$x_{P} = A_{P} \cos(\omega_{f}t + \phi_{P})$$
-$$A_{P} = \frac{f_{0}}{\sqrt{ \omeg }}$$
-
+$$A_{P} = \frac{f_{0}}{\sqrt{( \omega_{0}^{2 }-\omega_{f}^{2})^{2}+\omega^{2}_{f}\gamma^{2}}}$$
+$$\phi$$
 
 # Conceptual Info
 ---

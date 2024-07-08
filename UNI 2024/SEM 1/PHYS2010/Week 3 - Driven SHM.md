@@ -168,9 +168,13 @@ $$A_{P} = \frac{f_{0}}{\sqrt{( \omega_{0}^{2 }-\omega_{f}^{2})^{2}+\omega^{2}_{f
 $$\phi_{P} = \tan^{-1} \frac{- \omega_{f}\gamma}{\omega_{0}^{2}-\omega_{f}^{2}}$$
 $$\gamma = 0 \rightarrow A_{P} = \frac{f_{0}}{| \omega_{0}^{2}-\omega_{f}^{2} |}$$
 
+$\omega_{0}$ natural frequency of oscillator
+$\omega_{f}$ driving frequency
 
+![](Attachments/Pasted%20image%2020240708234157.png)
 
-
+![](Attachments/Pasted%20image%2020240708234211.png)
+[File:Mplwp resonance zeta envelope.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mplwp_resonance_zeta_envelope.svg)
 
 
 

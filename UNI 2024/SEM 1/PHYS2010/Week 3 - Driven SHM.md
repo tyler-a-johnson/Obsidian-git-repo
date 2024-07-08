@@ -144,6 +144,9 @@ $$\phi _{P} = \tan^{-1}\left( \frac{- \omega_{f}\gamma}{\omega_{0}^{2}- \omega_{
 
 
 
+### Complete Solution (For Underdamped)
+
+
 
 # Conceptual Info
 ---

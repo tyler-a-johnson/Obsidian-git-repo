@@ -155,12 +155,14 @@ $A_{P}\cos$ is determined by driving force, $A_{C}$ section is determined by $x_
 
 *Steady State* for $t\gg \frac{\gamma}{2}$ independent of initial conditions.
 
-### Transient Behaviour
+#### Transient Behaviour
 Steady state amplitude and phase is entirely defined as the driving force.
 - If the system is not consistent with the driven motion, there will be a transient state between this motion and driven
 - *Described by the decaying complementary function*
 $$x = A_{P} \cos (\omega_{f}t + \phi_{P}) + A_{C}e^{-\gamma t/2}\cos(\omega_{d}t+\phi_{C})$$
 - Transient behaviour can be complicated, and is significant only for a time of order $\gamma /2$
+
+
 
 
 # Conceptual Info

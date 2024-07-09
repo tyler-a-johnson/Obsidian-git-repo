@@ -11,13 +11,13 @@ Relevant Links:
 
 # Maths Content
 ---
-- Looked at 
+
 
 
 # Conceptual Info
 ---
 
-
+Multiple oscillators, 'coupled' in some way so they may exchange energy.
 
 # Examples
 ---

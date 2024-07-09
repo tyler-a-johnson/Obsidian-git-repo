@@ -100,7 +100,8 @@ $$X(0)=2a \text{, } Y(0)=2a$$
 $$\dot{X}(0)=0 \text{, }\dot{Y}(0)=0$$
 
 Find the particular solution for the normal modes:
-$$X(t) = A^{X}\cos(\omega_{)})$$
+$$X(t) = A^{X}\cos(\omega_{0}^{X}t+\phi^{X}) \rightarrow X(t) = 2a \cos(\omega_{0}^{X}t)$$
+$$Y(t) = A^{Y}\cos(\omega_{0}^{Y}t+\phi^{Y}) \rightarrow Y(t) = 2a \cos(\omega_{0}^{Y}t)$$
 # Conceptual Info
 ---
 

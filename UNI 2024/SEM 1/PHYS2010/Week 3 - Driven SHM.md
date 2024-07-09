@@ -193,7 +193,7 @@ $$A_{P}^{res} = \frac{f_{0}}{\gamma \omega_{0}}$$
 
 ### Steady State Behaviour - Sub-critical damping
 $$x_{P} = A_{P} \cos(\omega_{f}t + \phi_{P})$$
-$$A_{P} = \frac{f_{0}}{\sqrt{  (\omega_{0}^{2}-\omega_{f}) }}$$
+$$A_{P} = \frac{f_{0}}{\sqrt{  (\omega_{0}^{2}-\omega_{f}^{2})^{2}} }$$
 
 
 

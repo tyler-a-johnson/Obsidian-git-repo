@@ -22,7 +22,15 @@ We need to identify **normal modes:**
 - Simple vibration patterns.
 - General solution is a superposition of normal modes.
 
-- Consider two pendula 
+- Consider two pendula coupled by a spring
+	- Define placement for each pendulum
+	- Calculate forces given displacement
+	- Find equation of motion for each pendulum
+- New element: Spring force depends on both displacements
+	- Motion of each pendulum depends on the other
+	- Equation of motion depends on the position of both
+- For small angles, we can neglect the vertical component of the motion (cringe)
+
 
 
 # Examples

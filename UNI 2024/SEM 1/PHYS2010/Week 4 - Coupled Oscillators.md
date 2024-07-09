@@ -50,7 +50,13 @@ Writing $X = x+y: \ddot{X} = -\left( \frac{g}{l} \right)X$
 Writing $Y = x-y: \ddot{Y}= -\left( \frac{g}{l}+\frac{2k}{m} \right)Y$
 
 These are the normal modes:
-- If Y, $\dot{Y}=0$ then $x=y$ we have a pure oscillation of the $X = x+y$
+- If Y, $\dot{Y}=0$ then $x=y$ we have a pure oscillation of the $X = x+y$.
+- If in X, $\dot{X}=0$ , then $x = -y$ and we have a pure oscillation of the Y = x-y normal mode.
+![](Attachments/Pasted%20image%2020240709213504.png)
+
+
+
+
 
 # Conceptual Info
 ---

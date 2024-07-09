@@ -207,7 +207,8 @@ $$\omega_{d} = \left( \omega_{0}^{2}-\frac{\gamma^{2}}{4} \right)^{1/2}$$
 $$\omega_{res} < \omega_{d} < \omega_{0}$$
 
 ### Steady State Behaviour - damped
-
+$$x_{P} = A_{P} \cos(\omega_{f}t + \phi_{P})$$
+$$\phi_{P} = \tan^{-1}\left( \frac{- \omega _{f}\gamma}{\omega} \right)$$
 
 # Conceptual Info
 ---

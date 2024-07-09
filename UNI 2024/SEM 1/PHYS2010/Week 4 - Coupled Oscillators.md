@@ -70,6 +70,8 @@ Different modes have different frequencies
 - Lowest frequency mode has oscillators in phase
 - The highest frequency mode has oscillators out of phase
 
+### Independence of normal modes
+
 
 # Conceptual Info
 ---

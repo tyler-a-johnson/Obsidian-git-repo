@@ -18,6 +18,9 @@ Relevant Links:
 ---
 
 Multiple oscillators, 'coupled' in some way so they may exchange energy.
+We need to identify **normal modes:**
+- Simple vibration patterns.
+- General solution is a superposition of normal modes.
 
 # Examples
 ---

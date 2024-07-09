@@ -176,6 +176,7 @@ $\omega_{f}$ driving frequency
 ![](Attachments/Pasted%20image%2020240708234211.png)
 [File:Mplwp resonance zeta envelope.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mplwp_resonance_zeta_envelope.svg)
 
+#### Finding $\omega_{res}$ and $A_{P}^{res}$
 
 $$A_{P} = \frac{f_{0}}{\sqrt{ (\omega_{0}^{2} - \omega_{f}^{2} })^{2}+ \omega_{f}^{2}\gamma^{2}} =\frac{f_{0}}{\sqrt{ \Delta }}$$
 
@@ -185,6 +186,7 @@ $$0 = \frac{dD}{d \omega_{f}} = 2(\omega_{0}^{2} - \omega_{f}^{2})(-2 \omega_{f}
 $$\omega_{res} = \sqrt{ \omega_{0}^{2}- \frac{\gamma^{2}}{2}}$$
 $$\omega_{d} = \sqrt{ \omega_{0}^{2} - \frac{\gamma^{2}}{4} }$$
 $$\omega_{res} < \omega_{d} < \omega_{0}$$
+
 
 # Conceptual Info
 ---

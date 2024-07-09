@@ -71,7 +71,8 @@ Different modes have different frequencies
 - The highest frequency mode has oscillators out of phase
 
 ### Independence of normal modes
-
+$$\ddot{X}=-\left( \frac{g}{l} \right)X$$
+$$\ddot{Y}=-()$$
 
 # Conceptual Info
 ---

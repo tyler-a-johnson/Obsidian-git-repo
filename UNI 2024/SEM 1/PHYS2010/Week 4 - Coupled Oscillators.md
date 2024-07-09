@@ -73,7 +73,9 @@ Different modes have different frequencies
 ### Independence of normal modes
 $$\ddot{X}=-\left( \frac{g}{l} \right)X$$
 $$\ddot{Y}=-\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
-Note that if Y , $\dot{Y}=0$ 
+- Note that if Y , $\dot{Y}=0$ or X, $\dot{X}=0$ at any instant then this will remain the case forever
+- Further, the equation for the X oscillation do not depend on Y or Ydot and vice versa
+
 
 # Conceptual Info
 ---

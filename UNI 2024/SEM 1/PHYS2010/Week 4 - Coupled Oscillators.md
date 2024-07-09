@@ -30,10 +30,12 @@ $$F_{s} = k(x-y)$$
 
 Calculate forces given displacement
 Find equation for motion for each pendulum **Coupled Equations**
-$$m \ddot{x} = -\left( \frac{mg}{l} \right)x - k(x-y)$$
-$$m \ddot{y} = -\left( \frac{mg}{l} \right)y + k(x-y)$$
+$$m \ddot{x} = -\left( \frac{mg}{l} \right)x - k(x-y) \text{ Eq. A}$$
+$$m \ddot{y} = -\left( \frac{mg}{l} \right)y + k(x-y) \text{ Eq. B}$$
 ![](Attachments/Pasted%20image%2020240709205713.png)
 *Spring extension is (x-y), gives positive force on y mass and negative on x mass*
+
+### Decoupling the equations
 
 
 

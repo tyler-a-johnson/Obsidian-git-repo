@@ -58,8 +58,10 @@ $$\ddot{X}=-\left( \frac{g}{l} \right)X$$
 $$\ddot{Y} = -\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
 
 $$\omega_{0}^{X}= \left( \frac{g}{l} \right)^{1/2}$$
-$$\omega_{0}^{Y} = \left( \frac{g}{l} \right)$$
+$$\omega_{0}^{Y} = \left( \frac{g}{l}+\frac{2k}{m} \right)^{1/2}$$
 
+$$X(t) = A^{X}\cos(\omega_{0}^{X}t + \phi^{X})$$
+$$Y(t) = A$$
 
 
 # Conceptual Info

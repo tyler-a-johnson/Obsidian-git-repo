@@ -19,7 +19,13 @@ For small angles, pendulum motion is *almost horizontal*...
 $$x = l\sin \theta \approx l \theta$$
 $$h = x\tan \theta \approx l \theta^2$$
 
-With restoring force $$
+With restoring force $-\left( \frac{mg}{l} \right)x$
+$$\ddot{x} + \left( \frac{g}{l} \right)x = 0$$
+
+
+**Define horizontal displacements y and x**
+**Extension of spring is x-y**
+$$F_{s} = k(x-y)$$
 
 # Conceptual Info
 ---

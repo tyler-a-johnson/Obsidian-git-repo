@@ -94,7 +94,10 @@ Find the behaviour of two coupled pendula if:
 $$x(0) = 2a, y(0) = 0$$
 $$\dot{x}(0) = 0, \dot{y}(0) = 0$$
 
-
+Find the initial conditions for the normal modes:
+$$X = x+y, \text{ and } Y=x-y$$
+$$X(0)=2a \text{, } Y(0)=2a$$
+$$\dot{X}(0)=0 \text{, }$$
 
 
 # Conceptual Info

@@ -26,6 +26,11 @@ $$\ddot{x} + \left( \frac{g}{l} \right)x = 0$$
 **Define horizontal displacements y and x**
 **Extension of spring is x-y**
 $$F_{s} = k(x-y)$$
+Calculate forces given displacement
+Find equation for motion for each pendulum
+$$m \ddot{x} = -\left( \frac{mg}{l} \right)x - k(x-)$$
+
+
 
 # Conceptual Info
 ---

@@ -61,7 +61,10 @@ $$\omega_{0}^{X}= \left( \frac{g}{l} \right)^{1/2}$$
 $$\omega_{0}^{Y} = \left( \frac{g}{l}+\frac{2k}{m} \right)^{1/2}$$
 
 $$X(t) = A^{X}\cos(\omega_{0}^{X}t + \phi^{X})$$
-$$Y(t) = A$$
+$$Y(t) = A^{Y}\cos(\omega_{0}^{Y}t+\phi^{Y})$$
+
+$$\dot{X}(t) = -A^{X}\omega_{0}^{X} \sin(\omega_{0}^{X}t+\phi^{X})$$
+$$\dot{Y}$$
 
 
 # Conceptual Info

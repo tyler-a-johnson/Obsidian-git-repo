@@ -183,8 +183,8 @@ At a maximum when $\frac{d A_{P}}{d \omega_{f}}=\frac{f_{0}}{2 \Delta^ {\frac{3}
 $$0 = \frac{dD}{d \omega_{f}} = 2(\omega_{0}^{2} - \omega_{f}^{2})(-2 \omega_{f})+ 2 \omega_{f}\gamma^{2} = 2 \omega_{f}[\gamma^{2} - 2(\omega_{0}^{2}- \omega_{f}^{2})]$$
 
 $$\omega_{res} = \sqrt{ \omega_{0}^{2}- \frac{\gamma^{2}}{2}}$$
-$$\omega$$
-
+$$\omega_{d} = \sqrt{ \omega_{0}^{2} - \frac{\gamma^{2}}{4} }$$
+$$\omega_{res} < \omega_{d} < \omega_{0}$$
 
 # Conceptual Info
 ---

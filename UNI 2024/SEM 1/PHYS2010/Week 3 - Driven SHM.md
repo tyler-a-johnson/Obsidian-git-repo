@@ -204,7 +204,10 @@ $$A_{P}^{res} / A_{P}^{0}\approx Q!$$
 
 $$\omega_{res} = \left( \omega_{0}^{2}-\frac{\gamma^{2}}{2} \right)^{1/2}$$
 $$\omega_{d} = \left( \omega_{0}^{2}-\frac{\gamma^{2}}{4} \right)^{1/2}$$
-$$\omega$$
+$$\omega_{res} < \omega_{d} < \omega_{0}$$
+
+
+
 # Conceptual Info
 ---
 

@@ -102,6 +102,14 @@ $$\dot{X}(0)=0 \text{, }\dot{Y}(0)=0$$
 Find the particular solution for the normal modes:
 $$X(t) = A^{X}\cos(\omega_{0}^{X}t+\phi^{X}) \rightarrow X(t) = 2a \cos(\omega_{0}^{X}t)$$
 $$Y(t) = A^{Y}\cos(\omega_{0}^{Y}t+\phi^{Y}) \rightarrow Y(t) = 2a \cos(\omega_{0}^{Y}t)$$
+![](Attachments/Pasted%20image%2020240709231113.png)
+
+**Translate back to the physical displacements x and y**
+
+
+
+
+
 # Conceptual Info
 ---
 

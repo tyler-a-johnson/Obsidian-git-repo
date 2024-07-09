@@ -54,7 +54,8 @@ These are the normal modes:
 - If in X, $\dot{X}=0$ , then $x = -y$ and we have a pure oscillation of the Y = x-y normal mode.
 ![](Attachments/Pasted%20image%2020240709213504.png)
 
-
+$$\ddot{X}=-\left( \frac{g}{l} \right)X$$
+$$\ddot{Y} = -\left( \frac{g}{l} \right)$$
 
 
 

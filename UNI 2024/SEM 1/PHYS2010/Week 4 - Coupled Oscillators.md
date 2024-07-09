@@ -120,6 +120,10 @@ $$y(t) = a \cos(\omega_{0}^{X}t)-a\cos(\omega_{0}^{Y}t) = -2a\sin\left[ \frac{1}
 	- Energy is not transferred to other normal modes
 	- All oscillators have fixed a fixed amplitude ratio
 	- All oscillators share the same frequency
+- Specifying a normal mode
+	- Normal mode dependent variables X,Y
+	- Normal Coordinates $X, \dot{X}, Y, \dot{Y}$
+	- Normal mode frequency $\omega_{0}^{X}, \omega_{0}^{Y}$
 
 
 # Conceptual Info

@@ -12,6 +12,9 @@ Relevant Links:
 # Maths Content
 ---
 
+## Pendula coupled by spring
+For small angles, pendulum motion is *almost horizontal*...
+![](Attachments/Pasted%20image%2020240709203846.png)
 
 
 # Conceptual Info

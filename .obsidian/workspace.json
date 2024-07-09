@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md"
+                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf"
               }
             }
           },
@@ -216,10 +217,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3d3641a81d974f0b",
+  "active": "97715e48ff96f84d",
   "lastOpenFiles": [
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709203846.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
@@ -233,7 +235,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240707230516.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240707224233.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240707212557.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240707205154.png",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "Movie Recs.md",
@@ -251,7 +252,6 @@
     "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
     "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save/DayOne STEM Packs.prproj",
-    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save/DayOne STEM Packs-2024-05-06_22-42-38.prproj",
     "Resources/Code Repository.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",

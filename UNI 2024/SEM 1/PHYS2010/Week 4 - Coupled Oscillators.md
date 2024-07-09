@@ -22,6 +22,9 @@ We need to identify **normal modes:**
 - Simple vibration patterns.
 - General solution is a superposition of normal modes.
 
+- Consider two pendula 
+
+
 # Examples
 ---
 ## 2019 Exam

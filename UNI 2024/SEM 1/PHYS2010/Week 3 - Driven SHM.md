@@ -202,9 +202,9 @@ $$A^{res}_{P}= \frac{f_{0}}{\gamma \omega_{d}}$$
 $$A^{0}_{P} = \frac{f_{0}}{\omega_{0}^{2}}$$
 $$A_{P}^{res} / A_{P}^{0}\approx Q!$$
 
-
-
-
+$$\omega_{res} = \left( \omega_{0}^{2}-\frac{\gamma^{2}}{2} \right)^{1/2}$$
+$$\omega_{d} = \left( \omega_{0}^{2}-\frac{\gamma^{2}}{4} \right)^{1/2}$$
+$$\omega$$
 # Conceptual Info
 ---
 

@@ -75,7 +75,8 @@ $$\ddot{X}=-\left( \frac{g}{l} \right)X$$
 $$\ddot{Y}=-\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
 - Note that if Y , $\dot{Y}=0$ or X, $\dot{X}=0$ at any instant then this will remain the case forever
 - Further, the equation for the X oscillation do not depend on Y or Ydot and vice versa
-
+- **The normal modes are entirely independent, they do not exchange energy**
+- Total energy is $(aX^2+b\dot{X}^{2})+(cY^{2}+d \dot{Y} ^{2})$
 
 # Conceptual Info
 ---

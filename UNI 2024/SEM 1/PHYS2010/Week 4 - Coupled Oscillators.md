@@ -134,6 +134,11 @@ $$y(t) = a \cos(\omega_{0}^{X}t)-a\cos(\omega_{0}^{Y}t) = -2a\sin\left[ \frac{1}
 - Instead seek solutions that oscillate with frequency $\omega$
 - For the coupled pendulum $x = Ae^{i \omega t}, y=Be^{i \omega t}$
 $$\ddot{x} = -\left( \frac{g}{l} \right)x - \left( \frac{k}{m} \right)(x-y)$$
+$$\rightarrow A \omega^{2}= \left( \frac{g}{l}+\frac{k}{m} \right)A - (k/m)B$$
+
+$$\ddot{y} = -\left( \frac{g}{l} \right)y + \left( \frac{k}{m} \right)(x-y)$$
+
+
 # Conceptual Info
 ---
 

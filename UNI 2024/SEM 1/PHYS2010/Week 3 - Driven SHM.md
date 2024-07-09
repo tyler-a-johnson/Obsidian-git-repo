@@ -177,7 +177,7 @@ $\omega_{f}$ driving frequency
 [File:Mplwp resonance zeta envelope.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mplwp_resonance_zeta_envelope.svg)
 
 
-
+$$A_{P} = \frac{f_{0}}{\sqrt{ (\omega_{0}^{2} }}$$
 
 
 # Conceptual Info

@@ -129,6 +129,9 @@ $$y(t) = a \cos(\omega_{0}^{X}t)-a\cos(\omega_{0}^{Y}t) = -2a\sin\left[ \frac{1}
 	- A characteristic frequency
 	- 2 initial conditions
 
+## General Method to Find normal modes (Coupled pendulum)
+- Difficult/impossible to decouple equations "by eye"
+- 
 
 # Conceptual Info
 ---

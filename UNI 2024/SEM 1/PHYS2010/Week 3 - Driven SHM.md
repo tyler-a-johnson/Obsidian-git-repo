@@ -187,7 +187,7 @@ $$\omega_{res} = \sqrt{ \omega_{0}^{2}- \frac{\gamma^{2}}{2}}$$
 $$\omega_{d} = \sqrt{ \omega_{0}^{2} - \frac{\gamma^{2}}{4} }$$
 $$\omega_{res} < \omega_{d} < \omega_{0}$$
 
-
+Eva
 # Conceptual Info
 ---
 

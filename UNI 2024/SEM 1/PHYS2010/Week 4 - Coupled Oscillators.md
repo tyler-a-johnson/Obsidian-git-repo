@@ -37,8 +37,8 @@ $$m \ddot{y} = -\left( \frac{mg}{l} \right)y + k(x-y) \text{ Eq. B}$$
 
 ### Decoupling the equations
 $$(A) + (B): m(\ddot{x}+\ddot{y})=-\left( \frac{mg}{l} \right) (x+y)$$
-$$\ddot{X} = -\left( \frac{g}{l \right)$$
-
+$$\ddot{X} = -\left( \frac{g}{l} \right)X \text{ Where: } X = x+y$$
+$$(A)-(B): m(\ddot{x}-\ddot{y})= - \left( \frac{mg}{l} \right)(x-y)-2k(x)$$
 
 
 # Conceptual Info

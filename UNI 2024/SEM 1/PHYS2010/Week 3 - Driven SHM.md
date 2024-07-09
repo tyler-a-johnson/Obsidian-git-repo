@@ -191,6 +191,8 @@ Evaluate $A_{P}$ for $\omega_{f} = \omega_{res}$:
 $$(\omega_{0}^{2}-\omega_{res}^{2})^{2}+ \gamma^{2}\omega_{res}^{2} = \frac{\gamma^{4}}{4} + \gamma^{2}\left( \omega_{0}^{2}- \frac{\gamma^{2}}{2}\right) = \gamma^{2}\left[ \omega_{0}^{2}- \frac{\gamma^{2}}{4} \right]=\gamma^{2}\omega_{0}^{2}$$
 $$A_{P}^{res} = \frac{f_{0}}{\gamma \omega_{0}}$$
 
+### Steady State: Sub-critical damping
+
 
 
 # Conceptual Info

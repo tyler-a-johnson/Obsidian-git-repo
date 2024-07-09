@@ -208,7 +208,10 @@ $$\omega_{res} < \omega_{d} < \omega_{0}$$
 
 ### Steady State Behaviour - damped
 $$x_{P} = A_{P} \cos(\omega_{f}t + \phi_{P})$$
-$$\phi_{P} = \tan^{-1}\left( \frac{- \omega _{f}\gamma}{\omega} \right)$$
+$$\phi_{P} = \tan^{-1}\left( \frac{- \omega _{f}\gamma}{\omega_{0}^{2}-\omega_{f}^{2}} \right)$$
+
+
+
 
 # Conceptual Info
 ---

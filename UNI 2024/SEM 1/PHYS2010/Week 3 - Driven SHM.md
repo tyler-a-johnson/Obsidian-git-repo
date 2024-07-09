@@ -198,7 +198,9 @@ $$A_{P} = \frac{f_{0}}{\sqrt{  (\omega_{0}^{2}-\omega_{f}^{2})^{2}+\omega_{f}^{2
 Amplitude at maximum
 $A_{P}^{res}$ at $\omega_{f} = \omega_{res}$
 
-$$A^{res}_{P}= \frac{f_{0}}{\omega_{0}^{2}}$$
+$$A^{res}_{P}= \frac{f_{0}}{\gamma \omega_{d}}$$
+$$A^{0}_{P} = \frac{f_{0}}{\omega_{0}^{2}}$$
+
 
 
 # Conceptual Info

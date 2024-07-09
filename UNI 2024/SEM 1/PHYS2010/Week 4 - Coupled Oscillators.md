@@ -64,7 +64,11 @@ $$X(t) = A^{X}\cos(\omega_{0}^{X}t + \phi^{X})$$
 $$Y(t) = A^{Y}\cos(\omega_{0}^{Y}t+\phi^{Y})$$
 
 $$\dot{X}(t) = -A^{X}\omega_{0}^{X} \sin(\omega_{0}^{X}t+\phi^{X})$$
-$$\dot{Y}$$
+$$\dot{Y}(t) = -A^{Y}\omega^{Y}_{0} \sin(\omega_{0}^{Y}t+\phi^{Y})$$
+
+Different modes have different frequencies
+- Lowest frequency mode has oscillators in phase
+- The highest frequency mode has oscillators out of phase
 
 
 # Conceptual Info

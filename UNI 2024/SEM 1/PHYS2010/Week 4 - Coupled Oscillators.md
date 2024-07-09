@@ -45,7 +45,8 @@ $\text{ Where } Y = x-y$
 
 New variables X and Y undergo uncoupled SHM!
 
-
+### Normal Variables and Normal Coordinates
+Writing $X = $
 
 
 

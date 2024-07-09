@@ -90,7 +90,9 @@ $$\ddot{Y}=-\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
 		- retrieve the corresponding solution for the physical variables.
 
 #### Energy transfer between coupled pendula
-Find the behaviour of two coupled pendula if 
+Find the behaviour of two coupled pendula if:
+![](Attachments/Pasted%20image%2020240709225513.png)
+
 
 # Conceptual Info
 ---

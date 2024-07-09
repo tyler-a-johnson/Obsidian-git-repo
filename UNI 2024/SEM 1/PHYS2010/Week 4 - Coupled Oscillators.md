@@ -97,9 +97,10 @@ $$\dot{x}(0) = 0, \dot{y}(0) = 0$$
 Find the initial conditions for the normal modes:
 $$X = x+y, \text{ and } Y=x-y$$
 $$X(0)=2a \text{, } Y(0)=2a$$
-$$\dot{X}(0)=0 \text{, }$$
+$$\dot{X}(0)=0 \text{, }\dot{Y}(0)=0$$
 
-
+Find the particular solution for the normal modes:
+$$X(t) = A^{X}\cos(\omega_{)})$$
 # Conceptual Info
 ---
 

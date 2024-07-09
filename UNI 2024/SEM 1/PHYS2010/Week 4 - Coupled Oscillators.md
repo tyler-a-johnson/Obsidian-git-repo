@@ -131,7 +131,8 @@ $$y(t) = a \cos(\omega_{0}^{X}t)-a\cos(\omega_{0}^{Y}t) = -2a\sin\left[ \frac{1}
 
 ## General Method to Find normal modes (Coupled pendulum)
 - Difficult/impossible to decouple equations "by eye"
-- 
+- Instead seek solutions that oscillate with frequency $\omega$
+- For the coupled pendulum $x = Ae^{i \omega t}, y=Be^{i \omega t}$
 
 # Conceptual Info
 ---

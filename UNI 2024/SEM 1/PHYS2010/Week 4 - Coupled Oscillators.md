@@ -91,7 +91,10 @@ $$\ddot{Y}=-\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
 
 #### Energy transfer between coupled pendula
 Find the behaviour of two coupled pendula if:
-![](Attachments/Pasted%20image%2020240709225513.png)
+$$x(0) = 2a, y(0) = 0$$
+$$\dot{x}(0) = 0, \dot{y}(0) = 0$$
+
+
 
 
 # Conceptual Info

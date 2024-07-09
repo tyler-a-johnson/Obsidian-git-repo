@@ -206,6 +206,7 @@ $$\omega_{res} = \left( \omega_{0}^{2}-\frac{\gamma^{2}}{2} \right)^{1/2}$$
 $$\omega_{d} = \left( \omega_{0}^{2}-\frac{\gamma^{2}}{4} \right)^{1/2}$$
 $$\omega_{res} < \omega_{d} < \omega_{0}$$
 
+### Steady State Behaviour - damped
 
 
 # Conceptual Info

@@ -78,6 +78,14 @@ $$\ddot{Y}=-\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
 - **The normal modes are entirely independent, they do not exchange energy**
 - Total energy is $(aX^2+b\dot{X}^{2})+(cY^{2}+d \dot{Y} ^{2})$
 
+
+### General Solution
+- A pure X or Y oscillation continues forever (if no damping)
+- General solution is a superposition of X and Y normal modes
+	- Magnitude of the X and Y contributions doesnt change with time
+	- Beating occurs as the normal modes have different frequencies
+	- Initial conditions (Four) determine the amplitudes and phases of the X and Y c
+
 # Conceptual Info
 ---
 

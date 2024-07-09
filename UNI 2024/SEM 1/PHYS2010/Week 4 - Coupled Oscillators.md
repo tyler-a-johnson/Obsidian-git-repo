@@ -89,6 +89,9 @@ $$\ddot{Y}=-\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
 		- Find the correct superposition of the normal modes
 		- retrieve the corresponding solution for the physical variables.
 
+#### Energy transfer between coupled pendula
+Find the behaviour of two coupled pendula if 
+
 # Conceptual Info
 ---
 

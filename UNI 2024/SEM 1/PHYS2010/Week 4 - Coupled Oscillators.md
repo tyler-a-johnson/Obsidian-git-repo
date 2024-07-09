@@ -84,7 +84,10 @@ $$\ddot{Y}=-\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
 - General solution is a superposition of X and Y normal modes
 	- Magnitude of the X and Y contributions doesnt change with time
 	- Beating occurs as the normal modes have different frequencies
-	- Initial conditions (Four) determine the amplitudes and phases of the X and Y c
+	- Initial conditions (Four) determine the amplitudes and phases of the X and Y contributions
+		- Express initial conditions in the normal coordinates (X and Y here)
+		- Find the correct superposition of the normal modes
+		- retrieve the corresponding solution for the physical variables.
 
 # Conceptual Info
 ---

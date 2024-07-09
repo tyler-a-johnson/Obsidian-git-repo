@@ -112,7 +112,15 @@ $$x = \frac{X+Y}{2}$$
 $$y = \frac{X-Y}{2}$$
 
 $$x(t) = a \cos(\omega_{0}^{X}t) + a \cos(\omega_{0}^{Y}t) = 2a\cos\left[ \frac{1}{2}(\omega_{0}^{X}+\omega_{0}^{Y})t \right]\cos\left[ \frac{1}{2}(\omega_{0}^{X}-\omega_{0}^{Y})t \right]$$
-$$y(t) = a \cos(\omega_{0}^{X}t)-a\cos(\omega_{0}^{Y}t) = -2a\sin\left[ \frac{1}{2} (\omega_{0}^{X}+\omega_{0}^{Y})t \right]\sin\left[ \frac{1}{2}(\omega_{0}^{X}) \right]$$
+$$y(t) = a \cos(\omega_{0}^{X}t)-a\cos(\omega_{0}^{Y}t) = -2a\sin\left[ \frac{1}{2} (\omega_{0}^{X}+\omega_{0}^{Y})t \right]\sin\left[ \frac{1}{2}(\omega_{0}^{X}- \omega_{0}^{Y})t \right]$$
+![](Attachments/Pasted%20image%2020240709232302.png)
+
+- For a normal mode
+	- Oscillation is independent of other normal modes coordinates
+	- Energy is not transferred to other normal modes
+	- All oscillators have fixed a fixed amplitude ratio
+	- All oscillators share the same frequency
+
 
 # Conceptual Info
 ---

@@ -43,6 +43,8 @@ $$(A)-(B): m(\ddot{x}-\ddot{y})= - \left( \frac{mg}{l} \right)(x-y)-2k(x-y)$$
 $$\ddot{Y} = -\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
 $\text{ Where } Y = x-y$
 
+New variables X and Y undergo uncoupled SHM!
+
 
 
 

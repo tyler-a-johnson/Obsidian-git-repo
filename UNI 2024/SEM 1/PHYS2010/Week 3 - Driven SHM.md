@@ -178,7 +178,7 @@ $\omega_{f}$ driving frequency
 
 #### Finding $\omega_{res}$ and $A_{P}^{res}$
 
-$$A_{P} = \frac{f_{0}}{\sqrt{ (\omega_{0}^{2} - \omega_{f}^{2} })^{2}+ \omega_{f}^{2}\gamma^{2}} =\frac{f_{0}}{\sqrt{ \Delta }}$$
+$$A_{P} = \frac{f_{0}}{\sqrt{ (\omega_{0}^{2} - \omega_{f}^{2} )^{2}+ \omega_{f}^{2}\gamma^{2}}} =\frac{f_{0}}{\sqrt{ \Delta }}$$
 
 At a maximum when $\frac{d A_{P}}{d \omega_{f}}=\frac{f_{0}}{2 \Delta^ {\frac{3}{2}}} * \frac{dD}{d \omega_{f}} = 0$
 $$0 = \frac{dD}{d \omega_{f}} = 2(\omega_{0}^{2} - \omega_{f}^{2})(-2 \omega_{f})+ 2 \omega_{f}\gamma^{2} = 2 \omega_{f}[\gamma^{2} - 2(\omega_{0}^{2}- \omega_{f}^{2})]$$

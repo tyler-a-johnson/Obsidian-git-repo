@@ -72,7 +72,8 @@ Different modes have different frequencies
 
 ### Independence of normal modes
 $$\ddot{X}=-\left( \frac{g}{l} \right)X$$
-$$\ddot{Y}=-()$$
+$$\ddot{Y}=-\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
+Note that if Y , $\dot{Y}=0$ 
 
 # Conceptual Info
 ---

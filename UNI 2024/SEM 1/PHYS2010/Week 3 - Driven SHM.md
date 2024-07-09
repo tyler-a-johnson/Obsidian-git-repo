@@ -177,8 +177,9 @@ $\omega_{f}$ driving frequency
 [File:Mplwp resonance zeta envelope.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mplwp_resonance_zeta_envelope.svg)
 
 
-$$A_{P} = \frac{f_{0}}{\sqrt{ (\omega_{0}^{2} })}$$
+$$A_{P} = \frac{f_{0}}{\sqrt{ (\omega_{0}^{2} - \omega_{f}^{2} })^{2}+ \omega_{f}^{2}\gamma^{2}} =\frac{f_{0}}{\sqrt{ \Delta }}$$
 
+At a maximum when $\frac{d A_{P}}{d \omega_{f}}=\frac{f_{0}}{2 \Delta}$
 
 # Conceptual Info
 ---

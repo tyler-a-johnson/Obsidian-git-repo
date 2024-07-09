@@ -36,7 +36,7 @@ $$m \ddot{y} = -\left( \frac{mg}{l} \right)y + k(x-y) \text{ Eq. B}$$
 *Spring extension is (x-y), gives positive force on y mass and negative on x mass*
 
 ### Decoupling the equations
-
+$$(A$$
 
 
 

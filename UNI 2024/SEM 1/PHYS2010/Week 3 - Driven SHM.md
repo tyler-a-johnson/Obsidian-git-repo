@@ -210,8 +210,8 @@ $$\omega_{res} < \omega_{d} < \omega_{0}$$
 $$x_{P} = A_{P} \cos(\omega_{f}t + \phi_{P})$$
 $$\phi_{P} = \tan^{-1}\left( \frac{- \omega _{f}\gamma}{\omega_{0}^{2}-\omega_{f}^{2}} \right)$$
 
-
-
+![](Attachments/Pasted%20image%2020240709202532.png)
+$\phi_{P}$ ranges from 0 to $-\pi$
 
 # Conceptual Info
 ---

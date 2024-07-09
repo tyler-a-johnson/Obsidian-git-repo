@@ -105,7 +105,11 @@ $$Y(t) = A^{Y}\cos(\omega_{0}^{Y}t+\phi^{Y}) \rightarrow Y(t) = 2a \cos(\omega_{
 ![](Attachments/Pasted%20image%2020240709231113.png)
 
 **Translate back to the physical displacements x and y**
+$$X(t) = 2a \cos(\omega_{0}^{X}t)$$
+$$Y(t) = 2a \cos (\omega_{0}^{Y}t)$$
 
+$$x = \frac{X+Y}{2}$$
+$$y = \frac{X-Y}{2}$$
 
 
 

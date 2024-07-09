@@ -55,7 +55,10 @@ These are the normal modes:
 ![](Attachments/Pasted%20image%2020240709213504.png)
 
 $$\ddot{X}=-\left( \frac{g}{l} \right)X$$
-$$\ddot{Y} = -\left( \frac{g}{l} \right)$$
+$$\ddot{Y} = -\left( \frac{g}{l}+\frac{2k}{m} \right)Y$$
+
+$$\omega_{0}^{X}= \left( \frac{g}{l} \right)^{1/2}$$
+$$\omega_{0}^{Y} = \left( \frac{g}{l} \right)$$
 
 
 

@@ -15,7 +15,11 @@ Relevant Links:
 ## Pendula coupled by spring
 For small angles, pendulum motion is *almost horizontal*...
 ![](Attachments/Pasted%20image%2020240709203846.png)
+![](Attachments/Pasted%20image%2020240709204211.png)
+$$x = l\sin \theta \approx l \theta$$
+$$h = x\tan \theta \approx l \theta^2$$
 
+With restoring force $$
 
 # Conceptual Info
 ---

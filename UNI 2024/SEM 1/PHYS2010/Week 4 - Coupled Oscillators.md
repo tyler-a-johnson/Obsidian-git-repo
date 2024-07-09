@@ -46,9 +46,11 @@ $\text{ Where } Y = x-y$
 New variables X and Y undergo uncoupled SHM!
 
 ### Normal Variables and Normal Coordinates
-Writing $X = $
+Writing $X = x+y: \ddot{X} = -\left( \frac{g}{l} \right)X$
+Writing $Y = x-y: \ddot{Y}= -\left( \frac{g}{l}+\frac{2k}{m} \right)Y$
 
-
+These are the normal modes:
+- If Y, $\dot{Y}=0$ then $x=y$ we have a pure oscillation of the $X = x+y$
 
 # Conceptual Info
 ---

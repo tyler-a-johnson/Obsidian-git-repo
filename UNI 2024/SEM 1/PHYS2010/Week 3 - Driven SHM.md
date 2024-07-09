@@ -200,6 +200,8 @@ $A_{P}^{res}$ at $\omega_{f} = \omega_{res}$
 
 $$A^{res}_{P}= \frac{f_{0}}{\gamma \omega_{d}}$$
 $$A^{0}_{P} = \frac{f_{0}}{\omega_{0}^{2}}$$
+$$A_{P}^{res} / A_{P}^{0}\approx Q!$$
+
 
 
 

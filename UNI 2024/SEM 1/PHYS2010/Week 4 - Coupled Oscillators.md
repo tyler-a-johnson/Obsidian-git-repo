@@ -146,7 +146,11 @@ $$ A \omega^{2}= \left( \frac{g}{l}+\frac{k}{m} \right)A - (\frac{k}{m})B$$
 $$ B \omega^{2} = -\left( \frac{g}{l} +\frac{k}{m}\right)B - \left( \frac{k}{m} \right)A$$
 - Two equations, linear in A and B
 	- System determines the coefficients on the right hand side
-		- g, l, m, k - Gravity pendulum 
+		- g, l, m, k - Gravity pendulum length and mass spring
+	- But thee are three unknowns -A, B, $\omega$
+	- Random choice of $\omega \rightarrow$  only solution is A = B = 0
+	- Certain choices of $\omega$ Equations are not independent
+		- 2nd eqau
 
 # Conceptual Info
 ---

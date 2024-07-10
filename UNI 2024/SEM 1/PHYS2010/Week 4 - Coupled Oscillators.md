@@ -142,9 +142,11 @@ $$ B \omega^{2} = -\left( \frac{g}{l} +\frac{k}{m}\right)B - \left( \frac{k}{m} 
 Solve for $\omega$ to find normal frequencies
 
 ### Finding $\omega$
-
-
-
+$$ A \omega^{2}= \left( \frac{g}{l}+\frac{k}{m} \right)A - (\frac{k}{m})B$$
+$$ B \omega^{2} = -\left( \frac{g}{l} +\frac{k}{m}\right)B - \left( \frac{k}{m} \right)A$$
+- Two equations, linear in A and B
+	- System determines the coefficients on the right hand side
+		- g, l, m, k - Gravity pendulum 
 
 # Conceptual Info
 ---

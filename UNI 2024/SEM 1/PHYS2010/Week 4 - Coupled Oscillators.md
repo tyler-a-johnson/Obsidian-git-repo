@@ -150,7 +150,7 @@ $$ B \omega^{2} = -\left( \frac{g}{l} +\frac{k}{m}\right)B - \left( \frac{k}{m} 
 	- But thee are three unknowns -A, B, $\omega$
 	- Random choice of $\omega \rightarrow$  only solution is A = B = 0
 	- Certain choices of $\omega$ Equations are not independent
-		- 2nd eqau
+		- 2nd equation 
 
 # Conceptual Info
 ---

@@ -137,6 +137,7 @@ $$\ddot{x} = -\left( \frac{g}{l} \right)x - \left( \frac{k}{m} \right)(x-y)$$
 $$\rightarrow A \omega^{2}= \left( \frac{g}{l}+\frac{k}{m} \right)A - (k/m)B$$
 
 $$\ddot{y} = -\left( \frac{g}{l} \right)y + \left( \frac{k}{m} \right)(x-y)$$
+$$ \ddot{y} = -*$$
 
 
 # Conceptual Info

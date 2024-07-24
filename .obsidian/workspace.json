@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7d1c78bd4952c209",
+        "id": "1748be0326ece92d",
         "type": "tabs",
         "children": [
           {
-            "id": "11aa81dbd8a14e87",
+            "id": "90e9909c286ce81e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md"
               }
             }
           },
@@ -197,14 +200,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "90e9909c286ce81e",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP2200/Attachments/Lecture Week 1 (2024-S2).slides.html",
+    "UNI 2024/SEM 2/COMP2200/Attachments",
+    "Kanban Schedule.md",
     "UNI 2024/SEM 2/COMP2200",
     "UNI 2024/SEM 2/COMP1350/Untitled 1",
     "UNI 2024/SEM 2/COMP1350/Untitled",
     "UNI 2024/SEM 2/COMP1350",
     "UNI 2024/SEM 2/Untitled.md",
-    "Kanban Schedule.md",
     "UNI 2024/SEM 2",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709232302.png",
@@ -227,9 +233,6 @@
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "Movie Recs.md",
     "Study Plan (Macquarie University).canvas",
-    "Untitled",
-    "UNI 2024/SEM 1/ELEC3024/deez",
-    "UNI 2024/SEM 1/ELEC3024/New folder",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
@@ -246,7 +249,6 @@
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
     "Distilled Notes/Untitled 3.md",
-    "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

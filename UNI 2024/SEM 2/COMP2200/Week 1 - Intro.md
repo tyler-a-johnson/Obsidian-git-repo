@@ -12,4 +12,15 @@ Relevant Links:
 
 # Intro
 
-**
+## Data Science - Hype Cycle
+> [Gartner Hype Cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) provide a graphic representation of the maturity and adoption of technologies and applications, and how they are potentially relevant to solving real business problems and exploiting new opportunities.
+> 
+> Gartner Hype Cycle methodology gives you a view of how a technology or application will evolve over time, providing a sound source of insight to manage its deployment within the context of your specific business goals.
+
+Each Hype Cycle drills down into the five key lifecycle phases
+- Innovation Trigger
+- Peak of Inflated Expectations
+- Trough of Disillusionment
+- Slope of Enlightenment
+- Plateau of Productivity
+

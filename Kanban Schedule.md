@@ -9,6 +9,10 @@ kanban-plugin: basic
 - [ ] Weekly Quiz (wk1 - 8) (5%) @{22-09-2024} #COMP1350
 - [ ] Weekly Quiz (wk9  - 13) (5%) @{03-11-2024} #COMP1350
 - [ ] Database Design Assignment (20%) #COMP1350 @{22-09-2024}
+- [ ] Practical SQL Test (20%) Wk11 #COMP1350
+- [ ] Module Exam 1 Week 3 #COMP1350
+- [ ] Module Exam 2 Week 7 #COMP1350
+- [ ] Module Exam 3 Week 13 #COMP1350
 
 
 ## TODO

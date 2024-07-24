@@ -106,3 +106,15 @@ We first lay out what it is we need to know, then list some assumptions
 - **Assumption 3**: Let’s assume 40 hours a week. 40 hours a week x 50 weeks approximately 2,000-hour work year.
 - **Assumption 4**: 2 pianos for every 100 people (Again a guess to include schools and institutions with pianos)
 - **Assumption 5**: Sydney population approximately 5 million
+
+### Lets Estimate
+1. There are 5 million people in Sydney.
+2. There are 2 pianos for every 100 people.
+3. There are 100,000 pianos in Sydney (10^7 / 10^2 = 10^5)
+4. Pianos are tuned once a year.
+5. It takes 2 hours to tune a piano.
+6. Piano tuners work 2,000 hours a year.
+7. In one year, a piano tuner can tune 1,000 pianos (2,000 hours per year ÷ 2 hours per piano).
+8. It would take 100 tuners to tune 100,000 pianos (100,000 pianos ÷ 1,000 pianos tuned by each piano tuner).
+
+So approximately **100 piano tuners in Sydney**

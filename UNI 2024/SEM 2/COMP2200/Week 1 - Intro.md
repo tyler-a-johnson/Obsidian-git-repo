@@ -28,7 +28,12 @@ Each Hype Cycle drills down into the five key lifecycle phases
 - Trough of Disillusionment
 	- Interest wanes as implementations fail to deliver
 	- Producers fail or move on
-	- Investments continue only 
+	- Investments continue only if the surviving providers improve their products
 - Slope of Enlightenment
+	- More applications of the tech are found and are adopted
+	- Second and third gen products appear
+	- More pilots funded
+	- Conservative companies remain cautious
 - Plateau of Productivity
+	- Mainstream adoption takes 
 

@@ -134,3 +134,12 @@ So approximately **100 piano tuners in Sydney**
 5. 40 million Kilometre / 40, 000 Kilometre = 1000
 
 **So we can wrap our Earth 1,000 times with 1 year consumption of toilet paper in Australia**
+
+
+# Technology
+You will be learning to use [Python](https://python.org/) for this analysis with the associated statistical and graphical tools. It is also common to see the [R language](https://r-project.org/) used for Data Science - you'll see that if you do the Statistics units in the DS major.
+
+We'll use Git and [Github](https://github.com/MQCOMP2200-S2-2020) to host and share our work and track changes.
+
+We're using [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) to carry out analysis and generate documented presentations of results.
+

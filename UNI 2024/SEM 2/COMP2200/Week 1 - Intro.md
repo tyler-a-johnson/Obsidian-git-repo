@@ -90,4 +90,9 @@ At its core, data science involves using automated methods to analyze massive am
 - Useful skill when evaluating problems
 - Needs some knowledge of quantities in the world.
 	- Size of things
-	- population of countr
+	- population of countries
+	- frequency of events
+- Understand orders of magnitude - is it closer to 10, 100, 1000?
+
+## How many piano tuners are in Sydney?
+We first lay out what it 

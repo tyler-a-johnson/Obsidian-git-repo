@@ -66,3 +66,5 @@ At its core, data science involves using automated methods to analyze massive am
 
 
 # Interpretation and Reproducibility
+Conclusions should be based on **observations of evidence**
+If I present a graph, I should also present the sources of data that I used to generate the graph.

@@ -79,4 +79,11 @@ At its core, data science involves using automated methods to analyze massive am
 - increased awareness of the need to make research data openly available and the software and methods used to generate results
 - [Open Science Foundation](https://osf.io), [Zenodo](https://zenodo.org), [Figshare](https://figshare.com)
 
-## Data Reasoning in a Di
+## Data Reasoning in a Digital World
+- Graphs can be a powerful way to share data with the public
+- Choosing the wrong graph type, mislabeling axes, or using an inappropriate or inconsistent scale can affect the way data appears
+[5 Ways Writers Use Misleading Graphs To Manipulate You](https://venngage.com/blog/misleading-graphs/)
+
+# How Fermi Estimation can help you identify Bullshit
+- Physicist Enrico Fermi Was a Master of Guesstimation
+- 

@@ -76,5 +76,5 @@ At its core, data science involves using automated methods to analyze massive am
 ## Reproducibility
 - Increasingly important goal in Science and Data Science is playing a big role to achieve it.
 - [Replication crisis - Wikipedia](https://en.wikipedia.org/wiki/Replication_crisis)
-- increased awareness of the need to make research data openly available
+- increased awareness of the need to make research data openly available and the software and methods used to 
 - 

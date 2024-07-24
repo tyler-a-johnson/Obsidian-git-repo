@@ -6,7 +6,8 @@ kanban-plugin: basic
 
 ## LONG WAY OFF
 
-- [ ] Weekly Quiz (wk1 - 8) (10%)
+- [ ] Weekly Quiz (wk1 - 8) (5%) @{22-09-2024}
+- [ ] Weekly Quiz (wk9  - 13) (5%) @{03-11-2024}
 
 
 ## TODO

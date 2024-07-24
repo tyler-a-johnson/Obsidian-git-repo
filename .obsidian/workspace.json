@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6f543d1dbc547b",
+        "id": "7d1c78bd4952c209",
         "type": "tabs",
         "children": [
           {
-            "id": "3d3641a81d974f0b",
+            "id": "11aa81dbd8a14e87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6e26105fb9d83143",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "97715e48ff96f84d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf"
+                "file": "Kanban Schedule.md"
               }
             }
           }
@@ -102,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -130,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+                "file": "Kanban Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+                "file": "Kanban Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md"
+                "file": "Kanban Schedule.md"
               }
             }
           },
@@ -217,11 +197,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3d3641a81d974f0b",
+  "active": "11aa81dbd8a14e87",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2",
+    "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709232302.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709231113.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709225513.png",
     "Distilled Notes/Untitled 4.md",
@@ -236,7 +217,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240708234211.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240708234157.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240708220859.png",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "Movie Recs.md",

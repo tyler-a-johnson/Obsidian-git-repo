@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## LONG WAY OFF
 
+- [ ] Weekly Quiz (wk1 - 8) (10%)
 
 
 ## TODO

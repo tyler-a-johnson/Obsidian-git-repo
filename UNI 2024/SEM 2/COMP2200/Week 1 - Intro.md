@@ -20,9 +20,15 @@ Relevant Links:
 Each Hype Cycle drills down into the five key lifecycle phases
 - Innovation Trigger
 	- Potential tech breakthrough 
-	- **early proof of concept stories** and media interest. Often no useable product, commercial viability is unproven.
+	- **early proof of concept stories** and media interest
+	- Often no useable product, commercial viability is unproven.
 - Peak of Inflated Expectations
+	- Early publicity produces success stories - often accompanied by scores of failures
+	- Some company action and adoption
 - Trough of Disillusionment
+	- Interest wanes as implementations fail to deliver
+	- Producers fail or move on
+	- Investments continue only 
 - Slope of Enlightenment
 - Plateau of Productivity
 

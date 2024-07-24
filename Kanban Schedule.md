@@ -13,6 +13,7 @@ kanban-plugin: basic
 - [ ] Module Exam 1 Week 3 #COMP1350
 - [ ] Module Exam 2 Week 7 #COMP1350
 - [ ] Module Exam 3 Week 13 #COMP1350
+- [ ] Exams (Wk 8 and Exam Week) #COMP2200
 
 
 ## TODO
@@ -21,6 +22,11 @@ kanban-plugin: basic
 
 ## COMPLETE
 
+
+
+## Weekly Tasks
+
+- [ ] Weekly Practical Tasks (10%) (11:55pm Sunday) #COMP2200
 
 
 ***

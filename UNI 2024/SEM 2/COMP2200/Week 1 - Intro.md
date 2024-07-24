@@ -77,4 +77,6 @@ At its core, data science involves using automated methods to analyze massive am
 - Increasingly important goal in Science and Data Science is playing a big role to achieve it.
 - [Replication crisis - Wikipedia](https://en.wikipedia.org/wiki/Replication_crisis)
 - increased awareness of the need to make research data openly available and the software and methods used to generate results
-- 
+- [Open Science Foundation](https://osf.io), [Zenodo](https://zenodo.org), [Figshare](https://figshare.com)
+
+## Data De

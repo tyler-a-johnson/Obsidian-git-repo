@@ -95,4 +95,9 @@ At its core, data science involves using automated methods to analyze massive am
 - Understand orders of magnitude - is it closer to 10, 100, 1000?
 
 ## How many piano tuners are in Sydney?
-We first lay out what it 
+We first lay out what it is we need to know, then list some assumptions
+- How often pianos are tuned?
+- How long does it take to tune a piano?
+- How many hours a year the average piano tuner works?
+- How many pianos in Sydney?
+### Assumptions

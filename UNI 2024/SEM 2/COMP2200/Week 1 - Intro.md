@@ -23,10 +23,10 @@ Each Hype Cycle drills down into the five key lifecycle phases
 	- **early proof of concept stories** and media interest
 	- Often no useable product, commercial viability is unproven.
 - Peak of Inflated Expectations
-	- Early publicity produces success stories - often accompanied by scores of failures
-	- Some company action and adoption
+	- Early publicity produces success stories - often **accompanied by scores of failures**
+	- **Some** company action and adoption
 - Trough of Disillusionment
-	- Interest wanes as implementations fail to deliver
+	- Interest wanes as **implementations fail to deliver**
 	- Producers fail or move on
 	- Investments continue only if the surviving providers improve their products
 - Slope of Enlightenment
@@ -35,5 +35,8 @@ Each Hype Cycle drills down into the five key lifecycle phases
 	- More pilots funded
 	- Conservative companies remain cautious
 - Plateau of Productivity
-	- Mainstream adoption takes 
+	- Mainstream adoption takes off
+	- Better criteria for understanding provider viability
+	- Market applicability and relevance pay off
+
 

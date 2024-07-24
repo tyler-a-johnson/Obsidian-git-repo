@@ -118,3 +118,19 @@ We first lay out what it is we need to know, then list some assumptions
 8. It would take 100 tuners to tune 100,000 pianos (100,000 pianos ÷ 1,000 pianos tuned by each piano tuner).
 
 So approximately **100 piano tuners in Sydney**
+
+## How much toilet paper does Australia use every year?
+### Assumptions
+- Average person uses 1 roll per week
+- 1 sheet is approximately 10 cm long
+- Australia's population approximately 25 million
+- Earth's circumference approximately 40,000 Kilometre.
+
+### Let's calculate
+1. Average person consumes 50 rolls per year (1 roll per week x 50 weeks per year)
+2. Length of 1 roll = 30m (300 sheets x 10 cm per sheet)
+3. Average person consumption per year = 50 x 30m = 1.5 Kilometre
+4. Total consumption in Australia per year = 25 million x 1.5 Kilometre = approximately 40 million Kilometre
+5. 40 million Kilometre / 40, 000 Kilometre = 1000
+
+**So we can wrap our Earth 1,000 times with 1 year consumption of toilet paper in Australia**

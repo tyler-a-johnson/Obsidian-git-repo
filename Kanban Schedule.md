@@ -13,7 +13,8 @@ kanban-plugin: basic
 - [ ] Module Exam 1 Week 3 #COMP1350
 - [ ] Module Exam 2 Week 7 #COMP1350
 - [ ] Module Exam 3 Week 13 #COMP1350
-- [ ] Exams (Wk 8 and Exam Week) #COMP2200
+- [ ] Exams (40%) (Wk 8 and Exam Week) #COMP2200
+- [ ] Data Science Portfolio (35%) (Week 5, 7, 9, 11) #COMP2200
 
 
 ## TODO

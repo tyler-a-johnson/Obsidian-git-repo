@@ -101,3 +101,8 @@ We first lay out what it is we need to know, then list some assumptions
 - How many hours a year the average piano tuner works?
 - How many pianos in Sydney?
 ### Assumptions
+- **Assumption 1**: The average piano owner tunes his piano once a year. (*Just a guess since the average piano owner isn’t tuning only one time every ten years, nor ten times a year. One time a year seems like a reasonable guesstimate*.)
+- **Assumption 2**: It takes 2 hours to tune a piano. A guess. Maybe it’s only 1 hour, but 2 is within an order of magnitude, so it’s good enough.
+- **Assumption 3**: Let’s assume 40 hours a week. 40 hours a week x 50 weeks approximately 2,000-hour work year.
+- **Assumption 4**: 2 pianos for every 100 people (Again a guess to include schools and institutions with pianos)
+- **Assumption 5**: Sydney population approximately 5 million

@@ -50,4 +50,16 @@ Each Hype Cycle drills down into the five key lifecycle phases
 ![](Attachments/Pasted%20image%2020240724194520.png)
 
 
-## Data Sc
+## Data Scientist Skills
+- Knowledge in Stats, Data Mining, and Machine Learning
+- Open source tools such as Python
+- Data Visualisation
+- Data warehousing and architecture
+- Coding skills
+- Soft skills like communication, teamwork, ethical factors, etc.
+
+```ad-note
+title: What Is Data Science?
+At its core, data science involves using automated methods to analyze massive amounts of data and to extract knowledge from them. With such automated methods turning up everywhere from genomics to high-energy physics, data science is helping to create new branches of science, and influencing areas of social science and the humanities.
+
+```

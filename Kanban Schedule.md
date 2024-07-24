@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] Module Exam 3 Week 13 #COMP1350
 - [ ] Exams (40%) (Wk 8 and Exam Week) #COMP2200
 - [ ] Data Science Portfolio (35%) (Week 5, 7, 9, 11) #COMP2200
+- [ ] Critical Analysis Task (15%) Saturday Week 13 #COMP2200
 
 
 ## TODO
@@ -28,6 +29,8 @@ kanban-plugin: basic
 ## Weekly Tasks
 
 - [ ] Weekly Practical Tasks (10%) (11:55pm Sunday) #COMP2200
+- [ ] COMP2200 Lecture
+- [ ] COMP1350 Lecture
 
 
 ***

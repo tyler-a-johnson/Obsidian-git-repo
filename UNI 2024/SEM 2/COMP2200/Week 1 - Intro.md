@@ -86,4 +86,8 @@ At its core, data science involves using automated methods to analyze massive am
 
 # How Fermi Estimation can help you identify Bullshit
 - Physicist Enrico Fermi Was a Master of Guesstimation
-- 
+- Order of magnitude estimates of the expected answer
+- Useful skill when evaluating problems
+- Needs some knowledge of quantities in the world.
+	- Size of things
+	- population of countr

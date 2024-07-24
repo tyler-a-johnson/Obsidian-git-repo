@@ -40,3 +40,5 @@ Each Hype Cycle drills down into the five key lifecycle phases
 	- Market applicability and relevance pay off
 
 
+## Four types of Data Science Jobs
+1. **Data Analyst** - Pulling data out of SQL databases, Excel, data visualisation and reporting dashboards. You may on ov

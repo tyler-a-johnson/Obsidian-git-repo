@@ -74,4 +74,5 @@ At its core, data science involves using automated methods to analyze massive am
 - How did you gather the data?
 
 ## Reproducibility
-- Increasingly important goal in Science and Data Science is playing a big role 
+- Increasingly important goal in Science and Data Science is playing a big role to achieve it.
+- 

@@ -43,4 +43,4 @@ Each Hype Cycle drills down into the five key lifecycle phases
 ## Four types of Data Science Jobs
 1. **Data Analyst** - Pulling data out of SQL databases, Excel, data visualisation and reporting dashboards, A/B testing, analytics
 2. **Data Engineer** - Needs strong software engineering skills, managing company data traffic and infrastructure
-3. **Machine le**
+3. **Machine Learning** - Companies where the data is the product, machine learning 

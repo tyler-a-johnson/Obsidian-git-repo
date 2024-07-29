@@ -10,7 +10,6 @@ Relevant Links:
 [Coupled SHM and Loaded Strings](Attachments/PHYS2010%20Week%205%20Coupled%20SHM%20and%20loaded%20strings.pdf)
 
 ## Review: Properties of Normal Modes
-
 - For a **normal mode**:
 	- Oscillation is independent of other normal modes coordinates
 	- Energy is not transferred to other normal modes

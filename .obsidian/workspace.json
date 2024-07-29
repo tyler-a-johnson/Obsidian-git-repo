@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6f543d1dbc547b",
+        "id": "1748be0326ece92d",
         "type": "tabs",
         "children": [
           {
-            "id": "885d403bc63a9d9a",
+            "id": "90e9909c286ce81e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Code Repository.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Code Repository.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Code Repository.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Code Repository.md"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md"
               }
             }
           },
@@ -200,57 +200,58 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "885d403bc63a9d9a",
+  "active": "90e9909c286ce81e",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Attachments/Pasted image 20240724194520.png",
+    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP2200/Attachments/Lecture Week 1 (2024-S2).slides.html",
+    "UNI 2024/SEM 2/COMP2200/Attachments",
+    "Kanban Schedule.md",
+    "UNI 2024/SEM 2/COMP2200",
+    "UNI 2024/SEM 2/COMP1350/Untitled 1",
+    "UNI 2024/SEM 2/COMP1350/Untitled",
+    "UNI 2024/SEM 2/COMP1350",
+    "UNI 2024/SEM 2/Untitled.md",
+    "UNI 2024/SEM 2",
+    "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709232302.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 4 Coupled SHM.pdf",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709231113.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709225513.png",
+    "Distilled Notes/Untitled 4.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709213504.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709205713.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709204211.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709203846.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
+    "UNI 2024/SEM 1/ELEC3024/Gamers.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709202532.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240708234211.png",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240708234157.png",
+    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
+    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
+    "Movie Recs.md",
+    "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
-    "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project Final Defence/MajorProjectFinalDefence_V2_Final_Submitted.pdf",
-    "UNI 2024/SEM 1/PHYS2010/~$sonance and Q in Electric Circuits.docx",
+    "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
     "Resources/Markdown Latex Reference Sheet.md",
-    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save/DayOne STEM Packs.prproj",
-    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save/DayOne STEM Packs-2024-05-06_22-42-38.prproj",
-    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/Adobe Premiere Pro Auto-Save",
-    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation/DayOne STEM Packs.prproj",
-    "UNI 2024/SEM 1/FOSE3000/FOSE3000 Video presentation",
     "Resources/Code Repository.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503100930.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/Pasted image 20240503095504.png",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/project_description_elct3024_s1_2024.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/pololu-25d-metal-gearmotors.pdf",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/2676-bracket-dimensions.pdf",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/440133697_453294520426463_8352833708120563913_n.jpg",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/439678565_975915570703742_8776906333981395456_n.jpg",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/439645985_409043245233011_6072187126074291172_n.jpg",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/439881564_803529818327443_4000939261363295158_n.jpg",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/439645993_932811208637783_1257358141760343037_n.jpg",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/439632343_26193170103615036_2905540687854133230_n.jpg",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/438332829_417141614394298_3522792758771689187_n.jpg",
-    "UNI 2024/SEM 1/ELEC3024/Attachments/439586893_330302749761468_2190233671672662020_n.jpg",
     "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
     "Distilled Notes/Untitled 3.md",
-    "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 8.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 5 -.md",
-    "Kanban Schedule.md",
-    "Distilled Notes/Untitled 2.md",
-    "Distilled Notes/Untitled 1.md",
-    "UNI 2024/SEM 1/FOSE3000/Week 8.md",
-    "UNI 2024/SEM 1/FOSE3000/Week 7.md",
-    "UNI 2024/SEM 1/FOSE3000/Week 6.md",
-    "UNI 2024/SEM 1/FOSE3000/Week 5.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
-    "Study Plan (Macquarie University).canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",

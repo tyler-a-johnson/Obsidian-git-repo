@@ -21,7 +21,6 @@ $$\frac{\partial^{2}u}{\partial t^{2}} = c^{2} \nabla u$$
 **Schrodinger's Equation**
 $$i \hbar \frac{\partial}{\partial t} \Psi (r,t) = \left[  -\frac{\hbar^{2}{2 \mu}}+V(r,t_{}) \right] \Psi (r,t)$$
 
-^ We wont be using these in this unit. Could potentially find a use for these anyways?
 ## Mass on a spring, basic oscillation
 ![](Attachments/Pasted%20image%2020240220102516.png)
 **Hooke's Law**
@@ -106,7 +105,7 @@ We can use $x = Ze^{i \omega t}$ as our trial solution, and take the real part w
 ![](Attachments/Pasted%20image%2020240221123834.png)
 Alternatively we can construct a real-valued combination:
 $Ae^{i \omega t}+ Ae^{-i \omega t} = 2A \cos \omega t$
-$Ae^{i \omega t} + c.c. = 2A \cos \omega t$
+$Ae^{i \omega t} + complex conj. = 2A \cos \omega t$
 
 This is also a solution to $\ddot{x} + \omega^{2}x = 0$
 Useful for multiplying solutions in nonlinear problems
@@ -174,7 +173,7 @@ $$PE = \frac{1}{2}kA^{2}\sin^{2}(\omega t + \phi) = \frac{1}{2}kx^2$$
 Uniform cross section A
 Fluid density $\rho$
 Displaced $\pm x$
-
+![](Attachments/Pasted%20image%2020240703223343.png)
 Derive total energy
 - $KE = \frac{1}{2} (\rho LA)x^2$
 - $PE = (\rho x A)gx$
@@ -185,8 +184,8 @@ $\ddot{x}= - \frac{2g}{L}x$ and $\omega = \sqrt{\frac{2g}{L}}$
 
 
 ## Pendulum
-Using $\tau = I \ddot{\theta}$ for a point mass
-- $-mgl \sin \theta = ml^{2}\ddot{\theta}$
+![](Attachments/Pasted%20image%2020240703223407.png)
+Using $\tau = I \ddot{\theta} =-mgl \sin \theta = ml^{2}\ddot{\theta}$
 - $\ddot{ \theta} = - \left( \frac{g}{l} \right) \theta$  for small angles
 - SHM with $\omega = \sqrt{ \frac{g}{l} }$
 - $\theta = A \cos(\omega t)$

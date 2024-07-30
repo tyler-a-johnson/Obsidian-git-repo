@@ -56,10 +56,10 @@ d) Fill in the remaining relationships that you have identified in the business 
 
 # Outline
 
-- **Farmers:** FarmerID, Name, Length of contract, Certs
-- **Greenhouses** unique ids, location, size
+- Strong **Farmers:** FarmerID, Name, Length of contract, Certs
+- Strong **Greenhouses** unique ids, location, size
 	- Greenhouse manager - oversee the entire greenhouse - registered electric scooter
-		- **Scooter**
+		- Strong **Scooter**
 			- unique rego id
 			- model
 			- last time serviced

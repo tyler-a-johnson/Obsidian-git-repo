@@ -68,7 +68,7 @@ d) Fill in the remaining relationships that you have identified in the business 
 	- Greenhouse sections - Associative 
 
 *b) What type of entity is the greenhouse section? Explain your answer.*
-Greenhouse Sections are associative, as they have their own unique ID but depend on the greenhouse they are in for their identification. 
+Greenhouse Sections are associative, as they have their own unique ID but depend on the greenhouse they are in for their identification. The entity also participates in relationships other than just with the 
 
 **Question 2**
 

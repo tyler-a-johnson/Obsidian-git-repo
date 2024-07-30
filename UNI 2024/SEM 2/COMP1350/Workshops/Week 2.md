@@ -54,30 +54,6 @@ c) Derive the relationship between greenhouse section and fruit.
 d) Fill in the remaining relationships that you have identified in the business rules.
 
 
-# Outline
-
-- Strong **Farmers:** FarmerID, Name, Length of contract, Certs
-- Strong **Greenhouses** unique ids, location, size
-	- Greenhouse manager - oversee the entire greenhouse - registered electric scooter
-		- Strong **Scooter**
-			- unique rego id
-			- model
-			- last time serviced
-- strong **Fruit**
-	- name
-	- average yield (kgs)
-	- current market price
-	- size of adult plant
--  associative **Fertilisers**
-	- Different depending on fruit
-	- unique id
-	- name
-	- description
-	- cost
-	- **One fertilizer per plant - multiple plants for one fertiliser**
-
-
-
 **Question 1**
 
 *a) Identify the entities in the business rules above.*

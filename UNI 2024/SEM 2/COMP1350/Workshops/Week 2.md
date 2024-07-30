@@ -58,4 +58,9 @@ d) Fill in the remaining relationships that you have identified in the business 
 
 - **Farmers:** FarmerID, Name, Length of contract, Certs
 - **Greenhouses** unique ids, location, size
-	- Greenhouse manager - oversee the entire greenhouse 
+	- Greenhouse manager - oversee the entire greenhouse - registered electric scooter
+		- **Scooter**
+			- unique rego id
+			- model
+			- last time serviced
+- **Fruit**

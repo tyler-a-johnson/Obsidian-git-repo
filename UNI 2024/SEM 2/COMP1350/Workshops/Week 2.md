@@ -83,9 +83,9 @@ d) Fill in the remaining relationships that you have identified in the business 
 a) Identify the entities in the business rules above.
 - Farmers - Strong
 	- Greenhouse manager - associative
-		- Scooters -
-	- Section carer - 
-	- Harvesters - 
+		- Scooters - Strong
+		- Section carer - Weak
+		- Harvesters - Weak
 - Fruit - Strong
 	- Fertilizers - Associative
 - Greenhouses - Strong

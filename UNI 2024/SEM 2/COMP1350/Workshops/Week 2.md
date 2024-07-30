@@ -52,3 +52,8 @@ b) Derive the relationship between greenhouse and greenhouse section. Is this a 
 c) Derive the relationship between greenhouse section and fruit.
 
 d) Fill in the remaining relationships that you have identified in the business rules.
+
+
+# Outline
+
+- **Farmers:** FarmerID, Name, Length of contract, any 

@@ -79,6 +79,7 @@ Farmers
 - Name - Required, Simple, Single Valued, Stored
 - Length of Contract - Required, Simple, Single Valued, Stored
 - Certifications - Optional, Simple, Multivalued, Stored
+- Role - Required, Simple, Single Value, Stored
 
 Greenhouse Section
 - SectionID - **Identifier**

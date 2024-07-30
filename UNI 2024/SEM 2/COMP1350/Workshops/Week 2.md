@@ -88,7 +88,7 @@ Greenhouse Section
 
 *b) Are there any multi-valued attributes? How are these denoted?*
 
-Farmer certifications can be multi valued, as
+Farmer certifications can be multi valued, as one farmer can have multiple certifications.
 
 **Question 3**
 

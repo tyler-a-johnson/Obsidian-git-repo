@@ -99,5 +99,6 @@ Farmer certifications can be multi valued, as one farmer can have multiple certi
 *b) Derive the relationship between greenhouse and greenhouse section. Is this a strong or weak relationship?*
 - Weak
 *c) Derive the relationship between greenhouse section and fruit.*
-
+- Binary Relationship - One to one - Mandatory
 *d) Fill in the remaining relationships that you have identified in the business rules.*
+ -

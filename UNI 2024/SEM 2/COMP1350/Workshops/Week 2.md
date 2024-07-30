@@ -95,9 +95,9 @@ Farmer certifications can be multi valued, as one farmer can have multiple certi
 ** **Cardinalities** and **constraints** should be labelled for all diagrams **
 
 *a) Derive the relationship between farmer and greenhouse.*
-- Binary Relationship - One to many
+- Binary Relationship - One to many - Mandatory
 *b) Derive the relationship between greenhouse and greenhouse section. Is this a strong or weak relationship?*
-- 
+- Weak
 *c) Derive the relationship between greenhouse section and fruit.*
 
 *d) Fill in the remaining relationships that you have identified in the business rules.*

@@ -107,3 +107,75 @@ Farmer certifications can be multi valued, as one farmer can have multiple certi
 
 
 zmaus1608@gmail.com
+
+
+
+### Entity Relationship Diagram (ERD):
+
+1. **Farmers**
+
+- FarmerID (Primary Key)
+
+- Name
+
+- ContractLength
+
+- Certifications
+
+2. **Greenhouses**
+
+- GreenhouseID (Primary Key)
+
+- Location
+
+- Size
+
+3. **Sections**
+
+- SectionID (Primary Key)
+
+- GreenhouseID (Foreign Key, references Greenhouses)
+
+- SectionIdentifier (Unique within the greenhouse)
+
+- NumberOfRows
+
+- HarvestMonth
+
+4. **Scooters**
+
+- RegoNumber (Primary Key)
+
+- Model
+
+- LastServiceDate
+
+5. **Fruits**
+
+- FruitID (Primary Key)
+
+- Name
+
+- AverageYieldPerPlant
+
+- CurrentMarketPrice
+
+- SizeOfAdultPlant
+
+6. **Fertilisers**
+
+- FertiliserID (Primary Key)
+
+- Name
+
+- Description
+
+- Cost
+
+7. **FarmerRoles**
+
+- FarmerID (Primary Key, Foreign Key references Farmers)
+
+- Role
+
+- GreenhouseID (Foreign Key, references Greenhouses

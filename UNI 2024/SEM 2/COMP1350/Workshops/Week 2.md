@@ -78,11 +78,12 @@ d) Fill in the remaining relationships that you have identified in the business 
 
 # Entities 
 - Farmers - Strong
-	- Greenhouse manager
+	- Greenhouse manager - associative
 	- Section carer - 
-	- Harvesters - associative
+	- Harvesters - 
 - Fruit - Strong
 - Greenhouses - Strong
-- Fertilisers - Associative
+	- Greenhouse sections - 
+- Fertilizers - Associative
 - Scooters - Strong
 - 

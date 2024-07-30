@@ -68,11 +68,22 @@ d) Fill in the remaining relationships that you have identified in the business 
 	- Greenhouse sections - Associative 
 
 *b) What type of entity is the greenhouse section? Explain your answer.*
-Greenhouse Sections are associative, as they have their own unique ID but depend on the greenhouse they are in for their identification. The entity also participates in relationships other than just with the 
+Greenhouse Sections are associative, as they have their own unique ID but depend on the greenhouse they are in for their identification. The entity also participates in relationships other than just with the greenhouse.
 
 **Question 2**
 
 *a) Fill in the attributes for the Farmer and Greenhouse Section entities. Identifiers should be labelled appropriately.*
+
+Farmers
+- FarmerID
+- Name
+- Length of Contract
+- Certifications
+
+Greenhouse Section
+- SectionID
+- 
+
 
 *b) Are there any multi-valued attributes? How are these denoted?*
 

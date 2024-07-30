@@ -75,3 +75,10 @@ d) Fill in the remaining relationships that you have identified in the business 
 	- description
 	- cost
 	- **One fertilizer per plant - multiple plants for one fertiliser**
+
+# Entities 
+- Farmers
+- Fruit
+- Greenhouses
+- Fertilisers
+- Scooters

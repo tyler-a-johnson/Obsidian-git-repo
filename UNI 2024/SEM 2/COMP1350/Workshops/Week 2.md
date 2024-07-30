@@ -89,10 +89,10 @@ a) Identify the entities in the business rules above.
 - Fruit - Strong
 	- Fertilizers - Associative
 - Greenhouses - Strong
-	- Greenhouse sections - Weak 
+	- Greenhouse sections - Associative 
 
-b) What type of entity is the greenhouse section? Explain your answer.
-
+*b) What type of entity is the greenhouse section? Explain your answer.*
+Greenhouse Sections are associative, as they have their own unique ID but depend on the greenhouse 
 
 **Question 2**
 

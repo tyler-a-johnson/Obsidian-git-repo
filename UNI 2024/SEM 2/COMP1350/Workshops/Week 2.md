@@ -80,7 +80,7 @@ d) Fill in the remaining relationships that you have identified in the business 
 
 **Question 1**
 
-a) Identify the entities in the business rules above.
+*a) Identify the entities in the business rules above.*
 - Farmers - Strong
 	- Greenhouse manager - associative
 		- Scooters - Strong
@@ -92,22 +92,22 @@ a) Identify the entities in the business rules above.
 	- Greenhouse sections - Associative 
 
 *b) What type of entity is the greenhouse section? Explain your answer.*
-Greenhouse Sections are associative, as they have their own unique ID but depend on the greenhouse 
+Greenhouse Sections are associative, as they have their own unique ID but depend on the greenhouse they are in for their identification. 
 
 **Question 2**
 
-a) Fill in the attributes for the Farmer and Greenhouse Section entities. Identifiers should be labelled appropriately.
+*a) Fill in the attributes for the Farmer and Greenhouse Section entities. Identifiers should be labelled appropriately.*
 
-b) Are there any multi-valued attributes? How are these denoted?
+*b) Are there any multi-valued attributes? How are these denoted?*
 
 **Question 3**
 
 ** **Cardinalities** and **constraints** should be labelled for all diagrams **
 
-a) Derive the relationship between farmer and greenhouse.
+*a) Derive the relationship between farmer and greenhouse.*
 
-b) Derive the relationship between greenhouse and greenhouse section. Is this a strong or weak relationship?
+*b) Derive the relationship between greenhouse and greenhouse section. Is this a strong or weak relationship?*
 
-c) Derive the relationship between greenhouse section and fruit.
+*c) Derive the relationship between greenhouse section and fruit.*
 
-d) Fill in the remaining relationships that you have identified in the business rules.
+*d) Fill in the remaining relationships that you have identified in the business rules.*

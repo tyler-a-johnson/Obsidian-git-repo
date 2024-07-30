@@ -75,9 +75,9 @@ Greenhouse Sections are associative, as they have their own unique ID but depend
 *a) Fill in the attributes for the Farmer and Greenhouse Section entities. Identifiers should be labelled appropriately.*
 
 Farmers
-- FarmerID - Simple
-- Name - Simple
-- Length of Contract - 
+- FarmerID - Required, Simple, Single Valued, Stored - **Identifier**
+- Name - Required, Simple, Single Valued, Stored
+- Length of Contract - Required, Simple, 
 - Certifications
 
 Greenhouse Section

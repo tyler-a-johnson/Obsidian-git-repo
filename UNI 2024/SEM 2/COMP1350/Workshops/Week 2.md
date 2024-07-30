@@ -64,3 +64,14 @@ d) Fill in the remaining relationships that you have identified in the business 
 			- model
 			- last time serviced
 - **Fruit**
+	- name
+	- average yield (kgs)
+	- current market price
+	- size of adult plant
+- **Fertilisers**
+	- Different depending on fruit
+	- unique id
+	- name
+	- description
+	- cost
+	- **One fertilizer per plant - multiple plants for one fertiliser**

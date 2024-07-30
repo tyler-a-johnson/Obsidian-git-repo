@@ -75,14 +75,15 @@ Greenhouse Sections are associative, as they have their own unique ID but depend
 *a) Fill in the attributes for the Farmer and Greenhouse Section entities. Identifiers should be labelled appropriately.*
 
 Farmers
-- FarmerID
-- Name
-- Length of Contract
+- FarmerID - Simple
+- Name - Simple
+- Length of Contract - 
 - Certifications
 
 Greenhouse Section
 - SectionID
-- 
+- NumRows
+- HarvestMonth
 
 
 *b) Are there any multi-valued attributes? How are these denoted?*

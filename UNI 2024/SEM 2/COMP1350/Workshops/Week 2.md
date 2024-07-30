@@ -77,16 +77,18 @@ Greenhouse Sections are associative, as they have their own unique ID but depend
 Farmers
 - FarmerID - Required, Simple, Single Valued, Stored - **Identifier**
 - Name - Required, Simple, Single Valued, Stored
-- Length of Contract - Required, Simple, 
-- Certifications
+- Length of Contract - Required, Simple, Single Valued, Stored
+- Certifications - Optional, Simple, Multivalued, Stored
 
 Greenhouse Section
-- SectionID
+- SectionID - **Identifier**
 - NumRows
 - HarvestMonth
 
 
 *b) Are there any multi-valued attributes? How are these denoted?*
+
+Farmer certifications can be multi valued, as
 
 **Question 3**
 

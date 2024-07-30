@@ -76,14 +76,38 @@ d) Fill in the remaining relationships that you have identified in the business 
 	- cost
 	- **One fertilizer per plant - multiple plants for one fertiliser**
 
-# Entities 
+
+
+**Question 1**
+
+a) Identify the entities in the business rules above.
 - Farmers - Strong
 	- Greenhouse manager - associative
+		- Scooters -
 	- Section carer - 
 	- Harvesters - 
 - Fruit - Strong
+	- Fertilizers - Associative
 - Greenhouses - Strong
-	- Greenhouse sections - 
-- Fertilizers - Associative
-- Scooters - Strong
-- 
+	- Greenhouse sections - Weak 
+
+b) What type of entity is the greenhouse section? Explain your answer.
+
+
+**Question 2**
+
+a) Fill in the attributes for the Farmer and Greenhouse Section entities. Identifiers should be labelled appropriately.
+
+b) Are there any multi-valued attributes? How are these denoted?
+
+**Question 3**
+
+** **Cardinalities** and **constraints** should be labelled for all diagrams **
+
+a) Derive the relationship between farmer and greenhouse.
+
+b) Derive the relationship between greenhouse and greenhouse section. Is this a strong or weak relationship?
+
+c) Derive the relationship between greenhouse section and fruit.
+
+d) Fill in the remaining relationships that you have identified in the business rules.

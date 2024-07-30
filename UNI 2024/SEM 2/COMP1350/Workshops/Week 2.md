@@ -63,12 +63,12 @@ d) Fill in the remaining relationships that you have identified in the business 
 			- unique rego id
 			- model
 			- last time serviced
-- **Fruit**
+- strong **Fruit**
 	- name
 	- average yield (kgs)
 	- current market price
 	- size of adult plant
-- **Fertilisers**
+-  associative **Fertilisers**
 	- Different depending on fruit
 	- unique id
 	- name
@@ -77,8 +77,12 @@ d) Fill in the remaining relationships that you have identified in the business 
 	- **One fertilizer per plant - multiple plants for one fertiliser**
 
 # Entities 
-- Farmers
-- Fruit
-- Greenhouses
-- Fertilisers
-- Scooters
+- Farmers - Strong
+	- Greenhouse manager
+	- Section carer - 
+	- Harvesters - associative
+- Fruit - Strong
+- Greenhouses - Strong
+- Fertilisers - Associative
+- Scooters - Strong
+- 

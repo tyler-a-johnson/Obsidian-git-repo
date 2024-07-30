@@ -102,7 +102,8 @@ Farmer certifications can be multi valued, as one farmer can have multiple certi
 *c) Derive the relationship between greenhouse section and fruit.*
 - Binary Relationship - One to one - Mandatory
 *d) Fill in the remaining relationships that you have identified in the business rules.*
- -
+- 
+
 
 
 zmaus1608@gmail.com

@@ -56,4 +56,6 @@ d) Fill in the remaining relationships that you have identified in the business 
 
 # Outline
 
-- **Farmers:** FarmerID, Name, Length of contract, any 
+- **Farmers:** FarmerID, Name, Length of contract, Certs
+- **Greenhouses** unique ids, location, size
+	- Greenhouse manager - oversee the entire greenhouse 

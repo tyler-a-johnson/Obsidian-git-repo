@@ -24,9 +24,9 @@
             "id": "b5b677566e1a1758",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "kanban",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Kanban Schedule.md"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+                "file": "Kanban Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+                "file": "Kanban Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md"
+                "file": "Kanban Schedule.md"
               }
             }
           },

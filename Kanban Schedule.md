@@ -10,16 +10,16 @@ kanban-plugin: basic
 - [ ] Weekly Quiz (wk9  - 13) (5%) @{03-11-2024} #COMP1350
 - [ ] Database Design Assignment (20%) #COMP1350 @{22-09-2024}
 - [ ] Practical SQL Test (20%) Wk11 #COMP1350
-- [ ] Module Exam 1 Week 3 #COMP1350
 - [ ] Module Exam 2 Week 7 #COMP1350
 - [ ] Module Exam 3 Week 13 #COMP1350
 - [ ] Exams (40%) (Wk 8 and Exam Week) #COMP2200
-- [ ] Data Science Portfolio (35%) (Week 5, 7, 9, 11) #COMP2200
 - [ ] Critical Analysis Task (15%) Saturday Week 13 #COMP2200
 
 
 ## TODO
 
+- [ ] Module Exam 1 Week 3 #COMP1350
+- [ ] Data Science Portfolio (35%) (Week 5, 7, 9, 11) #COMP2200
 
 
 ## COMPLETE
@@ -28,9 +28,10 @@ kanban-plugin: basic
 
 ## Weekly Tasks
 
-- [ ] Weekly Practical Tasks (10%) (11:55pm Sunday) #COMP2200
+- [x] Weekly Practical Tasks (10%) (11:55pm Sunday) #COMP2200
 - [ ] COMP2200 Lecture
 - [ ] COMP1350 Lecture
+- [x] COMP1350 Weekly quiz
 
 
 ***

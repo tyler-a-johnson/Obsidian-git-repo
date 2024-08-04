@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5b677566e1a1758",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +211,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "90e9909c286ce81e",
+  "active": "b5b677566e1a1758",
   "lastOpenFiles": [
     "UNI 2024/SEM 2/COMP2200/Attachments/Pasted image 20240724194520.png",
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",

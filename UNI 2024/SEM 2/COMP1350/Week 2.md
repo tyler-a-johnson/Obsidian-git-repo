@@ -142,5 +142,6 @@ There are several types of relationships that describe how entities are connecte
 	- Each instance of one entity type can be related to multiple instances of the other entity type, and vice versa.
 
 # Cardinality and Constraints
-- **Cardinality** refers to the maximum number of related instances that an entity can have in a relationship.
-- It
+- **Cardinality** refers to the *maximum* number of related instances that an entity can have in a relationship.
+	- It can be one-to-one (1:1), one-to-many (1:N) or many-to-many (M:N)
+- **Constraints** refer to the *minimum* number of related instances that an entity must have in a relationship

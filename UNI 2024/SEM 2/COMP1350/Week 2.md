@@ -11,4 +11,6 @@ Relevant Links:
 [Lecture Notes](Attachments/Week%202%20(ER%20Diagrams).pdf)
 
 # Business Rules
-- Statements that define or constrain aspects of business. 
+- Statements that define or constrain aspects of business.
+	- Derived from policies, procedures, events and functions within the organisation.
+	- Assert the business structure and control or influence 

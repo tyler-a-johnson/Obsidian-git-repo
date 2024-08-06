@@ -28,6 +28,9 @@ Relevant Links:
 
 They should have the following characteristics:
 
-1. **Declarative**: It focuses on *what* 
+1. **Declarative**: It focuses on *what* needs to be done rather than *how*.
+2. **Precise**: The rule is clear and has an agreed upon meaning.
+3. **Atomic**: The rule should be a single standalone statement that addresses a specific aspect of business.
+4. 
 
 

@@ -45,7 +45,7 @@ title: Conceptual Data Modelling
 - Initial phase of database design process
 - Create a high level and abstract representation of the database. 
 - Aims to understand and capture the data requirements of the application
-- Often represented using an [[Entity Relationship Diagram (ERD)]] or an [[Extended/Enhanced Entity Relationship Diagram (EERD)]]
+- Often represented using an [[Entity Relationship Diagram (ERD)]] or an [[Enhanced Entity Relationship Diagram (EERD)]] 
 ```
 
 

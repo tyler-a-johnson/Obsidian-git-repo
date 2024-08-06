@@ -29,9 +29,22 @@
                 "file": "Kanban Schedule.md"
               }
             }
+          },
+          {
+            "id": "d9210985be6806ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -211,13 +224,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b5b677566e1a1758",
+  "active": "d9210985be6806ca",
   "lastOpenFiles": [
+    "Kanban Schedule.md",
+    "conflict-files-obsidian-git.md",
+    "UNI 2024/SEM 2/Screenshot 2024-08-05 123511.png",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 2.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops",
+    "UNI 2024/SEM 2/COMP1350/Week 1.md",
     "UNI 2024/SEM 2/COMP2200/Attachments/Pasted image 20240724194520.png",
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP2200/Attachments/Lecture Week 1 (2024-S2).slides.html",
     "UNI 2024/SEM 2/COMP2200/Attachments",
-    "Kanban Schedule.md",
     "UNI 2024/SEM 2/COMP2200",
     "UNI 2024/SEM 2/COMP1350/Untitled 1",
     "UNI 2024/SEM 2/COMP1350/Untitled",
@@ -238,9 +256,6 @@
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709202532.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 3.pdf",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240708234211.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240708234157.png",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
     "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
     "Movie Recs.md",
@@ -259,8 +274,6 @@
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt2.md",
-    "Distilled Notes/Untitled 3.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

@@ -16,15 +16,15 @@ Relevant Links:
 	- They assert structure and control / influence behaviour, ensuring consistency and adherence to **organisational standards**.
 	- Expressed in terms familiar to end users
 - Using a [[Database Management System]] (DMS) software, Business Rules can be automated
-	- Ensure enforcement in the organisation
+	- Ensures data quality
 - Critical to maintaining data quality, enforcing policies, streamlining business processes.
 - Usually used to inform the structure of a businesses database
 ## Characteristics of Business Rules
- **Description**: Business rules describe policies procedures or principles within a specific organisation. Defines what actions are acceptable or not
-**Applicability**: Rules apply to any organisation that stores and uses data to generate information.
-**Example**: A business rule could be: "A pilot should not fly more than 14 hours a day". which describes an operation to create and enforce an action within an organization's environment.
-**Documentation**: Business rules must be in writing and kept up to date.
-**Understandability**: Business rules must be easy to understand and widely disseminated among relevant stakeholders
+ - **Description**: Business rules describe policies procedures or principles within a specific organisation. Defines what actions are acceptable or not
+- **Applicability**: Rules apply to any organisation that stores and uses data to generate information.
+- **Example**: A business rule could be: "A pilot should not fly more than 14 hours a day". which describes an operation to create and enforce an action within an organization's environment.
+- **Documentation**: Business rules must be in writing and kept up to date.
+
 
 They should have the following characteristics:
 
@@ -34,6 +34,10 @@ They should have the following characteristics:
 4. **Consistent**: The rule is internally consistent within itself and does not conflict with other rules or policies
 5. **Expressible**: Can be easily understood and expressed in natural language.
 6. **Distinct**: Non-redundant, avoiding duplication or overlap with other rules.
-7. **Business oriented**: Written in a manner that can be easily understood by businessp
+7. **Business oriented**: Written in a manner that can be easily understood by businesspeople and stakeholders.
 
 
+
+# Database Modelling - 3 phases
+
+**Concept**

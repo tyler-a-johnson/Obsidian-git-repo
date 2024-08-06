@@ -92,9 +92,10 @@ They allow for the detailed representation of information and support various op
 1. **Required vs. Optional Attributes**
 	- Required attributes must have a value for every instance of the entity or relationship.
 	- Optional attributes may or may not have a value
-2. **Simple-Valued vs Multivalued Attributes**
+2. **Simple-Valued vs Composite Attributes**
 	- Simple attributes are atomic and cannot be broken down further
-	- Multivalued attributes can have more than one valu
-3. **Stored vs Derived Attributes**
-	-  Stored attributes are directly stored in the database as part of the entity or relationship
-	- Derived attributes 
+	- Composite attributes are made up of multiple sub-attributes or components
+3. **Single Valued vs Multivalued Attributes**
+	- Single-valued attributes can have only one value for each instance
+	- Multivalued attributes can have more than one value for the same instance.
+4. **Stored vs Derived Attributere**

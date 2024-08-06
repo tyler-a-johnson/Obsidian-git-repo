@@ -74,4 +74,9 @@ title: Physical Data Modelling
 - primary identifiers
 
 **Weak Entity**
-- Depends on 
+- *Depends on a strong entity to exist*
+- Does not have a primary identifier
+- Existence is determined by its relationship with the owner entity.
+
+**Associative Entities**
+- AKA *relationship entities*

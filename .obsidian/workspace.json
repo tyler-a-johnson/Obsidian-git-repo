@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f147d4407f13f2f",
+            "id": "90e9909c286ce81e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md",
+                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md",
+                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md",
+                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md"
+                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md"
               }
             }
           },
@@ -200,44 +200,42 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3f147d4407f13f2f",
+  "active": "90e9909c286ce81e",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP1350/Week 1.md",
     "UNI 2024/SEM 2/COMP1350/Week 2.md",
+    "UNI 2024/SEM 2/COMP1350/Week 1.md",
     "UNI 2024/SEM 2/COMP1350/Week 3.md",
-    "UNI 2024/SEM 2/COMP1350/Attachments/image.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/image (1).png",
-    "Distilled Notes/Entity Relationship Diagram (ERD).md",
-    "Distilled Notes/Attachments/internet-sales-model.png",
-    "Distilled Notes/Attachments/output-onlinepngtools.png",
-    "Distilled Notes/Attachments/9tvIZ.gif",
-    "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
-    "Extended/Enhanced Entity Relationship Diagram (EERD).md",
-    "Extended",
-    "Distilled Notes/Untitled 5.md",
-    "Distilled Notes/Database Management System.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week 2 (ER Diagrams).pdf",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week 2_inClassPrintout(1).docx",
+    "UNI 2024/SEM 2/COMP1350/Attachments/image.png",
+    "UNI 2024/SEM 2/COMP1350/Attachments/image (1).png",
     "UNI 2024/SEM 2/COMP1350/Attachments",
-    "Resources/Templates/File Properties - Lecture Notes.md",
-    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
-    "Kanban Schedule.md",
-    "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 2/Screenshot 2024-08-05 123511.png",
+    "Distilled Notes/Untitled 5.md",
+    "Distilled Notes/Entity Relationship Diagram (ERD).md",
+    "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
+    "Distilled Notes/Database Management System.md",
+    "Distilled Notes/Attachments/output-onlinepngtools.png",
+    "Distilled Notes/Attachments/internet-sales-model.png",
+    "Distilled Notes/Attachments/9tvIZ.gif",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 2.md",
+    "Untitled",
     "UNI 2024/SEM 2/COMP1350/Workshops",
+    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP1350",
     "UNI 2024/SEM 2/COMP2200/Attachments/Pasted image 20240724194520.png",
     "UNI 2024/SEM 2/COMP2200/Attachments/Lecture Week 1 (2024-S2).slides.html",
     "UNI 2024/SEM 2/COMP2200/Attachments",
+    "Kanban Schedule.md",
     "UNI 2024/SEM 2/COMP2200",
     "UNI 2024/SEM 2/COMP1350/Untitled 1",
-    "UNI 2024/SEM 2/COMP1350/Untitled",
     "UNI 2024/SEM 2/Untitled.md",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709232302.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709231113.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709225513.png",
     "Distilled Notes/Untitled 4.md",
+    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709213504.png",
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
@@ -248,8 +246,10 @@
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
     "Resources/Markdown Latex Reference Sheet.md",
+    "Resources/Code Repository.md",
+    "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
+    "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

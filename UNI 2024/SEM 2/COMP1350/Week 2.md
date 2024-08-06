@@ -17,4 +17,7 @@ Relevant Links:
 	- Expressed in terms familiar to end users
 - Using a [[Database Management System]] (DMS) software, Business Rules can be automated
 	- Ensure enforcement in the organisation
-- Critical to maintaining data quality, enforcing policies, streamlini
+- Critical to maintaining data quality, enforcing policies, streamlining business processes.
+- Usually used to inform the structure of a businesses database
+## Characteristics of Business Rules
+1. **Description**: Business rules describe policies procedures or principles within a specific organisation

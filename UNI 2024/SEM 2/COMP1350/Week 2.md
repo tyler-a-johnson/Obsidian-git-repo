@@ -83,6 +83,15 @@ title: Physical Data Modelling
 - Associative entities are used to represent many-to-many relationships between two or more entities.
 - They contain attributes that describe the relationship itself.
 
+## Associative Entities
+**When should a relationship with attributes instead be an associative entity?**  
+
+- An entity has attributes. A relationship links entities together
+- The associative entity could have meaning independent of the other entities
+- The associative entity preferably has a unique primary identifier, and should also have other attributes
+- The associative entity may participate in other relationships other than the entities of the associated relationship
+- Ternary relationships should be converted to associative entities
+
 # Attributes
 They allow for the detailed representation of information and support various operations, such as querying, updating, and organizing data in the database.
 **They represent the specific data that is stored for each instance of an entity or relationship.**
@@ -144,4 +153,9 @@ There are several types of relationships that describe how entities are connecte
 # Cardinality and Constraints
 - **Cardinality** refers to the *maximum* number of related instances that an entity can have in a relationship.
 	- It can be one-to-one (1:1), one-to-many (1:N) or many-to-many (M:N)
-- **Constraints** refer to the *minimum* number of related instances that an entity must have in a relationship
+- **Constraints** refer to the *minimum* number of related instances that an entity must have in a relationship.
+	- It can be **zero (optional)** or **one (mandatory)**
+![](Attachments/image.png)
+
+
+

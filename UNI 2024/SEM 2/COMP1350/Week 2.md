@@ -50,6 +50,9 @@ title: Conceptual Data Modelling
 
 ```ad-important
 title: Logical Data Modelling
-- Transforming the high level and abstract representation of the database from the conceptual model into more 
+- Transforming the high level and abstract representation of the database from the conceptual model into more detailed and implementation-independent structure.
+- entities identified in the conceptual model are transformed into tables, and each table represents a specific entity
+- Attributes of the entities become the columns of the corresponding tables.
+- 
 
 ```

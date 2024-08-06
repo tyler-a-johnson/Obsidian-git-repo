@@ -115,4 +115,6 @@ When choosing **identifiers** for entities in a database its essential to consid
 5. **Substitute long composite keys**: When possible, replace long, composite keys (keys made up of multiple attributes) with single, simple keys.
 
 ### Naming Conventions
-1. **Singular Noun or Noun Phrase**: Attribute names should be in the form of a singular noun or a noun phrase 
+1. **Singular Noun or Noun Phrase**: Attribute names should be in the form of a singular noun or a noun phrase that describes the property or characteristics of the entity or relationship.
+2. **Unique Names**: Each attribute name should be unique within the entity or relationship to avoid confusion
+3. **Standard format**

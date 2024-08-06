@@ -48,12 +48,8 @@ title: Conceptual Data Modelling
 - Often represented using an [[Entity Relationship Diagram (ERD)]] or an [[Enhanced Entity Relationship Diagram (EERD)]] 
 ```
 
-
-
-
-
 ```ad-important
-title: Logiccal Data Modelling
-- Transforming the high level and abstract representation of the 
+title: Logical Data Modelling
+- Transforming the high level and abstract representation of the database from the conceptual model into more 
 
 ```

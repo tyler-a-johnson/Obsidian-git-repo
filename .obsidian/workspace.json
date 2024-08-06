@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ec84af00b7c475a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md"
               }
             }
           },
@@ -214,12 +200,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ec84af00b7c475a0",
+  "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
+    "Distilled Notes/Entity Relationship Diagram (ERD).md",
+    "Distilled Notes/Attachments/internet-sales-model.png",
     "Distilled Notes/Attachments/output-onlinepngtools.png",
     "Distilled Notes/Attachments/9tvIZ.gif",
     "UNI 2024/SEM 2/COMP1350/Week 2.md",
-    "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended",
@@ -250,8 +237,6 @@
     "Distilled Notes/Untitled 4.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709213504.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709205713.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709204211.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709203846.png",
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",

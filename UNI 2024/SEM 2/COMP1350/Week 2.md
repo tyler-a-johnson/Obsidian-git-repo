@@ -68,4 +68,5 @@ title: Physical Data Modelling
 
 # Entities
 
-**Strong Entity:** 
+**Strong Entity**
+- Entity 

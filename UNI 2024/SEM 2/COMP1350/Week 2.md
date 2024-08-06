@@ -114,7 +114,11 @@ When choosing **identifiers** for entities in a database its essential to consid
 4. **Simplicity**: Prefer simple and straightforward identifiers over complex and composite keys.
 5. **Substitute long composite keys**: When possible, replace long, composite keys (keys made up of multiple attributes) with single, simple keys.
 
-### Naming Conventions
+## Naming Conventions
 1. **Singular Noun or Noun Phrase**: Attribute names should be in the form of a singular noun or a noun phrase that describes the property or characteristics of the entity or relationship.
 2. **Unique Names**: Each attribute name should be unique within the entity or relationship to avoid confusion
-3. **Standard format**
+3. **Standard format**: Follow a consistent and standardized naming convention for attributes. One common convention is to use the CamelCase format, example "EntityName | AttributeName" to indicate entity and attribute. It is ok to shorten attributes.
+
+# Relationship
+
+**Degree io**

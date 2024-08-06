@@ -24,9 +24,12 @@
             "id": "b5b677566e1a1758",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -124,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md"
               }
             }
           },
@@ -213,14 +216,15 @@
   },
   "active": "b5b677566e1a1758",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP1350/Week 2.md",
     "Kanban Schedule.md",
+    "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 2/Screenshot 2024-08-05 123511.png",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 2.md",
     "UNI 2024/SEM 2/COMP1350/Workshops",
     "UNI 2024/SEM 2/COMP1350/Week 1.md",
     "UNI 2024/SEM 2/COMP2200/Attachments/Pasted image 20240724194520.png",
-    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP2200/Attachments/Lecture Week 1 (2024-S2).slides.html",
     "UNI 2024/SEM 2/COMP2200/Attachments",
     "UNI 2024/SEM 2/COMP2200",
@@ -260,7 +264,6 @@
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
     "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
     "Distilled Notes/Partial Fractions.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 1 - Intro.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

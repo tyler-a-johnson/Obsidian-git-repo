@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md"
               }
             }
           },
@@ -202,9 +202,12 @@
   },
   "active": "90e9909c286ce81e",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 3_ExtraQ.jpeg",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Attachments",
+    "UNI 2024/SEM 2/COMP1350/Week 2.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
     "UNI 2024/SEM 2/COMP1350/Week 3.md",
     "Distilled Notes/Entity Relationship Diagram (ERD).md",
-    "UNI 2024/SEM 2/COMP1350/Week 2.md",
     "UNI 2024/SEM 2/COMP1350/Week 1.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week 2 (ER Diagrams).pdf",
@@ -228,7 +231,6 @@
     "UNI 2024/SEM 2/COMP2200/Attachments",
     "Kanban Schedule.md",
     "UNI 2024/SEM 2/COMP2200",
-    "UNI 2024/SEM 2/COMP1350/Untitled 1",
     "UNI 2024/SEM 2/Untitled.md",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709232302.png",
@@ -248,8 +250,6 @@
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "Resources/Markdown Latex Reference Sheet.md",
     "Resources/Code Repository.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
-    "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

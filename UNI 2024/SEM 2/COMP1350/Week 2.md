@@ -51,8 +51,15 @@ title: Conceptual Data Modelling
 ```ad-important
 title: Logical Data Modelling
 - Transforming the high level and abstract representation of the database from the conceptual model into more detailed and implementation-independent structure.
-- entities identified in the conceptual model are transformed into tables, and each table represents a specific entity
+- entities identified in the conceptual model are transformed into tables, and each table represents a specific entity.
 - Attributes of the entities become the columns of the corresponding tables.
-- 
+- The relationships between entities are translated into data integrity constraints, such as primary keys, foreign keys, and other constraints that ensure data consistency and integrity.
+
+```
+
+```ad-error
+title: Physical Data Modelling
+ - involves transforming the logical model into a specific implementation that is optimized for the chosen [Database Management System](../../../Distilled%20Notes/Database%20Management%20System.md)
+ - 
 
 ```

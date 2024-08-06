@@ -94,6 +94,7 @@ They allow for the detailed representation of information and support various op
 	- Optional attributes may or may not have a value
 2. **Simple-Valued vs Multivalued Attributes**
 	- Simple attributes are atomic and cannot be broken down further
-	- Optional attributes are made up of multiple sub-attributes or components
+	- Multivalued attributes can have more than one valu
 3. **Stored vs Derived Attributes**
-	-  Stored attributes are directly st
+	-  Stored attributes are directly stored in the database as part of the entity or relationship
+	- Derived attributes 

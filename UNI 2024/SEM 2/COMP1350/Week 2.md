@@ -60,6 +60,12 @@ title: Logical Data Modelling
 ```ad-error
 title: Physical Data Modelling
  - involves transforming the logical model into a specific implementation that is optimized for the chosen [Database Management System](../../../Distilled%20Notes/Database%20Management%20System.md)
- - 
+ - The logical model's data types and constraints are mapped to the specific data types and constraints supported by the chosen DBMS
+ - This ensures compatibility and data integrity during the implementation. The physical model considers performance optimization techniques, such as data caching, query optimization, and database tuning, to ensure efficient data access and processing.
 
 ```
+
+
+# Entities
+
+**Strong Entity:** 

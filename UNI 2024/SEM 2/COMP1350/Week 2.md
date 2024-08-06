@@ -110,4 +110,5 @@ When choosing **identifiers** for entities in a database its essential to consid
 1. **Stability**: Select identifiers that will not change in value over time.
 2. **Non-Null**: Ensure that the chosen identifier attributes always have a value for every instance of the entity.
 3. **Avoid intelligent identifiers**: Intelligent identifiers are things like location names or people's names. Instead, opt for generic, descriptive, and non-sensitive identifiers.
-4. **Simplicity**: Prefer simple and straightforward identifiers over complex and composite keys. Using simple identifiers makes the database design more manageable and improves readability.
+4. **Simplicity**: Prefer simple and straightforward identifiers over complex and composite keys.
+5. **Substitute long composite keys**: When possible, replace long, composite keys (keys made up of multiple attributes) with single, simple keys.

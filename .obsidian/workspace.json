@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90e9909c286ce81e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b5b677566e1a1758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Templates/File Properties - Lecture Notes.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md"
               }
             }
           },
@@ -216,6 +202,9 @@
   },
   "active": "b5b677566e1a1758",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Attachments/Week 2_inClassPrintout(1).docx",
+    "UNI 2024/SEM 2/COMP1350/Attachments",
+    "Resources/Templates/File Properties - Lecture Notes.md",
     "UNI 2024/SEM 2/COMP1350/Week 2.md",
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "Kanban Schedule.md",
@@ -243,7 +232,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709205713.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709204211.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709203846.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/PHYS2010 Week 1 Intro and SHM.pdf",
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709202532.png",
@@ -262,8 +250,6 @@
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
     "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
     "UNI 2024/SEM 1/ELEC3024/Week 3 - Stability and Steady State Errors.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 4 - Root Locus Techniques and Design.md",
-    "Distilled Notes/Partial Fractions.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

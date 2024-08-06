@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "Resources/Templates/File Properties - Lecture Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "Resources/Templates/File Properties - Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "Resources/Templates/File Properties - Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md"
+                "file": "Resources/Templates/File Properties - Lecture Notes.md"
               }
             }
           },
@@ -216,8 +216,8 @@
   },
   "active": "b5b677566e1a1758",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP1350/Week 2.md",
+    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "Kanban Schedule.md",
     "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 2/Screenshot 2024-08-05 123511.png",

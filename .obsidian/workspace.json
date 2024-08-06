@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5b677566e1a1758",
+            "id": "3f147d4407f13f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -216,10 +216,10 @@
   },
   "active": "ec84af00b7c475a0",
   "lastOpenFiles": [
-    "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "UNI 2024/SEM 2/COMP1350/Week 2.md",
-    "Extended/Enhanced Entity Relationship Diagram (EERD).md",
     "Distilled Notes/Entity Relationship Diagram (ERD).md",
+    "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
+    "Extended/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended",
     "Distilled Notes/Untitled 5.md",
     "Distilled Notes/Database Management System.md",

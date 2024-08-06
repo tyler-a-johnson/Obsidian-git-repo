@@ -15,4 +15,6 @@ Relevant Links:
 	- Derived from policies, procedures, events and functions within the organisation.
 	- They assert structure and control / influence behaviour, ensuring consistency and adherence to **organisational standards**.
 	- Expressed in terms familiar to end users
-- Using a {Database Management System] (DMS)
+- Using a [[Database Management System]] (DMS) software, Business Rules can be automated
+	- Ensure enforcement in the organisation
+- Critical to maintaining data quality, enforcing policies, 

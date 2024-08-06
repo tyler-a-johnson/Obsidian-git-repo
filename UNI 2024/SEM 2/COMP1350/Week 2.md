@@ -17,4 +17,4 @@ Relevant Links:
 	- Expressed in terms familiar to end users
 - Using a [[Database Management System]] (DMS) software, Business Rules can be automated
 	- Ensure enforcement in the organisation
-- Critical to maintaining data quality, enforcing policies, 
+- Critical to maintaining data quality, enforcing policies, streamlini

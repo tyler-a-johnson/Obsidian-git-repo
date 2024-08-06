@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec84af00b7c475a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -202,8 +215,9 @@
   },
   "active": "b5b677566e1a1758",
   "lastOpenFiles": [
-    "Distilled Notes/Untitled 5.md",
+    "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "UNI 2024/SEM 2/COMP1350/Week 2.md",
+    "Distilled Notes/Untitled 5.md",
     "Distilled Notes/Database Management System.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week 2 (ER Diagrams).pdf",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week 2_inClassPrintout(1).docx",
@@ -249,7 +263,6 @@
     "Resources/Code Repository.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Unit Summary.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 7 - Digital Control Systems Pt1.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

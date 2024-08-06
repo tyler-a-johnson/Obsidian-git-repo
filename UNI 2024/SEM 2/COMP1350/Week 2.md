@@ -80,3 +80,7 @@ title: Physical Data Modelling
 
 **Associative Entities**
 - AKA *relationship entities*
+- Associative entities are used to represent many-to-many relationships between two or more entities.
+- They contain attributes that describe the relationship itself.
+
+# Attributes

@@ -69,4 +69,5 @@ title: Physical Data Modelling
 # Entities
 
 **Strong Entity**
-- Entity 
+- Exists independently from other types of entites
+- Has its own unique identi

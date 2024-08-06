@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md"
               }
             }
           },
@@ -202,13 +202,15 @@
   },
   "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 1.md",
+    "UNI 2024/SEM 2/COMP1350/Week 2.md",
+    "UNI 2024/SEM 2/COMP1350/Week 3.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/image.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (1).png",
     "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "Distilled Notes/Attachments/internet-sales-model.png",
     "Distilled Notes/Attachments/output-onlinepngtools.png",
     "Distilled Notes/Attachments/9tvIZ.gif",
-    "UNI 2024/SEM 2/COMP1350/Week 2.md",
     "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended",
@@ -224,7 +226,6 @@
     "UNI 2024/SEM 2/Screenshot 2024-08-05 123511.png",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 2.md",
     "UNI 2024/SEM 2/COMP1350/Workshops",
-    "UNI 2024/SEM 2/COMP1350/Week 1.md",
     "UNI 2024/SEM 2/COMP2200/Attachments/Pasted image 20240724194520.png",
     "UNI 2024/SEM 2/COMP2200/Attachments/Lecture Week 1 (2024-S2).slides.html",
     "UNI 2024/SEM 2/COMP2200/Attachments",
@@ -237,7 +238,6 @@
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709231113.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709225513.png",
     "Distilled Notes/Untitled 4.md",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709213504.png",
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
     "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",

@@ -89,6 +89,11 @@ They allow for the detailed representation of information and support various op
 
 *Attributes are properties of the entities. These are the different types of attributes:*
 
-1. Required vs. Optional Attributes
+1. **Required vs. Optional Attributes**
 	- Required attributes must have a value for every instance of the entity or relationship.
-	- Optional attributes may or may no
+	- Optional attributes may or may not have a value
+2. **Simple-Valued vs Multivalued Attributes**
+	- Simple attributes are atomic and cannot be broken down further
+	- Optional attributes are made up of multiple sub-attributes or components
+3. **Stored vs Derived Attributes**
+	-  Stored attributes are directly st

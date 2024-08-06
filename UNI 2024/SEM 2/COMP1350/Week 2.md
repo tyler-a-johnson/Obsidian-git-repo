@@ -20,4 +20,6 @@ Relevant Links:
 - Critical to maintaining data quality, enforcing policies, streamlining business processes.
 - Usually used to inform the structure of a businesses database
 ## Characteristics of Business Rules
-1. **Description**: Business rules describe policies procedures or principles within a specific organisation
+1. **Description**: Business rules describe policies procedures or principles within a specific organisation. Defines what actions are acceptable or not
+2. **Applicability**: Rules apply to any organisation that stores and uses data to generate information.
+3. **Examples**: A business rule could be: "A pilot should not fly more than 14 hours a day".

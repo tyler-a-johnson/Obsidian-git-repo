@@ -45,4 +45,15 @@ title: Conceptual Data Modelling
 - Initial phase of database design process
 - Create a high level and abstract representation of the database. 
 - Aims to understand and capture the data requirements of the application
+- Often represented using an [[Entity Relationship Diagram
+```
+
+
+
+
+
+```ad-important
+title: Logiccal Data Modelling
+- Transforming the high level and abstract representation of the 
+
 ```

@@ -10,3 +10,5 @@ Relevant Links:
 **[Lecture Questions](Attachments/Week%202_inClassPrintout(1).docx)**
 [Lecture Notes](Attachments/Week%202%20(ER%20Diagrams).pdf)
 
+# Business Rules
+- Statements that define or constrain aspects of business. 

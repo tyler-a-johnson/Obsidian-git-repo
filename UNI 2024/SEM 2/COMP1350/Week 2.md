@@ -22,4 +22,6 @@ Relevant Links:
 ## Characteristics of Business Rules
 1. **Description**: Business rules describe policies procedures or principles within a specific organisation. Defines what actions are acceptable or not
 2. **Applicability**: Rules apply to any organisation that stores and uses data to generate information.
-3. **Examples**: A business rule could be: "A pilot should not fly more than 14 hours a day".
+**Example**: A business rule could be: "A pilot should not fly more than 14 hours a day". which describes an operation to create and enforce an action within an organization's environment.
+3. **Documentation**: Business rules must be in writing and kept up to date.
+4. **Understandability** Business rules must be easy to understand and widely disseminated among relevant stakeholders

@@ -13,5 +13,6 @@ Relevant Links:
 # Business Rules
 - Statements that define or constrain aspects of business.
 	- Derived from policies, procedures, events and functions within the organisation.
-	- Assert the  structure and control or influence  behaviour, ensuring consistency and adherence to organisational standards.
-	- expressed in terms familiar to end users
+	- They assert structure and control / influence behaviour, ensuring consistency and adherence to **organisational standards**.
+	- Expressed in terms familiar to end users
+- Using a {Database Management System] (DMS)

@@ -102,4 +102,10 @@ They allow for the detailed representation of information and support various op
 	- Stored attributes are directly stored in the database as part of the entity or relationship.
 	- Derived attributes are calculated or derived from other attributes
 5. **Identifier Attributes**
-	- Identifier attributes uniquely identify individual instances 
+	- Identifier attributes uniquely identify individual instances of an entity.
+	- They serve as primary keys to ensure each entity instance is unique.
+
+
+When choosing **identifiers** for entities in a database its essential to consider the following suggestions:
+1. **Stability**: Select identifiers that will not change in value over time.
+2. **Non-Null**: Ensure that the chosen identifier attributes always have a value for every instance of the entity

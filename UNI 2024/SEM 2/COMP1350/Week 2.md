@@ -84,3 +84,11 @@ title: Physical Data Modelling
 - They contain attributes that describe the relationship itself.
 
 # Attributes
+They allow for the detailed representation of information and support various operations, such as querying, updating, and organizing data in the database.
+**They represent the specific data that is stored for each instance of an entity or relationship.**
+
+*Attributes are properties of the entities. These are the different types of attributes:*
+
+1. Required vs. Optional Attributes
+	- Required attributes must have a value for every instance of the entity or relationship.
+	- Optional attributes may or may no

@@ -70,4 +70,8 @@ title: Physical Data Modelling
 
 **Strong Entity**
 - Exists independently from other types of entites
-- Has its own unique identi
+- Has its own unique identifier, known as the primary identify
+- primary identifiers
+
+**Weak Entity**
+- Depends on 

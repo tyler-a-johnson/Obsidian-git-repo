@@ -128,7 +128,7 @@ When choosing **identifiers** for entities in a database its essential to consid
 2. **Unique Names**: Each attribute name should be unique within the entity or relationship to avoid confusion
 3. **Standard format**: Follow a consistent and standardized naming convention for attributes. One common convention is to use the CamelCase format, example "EntityName | AttributeName" to indicate entity and attribute. It is ok to shorten attributes.
 
-# Relationship
+# Relationships
 Modelled as lines connecting entities in an [Entity Relationship Diagram (ERD)](../../../Distilled%20Notes/Entity%20Relationship%20Diagram%20(ERD).md). They visually illustrate the associations between different entities in the database.
 ![900](Attachments/image%20(1).png)
 **Degrees of relationship**

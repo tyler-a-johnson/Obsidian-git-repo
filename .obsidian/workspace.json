@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md",
+                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2.md"
+                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md"
               }
             }
           },
@@ -202,8 +202,12 @@
   },
   "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
-    "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "UNI 2024/SEM 2/COMP1350/Week 2.md",
+    "conflict-files-obsidian-git.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 3_ExtraQ.jpeg",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Attachments",
+    "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "UNI 2024/SEM 2/COMP1350/Week 3.md",
     "UNI 2024/SEM 2/COMP1350/Week 1.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/image.png",
@@ -222,7 +226,6 @@
     "Resources/Templates/File Properties - Lecture Notes.md",
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "Kanban Schedule.md",
-    "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 2/Screenshot 2024-08-05 123511.png",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 2.md",
     "UNI 2024/SEM 2/COMP1350/Workshops",
@@ -231,12 +234,10 @@
     "UNI 2024/SEM 2/COMP2200/Attachments",
     "UNI 2024/SEM 2/COMP2200",
     "UNI 2024/SEM 2/COMP1350/Untitled 1",
-    "UNI 2024/SEM 2/COMP1350/Untitled",
     "UNI 2024/SEM 2/Untitled.md",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709232302.png",
     "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709231113.png",
-    "UNI 2024/SEM 1/PHYS2010/Attachments/Pasted image 20240709225513.png",
     "Distilled Notes/Untitled 4.md",
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
@@ -249,7 +250,6 @@
     "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ELEC3024/Week 2 - Time Response and Reduction of Multiple Subsystems.md",
     "UNI 2024/SEM 1/ELEC3024/Week 5 - Frequency and Response (Bode Plots).md",
-    "Resources/Markdown Latex Reference Sheet.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

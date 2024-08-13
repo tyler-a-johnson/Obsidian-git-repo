@@ -57,5 +57,8 @@ Can be simple or composite:
 ## Referential Integrity
 - governs the relationships between tables
 - Ensures the accuracy and consistency of connections between related tables.
-- referential integrity states that any foreign key value in the "dependent" table (often referred to as the "many" side) must match a primary key value in the "parent" table (the "one" side) of the relationship.
-- 
+- *Referential integrity states that any foreign key value in the "dependent" table (often referred to as the "many" side) must match a primary key value in the "parent" table (the "one" side) of the relationship.*
+- Alternatively, the foreign key can be left null to indicate the absence of a relationship.
+
+## Delete Rules
+Guidelines for handling the deletion of records in tables that have relationships with other tables. There are three common ones, these can vary by 

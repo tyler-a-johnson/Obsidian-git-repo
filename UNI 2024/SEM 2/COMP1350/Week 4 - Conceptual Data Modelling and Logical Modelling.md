@@ -45,4 +45,13 @@ Can be simple or composite:
 
 ## Indexes and Query Optimisations
 - Keys are often used as indexes in a database
-- 
+- *An index is a data structure that enhances the speed of data retrieval by creating a quick reference to the location of data in a table*
+- allow the database engine to locate relevant data more efficiently
+
+
+# Integrity Constraints
+- This principle asserts that no primary key attribute can remain null; *every primary key field must contain valid data*.
+- By enforcing entity integrity, we ensure that primary key values are present and distinct for every row.
+- This uniqueness is essential for preventing duplicate or incomplete data entries and maintaining the overall integrity of the table.
+
+## Referential Integrity

@@ -67,4 +67,51 @@ Guidelines for handling the deletion of records in tables that have relationship
 3. **Set-to-Null:** Sets the foreign key values in the "dependent" table to null when a record on the "parent" side is deleted. ***It's important to note that this rule is typically not suitable for weak entities, as it can lead to data integrity problems.***
 
 
-# Transforming ER Diagrams into Relati
+# Transforming ER Diagrams into Relations
+There is an 7-step process to transform ER diagrams into tables/relations  
+Question 1: Convert this ER diagram into relations E-R to Relational Mapping will be explained here step by step.  
+![](Attachments/image%201.png)
+
+**Step1: Strong entities**  
+
+STEP 1: For each entity in the ER model, create a relation (i.e. a table that includes all the simple attributes). Make sure to identify the primary key for the relation (i.e. the PI of the entity becomes the PK of the table). If there is a composite attribute, you can expand them. Leave multi-valued attributes out (they will be dealt with later.)  
+
+**Step 2: Weak Entities**  
+STEP 2: For each weak entity in the ER model, create a relation that includes all the simple attributes. The primary key of the relation is the combination of the primary key/s of the ‘owner’ and the main attribute of the weak entity itself  
+![](Attachments/image%20(1)%201.png)
+**Step 3: 1:1 relationship**  
+STEP 3: For each 1 TO 1 Relationship identify the two relations corresponding to the entities participating in the relationship. Choose the PK of the Relation (usually the one with mandatory constraint) and make it as the foreign key of the other relation.  
+![](Attachments/image%20(2).png)
+
+**Step 4: 1:N relationship**
+STEP 4: For each binary 1 TO N Relationship identify the relations that represent the participating entity at the N (i.e many) side of the relationship. Include as the foreign key in the relation that holds the N side, the primary key of the other entity (that holds the 1 side)  
+![](Attachments/image%20(3).png)
+  
+
+**Step 5: M:N relationship**  
+STEP 5: For each binary M:N Relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the two connected entities. This is an associative entity. If there are any attributes on the relationship, then include them.  
+
+  
+
+![](https://ilearn.mq.edu.au/pluginfile.php/9239314/mod_book/chapter/347523/image%20%284%29.png)  
+  
+**Step 6: Multi-valued attributes**  
+
+STEP 6: For each multivalued attribute, create a new relation that includes the multivalued attribute and the primary key of the entity where the multivalued attribute is attached.
+
+  
+
+![](https://ilearn.mq.edu.au/pluginfile.php/9239314/mod_book/chapter/347523/image%20%285%29.png)  
+
+  
+
+**Step 7: Associative entities**  
+
+STEP 7: For each n-ary relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the participating entities that hold the N (many) side. In most cases of an n-ary relationship, all the participating entities hold a many side.  
+  
+
+![](https://ilearn.mq.edu.au/pluginfile.php/9239314/mod_book/chapter/347523/image%20%286%29.png)  
+
+**Final Table List**  
+
+Use the updated version of all tables and combine them to get the result.

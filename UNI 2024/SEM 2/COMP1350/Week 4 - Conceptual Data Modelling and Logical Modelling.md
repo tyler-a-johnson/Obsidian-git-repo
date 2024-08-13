@@ -17,4 +17,4 @@ Relevant Links:
 - *Must* possesses a distinct name
 - Each attribute value *must be indivisible* (not multi-valued or composite)
 - Every row must be distinct (*cannot contain two identical rows with all fields having the same values*)
-- Attributes 
+- Attributes  (columns) 

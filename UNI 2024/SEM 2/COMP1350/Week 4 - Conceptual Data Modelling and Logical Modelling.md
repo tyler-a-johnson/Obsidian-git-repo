@@ -128,6 +128,7 @@ PDBD's primary purpose is to translate the logical data model, which represents 
 5. **Accommodating Growth**: Should be scalable, allowing the file to expand without significant performance degradation.'
 6. **Security from Unauthorized Use**: File organization should offer security measures to prevent unauthorized access.
 \
-## Types of Fille
+## Types of File
 *There are three primary types of File organisation*
-
+1. **Sequential**: Records are stored in a linear fashion, one after the other. This arrangement is simple and suitable for batch processing, but it can be slower for direct access to specific records.
+2. **Indexed**: Involves maintaining a separate data structure, called an index, which stores pointers to the actual records. This enables faster access to records based on the index key. Common index types include B-trees and hash indexes.

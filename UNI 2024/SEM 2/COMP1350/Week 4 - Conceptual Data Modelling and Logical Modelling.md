@@ -9,7 +9,7 @@ Relevant Links:
 
 # Tables
 
-**Relation/Table**
+# #Relation/Table
 - A relation denotes a titled, two-dimensional data table.
 - A table is comprised of rows (records) and columns (attributes or fields)
 
@@ -20,4 +20,12 @@ Relevant Links:
 - Attributes (*columns*) within tables *must hold* unique designations.
 - *Sequence of columns must not matter*
 - *Sequence of rows must not matter*
+
+**Connection to the ER Model**
+- *Relations* (tables) correspond to *entities*
+- *Rows* correspond to *values*
+- *Columns* correspond to *attributes*.
+
+
+# Key Fields
 

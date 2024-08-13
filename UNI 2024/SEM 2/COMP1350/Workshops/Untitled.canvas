@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"4bf22ddae449460f","x":-337,"y":-245,"width":250,"height":60,"type":"text","text":""}
+		{"id":"4bf22ddae449460f","x":-337,"y":-245,"width":477,"height":505,"type":"text","text":"**Entities**\nCustomer\n- CustomerName\n- PhnNumber\nExploreLocations\n- LocationID (PI)\n- LocationCoordinates"}
 	],
 	"edges":[]
 }

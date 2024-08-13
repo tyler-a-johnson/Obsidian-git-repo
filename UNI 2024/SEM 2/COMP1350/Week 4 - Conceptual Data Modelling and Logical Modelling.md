@@ -61,4 +61,6 @@ Can be simple or composite:
 - Alternatively, the foreign key can be left null to indicate the absence of a relationship.
 
 ## Delete Rules
-Guidelines for handling the deletion of records in tables that have relationships with other tables. There are three common ones, these can vary by 
+Guidelines for handling the deletion of records in tables that have relationships with other tables. There are three common ones, these can vary by application
+1. **Restrict:** Prevents the deletion of a record on the "parent" side if related records exist on the "dependent" side. It ensures that no record can be deleted if it's connected to other records.
+2. **Ca**

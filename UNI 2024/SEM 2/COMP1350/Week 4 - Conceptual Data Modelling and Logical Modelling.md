@@ -87,31 +87,17 @@ STEP 3: For each 1 TO 1 Relationship identify the two relations corresponding to
 STEP 4: For each binary 1 TO N Relationship identify the relations that represent the participating entity at the N (i.e many) side of the relationship. Include as the foreign key in the relation that holds the N side, the primary key of the other entity (that holds the 1 side)  
 ![](Attachments/image%20(3).png)
   
-
 **Step 5: M:N relationship**  
 STEP 5: For each binary M:N Relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the two connected entities. This is an associative entity. If there are any attributes on the relationship, then include them.  
-
-  
-
-![](https://ilearn.mq.edu.au/pluginfile.php/9239314/mod_book/chapter/347523/image%20%284%29.png)  
+![](Attachments/image%20(4).png)
   
 **Step 6: Multi-valued attributes**  
 
 STEP 6: For each multivalued attribute, create a new relation that includes the multivalued attribute and the primary key of the entity where the multivalued attribute is attached.
-
-  
-
-![](https://ilearn.mq.edu.au/pluginfile.php/9239314/mod_book/chapter/347523/image%20%285%29.png)  
-
-  
+![](Attachments/image%20(5).png)
 
 **Step 7: Associative entities**  
-
 STEP 7: For each n-ary relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the participating entities that hold the N (many) side. In most cases of an n-ary relationship, all the participating entities hold a many side.  
-  
-
-![](https://ilearn.mq.edu.au/pluginfile.php/9239314/mod_book/chapter/347523/image%20%286%29.png)  
-
+  ![](Attachments/image%20(6).png)
 **Final Table List**  
-
 Use the updated version of all tables and combine them to get the result.

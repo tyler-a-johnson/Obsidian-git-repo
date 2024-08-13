@@ -107,6 +107,10 @@ Use the updated version of all tables and combine them to get the result.
 PDBD's primary purpose is to translate the logical data model, which represents the database's structure and relationships, into technical specifications for actually storing and retrieving data within a database management system (DBMS).
 ## Key Objectives
 1. **Performance**: Design should be optimised for efficient data storage and retrieval operations, considering factors such as query speed and response time.
-2. **Integrity**: Data integrity ensures that the data remains accurate and consistent throughout its lifecycle. Should incorporate measures to prevent data corruption or inconsistencies.
+2. **Integrity**: Should incorporate measures to prevent data corruption or inconsistencies.
 3. **Security**: Should implement security mechanisms to control access to the data.
 4. **Recoverability**: should support data recovery in case of system failures.
+
+## Designing Fields
+1. **Choosing Data Type**: Different data types (such as integers, strings, dates) have specific storage requirements and capabilities. Essential for efficient storage and accurate data representation.
+2. **Coding , Compression and Encryption**: 

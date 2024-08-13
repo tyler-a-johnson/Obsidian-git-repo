@@ -106,4 +106,7 @@ Use the updated version of all tables and combine them to get the result.
 # Physical Database Design - Extra
 PDBD's primary purpose is to translate the logical data model, which represents the database's structure and relationships, into technical specifications for actually storing and retrieving data within a database management system (DBMS).
 ## Key Objectives
-1. **Performance**: Design should be optimised for efficient data storage and retrieval operations, considering factors susch as query speed and response time
+1. **Performance**: Design should be optimised for efficient data storage and retrieval operations, considering factors such as query speed and response time.
+2. **Integrity**: Data integrity ensures that the data remains accurate and consistent throughout its lifecycle. Should incorporate measures to prevent data corruption or inconsistencies.
+3. **Security**: Should implement security mechanisms to control access to the data.
+4. **Recoverability**: should support data recovery in case of system failures.

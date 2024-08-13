@@ -120,4 +120,9 @@ PDBD's primary purpose is to translate the logical data model, which represents 
 - Refers to the technique of physically arranging records within a file on secondary storage devices such as hard drives or solid-state drives. 
 - The way data is organized within files can significantly impact data retrieval speed, storage efficiency, data integrity, and system performance.
 
-## Factors for Selecting File O
+## Factors for Selecting File Organization:\
+1. **Fast Data Retrieval and Throughput**: Different file organizations have varying efficiencies when it comes to fetching records quickly.
+2. **Efficient Storage Space Utilization**: Reducing storage costs and maximizing available resources.
+3. **Protection from Failure and Data Loss**: File organizations should support data recovery and minimize the risk of data loss.
+4. **Minimizing Need for Reorganization**: Choosing an appropriate file organization can reduce the frequency of reorganization.
+5. **Accommodating Growth**: 

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"4bf22ddae449460f","x":-337,"y":-245,"width":477,"height":505,"type":"text","text":"**Entities**\nCustomer\n- CustomerName\n- CustomerPhnNumber\nExploreLocations\n- LocationID (PI)\n- LocationCoordinates\nTrees\n- TreeNumber (repeated for each locale)\n- TreeAge (stored)\n- TreeHeight (Stored)\nBerries\n- BerryType (PI)\n- BerryName\n- BerryRarity\n- "}
+		{"id":"4bf22ddae449460f","x":-337,"y":-245,"width":477,"height":505,"type":"text","text":"**Entities**\nCustomer\n- CustomerName\n- CustomerPhnNumber\nExploreLocations\n- LocationID (PI)\n- LocationCoordinates\nTrees\n- TreeNumber (repeated for each locale)\n- TreeAge (stored)\n- TreeHeight (Stored)\nBerryType\n- BerryTypeID (PI)\n\t- (One tree one berrytype)\n\t- Multiple trees can have the same berry type\n- BerryTName\n- BerryTRarity\n\t- Trees can grow old and die\n- GelatoFlavour\n\t- GFlavourID (PI)\n\t- GFlacou"}
 	],
 	"edges":[]
 }

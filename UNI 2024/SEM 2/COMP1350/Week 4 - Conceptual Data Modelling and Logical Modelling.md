@@ -16,4 +16,5 @@ Relevant Links:
 **Necessities for a table to meet the criteria of being a relation:**
 - *Must* possesses a distinct name
 - Each attribute value *must be indivisible* (not multi-valued or composite)
-- Ever
+- Every row must be distinct (*cannot contain two identical rows with all fields having the same values*)
+- Attributes 

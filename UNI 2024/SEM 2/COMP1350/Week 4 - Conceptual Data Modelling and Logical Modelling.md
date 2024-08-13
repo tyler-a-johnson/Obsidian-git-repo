@@ -30,4 +30,15 @@ Relevant Links:
 
 ## Primary Keys
 - Ensure that each row in the table has a distinct and non-repeating identifier.
-- 
+- Primary keys serve as the foundation for establishing relationships between tables.
+- *The primary key could be the "employee number" field, which guarantees that every employee has a unique identifier.*
+
+## Foreign Key
+- Identifiers within a table that establish a connection between two related tables in a database.
+- They enable a table to reference the primary key of another table.
+- *in a scenario where you have an "orders" table and a "customers" table, the "customer ID" in the "orders" table can be a foreign key, linking each order to a specific customer in the "customers" table.*
+
+## Types of Keys
+Can be simple or composite:
+- **Simple:** Single field that uniquely identifies a record
+- **Composite:**

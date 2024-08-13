@@ -11,4 +11,9 @@ Relevant Links:
 
 **Relation/Table**
 - A relation denotes a titled, two-dimensional data table.
-- A table is 
+- A table is comprised of rows (records) and columns (attributes or fields)
+
+**Necessities for a table to meet the criteria of being a relation:**
+- *Must* possesses a distinct name
+- Each attribute value *must be indivisible* (not multi-valued or composite)
+- Ever

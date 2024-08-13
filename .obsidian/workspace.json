@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md"
               }
             }
           },
@@ -200,53 +200,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "floating": {
-    "id": "f9eea60573c20900",
-    "type": "floating",
-    "children": [
-      {
-        "id": "800b5acbf528ac37",
-        "type": "window",
-        "children": [
-          {
-            "id": "239689dc39bf43dd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3f147d4407f13f2f",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "UNI 2024/SEM 2/COMP1350/Workshops/Untitled.canvas",
-                    "viewState": {
-                      "x": -385.6645488870085,
-                      "y": 309.85367133367157,
-                      "zoom": -0.008333333333332416
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "d5df56522014e0d4",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 4_Q1PartialDiagram2.jpeg",
+    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Untitled.canvas",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
     "UNI 2024/SEM 2/COMP1350/Week 2.md",
     "UNI 2024/SEM 2/COMP1350/Week 3.md",
-    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 4_Q1V2PartialDiagram.jpeg",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (6).png",

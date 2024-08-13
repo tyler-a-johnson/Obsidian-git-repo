@@ -55,3 +55,7 @@ Can be simple or composite:
 - This uniqueness is essential for preventing duplicate or incomplete data entries and maintaining the overall integrity of the table.
 
 ## Referential Integrity
+- governs the relationships between tables
+- Ensures the accuracy and consistency of connections between related tables.
+- referential integrity states that any foreign key value in the "dependent" table (often referred to as the "many" side) must match a primary key value in the "parent" table (the "one" side) of the relationship.
+- 

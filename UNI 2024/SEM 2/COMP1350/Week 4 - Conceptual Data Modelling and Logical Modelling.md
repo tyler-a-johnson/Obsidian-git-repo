@@ -113,4 +113,11 @@ PDBD's primary purpose is to translate the logical data model, which represents 
 
 ## Designing Fields
 1. **Choosing Data Type**: Different data types (such as integers, strings, dates) have specific storage requirements and capabilities. Essential for efficient storage and accurate data representation.
-2. **Coding , Compression and Encryption**: 
+2. **Coding , Compression and Encryption**: Depending on the application, encoding, compressing, or encrypting data can be part of the design strategy to save space and enhance security.
+3. **Controlling Data Integrity**: Should include mechanisms to enforce data integrity constraints, such as ensuring that certain fields are mandatory, or that certain values adhere to predefined rules.
+
+# File Organisations
+- Refers to the technique of physically arranging records within a file on secondary storage devices such as hard drives or solid-state drives. 
+- The way data is organized within files can significantly impact data retrieval speed, storage efficiency, data integrity, and system performance.
+
+## Factors for Selecting File O

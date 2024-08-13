@@ -125,4 +125,9 @@ PDBD's primary purpose is to translate the logical data model, which represents 
 2. **Efficient Storage Space Utilization**: Reducing storage costs and maximizing available resources.
 3. **Protection from Failure and Data Loss**: File organizations should support data recovery and minimize the risk of data loss.
 4. **Minimizing Need for Reorganization**: Choosing an appropriate file organization can reduce the frequency of reorganization.
-5. **Accommodating Growth**: 
+5. **Accommodating Growth**: Should be scalable, allowing the file to expand without significant performance degradation.'
+6. **Security from Unauthorized Use**: File organization should offer security measures to prevent unauthorized access.
+\
+## Types of Fille
+*There are three primary types of File organisation*
+

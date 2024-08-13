@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md"
               }
             }
           },
@@ -202,6 +202,9 @@
   },
   "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 4_Q1V2PartialDiagram.jpeg",
+    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (6).png",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (5).png",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (4).png",
@@ -211,7 +214,6 @@
     "UNI 2024/SEM 2/COMP1350/Attachments/image 1.png",
     "UNI 2024/SEM 2/COMP1350/Week 2.md",
     "Distilled Notes/Entity Relationship Diagram (ERD).md",
-    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Week 3.md",
     "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
@@ -220,7 +222,6 @@
     "UNI 2024/SEM 2/COMP1350/Week 1.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/image.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (1).png",
-    "Distilled Notes/Attachments/internet-sales-model.png",
     "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended",
@@ -249,7 +250,6 @@
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
-    "UNI 2024/SEM 1/ELEC3024/Week 6 - Design via Frequency Response.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

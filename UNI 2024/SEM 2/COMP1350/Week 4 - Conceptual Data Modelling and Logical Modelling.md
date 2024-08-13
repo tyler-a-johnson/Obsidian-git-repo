@@ -3,7 +3,8 @@ date: 2024-08-13
 tags: 
 status: Incomplete
 Relevant Questions: 
-Relevant Notes: 
+Relevant Notes:
+  - https://ilearn.mq.edu.au/mod/book/view.php?id=8323957&chapterid=347519
 Relevant Links:
 ---
 
@@ -132,3 +133,6 @@ PDBD's primary purpose is to translate the logical data model, which represents 
 *There are three primary types of File organisation*
 1. **Sequential**: Records are stored in a linear fashion, one after the other. This arrangement is simple and suitable for batch processing, but it can be slower for direct access to specific records.
 2. **Indexed**: Involves maintaining a separate data structure, called an index, which stores pointers to the actual records. This enables faster access to records based on the index key. Common index types include B-trees and hash indexes.
+3. **Hashed**: Uses a hash function to determine the storage location of records. This method provides quick access when the hash function's distribution is even, but it can be challenging to handle collisions (when multiple records map to the same location).
+
+*Sequential organization is suitable for scenarios where records are processed in order, indexed organization is well-suited for direct access, and hashed organization provides quick access based on keys. The choice depends on the specific requirements and characteristics of the data and application.*

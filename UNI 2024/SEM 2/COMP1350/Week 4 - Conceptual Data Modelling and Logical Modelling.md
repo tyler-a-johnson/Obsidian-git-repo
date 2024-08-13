@@ -68,7 +68,7 @@ Guidelines for handling the deletion of records in tables that have relationship
 
 
 # Transforming ER Diagrams into Relations
-There is an 7-step process to transform ER diagrams into tables/relations  
+There is an 7-step process to transform ER diagrams into tables/relations  #todo 
 Question 1: Convert this ER diagram into relations E-R to Relational Mapping will be explained here step by step.  
 ![](Attachments/image%201.png)
 
@@ -101,3 +101,9 @@ STEP 7: For each n-ary relationship create a new relation to represent the relat
   ![](Attachments/image%20(6).png)
 **Final Table List**  
 Use the updated version of all tables and combine them to get the result.
+
+
+# Physical Database Design - Extra
+PDBD's primary purpose is to translate the logical data model, which represents the database's structure and relationships, into technical specifications for actually storing and retrieving data within a database management system (DBMS).
+## Key Objectives
+1. **Performance**: Design should be optimised for efficient data storage and retrieval operations, considering factors susch as query speed and response time

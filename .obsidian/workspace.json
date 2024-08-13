@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md"
               }
             }
           },
@@ -202,6 +202,8 @@
   },
   "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
     "UNI 2024/SEM 2/COMP1350/Week 3.md",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (6).png",
@@ -214,7 +216,6 @@
     "UNI 2024/SEM 2/COMP1350/Week 2.md",
     "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 3_ExtraQ.jpeg",
     "UNI 2024/SEM 2/COMP1350/Workshops/Attachments",
     "UNI 2024/SEM 2/COMP1350/Week 1.md",

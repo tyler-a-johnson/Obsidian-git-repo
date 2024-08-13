@@ -41,4 +41,8 @@ Relevant Links:
 ## Types of Keys
 Can be simple or composite:
 - **Simple:** Single field that uniquely identifies a record
-- **Composite:**
+- **Composite:** Involves multiple input fields to form a single unique identifier. Useful when a single field may not guarantee uniqueness but a combination does.
+
+## Indexes and Query Optimisations
+- Keys are often used as indexes in a database
+- 

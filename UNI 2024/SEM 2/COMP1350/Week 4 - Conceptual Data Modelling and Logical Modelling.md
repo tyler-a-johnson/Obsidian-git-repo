@@ -63,4 +63,8 @@ Can be simple or composite:
 ## Delete Rules
 Guidelines for handling the deletion of records in tables that have relationships with other tables. There are three common ones, these can vary by application
 1. **Restrict:** Prevents the deletion of a record on the "parent" side if related records exist on the "dependent" side. It ensures that no record can be deleted if it's connected to other records.
-2. **Ca**
+2. **Cascade:** Automates the deletion process by removing all related records on the "dependent" side when a record on the "parent" side is deleted. Keeps the database consistent by removing records that rely on deleted data.
+3. **Set-to-Null:** Sets the foreign key values in the "dependent" table to null when a record on the "parent" side is deleted. ***It's important to note that this rule is typically not suitable for weak entities, as it can lead to data integrity problems.***
+
+
+# Transforming ER Diagrams into Relati

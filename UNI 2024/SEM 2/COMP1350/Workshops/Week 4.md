@@ -46,3 +46,6 @@ You have been hired by El Gato to design the database for his business. The busi
 
 **1. Using the partially completed ERD below, complete the ERD for the business rules above.**
 ![](Attachments/Week%204_Q1V2PartialDiagram.jpeg)
+
+# Transformation
+**2. Complete a transformation of the finished ERD.**

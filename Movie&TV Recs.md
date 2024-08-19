@@ -16,4 +16,4 @@ Relevant Links:
 - 
 
 **Anime**
-- Scavenger's Reign
+- Scavenger's Reign (Netflix)

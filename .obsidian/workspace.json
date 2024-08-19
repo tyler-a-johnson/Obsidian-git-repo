@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "Movie&TV Recs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "Movie&TV Recs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "Movie&TV Recs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md"
+                "file": "Movie&TV Recs.md"
               }
             }
           },
@@ -202,9 +202,17 @@
   },
   "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
+    "Distilled Notes/Transformers (Not the funny robot).md",
+    "Distilled Notes/Ziegler Nicols PID Tuning.md",
+    "Distilled Notes/Untitled 4.md",
+    "Distilled Notes/Untitled 3.md",
+    "Distilled Notes/Untitled 2.md",
+    "Distilled Notes/Untitled 1.md",
+    "Distilled Notes/Untitled.md",
+    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+    "Distilled Notes/Untitled 5.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 4_Q1V2PartialDiagram.jpeg",
-    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (6).png",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (5).png",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (4).png",
@@ -224,7 +232,6 @@
     "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended",
-    "Distilled Notes/Untitled 5.md",
     "Distilled Notes/Database Management System.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week 2 (ER Diagrams).pdf",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week 2_inClassPrintout(1).docx",
@@ -240,15 +247,9 @@
     "UNI 2024/SEM 2/COMP1350/Untitled 1",
     "UNI 2024/SEM 2/Untitled.md",
     "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
-    "Distilled Notes/Untitled 4.md",
     "UNI 2024/SEM 1/ELEC3024/Gamers.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 3 - Driven SHM.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 2 - Damped Harmonic Motion.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 1 - Simple Harmonic Motion.md",
-    "Movie Recs.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
-    "UNI 2024/SEM 1/PHYS2010/Week 5 - Coupled SHM and Loaded Strings.md",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",

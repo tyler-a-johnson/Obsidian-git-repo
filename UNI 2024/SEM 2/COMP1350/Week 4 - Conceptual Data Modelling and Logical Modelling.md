@@ -84,21 +84,35 @@ For each weak entity in the ER model, create a relation that includes all the si
 ![](Attachments/image%20(1)%201.png)  
 ```
 
+```ad-bug
+title: Step 3: 1:1 Relationships
+
 For each 1 TO 1 Relationship identify the two relations corresponding to the entities participating in the relationship. Choose the PK of the Relation (usually the one with mandatory constraint) and make it as the foreign key of the other relation.  
 ![](Attachments/image%20(2).png)
 
-**Step 4: 1:N relationship**
-STEP 4: For each binary 1 TO N Relationship identify the relations that represent the participating entity at the N (i.e many) side of the relationship. Include as the foreign key in the relation that holds the N side, the primary key of the other entity (that holds the 1 side)  
+```
+```ad-question
+title: Step 4: 1:N Relationships
+
+For each binary 1 TO N Relationship identify the relations that represent the participating entity at the N (i.e many) side of the relationship. Include as the foreign key in the relation that holds the N side, the primary key of the other entity (that holds the 1 side)  
 ![](Attachments/image%20(3).png)
   
-**Step 5: M:N relationship**  
-STEP 5: For each binary M:N Relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the two connected entities. This is an associative entity. If there are any attributes on the relationship, then include them.  
+```
+```ad-danger
+title: Step 5: M:N Relationships
+
+For each binary M:N Relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the two connected entities. This is an associative entity. If there are any attributes on the relationship, then include them.  
 ![](Attachments/image%20(4).png)
   
-**Step 6: Multi-valued attributes**  
+```
+```ad-example
+title: Step 6: Multi-Valued Attributes
 
+**Step 6: Multi-valued attributes**  
 STEP 6: For each multivalued attribute, create a new relation that includes the multivalued attribute and the primary key of the entity where the multivalued attribute is attached.
 ![](Attachments/image%20(5).png)
+
+```
 
 **Step 7: Associative entities**  
 STEP 7: For each n-ary relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the participating entities that hold the N (many) side. In most cases of an n-ary relationship, all the participating entities hold a many side.  

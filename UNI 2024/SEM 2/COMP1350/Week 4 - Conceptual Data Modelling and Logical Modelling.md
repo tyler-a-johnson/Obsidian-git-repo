@@ -76,13 +76,17 @@ Question 1: Convert this ER diagram into relations E-R to Relational Mapping wil
 title: Step 1: Strong Entities
 collapse: open
 
-For each **strong** entity in the ER model, create a relation (i.e. a table that includes all the simple attributes). Make sure to identify the primary key for the relation (i.e. the PI of the entity becomes the PK of the table). If there is a composite attribute, you can expand them. Leave multi-valued attributes out (they will be dealt with later.)  
+- For each **strong** entity in the ER model, create a relation (i.e. a table that includes all the simple attributes). 
+- Identify the primary key for the relation (i.e. the PI of the entity becomes the PK of the table). 
+- If there is a composite attribute, you can expand them. 
+- Leave multi-valued attributes out (they will be dealt with later.)  
 ```
 ```ad-note
 title: Step 2: Weak Entities
 collapse: open
 
-For each weak entity in the ER model, create a relation that includes all the simple attributes. The primary key of the relation is the combination of the primary key/s of the ‘owner’ and the main attribute of the weak entity itself
+- For each **weak** entity in the ER model, create a relation that includes all the simple attributes. 
+- The primary key of the relation is the combination of the primary key/s of the ‘owner’ and the main attribute of the weak entity itself
 ![](Attachments/image%20(1)%201.png)  
 ```
 ```ad-bug
@@ -97,7 +101,8 @@ For each 1 TO 1 Relationship identify the two relations corresponding to the ent
 title: Step 4: 1:N Relationships
 collapse: open
 
-For each binary 1 TO N Relationship identify the relations that represent the participating entity at the N (i.e many) side of the relationship. Include as the foreign key in the relation that holds the N side, the primary key of the other entity (that holds the 1 side)  
+- For each **binary 1:N** relationship, identify the relations that represent the participating entity at the N (i.e many) side of the relationship. 
+- Include as the foreign key in the relation that holds the N side, the primary key of the other entity (that holds the 1 side)  
 ![](Attachments/image%20(3).png)
   
 ```
@@ -105,7 +110,10 @@ For each binary 1 TO N Relationship identify the relations that represent the pa
 title: Step 5: M:N Relationships
 collapse: open
 
-For each binary M:N Relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the two connected entities. This is an associative entity. If there are any attributes on the relationship, then include them.  
+- For each **binary M:N** Relationship create a new relation to represent the relationship. 
+- The primary key of the new relation is the combination of the primary keys of the two connected entities. 
+- This is an associative entity. 
+- If there are any attributes on the relationship, then include them.  
 ![](Attachments/image%20(4).png)
   
 ```
@@ -113,7 +121,7 @@ For each binary M:N Relationship create a new relation to represent the relation
 title: Step 6: Multi-Valued Attributes
 collapse: open
 
-STEP 6: For each multivalued attribute, create a new relation that includes the multivalued attribute and the primary key of the entity where the multivalued attribute is attached.
+- For each multivalued attribute, create a new relation that includes the multivalued attribute and the primary key of the entity where the multivalued attribute is attached.
 ![](Attachments/image%20(5).png)
 
 ```

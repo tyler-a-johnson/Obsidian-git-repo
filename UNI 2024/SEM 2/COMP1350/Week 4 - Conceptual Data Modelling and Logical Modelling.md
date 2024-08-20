@@ -121,7 +121,7 @@ collapse: open
 title: Step 6: Multi-Valued Attributes
 collapse: open
 
-- For each multivalued attribute, create a new relation that includes the multivalued attribute and the primary key of the entity where the multivalued attribute is attached.
+- For each **multivalued attribute**, create a new relation that includes the multivalued attribute and the primary key of the entity where the multivalued attribute is attached.
 ![](Attachments/image%20(5).png)
 
 ```
@@ -129,6 +129,8 @@ collapse: open
 title: Step 7: Associative Entities
 collapse: open
 
-For each n-ary relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the participating entities that hold the N (many) side. In most cases of an n-ary relationship, all the participating entities hold a many side.  
+- For each **n-ary relationship** create a new relation to represent the relationship. 
+- The **primary key of the new relation is the combination of the primary keys** of the participating entities **that** **hold the N (many) side**. 
+- **In most cases** of an n-ary relationship, **all the participating entities hold a many side**.  
   ![](Attachments/image%20(6).png)
 ```

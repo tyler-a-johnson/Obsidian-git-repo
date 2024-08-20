@@ -93,7 +93,8 @@ collapse: open
 title: Step 3: 1:1 Relationships
 collapse: open
 
-For each 1 TO 1 Relationship identify the two relations corresponding to the entities participating in the relationship. Choose the PK of the Relation (usually the one with mandatory constraint) and make it as the foreign key of the other relation.  
+- For each 1:1 Relationship identify the two relations corresponding to the entities participating in the relationship. 
+- Choose the PK of the Relation (usually the one with mandatory constraint) and make it as the foreign key of the other relation.  
 ![](Attachments/image%20(2).png)
 
 ```

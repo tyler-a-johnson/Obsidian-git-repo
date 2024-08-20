@@ -72,15 +72,19 @@ There is an 7-step process to transform ER diagrams into tables/relations
 Question 1: Convert this ER diagram into relations E-R to Relational Mapping will be explained here step by step.  
 ![](Attachments/image%201.png)
 
-**Step1: Strong entities**  
+```ad-important
+title: Step 1: Strong Entities
 
-STEP 1: For each entity in the ER model, create a relation (i.e. a table that includes all the simple attributes). Make sure to identify the primary key for the relation (i.e. the PI of the entity becomes the PK of the table). If there is a composite attribute, you can expand them. Leave multi-valued attributes out (they will be dealt with later.)  
+For each entity in the ER model, create a relation (i.e. a table that includes all the simple attributes). Make sure to identify the primary key for the relation (i.e. the PI of the entity becomes the PK of the table). If there is a composite attribute, you can expand them. Leave multi-valued attributes out (they will be dealt with later.)  
+```
+```ad-note
+title: Step 2: Weak Entities
 
-**Step 2: Weak Entities**  
-STEP 2: For each weak entity in the ER model, create a relation that includes all the simple attributes. The primary key of the relation is the combination of the primary key/s of the ‘owner’ and the main attribute of the weak entity itself  
-![](Attachments/image%20(1)%201.png)
-**Step 3: 1:1 relationship**  
-STEP 3: For each 1 TO 1 Relationship identify the two relations corresponding to the entities participating in the relationship. Choose the PK of the Relation (usually the one with mandatory constraint) and make it as the foreign key of the other relation.  
+For each weak entity in the ER model, create a relation that includes all the simple attributes. The primary key of the relation is the combination of the primary key/s of the ‘owner’ and the main attribute of the weak entity itself
+![](Attachments/image%20(1)%201.png)  
+```
+
+For each 1 TO 1 Relationship identify the two relations corresponding to the entities participating in the relationship. Choose the PK of the Relation (usually the one with mandatory constraint) and make it as the foreign key of the other relation.  
 ![](Attachments/image%20(2).png)
 
 **Step 4: 1:N relationship**

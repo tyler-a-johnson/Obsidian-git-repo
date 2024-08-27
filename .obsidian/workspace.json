@@ -11,9 +11,12 @@
             "id": "0284dd1f3148edcf",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -111,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Schedule.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md"
               }
             }
           },
@@ -200,6 +202,8 @@
   },
   "active": "0284dd1f3148edcf",
   "lastOpenFiles": [
+    "Kanban Schedule.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 5/sender.sql",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 5",
@@ -233,7 +237,6 @@
     "UNI 2024/SEM 2/COMP1350/Attachments",
     "Resources/Templates/File Properties - Lecture Notes.md",
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
-    "Kanban Schedule.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 2.md",
     "UNI 2024/SEM 2/COMP1350/Workshops",
     "UNI 2024/SEM 2/COMP2200/Attachments/Lecture Week 1 (2024-S2).slides.html",

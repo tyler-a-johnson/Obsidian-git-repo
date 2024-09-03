@@ -17,16 +17,6 @@ Relevant Links:
 | CREATE, DROP, ALTER, TRUNCATE              | INSERT, DELETE, UPDATE               |
 # Data Querying Language (DQL)
 
-**Syntax to query data (SELECT statement)**
-
-**SELECT column-name <, column-name...>  
-FROM table-name**  
-<**WHERE** criteria>  
-<**GROUP BY** column-name <, column-name...>>  
-<**HAVING** aggregate-criteria>  
-<**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
-**;**
-
 Note:
 - <> pairs are to indicate optional elements and not to be used in actual SQL statements
 Run **[this](https://ilearn.mq.edu.au/pluginfile.php/9303122/mod_book/chapter/351312/week6_script.sql "this")** script to create the IMDB schema. 
@@ -328,3 +318,105 @@ The **ORDER BY** clause can be used to sort the records in ascending (A to Z or
         FROM Director  
         **ORDER BY** DirectorIsActive DESC, DirectorName ASC   
         ;
+
+# Functions - Non-aggregate
+There are two types of SQL functions: 
+
+1. **non-aggregate functions**  
+    These are functions that operate on individual values only (a single record).
+2. **aggregate functions**  
+    These are functions that operate on multiple records and create a summary.
+
+This week, the focus is on non-aggregate functions only.
+
+A few commonly used non-aggregate functions:
+
+## Numeric functions
+
+    - **ROUND**(number <, decimal>) - round the number to the nearest specified decimal places (if the decimal is not specified, the default is 0 decimal places)  
+        Examples: 
+        - ROUND(Salary)
+        - ROUND(Salary, 1)
+    - **FLOOR**(number) - round down the number to the nearest whole number   
+        Example:  
+        - FLOOR(Salary)
+    - **CEILING**(number) - round up the number to the nearest whole number  
+        Example:  
+        - CEILING(Salary)
+    - **ABS**(number) - extract the absolute number (disregard positive or negative)  
+        Example:  
+        
+    
+    - ABS(DirectorNumMovies-10)  
+          
+        
+    
+- **String functions**
+    - **CONCAT**(string1, string2 <, string3...>) - combine multiple strings together  
+        Example: 
+        - CONCAT("$ ", Salary, " thousands")
+    - **UPPER**(string) - convert the string to all uppercase  
+        Example:
+        - UPPER(DirectorName)
+    - **LOWER**(string) - convert the string to all lowercase  
+        Example:
+        - LOWER(DirectorName)
+    - **TRIM**(string) - trim any leading and trailing whitespace  
+        Example:
+        - TRIM(DirectorName)
+    - **LENGTH**(string) - get the length of the string  
+        Example:
+        - LENGTH(DirectorName)
+    - **LEFT**(string, number-of-characters) - grab the string from the first character for the specified number of characters  
+        Example:
+        - LEFT(DirectorName, 3)
+    - **RIGHT**(string, number-of-characters) - grab the string from the last character for the specified number of characters  
+        Example:
+        - RIGHT(DirectorName, 5)
+    - **MID**(string, start, number-of-characters) - grab the string from the specified start position for the specified number of characters  
+        Example:
+        
+        - MID(DirectorName, 5, 4)
+        
+          
+        
+- **Date functions**
+    - **NOW**() - provide the current date and time
+    - **CURDATE**() - provide the current date
+    - **DAY**(date) - extract the day of a date  
+        Example:
+        - DAY(DirectorDOB)
+    - **MONTH**(date) - extract the month of a date  
+        Example:  
+        - MONTH(CURDATE())
+    - **YEAR**(date) - extract the year of a date  
+        Example:  
+        - YEAR(NOW())
+    - **DATEDIFF**(date1, date2) - the number of days between the two dates (date1 - date2)  
+        Example:  
+        - DATEDIFF(CURDATE(), DirectorDOB)
+    - **DATE_FORMAT**(date, format)  
+        Example:  
+        - DATE_FORMAT(DirectorDOB, '%D of %M, %Y')
+
+More functions information is available at [MySQL Functions](https://www.w3schools.com/mysql/mysql_ref_functions.asp)
+
+Sample usage in queries:
+
+- Display the names of the directors with the names of the day they were born.  
+    **SELECT** DirectorName, **DATE_FORMAT**(DirectorDOB, '%W')  
+    **FROM** Director  
+    ;  
+      
+    
+- Display the names of the directors with their birth year in a sentence.  
+    **SELECT CONCAT**(DirectorName, ' was born in ', **YEAR**(DirectorDOB))  
+    **FROM** Director  
+    ;  
+      
+    
+- Display the directors who were born between the years 1950 and 1975  
+    **SELECT** *  
+    **FROM** Director  
+    **WHERE** **YEAR**(DirectorDOB) BETWEEN 1950 AND 1975  
+    ;

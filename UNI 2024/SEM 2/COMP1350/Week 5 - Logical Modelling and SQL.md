@@ -59,25 +59,23 @@ There are no weak entities.
 There are no one to one relationships.
 
 *Step 4: One to many relationships*
-- Staff (StaffID (PK), StaffName, StaffPhone, StaffAddress, StaffEmail, DepartmentID (FK))
+- Staff (**StaffID (PK)**, StaffName, StaffPhone, StaffAddress, StaffEmail, DepartmentID (FK))
 
-**Step 5: Many to many relationships**
-- Enrolls(StudentID (PK, FK), UnitCode (PK, FK), Date, Time)
-- Teaches(StaffID (PK, FK), UnitCode (PK, FK))
+*Step 5: Many to many relationships*
+- Enrolls(**StudentID (PK, FK)**, UnitCode (PK, FK), Date, Time)
+- Teaches(**StaffID (PK, FK)**, UnitCode (PK, FK))
 
-**Step 6: MVA**
+*Step 6: MVA*
  There are no multi-valued attributes.
 
-**Step 7: Ternary relationships**
+*Step 7: Ternary relationships*
  There are no ternary relationships.
 
   
-**Final Tables  
-**  
-
-- Student (StudentID(PK), StudentName, StudentPhone, StudentAddress, StudentEmail)
-- Unit (UnitCode(PK), UnitName, UnitOffering)
-- Department (DeptID(PK), DeptName, DeptDesc)
-- Staff (StaffID(PK), StaffName, StaffPhone, StaffAddress, StaffEmail, DepartmentID(FK))
-- Enrols (StudentID(PK, FK), UnitCode(PK, FK), Date, Time)
-- Teaches (StaffID(PK, FK), UnitCode(PK, FK))
+*Final Tables  *  
+- Student (**StudentID(PK),** StudentName, StudentPhone, StudentAddress, StudentEmail)
+- Unit (**UnitCode(PK)**, UnitName, UnitOffering)
+- Department (**DeptID(PK)**, DeptName, DeptDesc)
+- Staff (**StaffID(PK),** StaffName, StaffPhone, StaffAddress, StaffEmail, *DepartmentID(FK)*)
+- Enrols (***StudentID(PK, FK)***, ***UnitCode(PK, FK)***, Date, Time)
+- Teaches(***StaffID(PK, FK),*** ***UnitCode(PK, FK))***

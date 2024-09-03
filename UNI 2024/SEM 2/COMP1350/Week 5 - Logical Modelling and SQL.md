@@ -43,3 +43,41 @@ More SQL data types can be found [here](https://www.w3schools.com/sql/sql_dataty
 | Case sensitive?    | Yes **table** names are case sensitive. Be very careful during Create Table phase.  <br>  <br>Column names and data are not case sensitive. | Not case sensitive.                                                                                 |
 | Reliable?          | For the most part, yes. But can become problematic nearing assignment submission dates when many students are connected.                    | No down time.                                                                                       |
 
+# ERD to Schema Example
+![800](Attachments/Week5_ExtraQuestion.jpeg)
+
+*Step 1: Strong Entities*
+- Student (**StudentID(PK)**, StudentName, StudentPhone, StudentAddress, StudentEmail)
+- Unit (**UnitCode(PK)**, UnitName, UnitOffering)
+- Staff (**StaffID(PK),** StaffName, StaffPhone, StaffAddress, StaffEmail)
+- Department (**DeptID(PK)**, DeptName, DeptDesc)
+
+*Step 2: Weak Entities*
+There are no weak entities.
+
+*Step 3: One to one relationships*
+There are no one to one relationships.
+
+*Step 4: One to many relationships*
+- Staff (StaffID (PK), StaffName, StaffPhone, StaffAddress, StaffEmail, DepartmentID (FK))
+
+**Step 5: Many to many relationships**
+- Enrolls(StudentID (PK, FK), UnitCode (PK, FK), Date, Time)
+- Teaches(StaffID (PK, FK), UnitCode (PK, FK))
+
+**Step 6: MVA**
+ There are no multi-valued attributes.
+
+**Step 7: Ternary relationships**
+ There are no ternary relationships.
+
+  
+**Final Tables  
+**  
+
+- Student (StudentID(PK), StudentName, StudentPhone, StudentAddress, StudentEmail)
+- Unit (UnitCode(PK), UnitName, UnitOffering)
+- Department (DeptID(PK), DeptName, DeptDesc)
+- Staff (StaffID(PK), StaffName, StaffPhone, StaffAddress, StaffEmail, DepartmentID(FK))
+- Enrols (StudentID(PK, FK), UnitCode(PK, FK), Date, Time)
+- Teaches (StaffID(PK, FK), UnitCode(PK, FK))

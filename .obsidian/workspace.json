@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md"
               }
             }
           },
@@ -202,10 +202,12 @@
   },
   "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
-    "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
-    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
+    "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
+    "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
+    "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
+    "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week5_DDL_Schema.jpeg",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week5_ExtraQuestion_Schema.jpeg",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week5_ExtraQuestion.jpeg",
@@ -220,7 +222,6 @@
     "UNI 2024/SEM 2/COMP1350/Attachments/Lecture_Week_3.slides.html",
     "UNI 2024/SEM 2/COMP1350/Attachments/Lecture_Week_3.ipynb",
     "UNI 2024/SEM 2/COMP1350/Attachments/Lecture_Week_3.html",
-    "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
     "conflict-files-obsidian-git.md",
     "Movie&TV Recs.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",

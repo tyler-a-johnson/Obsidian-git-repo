@@ -31,9 +31,18 @@ Relevant Links:
 - **Model Evaluation** how will you know if you've succeeded? Evaluation of the model with respect to business needs - are the predictions accurate enough to help the business?
 - **Deployment** is this a one off analysis that generates a report or a model that will be used repeatedly in some kind of production environment? Does it need to be updated as new data becomes available?
 - [7 Fundamental Steps to Complete a Data Analytics Project](https://blog.dataiku.com/2019/07/04/fundamental-steps-data-project-success)
-
 ## Data Understanding
 - Collecting data
 - Describing data
 - Exploring data
 - Verifying data quality
+
+## Data Cleaning
+ * Data Quality (validity, accuracy, completeness, consistency, uniformity)
+ * The workflow 
+     * Inspection (data profiling, visualizations, software packages)
+     * Cleaning (irrelevant data, duplicates, type conver., syntax errors, 6 more)
+     * Verifying
+     * Reporting
+[The Ultimate Guide to Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) from Toward Data Science.
+

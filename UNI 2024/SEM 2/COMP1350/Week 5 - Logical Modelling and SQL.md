@@ -35,3 +35,11 @@ Currently used in many software products to retrieve and update data – E.g., M
 | DATE (YYYY-MM-DD)  | DATE         | 2022-08-27 |
 More SQL data types can be found [here](https://www.w3schools.com/sql/sql_datatypes.asp).
 
+# SQL Servers: ASH vs Local
+|                    | Ash Server                                                                                                                                  | Local                                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Connecting         | Server is already set up. Follow guides for connecting.                                                                                     | Must be installed onto device. Follow guides for installation.                                      |
+| Can create schema? | No. Each connection to the ash server is only allowed 1 schema. The schema will be named as your **studentID**.                             | Can create as many schemas. Need to use 'create schema **_schemaName_**' and 'use **_schemaName_**' |
+| Case sensitive?    | Yes **table** names are case sensitive. Be very careful during Create Table phase.  <br>  <br>Column names and data are not case sensitive. | Not case sensitive.                                                                                 |
+| Reliable?          | For the most part, yes. But can become problematic nearing assignment submission dates when many students are connected.                    | No down time.                                                                                       |
+

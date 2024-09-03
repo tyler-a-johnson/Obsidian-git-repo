@@ -143,3 +143,39 @@ foreign key(column2) references Table1(columnA)
 The SQL script for creating these 2 tables can be found [here](https://ilearn.mq.edu.au/pluginfile.php/9245429/mod_book/chapter/347901/Week5_Notes_DDLscript.sql?time=1723803366789).
 
 # Data Manipulation Language (DML)
+**INSERT**
+- Create a new row within a table
+
+**DELETE**
+- Remove existing records within a table
+
+**UPDATE**
+- Modify the existing records in a table.
+
+**ORDER BY**
+- Sorts a column in ascending or descending order.
+
+## Syntax
+**Insert Values**
+- _insert into **TableName** values (value1, value2, value3, ...);_
+- **Note:** the values must be listed in the same order as the columns.
+- An alternative method of inserting values can be found [here](https://www.w3schools.com/sql/sql_insert.asp) underneath '**Insert Multiple Rows**'
+- Data can also be inserted into specified columns. For example:
+
+_insert into **tableName** (column1, column2, column3)_
+_values (value1, value2, value3);_
+
+
+**Delete Values**  
+- This keyword is more so used to target a specific row. To delete all values in a table, **truncate** can be used.
+- _**Example:** delete from Customers where CustomerName = 'Bob'_ 
+- The above command will delete Bob's record from the customer table.
+
+**Update Values**
+_update_ _**tableName**_ 
+_set **columnName** = **value**_
+_where **condition**_
+
+Further examples can be found [here](https://www.w3schools.com/sql/sql_update.asp).
+
+# Data Querying Language (DQL)

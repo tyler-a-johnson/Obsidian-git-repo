@@ -19,7 +19,7 @@
 	- **FOSE3000 Video presentation**
 		- **Adobe Premiere Pro Auto-Save**
 
-	- [[Week 5]]
+	- [[FOSE3000/Week 5]]
 	- [[FOSE3000/Week 6]]
 	- [[Week 7]]
 	- [[Week 8]]

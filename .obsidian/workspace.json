@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 5.md"
               }
             }
           },
@@ -202,10 +202,11 @@
   },
   "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 2/COMP1350/Week 3.md",
-    "UNI 2024/SEM 2/COMP1350/Week 2.md",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+    "UNI 2024/SEM 2/COMP1350/Week 5.md",
+    "UNI 2024/SEM 2/COMP1350/Week 2.md",
+    "UNI 2024/SEM 2/COMP1350/Week 3.md",
+    "conflict-files-obsidian-git.md",
     "Movie&TV Recs.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 5/sender.sql",
@@ -248,7 +249,6 @@
     "UNI 2024/SEM 2/COMP1350/Workshops",
     "UNI 2024/SEM 2/COMP2200/Attachments/Lecture Week 1 (2024-S2).slides.html",
     "UNI 2024/SEM 2/COMP2200/Attachments",
-    "UNI 2024/SEM 2/Untitled.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",

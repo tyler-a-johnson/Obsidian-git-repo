@@ -145,54 +145,9 @@ FROM table-name**
 Depending on the data type contained in the column the behaviour may differ. The commonly used operators in the criteria are:
 
 - **=** for equal to (exact match)
-    - Sample for string/date column (VARCHAR, CHAR, DATE, etc.)  
-        SELECT *  
-        FROM Director  
-        **WHERE** DirectorID = 'D1'  
-        ;  
-        
-    - Sample for numeric column (INT, DECIMAL, etc.)  
-        SELECT *  
-        FROM Director  
-        **WHERE** DirectorNumMovies = 4  
-        ;  
-        
 - **<>** or **!=** for not equal to  
-    - Sample for string/date column (VARCHAR, CHAR, DATE, etc.)  
-        SELECT *  
-        FROM Director  
-        **WHERE** DirectorID <> 'D1'  
-        ;  
-    - Sample for numeric column (INT, DECIMAL, etc.)  
-        SELECT *  
-        FROM Director  
-        **WHERE** DirectorNumMovies != 4  
-        ;  
-        
 - **>** for greater than (exclusive) or **>=** for greater than or equal to (inclusive)   
-    - Sample for string/date column (VARCHAR, CHAR, DATE, etc.)  
-        SELECT *  
-        FROM Director  
-        **WHERE** DirectorDOB >= '1980-01-01'  
-        ;  
-    - Sample for numeric column (INT, DECIMAL, etc.)  
-        SELECT *  
-        FROM Director  
-        **WHERE** Salary > 350  
-        ;  
-        
 - **<** for less than (exclusive) or **<=** for less than or equal to (inclusive)  
-    - Sample for string/date column (VARCHAR, CHAR, DATE, etc.)  
-        SELECT *  
-        FROM Director  
-        **WHERE** DirectorName < 'D'  
-        ;  
-        
-    - Sample for numeric column (INT, DECIMAL, etc.)  
-        SELECT *  
-        FROM Director  
-        **WHERE** DirectorNumMovies <= 4  
-        ;  
         
 - ***LIKE** for pattern matching for string type columns using operators '%' and/or ''*  
     
@@ -211,7 +166,7 @@ Depending on the data type contained in the column the behaviour may differ. The
     - Sample for matching strings with a length of 5 characters  
         SELECT *  
         FROM Director  
-        **WHERE** DirectorName LIKE '_____'  
+        **WHERE** DirectorName LIKE  ``` '_____' ```  
         ;  
         
     - Sample for matching strings containing a space anywhere and of any length  

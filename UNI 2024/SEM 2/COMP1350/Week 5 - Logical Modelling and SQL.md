@@ -203,8 +203,8 @@ _select columnName_
 _from tableName_
 _**where condition**;_
 
-  
-WHERE Operators
+
+### WHERE Operators
 
 | Operator                                     | Description                                            |
 | -------------------------------------------- | ------------------------------------------------------ |
@@ -217,8 +217,5 @@ WHERE Operators
 | Column Name BETWEEN Value1 AND Value2        | Between a certain range                                |
 | Column Name LIKE 'a%'                        | Search for a pattern e.g. Starting with the letter 'a' |
 | Column Name IN (Value1, Value2, Value3)      | To specify multiple possible values for a column       |
-|                                              |                                                        |
-
-  
-  
 Further examples can be found under [SQL Tutorial](https://www.w3schools.com/sql/default.asp).
+

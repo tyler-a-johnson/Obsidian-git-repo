@@ -72,10 +72,12 @@ There are no one to one relationships.
  There are no ternary relationships.
 
   
-*Final Tables  *  
+*Final Tables*  
 - Student (**StudentID(PK),** StudentName, StudentPhone, StudentAddress, StudentEmail)
 - Unit (**UnitCode(PK)**, UnitName, UnitOffering)
 - Department (**DeptID(PK)**, DeptName, DeptDesc)
 - Staff (**StaffID(PK),** StaffName, StaffPhone, StaffAddress, StaffEmail, *DepartmentID(FK)*)
 - Enrols (***StudentID(PK, FK)***, ***UnitCode(PK, FK)***, Date, Time)
 - Teaches(***StaffID(PK, FK),*** ***UnitCode(PK, FK))***
+![1200](Attachments/Week5_ExtraQuestion_Schema.jpeg)
+

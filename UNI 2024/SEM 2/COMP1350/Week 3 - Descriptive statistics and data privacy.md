@@ -8,3 +8,7 @@ Relevant Notes:
 Relevant Links:
 ---
 **Lecture Slides:**
+[Lecture Week 3 html](Attachments/Lecture_Week_3.html)
+[Lecture Week 3 ipynb](Attachments/Lecture_Week_3.ipynb)
+[Lecture Slides html](Attachments/Lecture_Week_3.slides.html)
+

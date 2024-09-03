@@ -32,3 +32,8 @@ Relevant Links:
 - **Deployment** is this a one off analysis that generates a report or a model that will be used repeatedly in some kind of production environment? Does it need to be updated as new data becomes available?
 - [7 Fundamental Steps to Complete a Data Analytics Project](https://blog.dataiku.com/2019/07/04/fundamental-steps-data-project-success)
 
+## Data Understanding
+- Collecting data
+- Describing data
+- Exploring data
+- Verifying data quality

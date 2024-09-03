@@ -4,7 +4,7 @@ tags:
 status: Incomplete
 Relevant Questions: 
 Relevant Notes:
-  - "[[../Week 3 - Descriptive statistics and data privacy|Week 3 - Descriptive statistics and data privacy]]"
+  - "[[../Week 3 - Conceptual Data Modelling|Week 3 - Conceptual Data Modelling]]"
 Relevant Links: 
 ---
 # Example

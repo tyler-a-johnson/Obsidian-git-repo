@@ -21,7 +21,8 @@ Relevant Links:
 - As a **methodology**, CRISP-DM includes descriptions of the typical phases of a project, the tasks involved with each phase, and an explanation of the relationships between these tasks.
 - As a **process model**, CRISP-DM provides an overview of the data mining life cycle.
 
-## CRISP-DM model is flexible and can be customised
+**CRISP-DM model is flexible and can be customised**
 - Example 1: **Detecting money laundering**
-  This task mainly focus on data exploration and visualisation to uncover suspicious patterns in data
+	- This task mainly focus on data exploration and visualisation to uncover suspicious patterns in data
 - Example 2: [AI-based animal recognition](https://siwalusoftware.com/)
+

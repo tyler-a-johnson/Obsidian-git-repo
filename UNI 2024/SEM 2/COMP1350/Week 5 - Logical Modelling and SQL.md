@@ -81,3 +81,5 @@ There are no one to one relationships.
 - Teaches(***StaffID(PK, FK),*** ***UnitCode(PK, FK))***
 ![1200](Attachments/Week5_ExtraQuestion_Schema.jpeg)
 
+
+# Data Definition Language (DDL)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 5.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 3 - Descriptive statistics and data privacy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 5.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 3 - Descriptive statistics and data privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 5.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 3 - Descriptive statistics and data privacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 5.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 3 - Descriptive statistics and data privacy.md"
               }
             }
           },
@@ -202,10 +202,11 @@
   },
   "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 5 - Regression and Data Science Ethics.md",
+    "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
+    "UNI 2024/SEM 2/COMP1350/Week 3 - Descriptive statistics and data privacy.md",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
-    "UNI 2024/SEM 2/COMP1350/Week 5.md",
-    "UNI 2024/SEM 2/COMP1350/Week 2.md",
-    "UNI 2024/SEM 2/COMP1350/Week 3.md",
     "conflict-files-obsidian-git.md",
     "Movie&TV Recs.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
@@ -234,7 +235,6 @@
     "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Attachments",
-    "UNI 2024/SEM 2/COMP1350/Week 1.md",
     "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended",

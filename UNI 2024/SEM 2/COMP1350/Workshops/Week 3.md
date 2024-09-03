@@ -4,8 +4,8 @@ tags:
 status: Incomplete
 Relevant Questions: 
 Relevant Notes:
-  - "[[../Week 3|Week 3]]"
-Relevant Links:
+  - "[[../Week 3 - Descriptive statistics and data privacy|Week 3 - Descriptive statistics and data privacy]]"
+Relevant Links: 
 ---
 # Example
 Old Man Shuckle owns a Michelin star restaurant chain that specialises in dishes made from magikarp. These restaurants are built next to various lakes and rivers that magikarps inhabit. Up until now he has been taking cash only payments to avoid paying taxes. However, the ATO has come knocking on his door and he is forced to start doing things by the books. You have offered to help Old Man Shuckle create his ERD.   

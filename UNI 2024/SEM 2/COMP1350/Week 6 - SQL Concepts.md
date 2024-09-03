@@ -335,8 +335,8 @@ A few commonly used non-aggregate functions:
 
 - **ROUND**(number <, decimal>) - round the number to the nearest specified decimal places (if the decimal is not specified, the default is 0 decimal places)  
         Examples: 
-        - ROUND(Salary)
-        - ROUND(Salary, 1)
+	- ROUND(Salary)
+	- ROUND(Salary, 1)
 - **FLOOR**(number) - round down the number to the nearest whole number   
         Example:  
 	- FLOOR(Salary)
@@ -351,48 +351,47 @@ A few commonly used non-aggregate functions:
  
 - **CONCAT**(string1, string2 <, string3...>) - combine multiple strings together  
         Example: 
-        - CONCAT("$ ", Salary, " thousands")
-    - **UPPER**(string) - convert the string to all uppercase  
+	- CONCAT("$ ", Salary, " thousands")
+- **UPPER**(string) - convert the string to all uppercase  
         Example:
-        - UPPER(DirectorName)
-    - **LOWER**(string) - convert the string to all lowercase  
+	- UPPER(DirectorName)
+- **LOWER**(string) - convert the string to all lowercase  
         Example:
-        - LOWER(DirectorName)
-    - **TRIM**(string) - trim any leading and trailing whitespace  
+	- LOWER(DirectorName)
+- **TRIM**(string) - trim any leading and trailing whitespace  
         Example:
-        - TRIM(DirectorName)
-    - **LENGTH**(string) - get the length of the string  
+	- TRIM(DirectorName)
+- **LENGTH**(string) - get the length of the string  
         Example:
-        - LENGTH(DirectorName)
-    - **LEFT**(string, number-of-characters) - grab the string from the first character for the specified number of characters  
+	- LENGTH(DirectorName)
+- **LEFT**(string, number-of-characters) - grab the string from the first character for the specified number of characters  
         Example:
-        - LEFT(DirectorName, 3)
-    - **RIGHT**(string, number-of-characters) - grab the string from the last character for the specified number of characters  
+	- LEFT(DirectorName, 3)
+- **RIGHT**(string, number-of-characters) - grab the string from the last character for the specified number of characters  
         Example:
-        - RIGHT(DirectorName, 5)
-    - **MID**(string, start, number-of-characters) - grab the string from the specified start position for the specified number of characters  
+	- RIGHT(DirectorName, 5)
+-  **MID**(string, start, number-of-characters) - grab the string from the specified start position for the specified number of characters  
         Example:
-        
-        - MID(DirectorName, 5, 4)
+	- MID(DirectorName, 5, 4)
         
           
         
 - **Date functions**
-    - **NOW**() - provide the current date and time
-    - **CURDATE**() - provide the current date
-    - **DAY**(date) - extract the day of a date  
+- **NOW**() - provide the current date and time
+- **CURDATE**() - provide the current date
+- **DAY**(date) - extract the day of a date  
         Example:
         - DAY(DirectorDOB)
-    - **MONTH**(date) - extract the month of a date  
+- **MONTH**(date) - extract the month of a date  
         Example:  
         - MONTH(CURDATE())
-    - **YEAR**(date) - extract the year of a date  
+- **YEAR**(date) - extract the year of a date  
         Example:  
         - YEAR(NOW())
-    - **DATEDIFF**(date1, date2) - the number of days between the two dates (date1 - date2)  
+- **DATEDIFF**(date1, date2) - the number of days between the two dates (date1 - date2)  
         Example:  
         - DATEDIFF(CURDATE(), DirectorDOB)
-    - **DATE_FORMAT**(date, format)  
+- **DATE_FORMAT**(date, format)  
         Example:  
         - DATE_FORMAT(DirectorDOB, '%D of %M, %Y')
 

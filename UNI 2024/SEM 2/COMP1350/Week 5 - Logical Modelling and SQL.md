@@ -6,7 +6,8 @@ Relevant Questions:
 Relevant Notes: 
 Relevant Links:
 ---
-**Lecture Slides:** [Log in to the site | iLearn](https://ilearn.mq.edu.au/mod/book/view.php?id=8329616)
+[Lecture Notes](https://ilearn.mq.edu.au/mod/book/view.php?id=8329616)
+[ER Diagrams](Attachments/Lecture%202%20(contd)-%20ER%20Diagrams%201.pdf)
 
 1. Structured Query Language (SQL)
 2. Data Definition Language (DDL)

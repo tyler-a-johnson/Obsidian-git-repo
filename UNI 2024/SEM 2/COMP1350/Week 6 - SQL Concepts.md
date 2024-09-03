@@ -90,13 +90,14 @@ SELECT DISTINCT DirectorFavouriteFood
 FROM Director  
 ;
 
-The **AS** keyword can be used to create an alias for the column name, which will be displayed in the query result instead of the original column name.
+*The **AS** keyword can be used to create an alias for the column name, which will be displayed in the query result instead of the original column name.*
 
 SELECT DirectorName **AS** Name, DirectorIsActive **AS** Status  
 FROM Director  
 ;
 
 # The FROM clause
+
 **SELECT column-name <, column-name...>  
 FROM table-name**  
 <**WHERE** criteria>  
@@ -105,35 +106,148 @@ FROM table-name**
 <**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
 **;**
 
-  
-
-The **FROM** clause is where the selection of source tables is provided.
+*The **FROM** clause is where the selection of source tables is provided.*
 
 Options:
-
 - single table  
-    
     SELECT *  
     **FROM** Director  
     ;  
     
 - multiple tables  
-    
     SELECT *  
     **FROM** Director, Movie  
     ;  
     
 - multiple tables with JOIN clause  
-    
     SELECT *  
     **FROM** Director JOIN Movie ON Director.DirectorID = Movie.DirectorID  
     ;  
     
 
-  
-
-The **AS** keyword can be used to create an alias for the table name, which then can be used in the query instead of the original table name.
+*The **AS** keyword can be used to create an alias for the table name, which then can be used in the query instead of the original table name.*
 
 SELECT *  
 **FROM** Director AS d JOIN Movie AS m ON d.DirectorID = m.DirectorID  
 ;
+
+# The WHERE clause
+**SELECT column-name <, column-name...>  
+FROM table-name**  
+<**WHERE** criteria>  
+<**GROUP BY** column-name <, column-name...>>  
+<**HAVING** aggregate-criteria>  
+<**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
+**;**
+
+*The **WHERE** clause is an optional clause that can be used to provide record selection criteria or filtering mechanisms.*
+
+Depending on the data type contained in the column the behaviour may differ. The commonly used operators in the criteria are:
+
+- **=** for equal to (exact match)
+    - Sample for string/date column (VARCHAR, CHAR, DATE, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorID = 'D1'  
+        ;  
+        
+    - Sample for numeric column (INT, DECIMAL, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorNumMovies = 4  
+        ;  
+        
+- **<>** or **!=** for not equal to  
+    - Sample for string/date column (VARCHAR, CHAR, DATE, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorID <> 'D1'  
+        ;  
+    - Sample for numeric column (INT, DECIMAL, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorNumMovies != 4  
+        ;  
+        
+- **>** for greater than (exclusive) or **>=** for greater than or equal to (inclusive)   
+    - Sample for string/date column (VARCHAR, CHAR, DATE, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorDOB >= '1980-01-01'  
+        ;  
+    - Sample for numeric column (INT, DECIMAL, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** Salary > 350  
+        ;  
+        
+- **<** for less than (exclusive) or **<=** for less than or equal to (inclusive)  
+    - Sample for string/date column (VARCHAR, CHAR, DATE, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorName < 'D'  
+        ;  
+        
+    - Sample for numeric column (INT, DECIMAL, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorNumMovies <= 4  
+        ;  
+        
+- ***LIKE** for pattern matching for string type columns using operators '%' and/or ''*  
+    
+    - Sample for matching strings beginning with the letter 'A' of any length  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorName LIKE 'A%'  
+        ;  
+        
+    - Sample for matching strings ending with the string 'nt' of any length  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorName LIKE '%nt'  
+        ;  
+        
+    - Sample for matching strings with a length of 5 characters  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorName LIKE '_____'  
+        ;  
+        
+    - Sample for matching strings containing a space anywhere and of any length  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorName LIKE '% %'  
+        ;  
+        
+    - Sample for matching strings with the letter 'a' in the second character of any length  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorName LIKE '_a%'  
+        ;  
+        
+- **BETWEEN** for values between a range (inclusive)
+    - Sample for string/date column (VARCHAR, CHAR, DATE, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorDOB BETWEEN '1970-01-01' AND '1985-12-31'  
+        ;  
+        
+    - Sample for numeric column (INT, DECIMAL, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorNumMovies BETWEEN 5 AND 20  
+        ;  
+        
+- **IN** for equal to one of the possible values listed
+    - Sample for string/date column (VARCHAR, CHAR, DATE, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorID IN ('D1', 'D5', 'D6')  
+        ;  
+        
+    - Sample for numeric column (INT, DECIMAL, etc.)  
+        SELECT *  
+        FROM Director  
+        **WHERE** DirectorNumMovies IN (4, 8, 12)  
+        ;

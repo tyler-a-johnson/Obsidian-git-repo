@@ -116,47 +116,27 @@ _alter table **tableName**_
 
 _drop **columnName**;_
 
-  
-
-  
-  
-**Create Table Example**  
-
-  
-
+## **Create Table Example**  
 create table **Table1**(
-
 columnA _datatype_,
-
 columnB datatype,
-
 columnC datatype,
-
 ...
-
 primary key (columnA)
-
 );
 
+
 create table **Table2**(
-
 column1 datatype,
-
 column2 _datatype_,
-
 column3 datatype,
-
 …
-
 primary key (column1),
-
 foreign key(column2) references Table1(columnA)
-
   );
 
   
-
-##### ** Notice that **Table2 column2** references **Table1 columnA**. For this to work, the 2 columns **must** be of the same data type. **
+***Notice that **Table2 column2** references **Table1 columnA**. For this to work, the 2 columns **must** be of the same data type.***
 
   
 

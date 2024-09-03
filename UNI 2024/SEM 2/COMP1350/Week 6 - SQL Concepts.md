@@ -15,7 +15,7 @@ Relevant Links:
 | ------------------------------------------ | ------------------------------------ |
 | Determine the database and table structure | Manage the data (records) of a table |
 | CREATE, DROP, ALTER, TRUNCATE              | INSERT, DELETE, UPDATE               |
-## Data Querying Language (DQL)
+# Data Querying Language (DQL)
 
 **Syntax to query data (SELECT statement)**
 
@@ -57,7 +57,10 @@ FROM Director
 
 
 
-# The SELECT clause
+## The SELECT clause
+```ad-danger
+title: SELECT clause
+
 **SELECT column-name <, column-name...>  
 FROM table-name**  
 <**WHERE** criteria>  
@@ -65,6 +68,7 @@ FROM table-name**
 <**HAVING** aggregate-criteria>  
 <**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
 **;**
+```
 
 The **SELECT** clause is where the selection of columns is provided.
 
@@ -96,7 +100,9 @@ SELECT DirectorName **AS** Name, DirectorIsActive **AS** Status
 FROM Director  
 ;
 
-# The FROM clause
+## The FROM clause
+```ad-summary
+title: FROM clause
 
 **SELECT column-name <, column-name...>  
 FROM table-name**  
@@ -105,6 +111,7 @@ FROM table-name**
 <**HAVING** aggregate-criteria>  
 <**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
 **;**
+```
 
 *The **FROM** clause is where the selection of source tables is provided.*
 
@@ -131,7 +138,10 @@ SELECT *
 **FROM** Director AS d JOIN Movie AS m ON d.DirectorID = m.DirectorID  
 ;
 
-# The WHERE clause
+## The WHERE clause
+```ad-important
+title: WHERE clause
+
 **SELECT column-name <, column-name...>  
 FROM table-name**  
 <**WHERE** criteria>  
@@ -139,6 +149,7 @@ FROM table-name**
 <**HAVING** aggregate-criteria>  
 <**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
 **;**
+```
 
 *The **WHERE** clause is an optional clause that can be used to provide record selection criteria or filtering mechanisms.*
 
@@ -207,7 +218,10 @@ Depending on the data type contained in the column the behaviour may differ. The
         **WHERE** DirectorNumMovies IN (4, 8, 12)  
         ;
 
-## Multiple Criteria
+### Multiple Criteria
+```ad-bug
+title: WHERE Multiple criteria
+
 **SELECT column-name <, column-name...>  
 FROM table-name**  
 <**WHERE** criteria>  
@@ -215,6 +229,7 @@ FROM table-name**
 <**HAVING** aggregate-criteria>  
 <**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
 **;**
+```
 
   
 
@@ -268,7 +283,7 @@ The **WHERE** clause can be used to provide multiple criteria by using the oper
     **WHERE** **(**DirectorName LIKE 'A%' **OR** DirectorName LIKE 'R%'**)** **AND** DirectorIsActive = true  
     ;
 
-# ORDER BY clause
+## ORDER BY clause
 ```ad-note
 title: ORDER BY
 

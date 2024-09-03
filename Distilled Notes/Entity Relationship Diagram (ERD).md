@@ -7,6 +7,11 @@ Relevant Notes:
 Relevant Links:
 ---
 # ERD
+```ad-note
+![](Attachments/ERD-Notation.png)
+
+```
+
 ![](Attachments/output-onlinepngtools.png)
 The ERD is a graphical notation that **visually depicts the entities, their attributes, and the relationships between them.** Entities represent real-world objects, while relationships depict how these entities are related to each other. 
 

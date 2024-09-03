@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movie&TV Recs.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2b5ce9e24f05b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movie&TV Recs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movie&TV Recs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movie&TV Recs.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -200,8 +214,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3f147d4407f13f2f",
+  "active": "f2b5ce9e24f05b00",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 3.md",
+    "conflict-files-obsidian-git.md",
+    "UNI 2024/SEM 2/COMP1350/Week 2.md",
+    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+    "Movie&TV Recs.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 5/sender.sql",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 5",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Untitled.canvas",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 4_Q1PartialDiagram2.jpeg",
+    "Distilled Notes/Attachments/ERD-Notation.png",
     "Distilled Notes/Transformers (Not the funny robot).md",
     "Distilled Notes/Ziegler Nicols PID Tuning.md",
     "Distilled Notes/Untitled 4.md",
@@ -209,7 +234,6 @@
     "Distilled Notes/Untitled 2.md",
     "Distilled Notes/Untitled 1.md",
     "Distilled Notes/Untitled.md",
-    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "Distilled Notes/Untitled 5.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 4_Q1V2PartialDiagram.jpeg",
@@ -220,15 +244,10 @@
     "UNI 2024/SEM 2/COMP1350/Attachments/image (2).png",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (1) 1.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/image 1.png",
-    "UNI 2024/SEM 2/COMP1350/Week 2.md",
     "Distilled Notes/Entity Relationship Diagram (ERD).md",
-    "UNI 2024/SEM 2/COMP1350/Week 3.md",
-    "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
-    "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 3_ExtraQ.jpeg",
     "UNI 2024/SEM 2/COMP1350/Workshops/Attachments",
     "UNI 2024/SEM 2/COMP1350/Week 1.md",
-    "UNI 2024/SEM 2/COMP1350/Attachments/image.png",
     "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended",
@@ -243,11 +262,7 @@
     "UNI 2024/SEM 2/COMP1350/Workshops",
     "UNI 2024/SEM 2/COMP2200/Attachments/Lecture Week 1 (2024-S2).slides.html",
     "UNI 2024/SEM 2/COMP2200/Attachments",
-    "UNI 2024/SEM 2/COMP2200",
-    "UNI 2024/SEM 2/COMP1350/Untitled 1",
     "UNI 2024/SEM 2/Untitled.md",
-    "UNI 2024/SEM 1/PHYS2010/Week 4 - Coupled Oscillators.md",
-    "UNI 2024/SEM 1/ELEC3024/Gamers.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
@@ -256,7 +271,6 @@
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",
     "UNI 2023/ELEC3042/Major Project/Major Project.canvas",
-    "Independent Projects/DND/Unnamed campaign.canvas",
-    "UNI 2023/ELEC3042/Minor Project/Project.canvas"
+    "Independent Projects/DND/Unnamed campaign.canvas"
   ]
 }

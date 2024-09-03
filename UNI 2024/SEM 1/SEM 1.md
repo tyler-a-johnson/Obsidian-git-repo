@@ -20,7 +20,7 @@
 		- **Adobe Premiere Pro Auto-Save**
 
 	- [[Week 5]]
-	- [[Week 6]]
+	- [[FOSE3000/Week 6]]
 	- [[Week 7]]
 	- [[Week 8]]
 - **PHYS2010**

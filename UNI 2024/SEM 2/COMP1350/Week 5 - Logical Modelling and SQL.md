@@ -138,10 +138,8 @@ foreign key(column2) references Table1(columnA)
   
 ***Notice that **Table2 column2** references **Table1 columnA**. For this to work, the 2 columns **must** be of the same data type.***
 
-  
-
-##### Consider the following schema:
-
-![schema](https://ilearn.mq.edu.au/pluginfile.php/9245429/mod_book/chapter/347901/Week5_DDL_Schema.jpeg)  
-
+ Consider the following schema:
+![800](Attachments/Week5_DDL_Schema.jpeg)
 The SQL script for creating these 2 tables can be found [here](https://ilearn.mq.edu.au/pluginfile.php/9245429/mod_book/chapter/347901/Week5_Notes_DDLscript.sql?time=1723803366789).
+
+# Data Manipulation Language (DML)

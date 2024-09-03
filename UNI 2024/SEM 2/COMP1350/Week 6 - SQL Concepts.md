@@ -376,41 +376,38 @@ A few commonly used non-aggregate functions:
         
           
         
-- **Date functions**
+## Date functions
 - **NOW**() - provide the current date and time
 - **CURDATE**() - provide the current date
 - **DAY**(date) - extract the day of a date  
         Example:
-        - DAY(DirectorDOB)
+	- DAY(DirectorDOB)
 - **MONTH**(date) - extract the month of a date  
         Example:  
-        - MONTH(CURDATE())
+	- MONTH(CURDATE())
 - **YEAR**(date) - extract the year of a date  
         Example:  
-        - YEAR(NOW())
+	- YEAR(NOW())
 - **DATEDIFF**(date1, date2) - the number of days between the two dates (date1 - date2)  
         Example:  
-        - DATEDIFF(CURDATE(), DirectorDOB)
+	- DATEDIFF(CURDATE(), DirectorDOB)
 - **DATE_FORMAT**(date, format)  
         Example:  
-        - DATE_FORMAT(DirectorDOB, '%D of %M, %Y')
+	- DATE_FORMAT(DirectorDOB, '%D of %M, %Y')
 
-More functions information is available at [MySQL Functions](https://www.w3schools.com/mysql/mysql_ref_functions.asp)
+*More functions information is available at [MySQL Functions](https://www.w3schools.com/mysql/mysql_ref_functions.asp)*
 
 Sample usage in queries:
-
 - Display the names of the directors with the names of the day they were born.  
     **SELECT** DirectorName, **DATE_FORMAT**(DirectorDOB, '%W')  
     **FROM** Director  
     ;  
-      
     
 - Display the names of the directors with their birth year in a sentence.  
     **SELECT CONCAT**(DirectorName, ' was born in ', **YEAR**(DirectorDOB))  
     **FROM** Director  
     ;  
       
-    
 - Display the directors who were born between the years 1950 and 1975  
     **SELECT** *  
     **FROM** Director  

@@ -333,26 +333,23 @@ A few commonly used non-aggregate functions:
 
 ## Numeric functions
 
-    - **ROUND**(number <, decimal>) - round the number to the nearest specified decimal places (if the decimal is not specified, the default is 0 decimal places)  
+- **ROUND**(number <, decimal>) - round the number to the nearest specified decimal places (if the decimal is not specified, the default is 0 decimal places)  
         Examples: 
         - ROUND(Salary)
         - ROUND(Salary, 1)
-    - **FLOOR**(number) - round down the number to the nearest whole number   
+- **FLOOR**(number) - round down the number to the nearest whole number   
         Example:  
-        - FLOOR(Salary)
-    - **CEILING**(number) - round up the number to the nearest whole number  
+	- FLOOR(Salary)
+- **CEILING**(number) - round up the number to the nearest whole number  
         Example:  
-        - CEILING(Salary)
-    - **ABS**(number) - extract the absolute number (disregard positive or negative)  
+	- CEILING(Salary)
+- **ABS**(number) - extract the absolute number (disregard positive or negative)  
         Example:  
-        
-    
     - ABS(DirectorNumMovies-10)  
-          
-        
-    
-- **String functions**
-    - **CONCAT**(string1, string2 <, string3...>) - combine multiple strings together  
+
+## String functions
+ 
+- **CONCAT**(string1, string2 <, string3...>) - combine multiple strings together  
         Example: 
         - CONCAT("$ ", Salary, " thousands")
     - **UPPER**(string) - convert the string to all uppercase  

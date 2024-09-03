@@ -40,9 +40,9 @@ Relevant Links:
 ## Data Cleaning
  * Data Quality (validity, accuracy, completeness, consistency, uniformity)
  * The workflow 
-     * Inspection (data profiling, visualizations, software packages)
-     * Cleaning (irrelevant data, duplicates, type conver., syntax errors, 6 more)
-     * Verifying
-     * Reporting
+     * **Inspection** (data profiling, visualizations, software packages)
+     * **Cleaning** (irrelevant data, duplicates, type conver., syntax errors, 6 more)
+     * **Verifying**
+     * **Reporting**
 [The Ultimate Guide to Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) from Toward Data Science.
 

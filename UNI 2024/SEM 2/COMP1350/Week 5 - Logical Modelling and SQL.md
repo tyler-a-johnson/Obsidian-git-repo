@@ -179,3 +179,46 @@ _where **condition**_
 Further examples can be found [here](https://www.w3schools.com/sql/sql_update.asp).
 
 # Data Querying Language (DQL)
+A basic DQL query will have the following format:
+_select **columnName1**, **columnName2** ..._\
+_from **tableName**;_
+Other keywords such as _**group by, order by, where, having**_ can be used to further filter the results.
+
+## Syntax Examples
+Selecting everything from a table
+
+_select *****_ 
+_from tableName;_
+
+
+Selecting unique values from a certain column within a table
+
+_select **distinct** columnName_
+_from tableName;_
+
+
+Using conditions to filter results
+
+_select columnName_
+_from tableName_
+_**where condition**;_
+
+  
+WHERE Operators
+
+| Operator                                     | Description                                            |
+| -------------------------------------------- | ------------------------------------------------------ |
+| Column Name = Value                          | Equal to                                               |
+| Column Name > Value                          | Greater than                                           |
+| Column Name < Value                          | Less than                                              |
+| Column Name >= Value                         | Greater than or equal to                               |
+| Column Name <= Value                         | Less than or equal to                                  |
+| Column Name <> Value OR Column Name != Value | Not equal to                                           |
+| Column Name BETWEEN Value1 AND Value2        | Between a certain range                                |
+| Column Name LIKE 'a%'                        | Search for a pattern e.g. Starting with the letter 'a' |
+| Column Name IN (Value1, Value2, Value3)      | To specify multiple possible values for a column       |
+|                                              |                                                        |
+
+  
+  
+Further examples can be found under [SQL Tutorial](https://www.w3schools.com/sql/default.asp).

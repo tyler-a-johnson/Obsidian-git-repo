@@ -83,3 +83,85 @@ There are no one to one relationships.
 
 
 # Data Definition Language (DDL)
+
+Please refer to this [link](https://www.w3schools.com/sql/default.asp) for additional DDL syntax. Most of it should be underneath the 'SQL Database' category.
+
+**CREATE**  
+
+- Creating data structure
+- E.g., Schema, Table, Views etc.
+
+**DROP**  
+
+- Deletes an existing data structure
+- Syntax: _drop schema/table **tableName**;_
+
+**TRUNCATE**  
+
+- Erases all values/data from the table
+- Syntax: _truncate table **tableName**;_
+
+**ALTER**
+
+- Modifies the data structure
+- Syntax for adding column: 
+
+_alter table **tableName**_
+
+_add **columnName** datatype;_
+
+- Syntax for removing column
+
+_alter table **tableName**_
+
+_drop **columnName**;_
+
+  
+
+  
+  
+**Create Table Example**  
+
+  
+
+create table **Table1**(
+
+columnA _datatype_,
+
+columnB datatype,
+
+columnC datatype,
+
+...
+
+primary key (columnA)
+
+);
+
+create table **Table2**(
+
+column1 datatype,
+
+column2 _datatype_,
+
+column3 datatype,
+
+…
+
+primary key (column1),
+
+foreign key(column2) references Table1(columnA)
+
+  );
+
+  
+
+##### ** Notice that **Table2 column2** references **Table1 columnA**. For this to work, the 2 columns **must** be of the same data type. **
+
+  
+
+##### Consider the following schema:
+
+![schema](https://ilearn.mq.edu.au/pluginfile.php/9245429/mod_book/chapter/347901/Week5_DDL_Schema.jpeg)  
+
+The SQL script for creating these 2 tables can be found [here](https://ilearn.mq.edu.au/pluginfile.php/9245429/mod_book/chapter/347901/Week5_Notes_DDLscript.sql?time=1723803366789).

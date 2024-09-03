@@ -269,3 +269,47 @@ The **WHERE** clause can be used to provide multiple criteria by using the oper
     ;
 
 # ORDER BY clause
+```ad-note
+title: ORDER BY
+
+**SELECT column-name <, column-name...>  
+FROM table-name**  
+<**WHERE** criteria>  
+<**GROUP BY** column-name <, column-name...>>  
+<**HAVING** aggregate-criteria>  
+<**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
+**;**
+```
+
+The **ORDER BY** clause can be used to sort the records in ascending (A to Z or lower to higher) or descending (Z to A or higher to lower) order. If ascending or descending is not specified, the default is ascending order.
+
+- sorting based on a single column using the default order
+    - Display directors' info showing the directors' names in alphabetical order.  
+        SELECT *  
+        FROM Director  
+        **ORDER BY** DirectorName  
+        ;  
+        
+- sorting based on a single column using explicitly specified order
+    - Display directors' info starting with those with the most movies directed.  
+        
+        SELECT *  
+        FROM Director  
+        **ORDER BY** DirectorNumMovies DESC  
+        ;  
+        
+- sorting based on multiple columns using the default order
+
+- Display directors showing the lowest salary first, then based on the earliest date of birth.  
+    SELECT *  
+    FROM Director  
+    **ORDER BY** Salary, DirectorDOB  
+    ;  
+    
+
+- sorting based on multiple columns using explicitly specified order   
+    - Display directors who are active first, then based on their names in alphabetical order.  
+        SELECT *  
+        FROM Director  
+        **ORDER BY** DirectorIsActive DESC, DirectorName ASC   
+        ;

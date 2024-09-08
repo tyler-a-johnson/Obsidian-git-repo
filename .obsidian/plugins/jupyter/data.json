@@ -1,8 +1,8 @@
 {
-  "pythonExecutable": "python",
+  "pythonExecutable": "path",
   "pythonExecutablePath": "",
   "startJupyterAuto": true,
-  "jupyterEnvType": "lab",
+  "jupyterEnvType": "notebook",
   "deleteCheckpoints": false,
   "moveCheckpointsToTrash": true,
   "checkpointsFolder": "",

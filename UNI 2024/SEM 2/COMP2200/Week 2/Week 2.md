@@ -7,3 +7,6 @@ Relevant Notes:
 Relevant Links:
 ---
 **Lecture Slides:**
+
+# Fermi Estimation
+The "How much 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.md"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 3.md",
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
-    "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.md",
+    "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
     "UNI 2024/SEM 2/COMP2200/Week 2/~$Data Quality.pptx",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2b.slides.html",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2b.ipynb",
@@ -224,7 +225,6 @@
     "UNI 2024/SEM 2/COMP1350/Attachments/Week5_ExtraQuestion_Schema.jpeg",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week5_ExtraQuestion.jpeg",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (4) 1.png",
-    "UNI 2024/SEM 2/COMP2200/Week 3.md",
     "conflict-files-obsidian-git.md",
     "Movie&TV Recs.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",

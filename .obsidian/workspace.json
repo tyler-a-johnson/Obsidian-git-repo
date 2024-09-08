@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md"
+                "file": "UNI 2024/SEM 2/COMP2200/Exam Examples.md"
               }
             }
           },
@@ -203,11 +203,12 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "0fb2ad355bfcf000",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
     "UNI 2024/SEM 2/COMP2200/Week 3",
     "UNI 2024/SEM 2/COMP2200/Week 3.md",
-    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
     "UNI 2024/SEM 2/COMP2200/Week 2/~$Data Quality.pptx",
@@ -218,7 +219,6 @@
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.html",
     "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.pptx",
     "UNI 2024/SEM 2/COMP2200/Week 2/csv files/SalesJan2009.csv",
-    "UNI 2024/SEM 2/COMP2200/Week 2/csv files/NJShipwrecks.csv",
     "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",

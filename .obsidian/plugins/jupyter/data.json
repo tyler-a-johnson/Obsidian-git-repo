@@ -1,6 +1,6 @@
 {
   "pythonExecutable": "path",
-  "pythonExecutablePath": "",
+  "pythonExecutablePath": "C:\\Users\\tyler\\anaconda3\\python.exe",
   "startJupyterAuto": true,
   "jupyterEnvType": "notebook",
   "deleteCheckpoints": false,

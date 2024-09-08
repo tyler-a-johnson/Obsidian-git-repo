@@ -13,7 +13,7 @@ Relevant Links:
 - Makes estimates of the order of magnitude of a result
 - A good technique for verifying a claim.
 
-```py
+```python
 
 pop = 25e6
 on_welfare = 0.1 * pop
@@ -24,5 +24,5 @@ total = amount * on_welfare
 fraud = 2e9
 fraud / total
 
-
 ```
+Out: 0.08

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.md"
               }
             }
           },
@@ -202,6 +202,8 @@
   },
   "active": "3f147d4407f13f2f",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.md",
     "UNI 2024/SEM 2/COMP2200/Week 2/~$Data Quality.pptx",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2b.slides.html",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2b.ipynb",
@@ -212,7 +214,6 @@
     "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.pptx",
     "UNI 2024/SEM 2/COMP2200/Week 2/csv files/SalesJan2009.csv",
     "UNI 2024/SEM 2/COMP2200/Week 2/csv files/NJShipwrecks.csv",
-    "UNI 2024/SEM 2/COMP2200/Week 2/csv files/ds3.csv",
     "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
@@ -248,7 +249,6 @@
     "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended/Enhanced Entity Relationship Diagram (EERD).md",
     "Distilled Notes/Database Management System.md",
-    "Resources/Templates/File Properties - Lecture Notes.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",

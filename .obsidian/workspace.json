@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1748be0326ece92d",
+        "id": "0e412e31063765f1",
         "type": "tabs",
         "children": [
           {
-            "id": "3f147d4407f13f2f",
+            "id": "0fb2ad355bfcf000",
             "type": "leaf",
             "state": {
-              "type": "jupyter-view",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.ipynb"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.ipynb"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md"
               }
             }
           },
@@ -200,17 +203,18 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "3f147d4407f13f2f",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
+    "UNI 2024/SEM 2/COMP2200/Week 3",
     "UNI 2024/SEM 2/COMP2200/Week 3.md",
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.ipynb",
+    "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
     "UNI 2024/SEM 2/COMP2200/Week 2/~$Data Quality.pptx",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2b.slides.html",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2b.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2b.html",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.slides.html",
-    "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.html",
     "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.pptx",
     "UNI 2024/SEM 2/COMP2200/Week 2/csv files/SalesJan2009.csv",
@@ -248,7 +252,6 @@
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
     "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "Extended/Enhanced Entity Relationship Diagram (EERD).md",
-    "Distilled Notes/Database Management System.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",

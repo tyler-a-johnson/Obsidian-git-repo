@@ -13,7 +13,7 @@
             "state": {
               "type": "jupyter-view",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb"
               }
             }
           }
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 406.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb"
               }
             }
           },
@@ -202,18 +202,18 @@
   },
   "active": "0fb2ad355bfcf000",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
+    "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf",
+    "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.slides (3).html",
+    "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
+    "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.html",
+    "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
+    "UNI 2024/SEM 2/COMP2200/Week 6",
     "UNI 2024/SEM 2/COMP2200/Week 4/Lecture-Week-4b.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 4/Lecture-Week-4a.ipynb",
     "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.slides.html",
-    "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.html",
-    "UNI 2024/SEM 2/COMP2200/Week 5/birthweight_reduced.csv",
-    "UNI 2024/SEM 2/COMP2200/Week 5/01_Data Science_data ethic_Lecture 2024.pdf",
-    "UNI 2024/SEM 2/COMP2200/Week 5/files/birthweight_reduced.csv",
-    "UNI 2024/SEM 2/COMP2200/Week 5/files",
-    "UNI 2024/SEM 2/COMP2200/Week 5",
-    "UNI 2024/SEM 2/COMP2200/New folder",
     "UNI 2024/SEM 2/COMP2200/Week 4/bad-graphs.png",
     "UNI 2024/SEM 2/COMP2200/Week 4/files/trellis.png",
     "UNI 2024/SEM 2/COMP2200/Week 4/correlation.png",

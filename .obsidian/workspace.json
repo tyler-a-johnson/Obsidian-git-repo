@@ -11,12 +11,9 @@
             "id": "0fb2ad355bfcf000",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "jupyter-view",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "UNI 2024/SEM 2/COMP2200/Week 3/Lecture_Week_3.ipynb"
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 3/Lecture_Week_3.ipynb",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 3/Lecture_Week_3.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Exam Examples.md"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 3/Lecture_Week_3.ipynb"
               }
             }
           },
@@ -205,20 +202,21 @@
   },
   "active": "0fb2ad355bfcf000",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
+    "UNI 2024/SEM 2/COMP2200/Week 3/Lecture_Week_3.slides.html",
+    "UNI 2024/SEM 2/COMP2200/Week 3/Lecture_Week_3.ipynb",
+    "UNI 2024/SEM 2/COMP2200/Week 3/Lecture_Week_3.html",
+    "UNI 2024/SEM 2/COMP2200/Week 3/Files/Melbourne_housing_FULL.csv",
+    "UNI 2024/SEM 2/COMP2200/Week 3/Files/MELBOURNE_HOUSE_PRICES_LESS.csv",
+    "UNI 2024/SEM 2/COMP2200/Week 3/Files/keep_your_data.png",
+    "UNI 2024/SEM 2/COMP2200/Week 3/Files",
+    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP2200/Week 3",
     "UNI 2024/SEM 2/COMP2200/Week 3.md",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
     "UNI 2024/SEM 2/COMP2200/Week 2/~$Data Quality.pptx",
     "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2b.slides.html",
-    "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2b.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2b.html",
-    "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.slides.html",
-    "UNI 2024/SEM 2/COMP2200/Week 2/Lecture_Week_2a.html",
-    "UNI 2024/SEM 2/COMP2200/Week 2/Data Quality.pptx",
-    "UNI 2024/SEM 2/COMP2200/Week 2/csv files/SalesJan2009.csv",
     "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
@@ -247,11 +245,9 @@
     "UNI 2024/SEM 2/COMP1350/Workshops/Attachments/Week 4_Q1V2PartialDiagram.jpeg",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (6).png",
     "UNI 2024/SEM 2/COMP1350/Attachments/image (5).png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/image (4).png",
     "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
     "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
-    "Extended/Enhanced Entity Relationship Diagram (EERD).md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",

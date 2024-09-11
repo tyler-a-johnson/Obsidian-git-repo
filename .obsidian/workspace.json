@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fb2ad355bfcf000",
+            "id": "ece91badb4b1010d",
             "type": "leaf",
             "state": {
               "type": "jupyter-view",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb"
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb"
               }
             }
           },
@@ -200,20 +200,21 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "ece91badb4b1010d",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
+    "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
+    "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
+    "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
+    "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.html",
+    "UNI 2024/SEM 2/COMP2200/Week 8",
+    "UNI 2024/SEM 2/COMP2200/Week 7",
+    "UNI 2024/SEM 2/COMP2200/Week 7.md",
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.slides (3).html",
-    "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.html",
     "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
-    "UNI 2024/SEM 2/COMP2200/Week 6",
-    "UNI 2024/SEM 2/COMP2200/Week 4/Lecture-Week-4b.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Week 4/Lecture-Week-4a.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
-    "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.slides.html",
-    "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.html",
     "UNI 2024/SEM 2/COMP2200/Week 4/bad-graphs.png",
     "UNI 2024/SEM 2/COMP2200/Week 4/files/trellis.png",
     "UNI 2024/SEM 2/COMP2200/Week 4/correlation.png",
@@ -248,7 +249,6 @@
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
     "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
-    "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",

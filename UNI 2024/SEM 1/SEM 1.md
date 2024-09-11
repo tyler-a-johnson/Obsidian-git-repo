@@ -21,7 +21,7 @@
 
 	- [[FOSE3000/Week 5]]
 	- [[FOSE3000/Week 6]]
-	- [[Week 7]]
+	- [[FOSE3000/Week 7]]
 	- [[Week 8]]
 - **PHYS2010**
 	- [[LAB 1 - Resonance and Q in electric circuits Pre Lab]]

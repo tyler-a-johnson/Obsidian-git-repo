@@ -7,3 +7,5 @@ Relevant Notes:
 Relevant Links:
 ---
 **Lecture Slides:**
+
+# Machine Learning for Data Science

@@ -13,4 +13,7 @@ Relevant Links:
 ## What is Learning?
 
 -  Task $T$
-- Performance $P$ o
+- Performance $P$ of a computer program on task $T$
+- Experience $E$
+
+If a computer program gains performance improvement on $T$ by leveraging experience $E$

@@ -49,6 +49,5 @@ If a computer program gains performance improvement on $T$ by leveraging experie
 **Aims** to predict unseen data or to interpret existing data
 
 ### Two Stages of Machine Learning
-- Training Stage
-	- Training: to generate a model from observed data
-- 
+- Training Stage - Training to generate a model from observed data
+- Testing Stage - Testing to use the learned model to predict unseen data

@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf"
               }
             }
           },
@@ -222,11 +222,11 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "9ca138fbd2fcd7a6",
+  "active": "7485bf2188eec999",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
     "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.html",

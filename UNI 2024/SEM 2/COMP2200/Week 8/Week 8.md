@@ -36,4 +36,4 @@ If a computer program gains performance improvement on $T$ by leveraging experie
 - **Simple learning:** approve a future request with 'yes'
 	- Accuracy: 66.7% (training accuracy) > 50%
 
-- 
+## What is Machine Learning?

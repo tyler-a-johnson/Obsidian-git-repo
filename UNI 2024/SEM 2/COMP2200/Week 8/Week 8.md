@@ -54,9 +54,12 @@ If a computer program gains performance improvement on $T$ by leveraging experie
 
 ## Data
 Here are some term definitions for talking about data.
-- **Data set** $D$: a set of observed data instances
+- **Data set:** $D$ a set of observed data instances
 	- $D = \{         d_{1},d_{2},\dots ,d_{|D|}        \}$
 	- Many types: numerical vectors, an image, a graph, ....
 	- Assumption: i.i.d. (independent & identically distributed)
 		- Instances in D follow a (unknown) distribution, from which each instance is independently sampled.
-- **Training Data**
+- **Training Data:** Data used in training stage
+- **Testing data:** data used in the testing stage
+- **Validation data:** used to select learning models
+	- Part of training data

@@ -51,3 +51,6 @@ If a computer program gains performance improvement on $T$ by leveraging experie
 ### Two Stages of Machine Learning
 - Training Stage - Training to generate a model from observed data
 - Testing Stage - Testing to use the learned model to predict unseen data
+
+## Data
+Here are some term definitions for talking about data.

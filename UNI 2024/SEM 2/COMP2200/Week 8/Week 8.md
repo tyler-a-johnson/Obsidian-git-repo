@@ -16,4 +16,6 @@ Relevant Links:
 - Performance $P$ of a computer program on task $T$
 - Experience $E$
 
-If a computer program gains performance improvement on $T$ by leveraging experience $E$
+If a computer program gains performance improvement on $T$ by leveraging experience $E$, it can be said that the computer program learns from $E$ with respect to $T$ and $P$.
+
+- Experience is often embedded in 

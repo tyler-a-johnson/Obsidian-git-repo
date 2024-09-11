@@ -22,4 +22,10 @@ If a computer program gains performance improvement on $T$ by leveraging experie
 - Compared to no learning.
 
 **TASK:** Predict if a loan request can be approved or not
-- Performance: accurac
+- Performance: accuracy
+- No learning: to *randomly* approve a future request
+	- Accuracy (expected) 50% : 50% (training accuracy)
+- Experience (data): loan application data
+|   ID  |  Age   |   Has_job  |  Own_house   |  Approved   | 
+| --- | --- | --- | --- | --- |
+|  1   |   young  |     |     |     |

@@ -44,4 +44,11 @@ If a computer program gains performance improvement on $T$ by leveraging experie
 **Components**
 - Model: Represents the form of learning result
 - Learning algorithm: how to generate a model from data
-- Data: input to ML alco
+- Data: input to ML algorithms
+
+**Aims** to predict unseen data or to interpret existing data
+
+### Two Stages of Machine Learning
+- Training Stage
+	- Training: to generate a model from observed data
+- 

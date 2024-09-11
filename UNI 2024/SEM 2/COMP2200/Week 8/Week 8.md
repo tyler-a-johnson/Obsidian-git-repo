@@ -26,6 +26,14 @@ If a computer program gains performance improvement on $T$ by leveraging experie
 - No learning: to *randomly* approve a future request
 	- Accuracy (expected) 50% : 50% (training accuracy)
 - Experience (data): loan application data
-|   ID  |  Age   |   Has_job  |  Own_house   |  Approved   | 
-| --- | --- | --- | --- | --- |
-|  1   |   young  |     |     |     |
+
+| ID  | Age    | Has_job | Own_house | Approved |
+| --- | ------ | ------- | --------- | -------- |
+| 1   | young  | yes     | no        | yes      |
+| 2   | middle | yes     | yes       | yes      |
+| 3   | old    | no      | yes       | no         |
+
+- **Simple learning:** approve a future request with 'yes'
+	- Accuracy: 66.7% (training accuracy) > 50%
+
+- 

@@ -9,3 +9,8 @@ Relevant Links:
 **Lecture Slides:**
 
 # Machine Learning for Data Science
+
+## What is Learning?
+
+-  Task $T$
+- Performance $P$ o

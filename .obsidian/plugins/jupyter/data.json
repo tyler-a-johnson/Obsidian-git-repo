@@ -1,0 +1,18 @@
+{
+  "pythonExecutable": "path",
+  "pythonExecutablePath": "C:\\Users\\tyler\\anaconda3\\python.exe",
+  "startJupyterAuto": true,
+  "jupyterEnvType": "lab",
+  "deleteCheckpoints": false,
+  "moveCheckpointsToTrash": true,
+  "checkpointsFolder": "",
+  "updatePopup": true,
+  "displayServerRibbonIcon": true,
+  "useStatusNotices": true,
+  "displayFileRibbonIcon": true,
+  "displayFolderContextMenuItem": true,
+  "openCreatedFileMode": "current-tab",
+  "jupyterTimeoutMs": 30000,
+  "debugConsole": false,
+  "knownVersion": ""
+}

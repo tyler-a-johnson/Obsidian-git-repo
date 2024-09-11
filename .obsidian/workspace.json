@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e412e31063765f1",
+        "id": "be7a9fcbf73a2334",
         "type": "tabs",
         "children": [
           {
-            "id": "ece91badb4b1010d",
+            "id": "7485bf2188eec999",
             "type": "leaf",
             "state": {
               "type": "jupyter-view",
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -200,10 +201,10 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "ece91badb4b1010d",
+  "active": "7485bf2188eec999",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
+    "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
     "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
     "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.html",

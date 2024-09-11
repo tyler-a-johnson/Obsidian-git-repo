@@ -54,3 +54,6 @@ If a computer program gains performance improvement on $T$ by leveraging experie
 
 ## Data
 Here are some term definitions for talking about data.
+- **Data set** $D$: a set of observed data instances
+	- $D = \{         d_{1},d_{2},\dots ,d_{|D|}        \}$
+	- Man y ty

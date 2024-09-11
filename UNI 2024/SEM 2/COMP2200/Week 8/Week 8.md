@@ -37,3 +37,11 @@ If a computer program gains performance improvement on $T$ by leveraging experie
 	- Accuracy: 66.7% (training accuracy) > 50%
 
 ## What is Machine Learning?
+- A subset of artificial intelligence in the field of computer science
+- Gives computers ability to "learn" (progressively improve performance on a specific task) with data
+- Without being explicitly programmed.
+
+**Components**
+- Model: Represents the form of learning result
+- Learning algorithm: how to generate a model from data
+- Data: input to ML alco

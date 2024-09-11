@@ -22,7 +22,7 @@
 	- [[FOSE3000/Week 5]]
 	- [[FOSE3000/Week 6]]
 	- [[FOSE3000/Week 7]]
-	- [[Week 8]]
+	- [[FOSE3000/Week 8]]
 - **PHYS2010**
 	- [[LAB 1 - Resonance and Q in electric circuits Pre Lab]]
 	- [[Week 1 - Simple Harmonic Motion]]

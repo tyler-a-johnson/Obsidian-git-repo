@@ -16,8 +16,19 @@
                 "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb"
               }
             }
+          },
+          {
+            "id": "9ca138fbd2fcd7a6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 406.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -111,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf"
               }
             }
           },
@@ -201,7 +211,7 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "7485bf2188eec999",
+  "active": "9ca138fbd2fcd7a6",
   "lastOpenFiles": [
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",

@@ -253,12 +253,14 @@ Note that the loss function $L\left(  .,.   \right)$ requires instantiation for 
 $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )$$
 - Indicating the *generalisation capability of a learned model*
 
-Empirical study on KNN classifiers
+**Empirical study on KNN classifiers**
 - 40 point for training, 10 points for testing
 - 3 classes
 - Error is calculated by 1.0 - *accuracy*
 
-Observations
+![](Attachments/Pasted%20image%2020240912224445.png)
+
+**Observations**
 - Training error keeps going up when K increases
 	- 0 when K = 1
 - Testing error does not take lowest value at K = 1

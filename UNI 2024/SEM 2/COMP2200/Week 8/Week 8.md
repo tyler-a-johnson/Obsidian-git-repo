@@ -208,4 +208,8 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 	- Example 1 (great, no, no, normal, no)? *'yes'*
 		- Most similar: Instance 2 (1 mismatch, 4 match) $\rightarrow$ *yes*
 		- $2^{nd}$ most similar: instance 1 (2 mismatch, 3 match) $\rightarrow$ *yes*
-	- Example 2 (mediocre, yes, no, normal, no)
+	- Example 2 (mediocre, yes, no, normal, no)? *yes/no*
+		- Most similar: Instance 3 (1 mismatch, 4 match) $\rightarrow$ *no*
+		- $2^{nd}$ most similar: instance 1 (2 mismatch, 3 match) $\rightarrow$ *yes*
+
+### KNN Limitations

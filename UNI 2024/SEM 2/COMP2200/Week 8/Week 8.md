@@ -183,7 +183,12 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 
 ### KNN Example
 
-Data
+**Training Data**
+
 |     | Food (3) | Chat (2) | Fast (2) | Price (3) | Bar (2) | BigTip |
 | --- | -------- | -------- | -------- | --------- | ------- | ------ |
-| 1   |          |          |          |           |         |        |
+| 1   | great    | yes      | yes      | normal    | no      | yes    |
+| 2   | great    | no       | yes      | normal    | no      | yes    |
+| 3   | mediocre | yes      | no       | high      | no      | no     |
+| 4   | great    | yes      | yes      | normal    | yes     | yes    |
+- Si

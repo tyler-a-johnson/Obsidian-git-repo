@@ -134,3 +134,7 @@ $$H \equiv \{  f | y=f_{\theta}(x) \}$$
 **Parameter space**
 - Can be real value spaces, e.g., $\mathbb{R}^{n}$
 - Structure of a model (more implicit), e.g., tree or graph structures, as well as partitions of the input space.
+
+Eg linear regression models $y = w_{0} + w_{1}x$
+![500](Attachments/Pasted%20image%2020240912211603.png)
+

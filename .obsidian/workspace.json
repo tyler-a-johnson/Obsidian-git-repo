@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -197,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,6 +224,7 @@
   },
   "active": "9ca138fbd2fcd7a6",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912211603.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912204044.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
@@ -255,7 +258,6 @@
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week5_DDL_Schema.jpeg",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week5_ExtraQuestion_Schema.jpeg",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Week5_ExtraQuestion.jpeg",
     "conflict-files-obsidian-git.md",
     "Movie&TV Recs.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",

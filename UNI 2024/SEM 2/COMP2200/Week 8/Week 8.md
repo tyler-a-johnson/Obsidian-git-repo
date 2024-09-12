@@ -107,5 +107,5 @@ MINST data: Handwritten digit recognition
 	- $t_{i} = (0,0,1,0,0,0,0,0,0,0)$
 - Learning model $y: \mathbb{R}^{784}\rightarrow \mathbb{R}^{10}$
 	- Dataset: $D = \{  \langle    x_{1}, t_{1}    \rangle , \dots , \langle    x_{N}, t_{N}    \rangle  \}$
-	- Supervised learning
-	- 
+	- Supervised learning.
+	- Classification problem.

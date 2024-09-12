@@ -297,4 +297,7 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 	- Data-specific
 	- This is model selection by hyperparameter tuning
 	- **cross validation** can be used to find a suitable $K$
-	- Theoretically, this is related to 
+	- Theoretically, this is related to **bias variance tradeoff**
+## Estimate Testing Error
+- Option 1: Randomly divide the available set samples into two part: training data and validation data.
+	- Randomness will not give 

@@ -244,5 +244,7 @@ $K$ acts as a smoother and controls model complexity
 $K = 1$ leads to the roughest decision boundaries.
 *As 1-NN classifier has the highest complexity, can we just simply select this model as the best for model selection.*
 
-## Training 
+## Training / Testing Errors
+**Training Error** (or empirical error) of a trained model $\hat{f}$ on a training data sat of size $N$.
+$$E_{emp} (\hat{f}) = \frac{1}{N} \sum_{i=1}^{N} L (y_{i})$$
 

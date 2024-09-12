@@ -70,4 +70,12 @@ Here are some term definitions for talking about data.
 ![](Attachments/Pasted%20image%2020240912202614.png)
 **Label/Target of data**
 - The interesting attribute(s) for prediction
-- Further, $d_{i} = < \>$
+- Further, $d_{i} = < x_{i}, y_{i}>$
+
+```ad-note
+title: Supervised learning models
+- **Regression:** y is *continuous*
+- **Classification:** y is *discrete* (binary
+
+```
+

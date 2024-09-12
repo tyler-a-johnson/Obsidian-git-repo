@@ -278,4 +278,4 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 
 **Observation 2**
 - Both errors are maximised when K = 40.
-	- All testing sample will be predicte
+	- All testing sample will be predicted as the same label, why?

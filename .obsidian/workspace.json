@@ -4,37 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "be7a9fcbf73a2334",
+        "id": "2a413530ecc7c18e",
         "type": "tabs",
-        "dimension": 47.707889125799575,
         "children": [
           {
-            "id": "9ca138fbd2fcd7a6",
+            "id": "0284dd1f3148edcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fe198bf5071e9d94",
-        "type": "tabs",
-        "dimension": 52.292110874200425,
-        "children": [
-          {
-            "id": "7485bf2188eec999",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf"
               }
             }
           }
@@ -104,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -132,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md"
               }
             }
           },
@@ -198,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,61 +197,58 @@
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian42-brat:BRAT": false,
-      "jupyter:Start Jupyter Server": false,
-      "jupyter:Create Jupyter Notebook": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9ca138fbd2fcd7a6",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/assignment/Task3_Template.sql",
+    "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_TeamContract_Template.docx",
+    "UNI 2024/SEM 2/COMP1350/assignment/Task_1_2_Template.docx",
+    "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_TeamExpectationsDocument.pdf",
+    "UNI 2024/SEM 2/COMP1350/assignment/Assignment 1 Marking Rubric.pdf",
+    "UNI 2024/SEM 2/COMP1350/assignment/Capture.PNG",
+    "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
+    "UNI 2024/SEM 2/COMP1350/assignment",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224417.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224519.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224445.png",
-    "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224417.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912221625.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912212915.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912212731.png",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912212142.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912211603.png",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912204044.png",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912212142.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912203841.png",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912203514.png",
-    "Distilled Notes/Semi-Supervised Learning.md",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments",
-    "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
-    "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.html",
-    "UNI 2024/SEM 2/COMP2200/Week 8",
-    "UNI 2024/SEM 2/COMP2200/Week 7",
-    "UNI 2024/SEM 2/COMP2200/Week 7.md",
-    "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf",
-    "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.slides (3).html",
-    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
-    "UNI 2024/SEM 2/COMP2200/Week 3.md",
+    "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+    "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments",
     "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
-    "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
-    "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
     "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
-    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
-    "conflict-files-obsidian-git.md",
     "Movie&TV Recs.md",
+    "Distilled Notes/Semi-Supervised Learning.md",
+    "Kanban Schedule.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
-    "UNI 2024/SEM 2/COMP1350/Workshops/Untitled.canvas",
-    "Distilled Notes/Transformers (Not the funny robot).md",
-    "Distilled Notes/Ziegler Nicols PID Tuning.md",
-    "Distilled Notes/Untitled 4.md",
-    "Distilled Notes/Untitled 3.md",
-    "Distilled Notes/Untitled 2.md",
-    "Distilled Notes/Untitled 1.md",
-    "Distilled Notes/Untitled.md",
-    "Distilled Notes/Untitled 5.md",
+    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
+    "Distilled Notes/Entity Relationship Diagram (ERD).md",
+    "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Untitled.canvas",
+    "UNI 2024/SEM 2/COMP1350/Week 2.md",
+    "UNI 2024/SEM 2/COMP1350/Week 3.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
+    "conflict-files-obsidian-git.md",
+    "UNI 2024/SEM 2/COMP1350/Week 1.md",
+    "Extended/Enhanced Entity Relationship Diagram (EERD).md",
+    "Distilled Notes/Untitled 5.md",
+    "Distilled Notes/Database Management System.md",
+    "Resources/Templates/File Properties - Lecture Notes.md",
+    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 2.md",
+    "UNI 2024/SEM 2/Untitled.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",

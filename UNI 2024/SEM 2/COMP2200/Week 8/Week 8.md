@@ -241,6 +241,8 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 
 $K$ acts as a smoother and controls model complexity
 ![](Attachments/Pasted%20image%2020240912221625.png)
+$K = 1$ leads to the roughest decision boundaries.
+*As 1-NN classifier has the highest complexity, can we just simply select this model as the best for model selection.*
 
-$K = 1$ leads to the roughest decision boundaries
+## Training 
 

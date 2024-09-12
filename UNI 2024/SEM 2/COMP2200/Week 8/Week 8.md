@@ -215,4 +215,9 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 ### KNN Limitations
 - Each prediction takes $O(n)$ computational complexity
 	- Use fancy data structures such as KD-trees to accelerate the search of nearest neighbours
-	- Or use locality-sensitive hashing to approximate neares
+	- Or use [[locality-sensitive hashing]] to approximate nearest neighbours with constant computational complexity.
+- Prediction performance degrades when number of attributes grows
+	- *Curse of dimensionality*: When the number of attributes is big, similarity/distance measures become less reliable
+	- Remedy
+		- Remove irrelevant attributes in pre-processing
+		- Weight 

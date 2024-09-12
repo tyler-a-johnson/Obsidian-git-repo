@@ -250,4 +250,5 @@ $$E_{emp} (\hat{f}) = \frac{1}{N} \sum_{i=1}^{N} L (y_{i}, \hat{f}(x_{i}))$$
 Note that the loss function $L\left(  .,.   \right)$ requires instantiation for a specific model e.g. the squared error in linear regression.
 
 **Testing error** on a test data set with size $N'$
-$$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'}$$
+$$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )$$
+- Indicating the *generalisation capability of a learned model*

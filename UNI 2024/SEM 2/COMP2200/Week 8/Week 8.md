@@ -225,4 +225,4 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 ## How to Choose K?
 
 - **We cannot learn k from training data**. It is a hyperparameter, rather than a model parameter
-- 
+- Usually, K should be determined by model users

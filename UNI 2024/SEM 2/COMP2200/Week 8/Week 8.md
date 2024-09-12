@@ -224,5 +224,5 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 
 ## How to Choose K?
 
-- **Question**: Can we learn K from training data?
-	- No1
+- **We cannot learn k from training data**. It is a hyperparameter, rather than a model parameter
+- 

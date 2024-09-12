@@ -109,3 +109,12 @@ MINST data: Handwritten digit recognition
 	- Dataset: $D = \{  \langle    x_{1}, t_{1}    \rangle , \dots , \langle    x_{N}, t_{N}    \rangle  \}$
 	- Supervised learning.
 	- Classification problem.
+
+# Model
+**Model:** a map from input space to output space
+- i.e. $f: X \rightarrow Y$
+- An infinite number of such maps
+- Input space: Space spanned by feature attributes
+
+**Hypothesis space $H$:** space of all possible maps
+- Functional 

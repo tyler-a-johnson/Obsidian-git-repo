@@ -300,4 +300,5 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 	- Theoretically, this is related to **bias variance tradeoff**
 ## Estimate Testing Error
 - Option 1: Randomly divide the available set samples into two part: training data and validation data.
-	- Randomness will not give 
+	- Randomness will not give a robust testing error estimation
+	- Wasting of data: the training data fail to contribute testing error while the validatin.

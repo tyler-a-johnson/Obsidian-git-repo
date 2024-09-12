@@ -127,4 +127,9 @@ MINST data: Handwritten digit recognition
 
 What do we really learn from data for a model?
 - Hypothesis space is usually pre-specified in terms of problem domains
-- Different models 
+- Different models are determined by parameters
+- Let $\theta$ denote the parameter vector, we have:
+$$H \equiv \{  f | y=f_{\theta}(x) \}$$
+
+Parameter space
+- Can be real 

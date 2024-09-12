@@ -220,4 +220,9 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 	- *Curse of dimensionality*: When the number of attributes is big, similarity/distance measures become less reliable
 	- Remedy
 		- Remove irrelevant attributes in pre-processing
-		- Weight 
+		- Weight attributes differently
+
+## How to Choose K?
+
+- **Question**: Can we learn K from training data?
+	- No1

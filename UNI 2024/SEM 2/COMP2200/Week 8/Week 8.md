@@ -229,7 +229,7 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 	- Different K will produce different classifiers
 	- Then, how to choose a value for K?
 
-**Model Selection**
+## Model Complexity
 - Refers to the number of degrees of freedom in a learned model
 - Often measured as the number of adjustable weights or parameters in the architecture, e.g weights in regression.
 - High complexity $\rightarrow$ **stronger capability** of capturing information from training data.
@@ -238,4 +238,5 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 - No explicit model parameters
 - Actually, the **decision boundary** formed from the input space partition is relevant to the model complexity.
 - The smoother the boundary is, the complexity is lower.
+
 

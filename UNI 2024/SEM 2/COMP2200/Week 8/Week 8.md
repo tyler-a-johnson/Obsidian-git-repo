@@ -131,6 +131,6 @@ What do we really learn from data for a model?
 - Let $\theta$ denote the parameter vector, we have:
 $$H \equiv \{  f | y=f_{\theta}(x) \}$$
 
-Parameter space
+**Parameter space**
 - Can be real value spaces, e.g., $\mathbb{R}^{n}$
 - Structure of a model (more implicit), e.g., tree or graph structures, as well as partitions of the input space.

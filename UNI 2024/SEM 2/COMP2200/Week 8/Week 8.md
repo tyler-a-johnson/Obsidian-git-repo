@@ -303,4 +303,7 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 	- Randomness will not give a robust testing error estimation
 	- Wasting of data: the training data fail to contribute testing error while the validating data fail to contribute to training.
 		- We hope all data instances contribute to **better model training** and more **robust testing error estimation**.
-		- 
+- Option 2: **k-fold cross validation**
+	- Randomly partition data into $k$ subsets ($k$ is usually 5,10)
+	- In each round, leave a subset out as the validating data
+	- Combined results from multiple rounds are reported as the robust testing error estimation

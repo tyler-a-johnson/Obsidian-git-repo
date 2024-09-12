@@ -67,3 +67,4 @@ Here are some term definitions for talking about data.
 - In practice, this is often violated to certain degree.
 - Strong violations will clearly result in poor performance.
 - To achieve good accuracy on the testing data, training examples must be sufficiently representative of the test data.
+![](Attachments/Pasted%20image%2020240912202614.png)

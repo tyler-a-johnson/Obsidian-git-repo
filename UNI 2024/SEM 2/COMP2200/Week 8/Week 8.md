@@ -126,4 +126,5 @@ MINST data: Handwritten digit recognition
 # Parameter Space
 
 What do we really learn from data for a model?
-- Hypothesis space is usually pre-specified in terms of problem 
+- Hypothesis space is usually pre-specified in terms of problem domains
+- Different models 

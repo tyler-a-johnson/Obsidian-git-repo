@@ -161,4 +161,9 @@ Eg linear regression models $y = w_{0} + w_{1}x$
 	- Euclidian distance is commonly-used
 	- When different units are used for each dimension
 		- Standardization can apply
-	- For categorical data, we can 
+	- For categorical data, we can use hamming distance
+		- $d(x_{1}, x_{2})$ = number of features on which $x_{1}$ and $x_{2}$ differ
+	- Others (e.g. cosine, Manhattan)
+- How many nearby neighbours to look at>
+	- only one 
+- How to fit with training data instances

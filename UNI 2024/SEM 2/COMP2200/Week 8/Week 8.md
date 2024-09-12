@@ -73,7 +73,7 @@ Here are some term definitions for talking about data.
 - Further, $d_{i} = < x_{i}, y_{i}>$
 
 ```ad-note
-title: Supervised learning models
+title: [[Supervised learning models]]
 - **Regression:** y is *continuous*
 - **Classification:** y is *discrete* (binary or multi-class)
 ```
@@ -81,13 +81,19 @@ title: Supervised learning models
 **No explicit label/target information**
 - Then, $d_{i} = <x_{i}, .>$
 ```ad-note
-title: Unsupervised Learning
+title: [[Unsupervised Learning]]
 - **Clustering**
 
 ```
 
 ```ad-note
 title: [[Semi-Supervised Learning]]
-
+ - labour is often costly
 
 ```
+
+### Data Examples
+
+MINST data: Handwritten digit recognition
+[MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges](http://yann.lecun.com/exdb/mnist/)
+![](Attachments/Pasted%20image%2020240912203514.png)

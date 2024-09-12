@@ -155,4 +155,10 @@ Eg linear regression models $y = w_{0} + w_{1}x$
 
 ## 1-Nearest Neighbour
 - One of the simplest classifiers
-- *Basic idea*: label a new point the same as the closest 
+- *Basic idea*: label a new point the same as the closest known data instance.
+![](Attachments/Pasted%20image%2020240912212142.png)
+- A distance metric (to measure similarity)
+	- Euclidian distance is commonly-used
+	- When different units are used for each dimension
+		- Standardization can apply
+	- For categorical data, we can 

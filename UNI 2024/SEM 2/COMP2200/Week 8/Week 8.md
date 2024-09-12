@@ -196,8 +196,13 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 	- Example 1  (great, no, no, normal, no)?
 	- Example 2 (mediocre, yes, no, normal, no)?
 
+
 - Pairwise similarity
 
-| Index | Instance 1 | Instance 2 | Instance 3 | Instance 4 |
-| ----- | ---------- | ---------- | ---------- | ---------- |
-|       |            |            |            |            |
+| Index     | Instance 1 | Instance 2 | Instance 3 | Instance 4 |
+| --------- | ---------- | ---------- | ---------- | ---------- |
+| Example 1 | 3          | 4          | 2          | 1          |
+| Example 2 | 3          | 2          | 4          | 2          |
+
+- Prediction (k = 2)
+	- Example 1 (great, no, no, normal, no)? '*yes'*

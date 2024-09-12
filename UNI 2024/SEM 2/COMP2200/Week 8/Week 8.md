@@ -124,3 +124,6 @@ MINST data: Handwritten digit recognition
 - The purpose of learning: to approximate the ground truth.
 
 # Parameter Space
+
+What do we really learn from data for a model?
+- Hypothesis space is usually pre-specified in terms of problem 

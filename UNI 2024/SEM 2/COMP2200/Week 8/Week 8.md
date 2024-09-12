@@ -263,3 +263,5 @@ Observations
 	- 0 when K = 1
 - Testing error does not take lowest value at K = 1
 	- Testing error is minimized around K = 9.
+- So a paradox for $K = 1$ case
+	- **Overfitting:** a model is too strong and captures the very details of training samples, lacking gene

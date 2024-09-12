@@ -312,4 +312,5 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 ## Automatic Tuning 
 - Challenges in hyperparameter turning
 	- Many hyperparameters are continuous
-		- E.g, complexity parameter $$
+		- E.g, complexity parameter $\alpha$ in Ridge regression
+		- Search space is continuous

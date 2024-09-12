@@ -301,4 +301,5 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 ## Estimate Testing Error
 - Option 1: Randomly divide the available set samples into two part: training data and validation data.
 	- Randomness will not give a robust testing error estimation
-	- Wasting of data: the training data fail to contribute testing error while the validatin.
+	- Wasting of data: the training data fail to contribute testing error while the validating data fail to contribute to training.
+		- We hope all data instances contribute to **better model training** and more **robust testing error estimation**.

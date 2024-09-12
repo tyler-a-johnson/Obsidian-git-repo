@@ -264,4 +264,7 @@ Observations
 - Testing error does not take lowest value at K = 1
 	- Testing error is minimized around K = 9.
 - So a paradox for $K = 1$ case
-	- **Overfitting:** a model is too strong and captures the very details of training samples, lacking gene
+	- **Overfitting:** a model is too strong and captures the very details of training samples, lacking generalization capability
+		- Data is **noisy**, and the model is fitted to noise.
+		- Fighting against overfitting is important in machine learning.
+

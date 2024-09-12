@@ -75,7 +75,19 @@ Here are some term definitions for talking about data.
 ```ad-note
 title: Supervised learning models
 - **Regression:** y is *continuous*
-- **Classification:** y is *discrete* (binary
+- **Classification:** y is *discrete* (binary or multi-class)
+```
+
+**No explicit label/target information**
+- Then, $d_{i} = <x_{i}, .>$
+```ad-note
+title: Unsupervised Learning
+- **Clustering**
 
 ```
 
+```ad-note
+title: [[Semi-Supervised Learning]]
+
+
+```

@@ -261,4 +261,5 @@ Empirical study on KNN classifiers
 Observations
 - Training error keeps going up when K increases
 	- 0 when K = 1
-- Testi
+- Testing error does not take lowest value at K = 1
+	- Testing error is minimized around K = 9.

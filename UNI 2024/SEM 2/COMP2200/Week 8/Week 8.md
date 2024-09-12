@@ -222,7 +222,7 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 		- Remove irrelevant attributes in pre-processing
 		- Weight attributes differently
 
-## How to Choose K?
+# Model Selection
 
 - **We cannot learn k from training data**. It is a hyperparameter, rather than a model parameter
 - Usually, K should be determined by model users
@@ -237,4 +237,5 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 **KNN classifier's complexity**
 - No explicit model parameters
 - Actually, the **decision boundary** formed from the input space partition is relevant to the model complexity.
-- The smoother the bo
+- The smoother the boundary is, the complexity is lower.
+

@@ -306,4 +306,10 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 - Option 2: **k-fold cross validation**
 	- Randomly partition data into $k$ subsets ($k$ is usually 5,10)
 	- In each round, leave a subset out as the validating data
-	- Combined results from multiple rounds are reported as the robust testing error estimation
+	- Combined results from multiple rounds are reported as the robust testing error estimation.\
+![](Attachments/Pasted%20image%2020240912231829.png)
+
+## Automatic Tuning 
+- Challenges in hyperparameter turning
+	- Many hyperparameters are continuous
+		- E.g, complexity parameter $$

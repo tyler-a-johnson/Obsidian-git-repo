@@ -284,3 +284,8 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 + Insights
 	+ Model selection is non-trivial
 	+ We need to use **testing error** as performance indicator to guide model selection for the generalization capability.
+
+
+## So how do we select K
+- Increase K
+	- Make KNN classi

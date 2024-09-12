@@ -279,3 +279,8 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 **Observation 2**
 - Both errors are maximised when K = 40.
 	- All testing sample will be predicted as the same label, why?
++ This is an **underfitting** issue
+	+ Easy to address by just increasing model complexity
++ Insights
+	+ Model selection is non-trivial
+	+ We need to use **testing error** as performance indicator to guide model selection for the generalization capability.

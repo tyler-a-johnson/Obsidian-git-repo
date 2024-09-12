@@ -103,4 +103,6 @@ MINST data: Handwritten digit recognition
 	- Feature extraction, a pre-processing step
 	- ![](Attachments/Pasted%20image%2020240912203841.png)
 - Label/targe vector $t_{i}$
-	- $t_{i} \in \{  0,1 \}$
+	- $t_{i} \in \{  0,1 \}^{10}$, a discrete, finite label set
+	- $t_{i} = (0,0,1,0,0,0,0,0,0,0)$
+- Learning model $y: \mathbb{R}^{784}\rightarrow \mathbb{R}^{10}$

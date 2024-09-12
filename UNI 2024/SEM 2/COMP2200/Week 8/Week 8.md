@@ -145,3 +145,14 @@ Eg linear regression models $y = w_{0} + w_{1}x$
 - Classify new examples like similar training examples
 
 **Algorithm**
+- Given some new example $x$ for which we need to predict its class $y$.
+- Find the most similar training examples
+- Classify $x$ "like" these most similar examples
+
+**Questions:**
+- How to determine similarity
+- How many similar training examples to consider?
+
+## 1-Nearest Neighbour
+- One of the simplest classifiers
+- *Basic idea*: label a new point the same as the closest 

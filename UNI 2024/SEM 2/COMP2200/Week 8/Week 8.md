@@ -222,7 +222,7 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 		- Remove irrelevant attributes in pre-processing
 		- Weight attributes differently
 
-# Model Selection
+# Model Selection (Select k)
 
 - **We cannot learn k from training data**. It is a hyperparameter, rather than a model parameter
 - Usually, K should be determined by model users
@@ -239,4 +239,8 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 - Actually, the **decision boundary** formed from the input space partition is relevant to the model complexity.
 - The smoother the boundary is, the complexity is lower.
 
+$K$ acts as a smoother and controls model complexity
+![](Attachments/Pasted%20image%2020240912221625.png)
+
+$K = 1$ leads to the roughest decision boundaries
 

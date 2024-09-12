@@ -96,4 +96,7 @@ title: [[Semi-Supervised Learning]]
 
 MINST data: Handwritten digit recognition
 [MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges](http://yann.lecun.com/exdb/mnist/)
+
 ![](Attachments/Pasted%20image%2020240912203514.png)
+
+- **Represent input image as a vector** $x_{i} \in $

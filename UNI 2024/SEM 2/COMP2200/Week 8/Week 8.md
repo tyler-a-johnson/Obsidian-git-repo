@@ -314,3 +314,4 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 	- Many hyperparameters are continuous
 		- E.g, complexity parameter $\alpha$ in Ridge regression
 		- Search space is continuous
+	- Need to tune multiple hyperparameters simultaneously

@@ -99,4 +99,8 @@ MINST data: Handwritten digit recognition
 
 ![](Attachments/Pasted%20image%2020240912203514.png)
 
-- **Represent input image as a vector** $x_{i} \in $
+- **Represent input image as a vector** $x_{i} \in \mathbb{R}^{784}$
+	- Feature extraction, a pre-processing step
+	- ![](Attachments/Pasted%20image%2020240912203841.png)
+- Label/targe vector $t_{i}$
+	- $t_{i} \in \{  0,1 \}$

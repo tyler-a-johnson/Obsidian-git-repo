@@ -230,3 +230,6 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 	- Then, how to choose a value for K?
 
 **Model Selection**
+- Refers to the number of degrees of freedom in a learned model
+- Often measured as the number of adjustable weights or parameters in the architecture, e.g weights in regression.
+- High complexity $\rightarrow$ **stronger capabi**

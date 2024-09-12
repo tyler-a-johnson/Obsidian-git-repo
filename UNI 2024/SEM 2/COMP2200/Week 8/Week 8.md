@@ -171,4 +171,12 @@ Eg linear regression models $y = w_{0} + w_{1}x$
 - How to fit with training data instances?
 	- Just predict the same output as the nearest neighbour
 
-The resultant space partition is a **[[Voronoi Diagram]**
+The resultant space partition is a **[[Voronoi Diagram]]**
+![](Attachments/Pasted%20image%2020240912212731.png)
+
+## K - Nearest Neighbour
+- Generalizes 1 NN to smooth away **noise** in the labels
+- A new data instance is now assigned **the most frequent** label of its *k* nearest neighbours
+- E.g. k = 3, and k = 7.
+
+![](Attachments/Pasted%20image%2020240912212915.png)

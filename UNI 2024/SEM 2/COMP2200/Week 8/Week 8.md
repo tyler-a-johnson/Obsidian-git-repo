@@ -178,5 +178,12 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 - Generalizes 1 NN to smooth away **noise** in the labels
 - A new data instance is now assigned **the most frequent** label of its *k* nearest neighbours
 - E.g. k = 3, and k = 7.
-
 ![](Attachments/Pasted%20image%2020240912212915.png)
+
+
+### KNN Example
+
+Data
+|     | Food (3) | Chat (2) | Fast (2) | Price (3) | Bar (2) | BigTip |
+| --- | -------- | -------- | -------- | --------- | ------- | ------ |
+| 1   |          |          |          |           |         |        |

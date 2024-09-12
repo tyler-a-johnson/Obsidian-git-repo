@@ -257,10 +257,16 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 - 40 point for training, 10 points for testing
 - 3 classes
 - Error is calculated by 1.0 - *accuracy*
+![](Attachments/Pasted%20image%2020240912224519.png)
+
+
+
+
+
 
 ![](Attachments/Pasted%20image%2020240912224445.png)
 
-**Observations**
+**Observation 1**
 - Training error keeps going up when K increases
 	- 0 when K = 1
 - Testing error does not take lowest value at K = 1
@@ -270,3 +276,6 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 		- Data is **noisy**, and the model is fitted to noise.
 		- Fighting against overfitting is important in machine learning.
 
+**Observation 2**
+- Both errors are maximised when K = 40.
+	- All testing sample will be predicte

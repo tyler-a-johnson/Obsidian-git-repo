@@ -213,3 +213,6 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 		- $2^{nd}$ most similar: instance 1 (2 mismatch, 3 match) $\rightarrow$ *yes*
 
 ### KNN Limitations
+- Each prediction takes $O(n)$ computational complexity
+	- Use fancy data structures such as KD-trees to accelerate the search of nearest neighbours
+	- Or use locality-sensitive hashing to approximate neares

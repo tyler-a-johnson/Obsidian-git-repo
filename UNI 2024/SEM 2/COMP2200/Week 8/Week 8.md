@@ -205,4 +205,7 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 | Example 2 | 3          | 2          | 4          | 2          |
 
 - Prediction (k = 2)
-	- Example 1 (great, no, no, normal, no)? '*yes'*
+	- Example 1 (great, no, no, normal, no)? *'yes'*
+		- Most similar: Instance 2 (1 mismatch, 4 match) $\rightarrow$ *yes*
+		- $2^{nd}$ most similar: instance 1 (2 mismatch, 3 match) $\rightarrow$ *yes*
+	- Example 2 (mediocre, yes, no, normal, no)

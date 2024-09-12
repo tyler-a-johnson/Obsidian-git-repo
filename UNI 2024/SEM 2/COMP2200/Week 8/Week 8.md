@@ -63,4 +63,7 @@ Here are some term definitions for talking about data.
 - **Testing data:** data used in the testing stage
 - **Validation data:** used to select learning models
 
-**Assumption:** the distribution of training examples is *idend*
+**Assumption:** the distribution of training examples is *identical* to the distribution of test examples (including future unseen examples)
+- In practice, this is often violated to certain degree.
+- Strong violations will clearly result in poor performance.
+- To achieve good accuracy on the testing data, training examples must be sufficiently representative of the test data.

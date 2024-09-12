@@ -191,4 +191,13 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 | 2   | great    | no       | yes      | normal    | no      | yes    |
 | 3   | mediocre | yes      | no       | high      | no      | no     |
 | 4   | great    | yes      | yes      | normal    | yes     | yes    |
-- Si
+- Similarity metric: # of matching attributes (k = 2)
+- New examples
+	- Example 1  (great, no, no, normal, no)?
+	- Example 2 (mediocre, yes, no, normal, no)?
+
+- Pairwise similarity
+
+| Index | Instance 1 | Instance 2 | Instance 3 | Instance 4 |
+| ----- | ---------- | ---------- | ---------- | ---------- |
+|       |            |            |            |            |

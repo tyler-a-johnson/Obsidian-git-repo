@@ -117,4 +117,10 @@ MINST data: Handwritten digit recognition
 - Input space: Space spanned by feature attributes
 
 **Hypothesis space $H$:** space of all possible maps
-- Functional 
+- Functional space: $H = \{ f| X \rightarrow Y \}$
+
+**Ground truth:** Underlying true mechanisms of generating the observed data
+- But *never* known in reality.
+- The purpose of learning: to approximate the ground truth.
+
+# Parameter Space

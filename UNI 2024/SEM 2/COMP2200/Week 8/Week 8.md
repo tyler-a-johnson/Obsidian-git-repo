@@ -62,4 +62,5 @@ Here are some term definitions for talking about data.
 - **Training Data:** Data used in training stage
 - **Testing data:** data used in the testing stage
 - **Validation data:** used to select learning models
-	- Part of training data
+
+**Assumption:** the distribution of training examples is *idend*

@@ -226,3 +226,7 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 
 - **We cannot learn k from training data**. It is a hyperparameter, rather than a model parameter
 - Usually, K should be determined by model users
+	- Different K will produce different classifiers
+	- Then, how to choose a value for K?
+
+**Model Selection**

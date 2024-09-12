@@ -110,7 +110,7 @@ MINST data: Handwritten digit recognition
 	- Supervised learning.
 	- Classification problem.
 
-# Model
+## Model
 **Model:** a map from input space to output space
 - i.e. $f: X \rightarrow Y$
 - An infinite number of such maps
@@ -123,7 +123,7 @@ MINST data: Handwritten digit recognition
 - But *never* known in reality.
 - The purpose of learning: to approximate the ground truth.
 
-# Parameter Space
+## Parameter Space
 
 What do we really learn from data for a model?
 - Hypothesis space is usually pre-specified in terms of problem domains
@@ -138,3 +138,10 @@ $$H \equiv \{  f | y=f_{\theta}(x) \}$$
 Eg linear regression models $y = w_{0} + w_{1}x$
 ![500](Attachments/Pasted%20image%2020240912211603.png)
 
+
+# K - Nearest Neighbours Classifier
+**Idea: Instance based learning**
+- Similar examples have similar labels
+- Classify new examples like similar training examples
+
+**Algorithm**

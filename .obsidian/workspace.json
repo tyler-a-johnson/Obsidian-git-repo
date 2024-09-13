@@ -80,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -260,7 +261,7 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "94f1d9ed1ade571b",
+  "active": "47d81797444acc89",
   "lastOpenFiles": [
     "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",

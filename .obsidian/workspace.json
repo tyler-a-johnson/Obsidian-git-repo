@@ -28,16 +28,6 @@
             }
           },
           {
-            "id": "50458420205e823d",
-            "type": "leaf",
-            "state": {
-              "type": "jupyter-view",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb"
-              }
-            }
-          },
-          {
             "id": "acc7ee570672222e",
             "type": "leaf",
             "state": {
@@ -51,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf"
               }
             }
           },
@@ -233,8 +223,9 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "50458420205e823d",
+  "active": "f20612d70085d33d",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
@@ -258,7 +249,6 @@
     "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
     "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.html",
-    "UNI 2024/SEM 2/COMP2200/Week 8",
     "UNI 2024/SEM 2/COMP2200/Week 7.md",
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP2200/Week 3.md",

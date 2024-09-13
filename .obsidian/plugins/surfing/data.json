@@ -76,6 +76,28 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "e5e7dd149307a99f",
+      "parent": 0,
+      "droppable": true,
+      "text": "Lecture_Week_2a",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "5fb0b4d53e0b28ac",
+      "parent": 0,
+      "droppable": true,
+      "text": "Lecture_Week_2b",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }

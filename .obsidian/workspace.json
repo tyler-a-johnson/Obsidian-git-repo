@@ -38,6 +38,16 @@
             }
           },
           {
+            "id": "5fb0b4d53e0b28ac",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%202/Lecture_Week_2b.html"
+              }
+            }
+          },
+          {
             "id": "acc7ee570672222e",
             "type": "leaf",
             "state": {
@@ -51,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -233,11 +239,11 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "bebc419c4af7138b",
+  "active": "5fb0b4d53e0b28ac",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
-    "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 5/01_Data Science_data ethic_Lecture 2024.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf",

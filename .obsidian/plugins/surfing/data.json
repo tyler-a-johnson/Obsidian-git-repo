@@ -45,62 +45,7 @@
   },
   "treeData": [
     {
-      "id": "ac2486c2975d6620",
-      "parent": 0,
-      "droppable": true,
-      "text": "Lecture Week 5-s2-2024",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "62e500f2851713df",
-      "parent": 0,
-      "droppable": true,
-      "text": "Software Engineering in Data Science",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "f20612d70085d33d",
-      "parent": 0,
-      "droppable": true,
-      "text": "Software Engineering in Data Science",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "e5e7dd149307a99f",
-      "parent": 0,
-      "droppable": true,
-      "text": "Lecture_Week_2a",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "5fb0b4d53e0b28ac",
-      "parent": 0,
-      "droppable": true,
-      "text": "Lecture_Week_2b",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "50458420205e823d",
+      "id": "94f1d9ed1ade571b",
       "parent": 0,
       "droppable": true,
       "text": "Lecture_Week_3",

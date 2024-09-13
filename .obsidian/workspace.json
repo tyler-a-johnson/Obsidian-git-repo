@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 5/01_Data Science_data ethic_Lecture 2024.pdf"
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 5/01_Data Science_data ethic_Lecture 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 5/01_Data Science_data ethic_Lecture 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 5/01_Data Science_data ethic_Lecture 2024.pdf"
               }
             }
           },
@@ -199,8 +199,9 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "9ca138fbd2fcd7a6",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912231829.png",
@@ -224,7 +225,6 @@
     "UNI 2024/SEM 2/COMP2200/Week 7",
     "UNI 2024/SEM 2/COMP2200/Week 7.md",
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 6/Software Engineering in Data Science.slides (3).html",
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP2200/Week 3.md",

@@ -21,9 +21,9 @@
             "id": "f20612d70085d33d",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "pdf",
               "state": {
-                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%206/Software%20Engineering%20in%20Data%20Science.html"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf"
               }
             }
           },
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf"
+              }
             }
           },
           {
@@ -228,8 +233,9 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "ac2486c2975d6620",
+  "active": "bebc419c4af7138b",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",

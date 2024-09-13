@@ -80,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,10 +261,10 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "94f1d9ed1ade571b",
+  "active": "3efa86c1d333010e",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",

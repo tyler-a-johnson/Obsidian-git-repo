@@ -6,7 +6,6 @@
       {
         "id": "be7a9fcbf73a2334",
         "type": "tabs",
-        "dimension": 47.707889125799575,
         "children": [
           {
             "id": "9ca138fbd2fcd7a6",
@@ -18,23 +17,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fe198bf5071e9d94",
-        "type": "tabs",
-        "dimension": 52.292110874200425,
-        "children": [
-          {
-            "id": "7485bf2188eec999",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf"
               }
             }
           }

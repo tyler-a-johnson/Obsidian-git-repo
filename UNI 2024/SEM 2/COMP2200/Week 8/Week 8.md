@@ -177,7 +177,7 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 ## K - Nearest Neighbour
 - Generalizes 1 NN to smooth away **noise** in the labels
 - A new data instance is now assigned **the most frequent** label of its *k* nearest neighbours
-- E.g. k = 3, and k = 7.
+- E.g. K = 3, and K = 7.
 ![](Attachments/Pasted%20image%2020240912212915.png)
 
 
@@ -224,7 +224,7 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 
 # Model Selection (Select k)
 
-- **We cannot learn k from training data**. It is a hyperparameter, rather than a model parameter
+- **We cannot learn K from training data**. It is a hyperparameter, rather than a model parameter
 - Usually, K should be determined by model users
 	- Different K will produce different classifiers
 	- Then, how to choose a value for K?

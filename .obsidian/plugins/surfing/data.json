@@ -54,6 +54,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "62e500f2851713df",
+      "parent": 0,
+      "droppable": true,
+      "text": "Software Engineering in Data Science",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }

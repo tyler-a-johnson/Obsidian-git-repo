@@ -16,8 +16,19 @@
                 "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%205/Lecture%20Week%205-s2-2024.html"
               }
             }
+          },
+          {
+            "id": "62e500f2851713df",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%206/Software%20Engineering%20in%20Data%20Science.html"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +206,7 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "ac2486c2975d6620",
+  "active": "62e500f2851713df",
   "lastOpenFiles": [
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 5/01_Data Science_data ethic_Lecture 2024.pdf",

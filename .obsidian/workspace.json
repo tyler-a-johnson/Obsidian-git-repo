@@ -31,9 +31,9 @@
             "id": "50458420205e823d",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "jupyter-view",
               "state": {
-                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%203/Lecture_Week_3.html"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb"
               }
             }
           },
@@ -144,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb"
+              }
             }
           },
           {

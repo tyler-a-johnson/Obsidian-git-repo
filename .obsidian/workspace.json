@@ -41,9 +41,9 @@
             "id": "47d81797444acc89",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "pdf",
               "state": {
-                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%205/Lecture%20Week%205-s2-2024.html"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf"
               }
             }
           },
@@ -175,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf"
+              }
             }
           },
           {

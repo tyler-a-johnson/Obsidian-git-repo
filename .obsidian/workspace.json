@@ -28,22 +28,12 @@
             }
           },
           {
-            "id": "bebc419c4af7138b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf"
-              }
-            }
-          },
-          {
-            "id": "5fb0b4d53e0b28ac",
+            "id": "50458420205e823d",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%202/Lecture_Week_2b.html"
+                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%203/Lecture_Week_3.html"
               }
             }
           },
@@ -61,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,7 +229,7 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "5fb0b4d53e0b28ac",
+  "active": "50458420205e823d",
   "lastOpenFiles": [
     "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",

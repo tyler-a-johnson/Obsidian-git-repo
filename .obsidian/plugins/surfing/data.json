@@ -98,6 +98,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "50458420205e823d",
+      "parent": 0,
+      "droppable": true,
+      "text": "Lecture_Week_3",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }

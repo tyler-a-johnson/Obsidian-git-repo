@@ -11,12 +11,9 @@
             "id": "9ca138fbd2fcd7a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf"
               }
             }
           }
@@ -86,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 406.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -114,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 6/Transfer_learning.pdf"
               }
             }
           },
@@ -203,13 +199,14 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "9ca138fbd2fcd7a6",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912231829.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224519.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224445.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224417.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912221625.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912212915.png",
@@ -217,7 +214,6 @@
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912212142.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912211603.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912204044.png",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912203841.png",
     "Distilled Notes/Semi-Supervised Learning.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",

@@ -4,84 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7c1dd6c1980b01d7",
+        "id": "80a37043a879e1ec",
         "type": "tabs",
         "children": [
           {
-            "id": "94f1d9ed1ade571b",
+            "id": "51c274cad75e1019",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "jupyter-view",
               "state": {
-                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%203/Lecture_Week_3.html"
-              }
-            }
-          },
-          {
-            "id": "3efa86c1d333010e",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%204/Lecture-Week-4a.html"
-              }
-            }
-          },
-          {
-            "id": "5273e69a52369803",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%204/Lecture-Week-4b.html"
-              }
-            }
-          },
-          {
-            "id": "47d81797444acc89",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf"
-              }
-            }
-          },
-          {
-            "id": "068d159bc13fca16",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "file:///C:\\Users\\tyler\\Documents\\GitHub\\Obsidian-git-repo/UNI%202024/SEM%202/COMP2200/Week%206/Software%20Engineering%20in%20Data%20Science.html"
-              }
-            }
-          },
-          {
-            "id": "a13b8863d10fa65d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf"
-              }
-            }
-          },
-          {
-            "id": "f051d76fee24438c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -175,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb"
               }
             }
           },
@@ -265,11 +200,11 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "47d81797444acc89",
+  "active": "51c274cad75e1019",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
-    "UNI 2024/SEM 2/COMP2200/Week 6/InformationSecurityDataScience.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 4/bokeh_intro.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 5/01_Data Science_data ethic_Lecture 2024.pdf",

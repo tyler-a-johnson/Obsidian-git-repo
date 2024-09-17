@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md"
               }
             }
           },
@@ -205,6 +205,7 @@
   },
   "active": "0284dd1f3148edcf",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/Task3.sql",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/Task3_Template.sql",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files",
@@ -218,7 +219,6 @@
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment 1 Marking Rubric.pdf",
     "UNI 2024/SEM 2/COMP1350/assignment/Capture.PNG",
     "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
-    "UNI 2024/SEM 2/COMP1350/assignment",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224417.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224519.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224445.png",

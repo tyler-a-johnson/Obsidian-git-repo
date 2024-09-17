@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md"
               }
             }
           },
@@ -184,6 +184,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "jupyter:Start Jupyter Server": false,
+      "jupyter:Create Jupyter Notebook": false,
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": false,
@@ -200,8 +203,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "722bd1a166a65a70",
+  "active": "0284dd1f3148edcf",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
     "UNI 2024/SEM 2/COMP1350/assignment/Task3_Template.sql",
     "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_TeamContract_Template.docx",
     "UNI 2024/SEM 2/COMP1350/assignment/Task_1_2_Template.docx",
@@ -223,7 +227,6 @@
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments",
     "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
@@ -231,7 +234,6 @@
     "Movie&TV Recs.md",
     "Distilled Notes/Semi-Supervised Learning.md",
     "Kanban Schedule.md",
-    "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
     "Distilled Notes/Entity Relationship Diagram (ERD).md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md"
               }
             }
           },
@@ -205,6 +206,7 @@
   },
   "active": "0284dd1f3148edcf",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
     "UNI 2024/SEM 2/COMP1350/assignment/Task3_Template.sql",
     "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_TeamContract_Template.docx",
@@ -225,7 +227,6 @@
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912203841.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.html",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/COMP2200-6200-08_KNN-Classifier.pdf",
     "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",

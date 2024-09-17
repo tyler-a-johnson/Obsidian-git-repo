@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -186,8 +185,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian42-brat:BRAT": false,
-      "jupyter:Start Jupyter Server": false,
-      "jupyter:Create Jupyter Notebook": false,
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": false,
@@ -201,7 +198,9 @@
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "jupyter:Start Jupyter Server": false,
+      "jupyter:Create Jupyter Notebook": false
     }
   },
   "active": "0284dd1f3148edcf",

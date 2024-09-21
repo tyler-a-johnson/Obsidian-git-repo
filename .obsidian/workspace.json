@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -215,13 +216,14 @@
   },
   "active": "0284dd1f3148edcf",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/Screenshot 2024-08-05 123511.png",
+    "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/~$sk_1_2_Template.docx",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/Untitled",
     "UNI 2024/SEM 2/COMP1350/assignment/~$sk_1_2_Template.docx",
     "UNI 2024/SEM 2/COMP1350/assignment/~WRD0001.tmp",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
-    "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
@@ -232,7 +234,6 @@
     "UNI 2024/SEM 2/COMP1350/assignment/New folder",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
-    "UNI 2024/SEM 2/COMP1350/assignment/Task3_Template.sql",
     "UNI 2024/SEM 2/COMP1350/assignment/Capture.PNG",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224417.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224519.png",

@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
+                "file": "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
+                "file": "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md"
+                "file": "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf"
               }
             }
           },
@@ -214,11 +214,11 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "95547fa37e218776",
+  "active": "0284dd1f3148edcf",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
-    "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
     "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
     "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",

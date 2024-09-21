@@ -98,7 +98,7 @@ STEP 6: For each multivalued attribute, create a new relation that includes the 
 ![](Attachments/image%20(5).png)
 
 **Step 7: Associative entities**  
-STEP 7: For each n-ary relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the participating entities that hold the N (many) side. In most cases of an n-ary relationship, all the participating entities hold a many side.  
+STEP 7: For each ternary relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the participating entities that hold the N (many) side. In most cases of an ternary relationship, all the participating entities hold a many side.  
   ![](Attachments/image%20(6).png)
 **Final Table List**  
 Use the updated version of all tables and combine them to get the result. Take the most up-to-date version of each table. A useful habit is to cross out any tables if you create an updated version of it.

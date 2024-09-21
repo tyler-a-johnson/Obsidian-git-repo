@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md"
               }
             }
           },
@@ -214,13 +215,13 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "0284dd1f3148edcf",
+  "active": "95547fa37e218776",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
-    "UNI 2024/SEM 2/COMP1350/assignment/COMP1350_AssignmentSpecs_Updated17_08.pdf",
     "UNI 2024/SEM 2/COMP1350/assignment/~$sk_1_2_Template.docx",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment 1 Marking Rubric.pdf",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/Task3.sql",
@@ -262,7 +263,6 @@
     "Distilled Notes/Database Management System.md",
     "Resources/Templates/File Properties - Lecture Notes.md",
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
-    "UNI 2024/SEM 2/COMP1350/Workshops/Week 2.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",

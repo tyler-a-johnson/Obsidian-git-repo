@@ -15,9 +15,9 @@
               "state": {
                 "file": "Study Plan (Macquarie University).canvas",
                 "viewState": {
-                  "x": 291.8197351227326,
-                  "y": 108.7461960526231,
-                  "zoom": -0.8080746448725202
+                  "x": 176.45133523817978,
+                  "y": 124.82830817151124,
+                  "zoom": -1.1664079782058538
                 }
               }
             }
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",

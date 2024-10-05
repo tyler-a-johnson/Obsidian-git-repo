@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b92fbfb128b10fa6",
+        "id": "655f050f355a0c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "14d784204bffaf1a",
-            "type": "leaf",
-            "state": {
-              "type": "jupyter-view",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb"
-              }
-            }
-          },
-          {
-            "id": "76431a4108a13544",
+            "id": "8039fa4f65412b79",
             "type": "leaf",
             "state": {
               "type": "jupyter-view",
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb"
+                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb"
               }
             }
           },
@@ -210,10 +200,11 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "14d784204bffaf1a",
+  "active": "8039fa4f65412b79",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Untitled.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
+    "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
     "Week 4 - Conceptual Data Modelling and Logical Modelling.pdf",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/Task_1_2_Template.docx",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/23_016.sql",
@@ -222,7 +213,6 @@
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 9/Single_Table.sql",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 9/Two_Tables.sql",
-    "UNI 2024/SEM 2/COMP1350/Workshops/Week 9/Download_Me.sql",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912231829.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224519.png",

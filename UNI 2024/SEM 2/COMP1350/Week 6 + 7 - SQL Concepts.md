@@ -437,3 +437,24 @@ Schema for the examples:
 
 
 ## Query using multiple tables
+Any query that requires data from multiple tables requires information on how the data relates to each other.
+![](Attachments/actor_acts_references.png)
+Options to relate data for query:
+
+- equijoin: listing the table names separated by commas in the FROM clause, then applying criteria in the WHERE clause.  
+    
+    **SELECT** *
+    **FROM Actor, Acts
+    WHERE Actor.ActorID = Acts.ActorID;**
+    
+- JOIN clause(s): applying JOIN clauses between table names listed in the FROM clause.  
+    There are two options to apply criteria to a JOIN clause:  
+    - with the **ON** keyword
+        
+        **SELECT** *
+        **FROM Actor JOIN Acts ON Actor.ActorID = Acts.ActorID;**
+        
+    - with the **USING** keyword (only possible when the column name in the reference and the referencing tables are the same)
+        
+        **SELECT** *
+        **FROM Actor JOIN Acts USING(ActorID);**

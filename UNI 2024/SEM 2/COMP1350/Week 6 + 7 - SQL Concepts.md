@@ -527,7 +527,7 @@ To use inner join, there are two options:
     - Example 3 - three tables:  
         
         **SELECT** *
-        **FROM Actor a1    JOIN Acts a2 ON a1.ActorID = a2.ActorID    JOIN Movie m ON a2.MovieID = m.MovieID;**
+        **FROM Actor a1  JOIN Acts a2 ON a1.ActorID = a2.ActorID    JOIN Movie m ON a2.MovieID = m.MovieID;**
         
 - with NATURAL JOIN (not recommended for usage, and **prohibited in this unit**)  
     The NATURAL JOIN clause matches based on the same column names, which could produce unexpected results (see demo in the lecture)  

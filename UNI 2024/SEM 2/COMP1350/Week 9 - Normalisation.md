@@ -133,3 +133,18 @@ There is a transitive dependent (TD) exists
 - Staff (StaffID (**pk**), StaffName, Phone)  
 - Unit (UnitCode(**pk**), UnitName, CreditPoints)
 
+## Third Normal Form (3NF)
+- At least on 2NF
+- No transitive dependencies exist  
+
+**Example**
+Each of the transitive dependencies becomes a new relation (Position).
+The initial relation (Allocation) is reduced to exclude the transitive dependents (Salary), where any part of the key that has a partial dependency becomes a foreign key (Position).
+![](Attachments/allocation_3nf.png)Table list:
+- Allocation (StaffID (pk, fk), UnitCode (pk, fk), Position (**fk**))  
+- Position (Position (**pk**), Salary)  
+- Staff (StaffID (pk), StaffName, Phone)  
+- Unit (UnitCode (pk), UnitName, CreditPoints)
+
+
+_**Note**: in a normalisation process, only transformation from UNF to 1NF requires the data set shown, while the rest only requires the table list to be provided. The data sets are provided to illustrate how each step affects the data set for learning purposes._

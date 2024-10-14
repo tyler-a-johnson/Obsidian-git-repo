@@ -418,3 +418,22 @@ Sample usage in queries:
 Schema for the examples:
 ![800](Attachments/Week7Schema.jpeg)
 
+#### DDL - Foreign Key constraint
+
+**Syntax to create a table (CREATE statement)  
+**
+
+**CREATE TABLE** table-name (  
+    column-name1 column-definition1,  
+    column-name2 column-definition2,
+    ... ,
+    <**PRIMARY KEY**(column-name <, column-name…>),>
+    <**FOREIGN KEY**(column-name <, column-name…>) 
+        **REFERENCES** source-table-name(column-name <, column-name…>)>)
+;
+**Notes:**
+- Column referencing another column must have the same data type and length.  
+- If data has been added before adding the foreign key, all values in the column must have a relevant reference in the source table.
+
+
+## Query using multiple tables

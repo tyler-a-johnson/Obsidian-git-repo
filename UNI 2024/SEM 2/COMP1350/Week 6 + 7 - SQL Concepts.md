@@ -522,12 +522,15 @@ To use inner join, there are two options:
     - Example 2 - using alias:  
         
         **SELECT** *
-        **FROM Actor t1 JOIN Acts t2 ON t1.ActorID = t2.ActorID;**
+        **FROM Actor t1 
+        JOIN Acts t2 ON t1.ActorID = t2.ActorID;**
         
     - Example 3 - three tables:  
         
         **SELECT** *
-        **FROM Actor a1  JOIN Acts a2 ON a1.ActorID = a2.ActorID    JOIN Movie m ON a2.MovieID = m.MovieID;**
+        **FROM Actor a1  
+        JOIN Acts a2 ON a1.ActorID = a2.ActorID    
+        JOIN Movie m ON a2.MovieID = m.MovieID;**
         
 - with NATURAL JOIN (not recommended for usage, and **prohibited in this unit**)  
     The NATURAL JOIN clause matches based on the same column names, which could produce unexpected results (see demo in the lecture)  

@@ -26,7 +26,6 @@ There are three types of possible anomalies in a database:
 
 - insertion anomaly - adding new rows forces the creation of duplicate data
 - deletion anomaly - deleting rows may cause a loss of data that would be needed for other future rows  
-    
 - modification/update anomaly - changing data in a row forces changes to other rows because of duplication
 
   
@@ -60,3 +59,23 @@ If the only employee assigned to a unit has been removed, we lose the unit infor
 If we need to modify the credit points for a unit, it may cause data inconsistency due to the redundant data, unless it applies to all instances of that data.
 
 ![](Attachments/teaching_update.png)
+
+# Functional Dependency
+
+To normalise a database, we need to understand the concept of functional dependency.
+
+**Functional dependency** represents the relationship between attributes in a relation, where one or a set of attributes act as the **determinant** for other attributes (the **dependents**).
+
+We can note dependency as a notation or in a diagram.
+
+- A is the determinant and B is the dependent; OR B is functionally dependent on A  
+    - Dependency notation: A → B
+    - Dependency diagram  
+        ![](https://ilearn.mq.edu.au/pluginfile.php/9374878/mod_book/chapter/355636/image.png)
+- A and B are the determinants and C, D and E are the dependents; OR C, D, and E are functionally dependent on both A and B
+    - Dependency notation: A, B → C, D, E
+    - Dependency diagram   
+        ![](https://ilearn.mq.edu.au/pluginfile.php/9374878/mod_book/chapter/355636/image%20%281%29.png)  
+        
+
+####

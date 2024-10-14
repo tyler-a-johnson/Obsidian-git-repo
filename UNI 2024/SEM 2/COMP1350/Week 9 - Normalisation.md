@@ -18,9 +18,8 @@ The goals:
 - to minimise database redesign even when the database is expanded to include new entities or attributes.
 ![](Attachments/normalisation_process.png)
 
-### Lecture Week-9
 
-#### Anomalies
+# Anomalies
 
 There are three types of possible anomalies in a database:
 
@@ -30,7 +29,7 @@ There are three types of possible anomalies in a database:
 
   
 
-#### Example
+## Example
 
 ![](Attachments/teaching_1nf.png)
 
@@ -38,7 +37,7 @@ The primary key is a composite of StaffID and UnitCode.
 
   
 
-##### Insertion Anomaly
+### Insertion Anomaly
 
 If a new unit is introduced, a staff must be entered since it is a part of the primary key. So, we cannot add information about a new unit without hiring an employee first and assigning them to the unit.
 
@@ -46,7 +45,7 @@ If a new unit is introduced, a staff must be entered since it is a part of the p
 
   
 
-##### Deletion Anomaly
+### Deletion Anomaly
 
 If the only employee assigned to a unit has been removed, we lose the unit information, since removing the unit code alone is not possible.
 
@@ -54,7 +53,7 @@ If the only employee assigned to a unit has been removed, we lose the unit infor
 
   
 
-##### Modification/Update Anomaly
+### Modification/Update Anomaly
 
 If we need to modify the credit points for a unit, it may cause data inconsistency due to the redundant data, unless it applies to all instances of that data.
 
@@ -71,11 +70,10 @@ We can note dependency as a notation or in a diagram.
 - A is the determinant and B is the dependent; OR B is functionally dependent on A  
     - Dependency notation: A → B
     - Dependency diagram  
-        ![](https://ilearn.mq.edu.au/pluginfile.php/9374878/mod_book/chapter/355636/image.png)
+      ![](Attachments/image%202.png)
 - A and B are the determinants and C, D and E are the dependents; OR C, D, and E are functionally dependent on both A and B
     - Dependency notation: A, B → C, D, E
     - Dependency diagram   
-        ![](https://ilearn.mq.edu.au/pluginfile.php/9374878/mod_book/chapter/355636/image%20%281%29.png)  
+        ![](Attachments/image%20(1)%202.png)  
         
 
-####

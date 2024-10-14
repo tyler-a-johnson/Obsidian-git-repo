@@ -489,3 +489,49 @@ Note: 
 
 
 # Inner Join
+It only accounts for matching records and excludes records without matching values in the other table.
+![](Attachments/Pasted%20image%2020241014220342.png)
+
+To use inner join, there are two options:
+
+- **with equijoin**
+    - Example 1:
+        
+        **SELECT** *
+        **FROM Actor, Acts
+        WHERE Actor.ActorID = Acts.ActorID;**
+        
+    - Example 2 - using alias:
+        
+        **SELECT** *
+        **FROM Actor t1, Acts t2
+        WHERE t1.ActorID = t2.ActorID;**
+        
+    - Example 3 - three tables:  
+        
+        **SELECT** *
+        **FROM Actor a1, Acts a2, Movie m
+        WHERE a1.ActorID = a2.ActorID AND a2.MovieID = m.MovieID;**
+        
+- with JOIN clause (default for INNER JOIN)
+    - Example 1:  
+        
+        **SELECT** *
+        **FROM Actor JOIN Acts ON Actor.ActorID = Acts.ActorID;**
+        
+    - Example 2 - using alias:  
+        
+        **SELECT** *
+        **FROM Actor t1 JOIN Acts t2 ON t1.ActorID = t2.ActorID;**
+        
+    - Example 3 - three tables:  
+        
+        **SELECT** *
+        **FROM Actor a1    JOIN Acts a2 ON a1.ActorID = a2.ActorID    JOIN Movie m ON a2.MovieID = m.MovieID;**
+        
+- with NATURAL JOIN (not recommended for usage, and **prohibited in this unit**)  
+    The NATURAL JOIN clause matches based on the same column names, which could produce unexpected results (see demo in the lecture)  
+    - Example:  
+        
+        **SELECT** *
+        **FROM Actor NATURAL JOIN Acts;**

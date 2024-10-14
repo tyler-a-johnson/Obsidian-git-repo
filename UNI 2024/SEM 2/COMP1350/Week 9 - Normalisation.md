@@ -61,8 +61,6 @@ If we need to modify the credit points for a unit, it may cause data inconsisten
 
 # Functional Dependency
 
-To normalise a database, we need to understand the concept of functional dependency.
-
 **Functional dependency** represents the relationship between attributes in a relation, where one or a set of attributes act as the **determinant** for other attributes (the **dependents**).
 
 We can note dependency as a notation or in a diagram.

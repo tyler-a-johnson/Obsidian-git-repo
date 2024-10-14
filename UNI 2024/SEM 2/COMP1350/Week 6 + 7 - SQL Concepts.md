@@ -577,4 +577,16 @@ Outer join types:
 
 Notes:
 
+```ad-note
+
 - The table name used **before the JOIN clause** is considered as the **left table** and the table name provided **after the JOIN clause** is considered as the **right table**
+```
+
+Additional resources:
+
+- MySQL Left Join: [https://www.w3schools.com/mysql/mysql_join_left.asp](https://www.w3schools.com/mysql/mysql_join_left.asp)
+- MySQL Right Join: [https://www.w3schools.com/mysql/mysql_join_right.asp](https://www.w3schools.com/mysql/mysql_join_right.asp)
+- MySQL Cross Join: [https://www.w3schools.com/mysql/mysql_join_cross.asp](https://www.w3schools.com/mysql/mysql_join_cross.asp)
+- SQL Full Outer Join: [https://www.w3schools.com/sql/sql_join_full.asp](https://www.w3schools.com/sql/sql_join_full.asp)
+
+# Aggregate Functions

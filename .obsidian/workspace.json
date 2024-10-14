@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md"
               }
             }
           },
@@ -205,9 +205,11 @@
   },
   "active": "8039fa4f65412b79",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
+    "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
+    "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/allocation_3nf.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/allocation_2nf.png",
-    "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/allocation_1nf.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/allocation_unf.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/normalisation_process 1.png",
@@ -216,9 +218,7 @@
     "UNI 2024/SEM 2/COMP1350/Attachments/image 2.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/teaching_update.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/teaching_deletion.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/teaching_insertion.png",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
-    "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/week7_lecture_solution.sql",
     "UNI 2024/SEM 2/COMP1350/Week 7 - SQL Concepts 2.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",

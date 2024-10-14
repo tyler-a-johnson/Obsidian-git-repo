@@ -619,3 +619,5 @@ Sample usage of aggregate functions:
     `SELECT MIN(DirectorNumMovies)`  
     `FROM Director;`
 
+## Aggregate Query (GROUP BY)
+

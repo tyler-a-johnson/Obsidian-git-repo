@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Normalisation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Normalisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Normalisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Normalisation.md"
               }
             }
           },
@@ -203,8 +203,10 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "8039fa4f65412b79",
+  "active": "722bd1a166a65a70",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md",
+    "UNI 2024/SEM 2/COMP1350/Normalisation.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241014221637.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241014220342.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/inner_join.png",
@@ -212,7 +214,6 @@
     "UNI 2024/SEM 2/COMP1350/week7_lecture_solution.sql",
     "UNI 2024/SEM 2/COMP1350/Attachments/Week7Schema.jpeg",
     "UNI 2024/SEM 2/COMP1350/Week 7 - SQL Concepts 2.md",
-    "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
@@ -230,7 +231,6 @@
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224445.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224417.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912221625.png",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912212915.png",
     "Distilled Notes/Semi-Supervised Learning.md",
     "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
     "UNI 2024/SEM 2/COMP2200/Week 7.md",

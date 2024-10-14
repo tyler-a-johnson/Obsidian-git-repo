@@ -91,3 +91,27 @@ StaffName and Phone are only dependent on the StaffID (part of the composite key
 Furthermore, checking on the non-keys attributes (not part of the composite key), the Salary is dependent on the Position, which is a transitive dependency.
 
 ![](Attachments/image%203.png)
+
+
+# Normalisation Process
+![](Attachments/normalisation_process%201.png)
+
+Though it is possible to the fifth normal form (5NF), even to the sixth normal form (6NF), we will only learn up to the third normal form (3NF) in this unit.
+The process of normalisation must be done one normal form at a time before progressing to the next one.
+
+## Unnormalised Form (UNF)
+- At least one multivalued attribute still exists
+
+**Example**
+A few staff has been allocated to multiple units, causing multivalued attributes
+![](Attachments/allocation_unf.png)
+
+##### First Normal Form (1NF)
+- No multivalued attribute(s)
+- Has a primary key
+- At least one partial dependency still exists
+
+**Example**
+To solve the multivalued attributes, create separate rows for each.  
+Assign a primary key for this relation, which is the composite attributes of StaffID and UnitCode.
+There are partial dependents (PD1 and PD2) exist (refer to the dependency diagram in the [previous section](https://ilearn.mq.edu.au/mod/book/view.php?id=8447508&chapterid=355660))

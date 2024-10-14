@@ -458,3 +458,11 @@ Options to relate data for query:
         
         **SELECT** *
         **FROM Actor JOIN Acts USING(ActorID);**
+
+There are two categories of joins:
+
+- inner join: records with matching references only
+    - In the example of Actor and Actor records above, ActorIDs A3 and A5 from the Actor table would not be included, since there are no matching values in the Acts table.
+- outer join: records with matching references including non-matching records
+
+- In the example of Actor and Actor records above, ActorIDs A3 and A5 from the Actor table might be included, depending on the outer join type.

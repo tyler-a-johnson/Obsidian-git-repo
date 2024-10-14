@@ -683,3 +683,4 @@ HAVING COUNT(ActorID) > 2;
     HAVING AVG(Salary) < 35
 	    AND MIN(Salary) < 150;
     ```
+

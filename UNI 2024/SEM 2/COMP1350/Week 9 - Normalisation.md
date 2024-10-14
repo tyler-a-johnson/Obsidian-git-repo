@@ -75,3 +75,19 @@ We can note dependency as a notation or in a diagram.
         ![](Attachments/image%20(1)%202.png)  
         
 
+## Functional Dependency Types
+
+1. Full functional dependency (FFD) - attributes that are dependent on all parts of the key
+2. Partial dependency (PD) - attributes that are dependent on a part of the key
+3. Transitive dependency (TD) - attributes that are dependent on another non-key attribute(s)
+
+#### Example
+The primary key is a composite of StaffID and UnitCode, so initially, all other attributes depend on both the StaffID and UnitCode.
+
+However, considering the composite key, only the Position and Salary attributes are fully dependant on all parts of the composite key.
+
+StaffName and Phone are only dependent on the StaffID (part of the composite key), so it is only partially dependent on the composite key. Similarly, UnitName and CreditPoints are only dependent on the UnitCode (part of the composite key), so partial dependents, too.
+
+Furthermore, checking on the non-keys attributes (not part of the composite key), the Salary is dependent on the Position, which is a transitive dependency.
+
+![](Attachments/image%203.png)

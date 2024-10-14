@@ -11,9 +11,12 @@
             "id": "8039fa4f65412b79",
             "type": "leaf",
             "state": {
-              "type": "jupyter-view",
+              "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md"
               }
             }
           },
@@ -202,9 +205,12 @@
   },
   "active": "8039fa4f65412b79",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
+    "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
+    "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
+    "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 8/Untitled.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
     "Week 4 - Conceptual Data Modelling and Logical Modelling.pdf",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/Task_1_2_Template.docx",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/23_016.sql",
@@ -212,7 +218,6 @@
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/23_016.pdf",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 9/Single_Table.sql",
-    "UNI 2024/SEM 2/COMP1350/Workshops/Week 9/Two_Tables.sql",
     "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912231829.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224519.png",
@@ -230,9 +235,6 @@
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP2200/Week 3.md",
     "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
-    "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
-    "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
-    "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
     "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",

@@ -11,10 +11,10 @@ Relevant Links:
 
 ## DDL and DML
 
-| Data Definition Language (DDL)             | Data Manipulation Language (DML)     |
-| ------------------------------------------ | ------------------------------------ |
-| Determine the database and table structure | Manage the data (records) of a table |
-| CREATE, DROP, ALTER, TRUNCATE              | INSERT, DELETE, UPDATE               |
+| Data Definition Language (DDL)             | Data Manipulation Language (DML)     | Data Querying Language (DQL) |     |
+| ------------------------------------------ | ------------------------------------ | ---------------------------- | --- |
+| Determine the database and table structure | Manage the data (records) of a table | Retrieve and interpret data  |     |
+| CREATE, DROP, ALTER, TRUNCATE              | INSERT, DELETE, UPDATE               | SELECT, FROM, WHERE, ORDER   |     |
 # Data Querying Language (DQL)
 
 Note:

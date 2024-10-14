@@ -594,7 +594,7 @@ Aggregate functions are functions that summarise a collection of records.
 
 Commonly used aggregate functions:
 
-- **COUNT**(column-name or *) - to get the number of rows with values
+- **COUNT**(column-name or \*) - to get the number of rows with values
 - **SUM**(numeric-column-name) - to add the values
 - **AVG**(numeric-column-name) - to provide the average value
 - **MIN**(column-name) - to get the lowest value  

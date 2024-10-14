@@ -413,3 +413,8 @@ Sample usage in queries:
     **FROM** Director  
     **WHERE** **YEAR**(DirectorDOB) BETWEEN 1950 AND 1975  
     ;
+
+# Data Definition Language
+Schema for the examples:
+![800](Attachments/Week7Schema.jpeg)
+

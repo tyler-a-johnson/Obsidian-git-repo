@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 7 - SQL Concepts 2.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 7 - SQL Concepts 2.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 7 - SQL Concepts 2.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 7 - SQL Concepts 2.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md"
               }
             }
           },
@@ -205,8 +205,10 @@
   },
   "active": "8039fa4f65412b79",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
+    "UNI 2024/SEM 2/COMP1350/week7_lecture_solution.sql",
+    "UNI 2024/SEM 2/COMP1350/Attachments/Week7Schema.jpeg",
     "UNI 2024/SEM 2/COMP1350/Week 7 - SQL Concepts 2.md",
+    "UNI 2024/SEM 2/COMP1350/Week 6 + 7 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
@@ -229,7 +231,6 @@
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912212731.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912212142.png",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912211603.png",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912204044.png",
     "Distilled Notes/Semi-Supervised Learning.md",
     "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
     "UNI 2024/SEM 2/COMP2200/Week 7.md",
@@ -251,7 +252,6 @@
     "Distilled Notes/Untitled 1.md",
     "Distilled Notes/Untitled.md",
     "Distilled Notes/Untitled 5.md",
-    "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",

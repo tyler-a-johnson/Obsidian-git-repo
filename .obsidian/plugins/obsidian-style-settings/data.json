@@ -58,5 +58,6 @@
   "ul-theme-settings@@ul-accent-title": true,
   "ul-theme-settings@@ul-canvas-center": false,
   "ul-theme-settings@@ul-kanban-wrap": true,
-  "ul-theme-settings@@ul-kanban-style": "ul-kanban-notion"
+  "ul-theme-settings@@ul-kanban-style": "ul-kanban-notion",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight"
 }

@@ -471,9 +471,9 @@ There are two categories of joins:
 
 ```sql
 SELECT column-name <, column-name...>  
-FROM left-table-name AS alias1> 
+FROM left-table-name <AS alias1> 
     <[INNER|LEFT|RIGHT| CROSS]> JOIN right-table-name <AS alias2> 
-        [ON join-criteria | USINGcommon-column)]  
+        [ON join-criteria | USING common-column)]  
 <WHERE criteria>  
 <GROUP BY column-name <, column-name...>>  
 <HAVING aggregate-criteria>  
@@ -486,3 +486,5 @@ Note: 
 - <> pairs are to indicate optional elements and are not to be used in actual SQL statements.
 
 **The complete MySQL reference on JOIN clauses: [https://dev.mysql.com/doc/refman/8.4/en/join.html](https://dev.mysql.com/doc/refman/8.4/en/join.html)**
+
+

@@ -684,3 +684,29 @@ HAVING COUNT(ActorID) > 2;
 	    AND MIN(Salary) < 150;
     ```
 
+## Nested Queries (Subqueries)
+Nested queries are queries that use the results of another query to produce the final result. 
+
+The query within another query is a subquery. A subquery can be:
+
+- non-correlated subquery  
+    A noncorrelated subquery is a self-contained query. It executes independently of the outer (main) query.
+    - Display the mentors' names.
+```sql
+SELECT ActorName AS MentorName
+FROM Actor
+WHERE ActorID IN (
+    SELECT MentorID    
+    FROM Actor
+);
+```
+correlated subquery  
+A correlated subquery requires a value or values to be passed to the subquery from the outer (main) query before it can be successfully resolved.
+- Display the role information that earned more than the average earnings in the same movie.
+SELECT *
+FROM Acts a1
+WHERE a1.Salary > (
+    SELECT AVG(a2.Salary)
+    FROM Acts a2
+    WHERE a2.MovieID = a1.MovieID
+);

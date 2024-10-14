@@ -536,3 +536,45 @@ To use inner join, there are two options:
 
 ## Outer Joins
 Outer join accounts for matching records, as well as records without matching values from one or both tables.
+![](Attachments/Pasted%20image%2020241014221637.png)
+Outer join types:
+
+- **LEFT JOIN** (LEFT OUTER JOIN): similar to inner join, but also includes all non-matching records from the left table.  
+    The following example displays all actors (left table) and the matching acts, if any.  
+    
+    **SELECT** *
+    **FROM Actor a1 LEFT JOIN Acts a2 ON a1.ActorID = a2.ActorID;**
+    
+- **RIGHT JOIN** (RIGHT OUTER JOIN): similar to inner join, but also includes all non-matching records from the right table.  
+    The following example displays all movies (right table) and the matching acts, if any.  
+    
+    **SELECT** *
+    **FROM Acts RIGHT JOIN Movie USING(MovieID);**
+    
+- **FULL JOIN** (FULL OUTER JOIN): similar to inner join, but includes all non-matching records from both tables.  
+    This is not available in MySQL but is a part of standard SQL.  
+    
+    **SELECT** *
+    **FROM Actor a1 FULL JOIN Acts a2 ON a1.ActorID = a2.ActorID;**
+    
+- **CROSS JOIN**: match each record from the left table with every single record in the right table.  
+    Also known as the Cartesian Product. Rarely used, except to see all the possible combinations.
+    
+    **SELECT** *
+    **FROM Actor CROSS JOIN Acts;**
+    
+    If you forget to include a join criteria, you will produce cross-join results which gives you non-sensical results.
+    - Example 1:  
+        
+        **SELECT** *
+        **FROM Actor JOIN Acts;**
+        
+    - Example 2:  
+        
+        **SELECT** *
+        **FROM Actor, Acts;**
+        
+
+Notes:
+
+- The table name used **before the JOIN clause** is considered as the **left table** and the table name provided **after the JOIN clause** is considered as the **right table**

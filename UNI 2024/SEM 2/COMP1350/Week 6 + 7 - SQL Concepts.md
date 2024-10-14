@@ -482,9 +482,7 @@ FROM left-table-name AS alias1>
 
 ```
 
-
-
-
 Note: 
-
 - <> pairs are to indicate optional elements and are not to be used in actual SQL statements.
+
+**The complete MySQL reference on JOIN clauses: [https://dev.mysql.com/doc/refman/8.4/en/join.html](https://dev.mysql.com/doc/refman/8.4/en/join.html)**

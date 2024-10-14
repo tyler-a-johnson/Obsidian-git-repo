@@ -619,7 +619,9 @@ Sample usage of aggregate functions:
     `SELECT MIN(DirectorNumMovies)`  
     `FROM Director;`
 
-## Aggregate Query (GROUP BY)
+# Aggregate Query
+
+## GROUP BY
 **SELECT column-name <, column-name...>  
 FROM table-name**  
 <**WHERE** criteria>  
@@ -649,3 +651,27 @@ Sample usage of aggregate functions with GROUP BY clause.
     FROM Director  
     **GROUP BY** MONTH(DirectorDOB);
 
+## HAVING Clause
+```sql
+SELECT column-name <, column-name...>
+FROM table-name
+<WHERE criteria>
+<GROUP BY column-name <, column-name...>>
+<HAVING aggregate-criteria>
+<ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>
+;
+
+
+Aggregate criteria are criteria that use an aggregate function. Criteria that do not use an aggregate function should be placed in the WHERE clause.
+
+Examples:
+
+- Display the ID of the mentor with more than 2 mentees.
+    
+    SELECT MentorIDFROM Actor**GROUP BY** MentorID**HAVING** COUNT(ActorID) > 2**;**
+    
+- Display the actor's name who received an average earning lower than $350,000 and never earned less than $150,000 for any single role.  
+    Note: the salaries are recorded in thousands of dollars.  
+    
+    SELECT ActorNameFROM Actor JOIN Acts ON Actor.ActorID = Acts.ActorID**GROUP BY** Acts.ActorID**HAVING** AVG(Salary) < 35
+        AND MIN(Salary) < 150**;**

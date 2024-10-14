@@ -488,7 +488,7 @@ Note: 
 **The complete MySQL reference on JOIN clauses: [https://dev.mysql.com/doc/refman/8.4/en/join.html](https://dev.mysql.com/doc/refman/8.4/en/join.html)**
 
 
-# Inner Join
+## Inner Join
 It only accounts for matching records and excludes records without matching values in the other table.
 ![](Attachments/Pasted%20image%2020241014220342.png)
 
@@ -517,7 +517,8 @@ To use inner join, there are two options:
     - Example 1:  
         
         **SELECT** *
-        **FROM Actor JOIN Acts ON Actor.ActorID = Acts.ActorID;**
+        **FROM Actor 
+        JOIN Acts ON Actor.ActorID = Acts.ActorID;**
         
     - Example 2 - using alias:  
         
@@ -532,9 +533,6 @@ To use inner join, there are two options:
         JOIN Acts a2 ON a1.ActorID = a2.ActorID    
         JOIN Movie m ON a2.MovieID = m.MovieID;**
         
-- with NATURAL JOIN (not recommended for usage, and **prohibited in this unit**)  
-    The NATURAL JOIN clause matches based on the same column names, which could produce unexpected results (see demo in the lecture)  
-    - Example:  
-        
-        **SELECT** *
-        **FROM Actor NATURAL JOIN Acts;**
+
+## Outer Joins
+Outer join accounts for matching records, as well as records without matching values from one or both tables.

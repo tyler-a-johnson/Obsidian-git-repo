@@ -542,37 +542,37 @@ Outer join types:
 - **LEFT JOIN** (LEFT OUTER JOIN): similar to inner join, but also includes all non-matching records from the left table.  
     The following example displays all actors (left table) and the matching acts, if any.  
     
-    `**SELECT** *`
-    `**FROM Actor a1 LEFT JOIN Acts a2 ON a1.ActorID = a2.ActorID;**`
+    **SELECT** *
+    **FROM Actor a1 LEFT JOIN Acts a2 ON a1.ActorID = a2.ActorID;**
     
 - **RIGHT JOIN** (RIGHT OUTER JOIN): similar to inner join, but also includes all non-matching records from the right table.  
     The following example displays all movies (right table) and the matching acts, if any.  
     
-    `**SELECT** *`
-    `**FROM Acts RIGHT JOIN Movie USING(MovieID);**`
+    **SELECT** *
+    **FROM Acts RIGHT JOIN Movie USING(MovieID);**
     
 - **FULL JOIN** (FULL OUTER JOIN): similar to inner join, but includes all non-matching records from both tables.  
     This is not available in MySQL but is a part of standard SQL.  
     
-    `**SELECT** *`
-    `**FROM Actor a1 FULL JOIN Acts a2 ON a1.ActorID = a2.ActorID;**`
+    **SELECT** *
+    **FROM Actor a1 FULL JOIN Acts a2 ON a1.ActorID = a2.ActorID;**
     
 - **CROSS JOIN**: match each record from the left table with every single record in the right table.  
     Also known as the Cartesian Product. Rarely used, except to see all the possible combinations.
     
-    `**SELECT** *`
-    `**FROM Actor CROSS JOIN Acts;**`
+    **SELECT** *
+    **FROM Actor CROSS JOIN Acts;**
     
     If you forget to include a join criteria, you will produce cross-join results which gives you non-sensical results.
     - Example 1:  
         
-        `**SELECT** *`
-        `**FROM Actor JOIN Acts;**`
+        **SELECT** *
+        **FROM Actor JOIN Acts;**
         
     - Example 2:  
         
-        `**SELECT** *`
-        `**FROM Actor, Acts;**`
+        **SELECT** *
+        **FROM Actor, Acts;**
         
 
 Notes:
@@ -594,27 +594,28 @@ Aggregate functions are functions that summarise a collection of records.
 
 Commonly used aggregate functions:
 
-- `**COUNT**(column-name or *) - to get the number of rows with values`
-- `**SUM**(numeric-column-name) - to add the values`
-- `**AVG**(numeric-column-name) - to provide the average value`
-- `**MIN**(column-name) - to get the lowest value`  
-- `**MAX**(column-name) - to get the highest value`
+- **COUNT**(column-name or *) - to get the number of rows with values
+- **SUM**(numeric-column-name) - to add the values
+- **AVG**(numeric-column-name) - to provide the average value
+- **MIN**(column-name) - to get the lowest value  
+- **MAX**(column-name) - to get the highest value
 
 Sample usage of aggregate functions:
 
 - The number of rows in the Actor table.
-    SELECT COUNT(*)  
-    FROM Actor;
+    `SELECT COUNT(*)`  
+    `FROM Actor;`
 - The number of directors with a known favourite food.
-    SELECT COUNT(DirectorFavouriteFood)  
-    FROM Director;
+    `SELECT COUNT(DirectorFavouriteFood)`  
+    `FROM Director;`
 - The total number of movies of all directors combined.
-    SELECT SUM(DirectorNumMovies)  
-    FROM Director;
+    `SELECT SUM(DirectorNumMovies)`  
+    `FROM Director;`
 - The average director's salary who had at least 10 movies directed.
-    SELECT AVG(Salary)  
-    FROM Director  
-    **WHERE** DirectorNumMovies >= 10;
+    `SELECT AVG(Salary)`  
+    `FROM Director`  
+    `**WHERE** DirectorNumMovies >= 10;`
 - The lowest number of movies by a director.
-    SELECT MIN(DirectorNumMovies)  
-    FROM Director;
+    `SELECT MIN(DirectorNumMovies)`  
+    `FROM Director;`
+

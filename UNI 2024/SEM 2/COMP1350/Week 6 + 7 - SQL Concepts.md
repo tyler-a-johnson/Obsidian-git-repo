@@ -466,3 +466,20 @@ There are two categories of joins:
 - outer join: records with matching references including non-matching records
 
 - In the example of Actor and Actor records above, ActorIDs A3 and A5 from the Actor table might be included, depending on the outer join type.
+
+**Syntax to query data (SELECT statement with a JOIN clause)**
+
+```
+**SELECT column-name <, column-name...>  
+**FROM **left-table-name <****AS** **alias1> 
+    <[****INNER** **|** **LEFT** **|** **RIGHT** **|** CROSS**]> **JOIN** right-table-name <**AS** alias2> 
+        [**ON** join-criteria | **USING**(common-column)]  
+**<**WHERE** criteria>  
+<**GROUP BY** column-name <, column-name...>>  
+<**HAVING** aggregate-criteria>  
+<**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>**;**
+```
+
+Note: 
+
+- <> pairs are to indicate optional elements and are not to be used in actual SQL statements.

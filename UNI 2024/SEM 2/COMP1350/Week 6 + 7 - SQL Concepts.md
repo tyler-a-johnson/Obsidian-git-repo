@@ -472,12 +472,12 @@ There are two categories of joins:
 ```sql
 SELECT column-name <, column-name...>  
 FROM left-table-name AS alias1> 
-    <[****INNER** **|** **LEFT** **|** **RIGHT** **|** CROSS**]> **JOIN** right-table-name <**AS** alias2> 
-        [**ON** join-criteria | **USING**(common-column)]  
-**<**WHERE** criteria>  
-<**GROUP BY** column-name <, column-name...>>  
-<**HAVING** aggregate-criteria>  
-<**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>**;**
+    <[INNER|LEFT|RIGHT| CROSS]> JOIN right-table-name <AS alias2> 
+        [ON join-criteria | USINGcommon-column)]  
+<WHERE criteria>  
+<GROUP BY column-name <, column-name...>>  
+<HAVING aggregate-criteria>  
+<ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>;
 
 
 ```

@@ -703,6 +703,7 @@ WHERE ActorID IN (
 correlated subquery  
 A correlated subquery requires a value or values to be passed to the subquery from the outer (main) query before it can be successfully resolved.
 - Display the role information that earned more than the average earnings in the same movie.
+```sql
 SELECT *
 FROM Acts a1
 WHERE a1.Salary > (
@@ -710,3 +711,4 @@ WHERE a1.Salary > (
     FROM Acts a2
     WHERE a2.MovieID = a1.MovieID
 );
+```

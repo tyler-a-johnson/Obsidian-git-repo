@@ -648,3 +648,4 @@ Sample usage of aggregate functions with GROUP BY clause.
     **SELECT MONTH(DirectorDOB) BirthMonth**, **COUNT**(DirectorID) NumberOfDirector  
     FROM Director  
     **GROUP BY** MONTH(DirectorDOB);
+

@@ -513,7 +513,7 @@ To use inner join, there are two options:
         **FROM Actor a1, Acts a2, Movie m
         WHERE a1.ActorID = a2.ActorID AND a2.MovieID = m.MovieID;**
         
-- with JOIN clause (default for INNER JOIN)
+- **with JOIN clause (default for INNER JOIN)**
     - Example 1:  
         
         **SELECT** *

@@ -620,4 +620,31 @@ Sample usage of aggregate functions:
     `FROM Director;`
 
 ## Aggregate Query (GROUP BY)
+**SELECT column-name <, column-name...>  
+FROM table-name**  
+<**WHERE** criteria>  
+<**GROUP BY** column-name <, column-name...>>  
+<**HAVING** aggregate-criteria>  
+<**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
+**;**
 
+The GROUP BY clause creates a group summary.
+
+Sample usage of aggregate functions with GROUP BY clause.  
+
+- The number of actors per mentor.
+    SELECT COUNT(ActorID)  
+    FROM Actor  
+    **GROUP BY** MentorID;  
+      
+    
+- The average director's salary based on status (active vs inactive).  
+    **SELECT** DirectorIsActive Status, **AVG**(Salary) AS 'Average Salary'  
+    FROM Director  
+    **GROUP BY** DirectorIsActive;  
+      
+    
+- The number of directors per birth month.
+    **SELECT MONTH(DirectorDOB) BirthMonth**, **COUNT**(DirectorID) NumberOfDirector  
+    FROM Director  
+    **GROUP BY** MONTH(DirectorDOB);

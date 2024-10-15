@@ -11,14 +11,12 @@
             "id": "95547fa37e218776",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas",
-                "viewState": {
-                  "x": 176.45133523817978,
-                  "y": 124.82830817151124,
-                  "zoom": -1.1664079782058538
-                }
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -116,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas",
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas",
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Plan (Macquarie University).canvas"
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md"
               }
             }
           },
@@ -208,6 +205,8 @@
   },
   "active": "95547fa37e218776",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
+    "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 2/COMP2200/Week 8/Untitled.ipynb",
     "UNI 2024/SEM 2/COMP1350/week7_lecture_solution.sql",
     "UNI 2024/SEM 2/COMP1350/assignment/messages.zip",
@@ -216,7 +215,6 @@
     "UNI 2024/SEM 2/COMP1350/assignment/Maskatul.PNG",
     "UNI 2024/SEM 2/COMP1350/assignment/Fadila.PNG",
     "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
-    "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
     "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/training_data_set.png",
@@ -232,7 +230,6 @@
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/23_016.pdf",
     "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912231829.png",
-    "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
     "UNI 2024/SEM 2/Screenshot 2024-08-05 123511.png",
     "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
@@ -255,7 +252,6 @@
     "UNI 2024/SEM 2/COMP1350/Week 3.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
     "UNI 2024/SEM 2/COMP1350/Week 1.md",
-    "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
     "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",

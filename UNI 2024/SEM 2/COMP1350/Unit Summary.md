@@ -75,11 +75,10 @@ Modelled as lines connecting entities in an [Entity Relationship Diagram (ERD)](
 
 1. **One-to-One (1:1) Relationship:** 
 	- Each entity in the relationship is associated with exactly one related entity.
-    
 2. **One-to-Many (1:N) Relationship:** 
 	- An entity on one side of the relationship can be associated with many related entities on the other side. 
 	- Entities on the other side will have a maximum of one related entity.
-    
 3. **Many-to-Many (M: N) Relationship:** 
 	- Entities on both sides of the relationship can be associated with many related entities on the other side. 
 	- Each instance of one entity type can be related to multiple instances of the other entity type, and vice versa.
+

@@ -256,3 +256,5 @@ FROM tablename
 | **YEAR**(date)                | extract the year of a date                               |
 | **DATEDIFF**(date1, date2)    | the number of days between the two dates (date1 - date2) |
 | **DATE_FORMAT**(date, format) | DATE_FORMAT(DirectorDOB, '%D of %M, %Y')                 |
+
+## Query using Multiple Tables

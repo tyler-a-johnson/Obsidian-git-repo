@@ -245,3 +245,4 @@ FROM tablename
 | **RIGHT**(string, number-of-characters)      | grab the string from the last character for the specified number of characters             |
 | **MID**(string, start, number-of-characters) | grab the string from the specified start position for the specified number of characters   |
 
+### Da

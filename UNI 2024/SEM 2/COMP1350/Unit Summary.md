@@ -270,12 +270,12 @@ FROM leftTableName <AS alias1>
         ```
  
  - Example 2 - using alias:
-
-	sql
-        SELECT *
-        FROM Actor t1, Acts t2
+```sql
+		SELECT *
+		FROM Actor t1, Acts t2
         WHERE t1.ActorID = t2.ActorID
-        
+```
+
 
 - Example 3 - three tables:  
 	```sql
@@ -286,9 +286,9 @@ FROM leftTableName <AS alias1>
 - **with JOIN clause (default for INNER JOIN)**
 -  Example 1: 
     ```sql
-      SELECT *
-      FROM Actor 
-      JOIN Acts ON Actor.ActorID = Acts.ActorID;
+		SELECT *
+	      FROM Actor 
+	      JOIN Acts ON Actor.ActorID = Acts.ActorID;
 ```
 - Example 2 - using alias:  
 ```sql
@@ -304,3 +304,7 @@ FROM leftTableName <AS alias1>
         JOIN Acts a2 ON a1.ActorID = a2.ActorID    
         JOIN Movie m ON a2.MovieID = m.MovieID
 ```
+
+*-The table name used **before the JOIN clause** is considered as the **left table** and the table name provided **after the JOIN clause** is considered as the **right table***
+
+### Aggregate Functions

@@ -222,3 +222,11 @@ FROM tablename
 
 
 ## Aggregate Functions
+
+### Numeric
+| Function | Description                                                                                                                                                 |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ROUND    | **ROUND**(number <, decimal>) - round the number to the nearest specified decimal places (if the decimal is not specified, the default is 0 decimal places) |
+| FLOOR    | **FLOOR**(number) - round down the number to the nearest whole number   <br>        Example:  <br>	- FLOOR(Salary)                                          |
+| CEILING  |                                                                                                                                                             |
+| ABS      |                                                                                                                                                             |

@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md"
               }
             }
           },
@@ -237,12 +237,12 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "8039fa4f65412b79",
+  "active": "4953bde409e90b65",
   "lastOpenFiles": [
+    "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
     "Distilled Notes/Database Management System.md",
-    "Distilled Notes/Entity Relationship Diagram (ERD).md",
     "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
     "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",

@@ -257,3 +257,7 @@ FROM leftTableName <AS alias1>
 <ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>;
 ```
 
+***INNER JOIN***: Only matching records
+
+***Other Joins:***
+![](Attachments/Pasted%20image%2020241014221637.png)

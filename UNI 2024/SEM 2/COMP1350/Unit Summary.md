@@ -146,12 +146,11 @@ column2 datatype,
 **DROP**  
 
 - Deletes an existing data structure
-- Syntax: ``` schema/table **tableName**;```
+- Syntax: ``` DROP DATABASE/SCHEMA/TABLE **tableName**;```
 
 **TRUNCATE**  
-
 - Erases all values/data from the table
-- Syntax: _truncate table **tableName**;_
+- Syntax: ```TRUNCATE TABLE **tableName**;```
 
 **ALTER**
 

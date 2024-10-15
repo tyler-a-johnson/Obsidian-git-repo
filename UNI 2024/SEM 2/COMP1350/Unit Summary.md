@@ -72,3 +72,14 @@ Modelled as lines connecting entities in an [Entity Relationship Diagram (ERD)](
 1. **Unary Relationship**: In a unary relationship, an entity is related to itself. It occurs when an entity type has a relationship with another instance of the same entity type. *Example: Two users being friends on facebook*
 2. **Binary Relationship:** A binary relationship involves two entities. It is the most common type of relationship and represents an association between instances of two distinct entity types. *For example, in a university database, the "Student" entity may have a binary relationship "Enrols In" with the "Course" entity.*
 3. **Ternary Relationship**: A ternary relationship involves three or more entities. Ternary relationships are less common but can be useful when a situation involves three or more entities. *For example, in a shipping company database, a ternary relationship "Shipment" may exist among "Customer," "Product," and "Warehouse" entities, representing the shipments of products from a warehouse to a customer.*
+
+1. **One-to-One (1:1) Relationship:** 
+	- Each entity in the relationship is associated with exactly one related entity.
+    
+2. **One-to-Many (1:N) Relationship:** 
+	- An entity on one side of the relationship can be associated with many related entities on the other side. 
+	- Entities on the other side will have a maximum of one related entity.
+    
+3. **Many-to-Many (M: N) Relationship:** 
+	- Entities on both sides of the relationship can be associated with many related entities on the other side. 
+	- Each instance of one entity type can be related to multiple instances of the other entity type, and vice versa.

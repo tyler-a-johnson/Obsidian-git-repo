@@ -84,25 +84,20 @@ Modelled as lines connecting entities in an [Entity Relationship Diagram (ERD)](
 
 # Transformation Process
 
-1. Strong entities**  
+1. **Strong entities**  
 For each strong entity in the ER model, create a relation (i.e. a table that includes all the simple attributes). Make sure to identify the primary key for the relation (i.e. the PI of the entity becomes the PK of the table). If there is a composite attribute, you can expand them. Leave multi-valued attributes out (they will be dealt with later.)  
-2.  Weak Entities**  
+2.  **Weak Entities**  
 STEP 2: For each weak entity in the ER model, create a relation that includes all the simple attributes. The primary key of the relation is the combination of the primary key/s of the ‘owner’ and the main attribute of the weak entity itself.  
-3. 1:1 relationship**  
+3. **1:1 relationship**
 For each 1 TO 1 Relationship identify the two relations corresponding to the entities participating in the relationship. Choose the PK of the Relation (usually the one with mandatory constraint) and make it as the foreign key of the other relation.  
-4. 1:N relationship**
+4. **1:N relationship**
 For each binary 1 TO N Relationship identify the relations that represent the participating entity at the N (i.e many) side of the relationship. Include as the foreign key in the relation that holds the N side, the primary key of the other entity (that holds the 1 side)  
-6. M:N relationship**  
+5. **M:N relationship**
 For each binary M:N Relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the two connected entities. This is an associative entity. If there are any attributes on the relationship, then include them.  
-
-  
-**Step 6: Multi-valued attributes**  
+6. **Multi-valued attributes**
 For each multivalued attribute, create a new relation that includes the multivalued attribute and the primary key of the entity where the multivalued attribute is attached.
-
-
-**Step 7: Associative entities**  
+7. **Associative entities**
 For each ternary relationship create a new relation to represent the relationship. The primary key of the new relation is the combination of the primary keys of the participating entities that hold the N (many) side. In most cases of an ternary relationship, all the participating entities hold a many side.  
-
 **Final Table List**  
 Use the updated version of all tables and combine them to get the result. Take the most up-to-date version of each table. A useful habit is to cross out any tables if you create an updated version of it.
 
@@ -111,25 +106,27 @@ Use the updated version of all tables and combine them to get the result. Take t
 - Unit (**UnitCode(PK)**, UnitName, UnitOffering)
 - Staff (**StaffID(PK),** StaffName, StaffPhone, StaffAddress, StaffEmail)
 - Department (**DeptID(PK)**, DeptName, DeptDesc)
-
 *Step 2: Weak Entities*
 There are no weak entities.
-
 *Step 3: One to one relationships*
 There are no one to one relationships.
-
 *Step 4: One to many relationships*
 - Staff (**StaffID (PK)**, StaffName, StaffPhone, StaffAddress, StaffEmail, DepartmentID (FK))
-
 *Step 5: Many to many relationships*
 - Enrolls(**StudentID (PK, FK)**, UnitCode (PK, FK), Date, Time)
 - Teaches(**StaffID (PK, FK)**, UnitCode (PK, FK))
-
 *Step 6: MVA*
  There are no multi-valued attributes.
-
 *Step 7: Ternary relationships*
  There are no ternary relationships.
+
+*Final Tables*  
+- Student (**StudentID(PK),** StudentName, StudentPhone, StudentAddress, StudentEmail)
+- Unit (**UnitCode(PK)**, UnitName, UnitOffering)
+- Department (**DeptID(PK)**, DeptName, DeptDesc)
+- Staff (**StaffID(PK),** StaffName, StaffPhone, StaffAddress, StaffEmail, *DepartmentID(FK)*)
+- Enrols (***StudentID(PK, FK)***, ***UnitCode(PK, FK)***, Date, Time)
+- Teaches(***StaffID(PK, FK),*** ***UnitCode(PK, FK))***
 ![800](Attachments/Week5_ExtraQuestion.jpeg)
 
 # SQL

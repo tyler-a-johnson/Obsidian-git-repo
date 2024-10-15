@@ -318,3 +318,93 @@ SELECT columnname FROM lefttable as alias1 JOIN righttable as alias2 ON joincrit
 | **MAX**(column-name)         | to get the highest value              |
 
 ### Aggregate Query
+#### GROUP BY
+**SELECT column-name <, column-name...>  
+FROM table-name**  
+<**WHERE** criteria>  
+<**GROUP BY** column-name <, column-name...>>  
+<**HAVING** aggregate-criteria>  
+<**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
+**;**
+
+The GROUP BY clause creates a group summary.
+
+Sample usage of aggregate functions with GROUP BY clause.  
+
+- The number of actors per mentor.
+    SELECT COUNT(ActorID)  
+    FROM Actor  
+    **GROUP BY** MentorID;  
+      
+    
+- The average director's salary based on status (active vs inactive).  
+    **SELECT** DirectorIsActive Status, **AVG**(Salary) AS 'Average Salary'  
+    FROM Director  
+    **GROUP BY** DirectorIsActive;  
+      
+    
+- The number of directors per birth month.
+    **SELECT MONTH(DirectorDOB) BirthMonth**, **COUNT**(DirectorID) NumberOfDirector  
+    FROM Director  
+    **GROUP BY** MONTH(DirectorDOB);
+
+#### HAVING Clause
+```sql
+SELECT column-name <, column-name...>
+FROM table-name
+<WHERE criteria>
+<GROUP BY column-name <, column-name...>>
+<HAVING aggregate-criteria>
+<ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>
+;
+```
+
+Aggregate criteria are criteria that use an aggregate function. Criteria that do not use an aggregate function should be placed in the WHERE clause.
+
+Examples:
+
+- Display the ID of the mentor with more than 2 mentees.
+```sql
+SELECT MentorID
+FROM Actor
+GROUP BY MentorID
+HAVING COUNT(ActorID) > 2;
+```
+    
+- Display the actor's name who received an average earning lower than $350,000 and never earned less than $150,000 for any single role.  
+    Note: the salaries are recorded in thousands of dollars.  
+    ```sql
+    SELECT ActorName
+    FROM Actor JOIN Acts ON Actor.ActorID = Acts.ActorID
+    GROUP BY Acts.ActorID
+    HAVING AVG(Salary) < 35
+	    AND MIN(Salary) < 150;
+    ```
+
+#### Nested Queries (Subqueries)
+Nested queries are queries that use the results of another query to produce the final result. 
+
+The query within another query is a subquery. A subquery can be:
+
+- non-correlated subquery  
+    A noncorrelated subquery is a self-contained query. It executes independently of the outer (main) query.
+    - Display the mentors' names.
+```sql
+SELECT ActorName AS MentorName
+FROM Actor
+WHERE ActorID IN (
+    SELECT MentorID    
+    FROM Actor
+);
+```
+correlated subquery  
+A correlated subquery requires a value or values to be passed to the subquery from the outer (main) query before it can be successfully resolved.
+- Display the role information that earned more than the average earnings in the same movie.
+```sql
+SELECT *
+FROM Acts a1
+WHERE a1.Salary > (
+    SELECT AVG(a2.Salary)
+    FROM Acts a2
+    WHERE a2.MovieID = a1.MovieID
+);

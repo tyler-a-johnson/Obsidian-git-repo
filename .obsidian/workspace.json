@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -206,6 +207,7 @@
   "active": "95547fa37e218776",
   "lastOpenFiles": [
     "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
+    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 2/COMP2200/Week 8/Untitled.ipynb",
     "UNI 2024/SEM 2/COMP1350/week7_lecture_solution.sql",
@@ -216,7 +218,6 @@
     "UNI 2024/SEM 2/COMP1350/assignment/Fadila.PNG",
     "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
     "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
-    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/training_data_set.png",
     "Articles/AI Drone May ‘Kill’ Its Human Operator to Accomplish Mission.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 9/Two_Tables.sql",

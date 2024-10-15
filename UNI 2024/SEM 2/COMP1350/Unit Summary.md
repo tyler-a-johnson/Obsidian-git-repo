@@ -209,18 +209,6 @@ FROM tablename
 | -        | Represents any single character within the specified range * |
 | {}       | Represents any escaped character **                          |
 
-
-```sql
-SELECT column-name <, column-name...>  
-FROM tablename
-<WHERE criteria>  
-<GROUP BY column-name <, column-name...>>  
-<HAVING aggregate-criteria>  
-<ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
-;
-```
-
-
 ## Aggregate Functions
 
 ### Numeric Functions

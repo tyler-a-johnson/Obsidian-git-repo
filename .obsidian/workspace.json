@@ -6,19 +6,38 @@
       {
         "id": "655f050f355a0c0d",
         "type": "tabs",
+        "dimension": 41.359773371104815,
         "children": [
           {
             "id": "8039fa4f65412b79",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Independent Projects/DND/Unnamed campaign.canvas",
-                "viewState": {
-                  "x": -150,
-                  "y": 80,
-                  "zoom": -0.6945600279012065
-                }
+                "file": "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a7c89c5bd9da4845",
+        "type": "tabs",
+        "dimension": 58.640226628895185,
+        "children": [
+          {
+            "id": "4953bde409e90b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -115,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Independent Projects/DND/Unnamed campaign.canvas",
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Independent Projects/DND/Unnamed campaign.canvas",
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Independent Projects/DND/Unnamed campaign.canvas"
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md"
               }
             }
           },
@@ -205,8 +224,14 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "8039fa4f65412b79",
+  "active": "4953bde409e90b65",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
+    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
+    "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
+    "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
+    "Independent Projects/DND/Unnamed campaign.canvas",
     "Independent Projects/DND/The Story So Far.md",
     "Independent Projects/Attachments/Pasted Image 20221107152350_148.png.md",
     "copilot-conversations/Chat-2023_10_05-21_04_43.md",
@@ -215,10 +240,7 @@
     "Attachments/Pasted image 20231206192718.png",
     "Attachments/Capture.PNG",
     "Articles/AI Drone May ‘Kill’ Its Human Operator to Accomplish Mission.md",
-    "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
-    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
-    "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
     "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/allocation_3nf.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/allocation_2nf.png",
@@ -246,14 +268,12 @@
     "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP2200/Week 3.md",
     "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
-    "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "conflict-files-obsidian-git.md",
     "Movie&TV Recs.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Untitled.canvas",
     "Distilled Notes/Transformers (Not the funny robot).md",
-    "Distilled Notes/Ziegler Nicols PID Tuning.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
@@ -261,7 +281,6 @@
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",
-    "UNI 2023/ELEC3042/Major Project/Major Project.canvas",
-    "Independent Projects/DND/Unnamed campaign.canvas"
+    "UNI 2023/ELEC3042/Major Project/Major Project.canvas"
   ]
 }

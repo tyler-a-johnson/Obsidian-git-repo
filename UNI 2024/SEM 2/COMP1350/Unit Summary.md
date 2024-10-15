@@ -181,7 +181,7 @@ FROM tablename
 ;
 ```
 
-*The **DISTINCT** keyword can be used to eliminate repeating rows of results (duplicate results).*
+*The **DISTINCT** keyword can be used to eliminate repeating rows of results (duplicate results). **SELECT DISTINCT***
 *The **AS** keyword can be used to create an alias for the column name, which will be displayed in the query result instead of the original column name.*
 
 ```sql
@@ -194,14 +194,3 @@ FROM tablename
 ;
 ```
 
-```sql
-title: WHERE clause
-
-SELECT column-name <, column-name...>  
-FROM tablename  
-<WHERE criteria>  
-<GROUP BY column-name <, column-name...>>  
-<HAVING aggregate-criteria>  
-<ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
-;
-```

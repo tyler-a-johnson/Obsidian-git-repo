@@ -186,6 +186,7 @@ FROM tablename
 3. *The **WHERE** clause is an optional clause that can be used to provide record selection criteria or filtering mechanisms.*
 	- ***LIKE** for pattern matching for string type columns using wildcard characters'*
 	- *Operators to be used in  the WHERE clause*
+	- *Can us*
 
 | Operator | Description                                                                 | Example |
 | -------- | --------------------------------------------------------------------------- | ------- |
@@ -196,7 +197,7 @@ FROM tablename
 | <=       | Less than or equal                                                          |         |
 | <>       | Not equal. Note: In some versions of SQL this operator may be written as != |         |
 | BETWEEN  | Between a certain range                                                     |         |
-| LIKE     | use wildcards to search for                                                 |         |
+| LIKE     | use wildcards to search for like terms                                      |         |
 | IN       | equal to one of the possible values listed                                  |         |
 
 | WIldcard | Description                                                  |

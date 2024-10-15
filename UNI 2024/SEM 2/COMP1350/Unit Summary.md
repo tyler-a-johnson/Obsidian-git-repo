@@ -180,3 +180,16 @@ FROM table-name
 <ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
 ;
 ```
+
+*The **DISTINCT** keyword can be used to eliminate repeating rows of results (duplicate results).*
+*The **AS** keyword can be used to create an alias for the column name, which will be displayed in the query result instead of the original column name.*
+
+```
+SELECT column-name <, column-name...>  
+FROM table-name
+<**WHERE criteria>  
+<**GROUP BY** column-name <, column-name...>>  
+<**HAVING** aggregate-criteria>  
+<**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
+**;**
+```

@@ -20,4 +20,30 @@ Relevant Links:
 6. **Distinct**: Non-redundant, avoiding duplication or overlap with other rules.
 7. **Business oriented**: Written in a manner that can be easily understood by businesspeople and stakeholders.
 
-![Entity Relationship Diagram (ERD)[ERD]](../../../Distilled%20Notes/Entity%20Relationship%20Diagram%20(ERD).md)
+![ERD](../../../Distilled%20Notes/Entity%20Relationship%20Diagram%20(ERD).md#ERD)
+
+# Entities
+
+**Strong Entity**
+- Exists independently from other types of entites
+- Has its own unique identifier, known as the primary identify
+- primary identifiers
+
+**Weak Entity**
+- *Depends on a strong entity to exist*
+- Does not have a primary identifier
+- Existence is determined by its relationship with the owner entity.
+
+**Associative Entities**
+- AKA *relationship entities*
+- Associative entities are used to represent many-to-many relationships between two or more entities.
+- They contain attributes that describe the relationship itself.
+
+## Associative Entities
+An entity has attributes. A relationship links entities together
+- The associative entity could have meaning independent of the other entities
+- The associative entity preferably has a unique primary identifier, and should also have other attributes
+- The associative entity may participate in other relationships other than the entities of the associated relationship
+- Ternary relationships should be converted to associative entities
+
+## Attributes

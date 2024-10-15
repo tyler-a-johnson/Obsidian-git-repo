@@ -185,7 +185,17 @@ FROM tablename
 2. *The **AS** keyword can be used to create an alias for the column name, which will be displayed in the query result instead of the original column name. **SELECT column-name AS ID***.
 3. *The **WHERE** clause is an optional clause that can be used to provide record selection criteria or filtering mechanisms.*
 	- ***LIKE** for pattern matching for string type columns using operators '%' and/or ''*
-	- 
+
+| Symbol | Description                                                  |
+| ------ | ------------------------------------------------------------ |
+| %      | Represents zero or more characters                           |
+| _      | Represents a single character                                |
+| []     | Represents any single character within the brackets *        |
+| ^      | Represents any character not in the brackets *               |
+| -      | Represents any single character within the specified range * |
+| {}     | Represents any escaped character **                          |
+
+
 
 ```sql
 SELECT column-name <, column-name...>  

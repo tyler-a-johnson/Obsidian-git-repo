@@ -129,18 +129,23 @@ There are no one to one relationships.
 - Teaches(***StaffID(PK, FK),*** ***UnitCode(PK, FK))***
 ![800](Attachments/Week5_ExtraQuestion.jpeg)
 
-# SQL
+
+
+# SQL Concepts
 # Data Definition Language (DDL)
 
 Please refer to this [link](https://www.w3schools.com/sql/default.asp) for additional DDL syntax. Most of it should be underneath the 'SQL Database' category.
 
 **CREATE**  
 ```sql
-CREATE TABLE tablename (
+CREATE TABLE Table2(
 column1 datatype,
-column2 datatype,
-...
-);
+column2 _datatype_,
+column3 datatype,
+…
+PRIMARY KEY (column1),
+FOREIGN KEY(column2) REFERENCES Table1(columnA)
+  );
 ```
 
 **DROP**  
@@ -155,8 +160,10 @@ column2 datatype,
 **ALTER**
 - Modifies the data structure
 - Syntax for adding column: 
-ALTER TABLE tableName```
+```sql
+ALTER TABLE tableName
 ADD columnName datatype;
+```
 - Syntax for removing column
 ```sql 
 ALTER TABLE tableName

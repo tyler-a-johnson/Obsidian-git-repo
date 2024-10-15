@@ -245,4 +245,14 @@ FROM tablename
 | **RIGHT**(string, number-of-characters)      | grab the string from the last character for the specified number of characters             |
 | **MID**(string, start, number-of-characters) | grab the string from the specified start position for the specified number of characters   |
 
-### Da
+### Date Functions
+
+| Function                      | Description                                              |
+| ----------------------------- | -------------------------------------------------------- |
+| **NOW**()                     | provide the current date and time                        |
+| **CURDATE**()                 | provide the current date                                 |
+| **DAY**(date)                 | extract the day of a date                                |
+| **MONTH**(date)               | extract the month of a date                              |
+| **YEAR**(date)                | extract the year of a date                               |
+| **DATEDIFF**(date1, date2)    | the number of days between the two dates (date1 - date2) |
+| **DATE_FORMAT**(date, format) | DATE_FORMAT(DirectorDOB, '%D of %M, %Y')                 |

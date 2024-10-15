@@ -308,3 +308,13 @@ FROM leftTableName <AS alias1>
 *-The table name used **before the JOIN clause** is considered as the **left table** and the table name provided **after the JOIN clause** is considered as the **right table***
 
 ### Aggregate Functions
+
+| Function                     | Description                           |
+| ---------------------------- | ------------------------------------- |
+| **COUNT**(column-name or \*) | to get the number of rows with values |
+| **SUM**(numeric-column-name) | to add the values                     |
+| **AVG**(numeric-column-name) | to provide the average value          |
+| **MIN**(column-name)         | to get the lowest value               |
+| **MAX**(column-name)         | to get the highest value              |
+
+### Aggregate Query

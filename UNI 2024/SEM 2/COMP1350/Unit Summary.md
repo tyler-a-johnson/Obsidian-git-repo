@@ -46,4 +46,29 @@ An entity has attributes. A relationship links entities together
 - The associative entity may participate in other relationships other than the entities of the associated relationship
 - Ternary relationships should be converted to associative entities
 
-## Attributes
+# Attributes
+*Attributes are properties of the entities. These are the different types of attributes:*
+1. **Required vs. Optional Attributes**
+	- Required attributes must have a value for every instance of the entity or relationship.
+	- Optional attributes may or may not have a value
+2. **Simple-Valued vs Composite Attributes**
+	- Simple attributes are atomic and cannot be broken down further
+	- Composite attributes are made up of multiple sub-attributes or components
+3. **Single Valued vs Multivalued Attributes**
+	- Single-valued attributes can have only one value for each instance
+	- Multivalued attributes can have more than one value for the same instance.
+4. **Stored vs Derived Attributes**
+	- Stored attributes are directly stored in the database as part of the entity or relationship.
+	- Derived attributes are calculated or derived from other attributes
+5. **Identifier Attributes**
+	- Identifier attributes uniquely identify individual instances of an entity.
+	- They serve as primary keys to ensure each entity instance is unique.
+
+
+# Relationships
+Modelled as lines connecting entities in an [Entity Relationship Diagram (ERD)](../../../Distilled%20Notes/Entity%20Relationship%20Diagram%20(ERD).md). They visually illustrate the associations between different entities in the database.
+![900](Attachments/image%20(1).png)
+**Degrees of relationship**
+1. **Unary Relationship**: In a unary relationship, an entity is related to itself. It occurs when an entity type has a relationship with another instance of the same entity type. *Example: Two users being friends on facebook*
+2. **Binary Relationship:** A binary relationship involves two entities. It is the most common type of relationship and represents an association between instances of two distinct entity types. *For example, in a university database, the "Student" entity may have a binary relationship "Enrols In" with the "Course" entity.*
+3. **Ternary Relationship**: A ternary relationship involves three or more entities. Ternary relationships are less common but can be useful when a situation involves three or more entities. *For example, in a shipping company database, a ternary relationship "Shipment" may exist among "Customer," "Product," and "Warehouse" entities, representing the shipments of products from a warehouse to a customer.*

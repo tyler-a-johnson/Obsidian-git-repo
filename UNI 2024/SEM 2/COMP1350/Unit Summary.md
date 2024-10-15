@@ -113,3 +113,5 @@ For each ternary relationship create a new relation to represent the relationshi
   ![](Attachments/image%20(6).png)
 **Final Table List**  
 Use the updated version of all tables and combine them to get the result. Take the most up-to-date version of each table. A useful habit is to cross out any tables if you create an updated version of it.
+
+

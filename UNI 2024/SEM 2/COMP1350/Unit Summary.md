@@ -130,3 +130,40 @@ There are no one to one relationships.
 ![800](Attachments/Week5_ExtraQuestion.jpeg)
 
 # SQL
+# Data Definition Language (DDL)
+
+Please refer to this [link](https://www.w3schools.com/sql/default.asp) for additional DDL syntax. Most of it should be underneath the 'SQL Database' category.
+
+**CREATE**  
+```sql
+CREATE TABLE tablename (
+column1 datatype,
+column2 datatype,
+...
+);
+```
+
+**DROP**  
+
+- Deletes an existing data structure
+- Syntax: ``` schema/table **tableName**;```
+
+**TRUNCATE**  
+
+- Erases all values/data from the table
+- Syntax: _truncate table **tableName**;_
+
+**ALTER**
+
+- Modifies the data structure
+- Syntax for adding column: 
+
+_alter table **tableName**_
+
+_add **columnName** datatype;_
+
+- Syntax for removing column
+
+_alter table **tableName**_
+
+_drop **columnName**;_

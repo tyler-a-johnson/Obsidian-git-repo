@@ -21,4 +21,9 @@ Relevant Links:
 7. **Business oriented**: Written in a manner that can be easily understood by businesspeople and stakeholders.
 
 # Conceptual Modelling
+- Initial phase of database design process
+- Create a high level and abstract representation of the database.
+- Aims to understand and capture the data requirements of the application
+- Often represented using an
+
 ![Entity Relationship Diagram (ERD)](../../../Distilled%20Notes/Entity%20Relationship%20Diagram%20(ERD).md)

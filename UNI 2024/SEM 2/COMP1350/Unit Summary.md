@@ -335,13 +335,11 @@ Sample usage of aggregate functions with GROUP BY clause.
     SELECT COUNT(ActorID)  
     FROM Actor  
     **GROUP BY** MentorID;  
-      
     
 - The average director's salary based on status (active vs inactive).  
     **SELECT** DirectorIsActive Status, **AVG**(Salary) AS 'Average Salary'  
     FROM Director  
     **GROUP BY** DirectorIsActive;  
-      
     
 - The number of directors per birth month.
     **SELECT MONTH(DirectorDOB) BirthMonth**, **COUNT**(DirectorID) NumberOfDirector  
@@ -409,6 +407,5 @@ WHERE a1.Salary > (
     WHERE a2.MovieID = a1.MovieID
 );
 ```
-
 
 # Normalization

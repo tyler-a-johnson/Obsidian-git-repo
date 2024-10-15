@@ -186,14 +186,27 @@ FROM tablename
 3. *The **WHERE** clause is an optional clause that can be used to provide record selection criteria or filtering mechanisms.*
 	- ***LIKE** for pattern matching for string type columns using wildcard characters'*
 
-| Symbol | Description                                                  |
-| ------ | ------------------------------------------------------------ |
-| %      | Represents zero or more characters                           |
-| _      | Represents a single character                                |
-| []     | Represents any single character within the brackets *        |
-| ^      | Represents any character not in the brackets *               |
-| -      | Represents any single character within the specified range * |
-| {}     | Represents any escaped character **                          |
+
+| Operator  | Description                                                                  | Example |
+|-----------|------------------------------------------------------------------------------|---------|
+| =         | Equal                                                                        |         |
+| >         | Greater than                                                                 |         |
+| <         | Less than                                                                    |         |
+| >=        | Greater than or equal                                                        |         |
+| <=        | Less than or equal                                                           |         |
+| <>        | Not equal. Note: In some versions of SQL this operator may be written as !=  |         |
+| BETWEEN   | Between a certain range                                                      |         |
+| LIKE      | Search for a pattern                                                         |         |
+| IN        | To specify multiple possible values for a column                             |
+
+| WIldcard | Description                                                  |
+| -------- | ------------------------------------------------------------ |
+| %        | Represents zero or more characters                           |
+| _        | Represents a single character                                |
+| []       | Represents any single character within the brackets *        |
+| ^        | Represents any character not in the brackets *               |
+| -        | Represents any single character within the specified range * |
+| {}       | Represents any escaped character **                          |
 
 
 

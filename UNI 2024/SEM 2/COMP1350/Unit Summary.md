@@ -256,7 +256,7 @@ FROM leftTableName <AS alias1>
 <HAVING aggregate-criteria>  
 <ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>;
 ```
-SELECT columnname FROM lefttable JOIN righttable
+SELECT columnname FROM lefttable as alias1 JOIN righttable as alias2 ON joincriteria USING commonColumn
 ***INNER JOIN***: Only matching records
 ***Other Joins:***
 ![](Attachments/Pasted%20image%2020241014221637.png)

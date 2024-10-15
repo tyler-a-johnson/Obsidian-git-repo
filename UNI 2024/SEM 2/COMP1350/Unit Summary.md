@@ -258,6 +258,5 @@ FROM leftTableName <AS alias1>
 ```
 
 ***INNER JOIN***: Only matching records
-
 ***Other Joins:***
 ![](Attachments/Pasted%20image%2020241014221637.png)

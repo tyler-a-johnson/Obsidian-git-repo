@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md"
               }
             }
           },
@@ -237,10 +237,10 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "8039fa4f65412b79",
+  "active": "4953bde409e90b65",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
+    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241014221637.png",
     "Week 4 - Conceptual Data Modelling and Logical Modelling.pdf",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",

@@ -90,43 +90,6 @@ SELECT DirectorName **AS** Name, DirectorIsActive **AS** Status
 FROM Director  
 ;
 
-## The FROM clause
-```ad-summary
-title: FROM clause
-
-**SELECT column-name <, column-name...>  
-FROM table-name**  
-<**WHERE** criteria>  
-<**GROUP BY** column-name <, column-name...>>  
-<**HAVING** aggregate-criteria>  
-<**ORDER BY** column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
-**;**
-```
-
-*The **FROM** clause is where the selection of source tables is provided.*
-
-Options:
-- single table  
-    SELECT *  
-    **FROM** Director  
-    ;  
-    
-- multiple tables  
-    SELECT *  
-    **FROM** Director, Movie  
-    ;  
-    
-- multiple tables with JOIN clause  
-    SELECT *  
-    **FROM** Director JOIN Movie ON Director.DirectorID = Movie.DirectorID  
-    ;  
-    
-
-*The **AS** keyword can be used to create an alias for the table name, which then can be used in the query instead of the original table name.*
-
-SELECT *  
-**FROM** Director AS d JOIN Movie AS m ON d.DirectorID = m.DirectorID  
-;
 
 ## The WHERE clause
 ```ad-important

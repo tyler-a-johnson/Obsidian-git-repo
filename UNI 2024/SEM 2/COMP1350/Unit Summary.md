@@ -173,7 +173,7 @@ DROP columnName
 ## Data Query Language
 ```sql
 SELECT column-name <, column-name...>  
-FROM table-name
+FROM tablename
 <WHERE criteria>  
 <GROUP BY column-name <, column-name...>>  
 <HAVING aggregate-criteria>  
@@ -186,7 +186,7 @@ FROM table-name
 
 ```sql
 SELECT column-name <, column-name...>  
-FROM table-name
+FROM tablename
 <WHERE criteria>  
 <GROUP BY column-name <, column-name...>>  
 <HAVING aggregate-criteria>  
@@ -194,3 +194,14 @@ FROM table-name
 ;
 ```
 
+```sql
+title: WHERE clause
+
+SELECT column-name <, column-name...>  
+FROM tablename  
+<WHERE criteria>  
+<GROUP BY column-name <, column-name...>>  
+<HAVING aggregate-criteria>  
+<ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
+;
+```

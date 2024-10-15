@@ -132,7 +132,7 @@ There are no one to one relationships.
 
 
 # SQL Concepts
-# Data Definition Language (DDL)
+## Data Definition Language (DDL)
 
 Please refer to this [link](https://www.w3schools.com/sql/default.asp) for additional DDL syntax. Most of it should be underneath the 'SQL Database' category.
 
@@ -170,3 +170,13 @@ ALTER TABLE tableName
 DROP columnName
 ```
 
+## Data Query Language
+```sql
+SELECT column-name <, column-name...>  
+FROM table-name
+<WHERE criteria>  
+<GROUP BY column-name <, column-name...>>  
+<HAVING aggregate-criteria>  
+<ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>  
+;
+```

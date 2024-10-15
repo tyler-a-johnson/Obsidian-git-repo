@@ -249,8 +249,8 @@ FROM tablename
 ```sql
 SELECT column-name <, column-name...>  
 FROM leftTableName <AS alias1> 
-    <[INNER|LEFT|RIGHT| CROSS]> JOIN rightTableName <AS alias2> 
-        [ON joinCriteria | USING commonColumn)]  
+    <INNER/LEFT/RIGHT/CROSS> JOIN rightTableName <AS alias2> 
+      <ON joinCriteria | USING commonColumn)>
 <WHERE criteria>  
 <GROUP BY column-name <, column-name...>>  
 <HAVING aggregate-criteria>  
@@ -260,3 +260,44 @@ FROM leftTableName <AS alias1>
 ***INNER JOIN***: Only matching records
 ***Other Joins:***
 ![](Attachments/Pasted%20image%2020241014221637.png)
+
+- **with equijoin**
+    - Example 1:
+```sql
+        SELECT *
+        FROM Actor, Acts
+        WHERE Actor.ActorID = Acts.ActorID;
+```
+
+    - Example 2 - using alias:
+        
+        **SELECT** *
+        **FROM Actor t1, Acts t2
+        WHERE t1.ActorID = t2.ActorID;**
+        
+    - Example 3 - three tables:  
+        
+        **SELECT** *
+        **FROM Actor a1, Acts a2, Movie m
+        WHERE a1.ActorID = a2.ActorID AND a2.MovieID = m.MovieID;**
+        
+- **with JOIN clause (default for INNER JOIN)**
+    - Example 1:  
+        
+        **SELECT** *
+        **FROM Actor 
+        JOIN Acts ON Actor.ActorID = Acts.ActorID;**
+        
+    - Example 2 - using alias:  
+        
+        **SELECT** *
+        **FROM Actor t1 
+        JOIN Acts t2 ON t1.ActorID = t2.ActorID;**
+        
+    - Example 3 - three tables:  
+        
+        **SELECT** *
+        **FROM Actor a1  
+        JOIN Acts a2 ON a1.ActorID = a2.ActorID    
+        JOIN Movie m ON a2.MovieID = m.MovieID;**
+        

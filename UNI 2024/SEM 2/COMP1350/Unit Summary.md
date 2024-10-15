@@ -188,17 +188,17 @@ FROM tablename
 	- *Operators to be used in  the WHERE clause*
 	- *Can use AND, OR, NOT, to pass multiple criteria*
 
-| Operator | Description                                                                 | Example |
-| -------- | --------------------------------------------------------------------------- | ------- |
-| =        | Equal                                                                       |         |
-| >        | Greater than                                                                |         |
-| <        | Less than                                                                   |         |
-| >=       | Greater than or equal                                                       |         |
-| <=       | Less than or equal                                                          |         |
-| <>       | Not equal. Note: In some versions of SQL this operator may be written as != |         |
-| BETWEEN  | Between a certain range                                                     |         |
-| LIKE     | use wildcards to search for like terms                                      |         |
-| IN       | equal to one of the possible values listed                                  |         |
+| Operator | Description                                |
+| -------- | ------------------------------------------ |
+| =        | Equal                                      |
+| >        | Greater than                               |
+| <        | Less than                                  |
+| >=       | Greater than or equal                      |
+| <=       | Less than or equal                         |
+| != or <> | Not equal                                  |
+| BETWEEN  | Between a certain range                    |
+| LIKE     | use wildcards to search for like terms     |
+| IN       | equal to one of the possible values listed |
 
 | WIldcard | Description                                                  |
 | -------- | ------------------------------------------------------------ |
@@ -220,3 +220,5 @@ FROM tablename
 ;
 ```
 
+
+## Aggregate Functions

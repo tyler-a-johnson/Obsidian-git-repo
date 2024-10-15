@@ -37,7 +37,7 @@ Relevant Links:
 ## Foreign Key
 - Identifiers within a table that establish a connection between two related tables in a database.
 - They enable a table to reference the primary key of another table.
-- *in a scenario where you have an "orders" table and a "customers" table, the "customer ID" in the "orders" table can be a foreign key, linking each order to a specific customer in the "customers" table.*
+- *in a scenario where you have an "orders" table and a "customers" table, the "CustomerID" in the "orders" table can be a foreign key, linking each order to a specific customer in the "customers" table.*
 
 ## Types of Keys
 Can be simple or composite:

@@ -185,19 +185,19 @@ FROM tablename
 2. *The **AS** keyword can be used to create an alias for the column name, which will be displayed in the query result instead of the original column name. **SELECT column-name AS ID***.
 3. *The **WHERE** clause is an optional clause that can be used to provide record selection criteria or filtering mechanisms.*
 	- ***LIKE** for pattern matching for string type columns using wildcard characters'*
+	- *Operators to be used in  the WHERE clause*
 
-
-| Operator  | Description                                                                  | Example |
-|-----------|------------------------------------------------------------------------------|---------|
-| =         | Equal                                                                        |         |
-| >         | Greater than                                                                 |         |
-| <         | Less than                                                                    |         |
-| >=        | Greater than or equal                                                        |         |
-| <=        | Less than or equal                                                           |         |
-| <>        | Not equal. Note: In some versions of SQL this operator may be written as !=  |         |
-| BETWEEN   | Between a certain range                                                      |         |
-| LIKE      | Search for a pattern                                                         |         |
-| IN        | To specify multiple possible values for a column                             |
+| Operator | Description                                                                 | Example |
+| -------- | --------------------------------------------------------------------------- | ------- |
+| =        | Equal                                                                       |         |
+| >        | Greater than                                                                |         |
+| <        | Less than                                                                   |         |
+| >=       | Greater than or equal                                                       |         |
+| <=       | Less than or equal                                                          |         |
+| <>       | Not equal. Note: In some versions of SQL this operator may be written as != |         |
+| BETWEEN  | Between a certain range                                                     |         |
+| LIKE     | use wildcards to search for                                                 |         |
+| IN       | equal to one of the possible values listed                                  |         |
 
 | WIldcard | Description                                                  |
 | -------- | ------------------------------------------------------------ |

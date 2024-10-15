@@ -268,35 +268,39 @@ FROM leftTableName <AS alias1>
         FROM Actor, Acts
         WHERE Actor.ActorID = Acts.ActorID;
         ```
-    - Example 2 - using alias:
-        ```sql
+ 
+ - Example 2 - using alias:
+
+	sql
         SELECT *
         FROM Actor t1, Acts t2
         WHERE t1.ActorID = t2.ActorID
-        ```
-    - Example 3 - three tables:  
+        
+
+- Example 3 - three tables:  
 	```sql
         SELECT *
         FROM Actor a1, Acts a2, Movie m
         WHERE a1.ActorID = a2.ActorID AND a2.MovieID = m.MovieID
 	```
 - **with JOIN clause (default for INNER JOIN)**
-    - Example 1: 
+-  Example 1: 
     ```sql
       SELECT *
       FROM Actor 
       JOIN Acts ON Actor.ActorID = Acts.ActorID;
 ```
-    - Example 2 - using alias:  
+- Example 2 - using alias:  
 ```sql
         SELECT *
         FROM Actor t1 
         JOIN Acts t2 ON t1.ActorID = t2.ActorID
 ```
-    - Example 3 - three tables:  
-        
-        **SELECT** *
-        **FROM Actor a1  
+
+- Example 3 - three tables:
+```sql
+        SELECT *
+        FROM Actor a1  
         JOIN Acts a2 ON a1.ActorID = a2.ActorID    
-        JOIN Movie m ON a2.MovieID = m.MovieID;**
-        
+        JOIN Movie m ON a2.MovieID = m.MovieID
+```

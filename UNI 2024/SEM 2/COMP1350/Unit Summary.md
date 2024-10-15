@@ -408,6 +408,7 @@ WHERE a1.Salary > (
     FROM Acts a2
     WHERE a2.MovieID = a1.MovieID
 );
-'
+```
 
 
+# Normalization

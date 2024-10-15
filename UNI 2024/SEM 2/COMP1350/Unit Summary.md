@@ -184,7 +184,7 @@ FROM tablename
 1. *The **DISTINCT** keyword can be used to eliminate repeating rows of results (duplicate results). **SELECT DISTINCT***
 2. *The **AS** keyword can be used to create an alias for the column name, which will be displayed in the query result instead of the original column name. **SELECT column-name AS ID***.
 3. *The **WHERE** clause is an optional clause that can be used to provide record selection criteria or filtering mechanisms.*
-	- ***LIKE** for pattern matching for string type columns using operators '%' and/or ''*
+	- ***LIKE** for pattern matching for string type columns using wildcard characters'*
 
 | Symbol | Description                                                  |
 | ------ | ------------------------------------------------------------ |

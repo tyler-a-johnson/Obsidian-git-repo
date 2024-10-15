@@ -234,6 +234,14 @@ FROM tablename
 
 ### String Functions
 
-| Function | Description |
-| -------- | ----------- |
-|          |             |
+| Function                                     | Description                                                                                |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **CONCAT**(string1, string2 <, string3...>)  | combine multiple strings together                                                          |
+| **UPPER**(string)                            | convert the string to all uppercase                                                        |
+| **LOWER**(string)                            | convert the string to all lowercase                                                        |
+| **TRIM**(string)                             | trim any leading and trailing whitespace                                                   |
+| **LENGTH**(string)                           | get the length of the string                                                               |
+| **LEFT**(string, number-of-characters)       | grab the string from the first character for the specified number of characters            |
+| **RIGHT**(string, number-of-characters)      | grab the string from the last character for the specified number of characters             |
+| **MID**(string, start, number-of-characters) | grab the string from the specified start position for the specified number of characters   |
+

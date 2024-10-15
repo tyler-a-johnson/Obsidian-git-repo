@@ -246,3 +246,14 @@ FROM tablename
 | **DATE_FORMAT**(date, format) | DATE_FORMAT(DirectorDOB, '%D of %M, %Y')                 |
 
 ## Query using Multiple Tables
+```sql
+SELECT column-name <, column-name...>  
+FROM leftTableName <AS alias1> 
+    <[INNER|LEFT|RIGHT| CROSS]> JOIN rightTableName <AS alias2> 
+        [ON joinCriteria | USING commonColumn)]  
+<WHERE criteria>  
+<GROUP BY column-name <, column-name...>>  
+<HAVING aggregate-criteria>  
+<ORDER BY column-name <ASC | DESC> <, column-name <ASC | DESC>...>>;
+```
+

@@ -11,12 +11,14 @@
             "id": "8039fa4f65412b79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Independent Projects/DND/Unnamed campaign.canvas",
+                "viewState": {
+                  "x": -150,
+                  "y": 80,
+                  "zoom": -0.6945600279012065
+                }
               }
             }
           }
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
+                "file": "Independent Projects/DND/Unnamed campaign.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
+                "file": "Independent Projects/DND/Unnamed campaign.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md"
+                "file": "Independent Projects/DND/Unnamed campaign.canvas"
               }
             }
           },
@@ -205,6 +207,16 @@
   },
   "active": "8039fa4f65412b79",
   "lastOpenFiles": [
+    "Independent Projects/DND/The Story So Far.md",
+    "Independent Projects/Attachments/Pasted Image 20221107152350_148.png.md",
+    "copilot-conversations/Chat-2023_10_05-21_04_43.md",
+    "Attachments/Pasted image 20231206193025.png",
+    "Attachments/Pasted image 20231206193130.png",
+    "Attachments/Pasted image 20231206192718.png",
+    "Attachments/Capture.PNG",
+    "Articles/AI Drone May ‘Kill’ Its Human Operator to Accomplish Mission.md",
+    "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
+    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
     "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
     "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
@@ -214,10 +226,6 @@
     "UNI 2024/SEM 2/COMP1350/Attachments/allocation_unf.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/normalisation_process 1.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/image 3.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/image (1) 2.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/image 2.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/teaching_update.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/teaching_deletion.png",
     "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
     "UNI 2024/SEM 2/COMP1350/week7_lecture_solution.sql",
     "UNI 2024/SEM 2/COMP1350/Week 7 - SQL Concepts 2.md",
@@ -239,7 +247,6 @@
     "UNI 2024/SEM 2/COMP2200/Week 3.md",
     "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
     "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
-    "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
     "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
     "conflict-files-obsidian-git.md",
     "Movie&TV Recs.md",
@@ -247,11 +254,6 @@
     "UNI 2024/SEM 2/COMP1350/Workshops/Untitled.canvas",
     "Distilled Notes/Transformers (Not the funny robot).md",
     "Distilled Notes/Ziegler Nicols PID Tuning.md",
-    "Distilled Notes/Untitled 4.md",
-    "Distilled Notes/Untitled 3.md",
-    "Distilled Notes/Untitled 2.md",
-    "Distilled Notes/Untitled 1.md",
-    "Distilled Notes/Untitled.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",

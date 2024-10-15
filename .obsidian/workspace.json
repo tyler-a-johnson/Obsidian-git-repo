@@ -4,53 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "655f050f355a0c0d",
+        "id": "2a413530ecc7c18e",
         "type": "tabs",
-        "dimension": 41.359773371104815,
         "children": [
           {
-            "id": "8039fa4f65412b79",
+            "id": "95547fa37e218776",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a7c89c5bd9da4845",
-        "type": "tabs",
-        "dimension": 58.640226628895185,
-        "children": [
-          {
-            "id": "4953bde409e90b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fe5e2dd7813e053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Study Plan (Macquarie University).canvas",
+                "viewState": {
+                  "x": 176.45133523817978,
+                  "y": 124.82830817151124,
+                  "zoom": -1.1664079782058538
+                }
               }
             }
           }
@@ -120,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd83f9331bec82c",
@@ -147,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
+                "file": "Study Plan (Macquarie University).canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
+                "file": "Study Plan (Macquarie University).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md"
+                "file": "Study Plan (Macquarie University).canvas"
               }
             }
           },
@@ -218,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": false,
@@ -232,60 +202,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian42-brat:BRAT": false,
       "jupyter:Start Jupyter Server": false,
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "4953bde409e90b65",
+  "active": "95547fa37e218776",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
-    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241014221637.png",
-    "Week 4 - Conceptual Data Modelling and Logical Modelling.pdf",
-    "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
-    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
-    "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Lecture 2 (contd)- ER Diagrams.pdf",
-    "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
-    "Distilled Notes/Entity Relationship Diagram (ERD).md",
-    "Distilled Notes/Database Management System.md",
-    "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
-    "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
-    "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
-    "Independent Projects/DND/Unnamed campaign.canvas",
-    "Independent Projects/DND/The Story So Far.md",
-    "Independent Projects/Attachments/Pasted Image 20221107152350_148.png.md",
-    "copilot-conversations/Chat-2023_10_05-21_04_43.md",
-    "Attachments/Pasted image 20231206193025.png",
-    "Attachments/Pasted image 20231206193130.png",
-    "Attachments/Pasted image 20231206192718.png",
-    "Attachments/Capture.PNG",
-    "Articles/AI Drone May ‘Kill’ Its Human Operator to Accomplish Mission.md",
-    "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
-    "UNI 2024/SEM 2/COMP1350/Attachments/allocation_3nf.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/allocation_2nf.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/allocation_1nf.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/allocation_unf.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/normalisation_process 1.png",
-    "UNI 2024/SEM 2/COMP1350/week7_lecture_solution.sql",
-    "UNI 2024/SEM 2/COMP1350/Week 7 - SQL Concepts 2.md",
-    "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
     "UNI 2024/SEM 2/COMP2200/Week 8/Untitled.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
-    "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/Task_1_2_Template.docx",
-    "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/23_016.sql",
-    "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/Task3.sql",
+    "UNI 2024/SEM 2/COMP1350/week7_lecture_solution.sql",
+    "UNI 2024/SEM 2/COMP1350/assignment/messages.zip",
+    "UNI 2024/SEM 2/COMP1350/assignment/Xian.PNG",
+    "UNI 2024/SEM 2/COMP1350/assignment/Tanjil.PNG",
+    "UNI 2024/SEM 2/COMP1350/assignment/Maskatul.PNG",
+    "UNI 2024/SEM 2/COMP1350/assignment/Fadila.PNG",
+    "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
+    "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
+    "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
+    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
+    "UNI 2024/SEM 2/COMP1350/Attachments/training_data_set.png",
+    "Articles/AI Drone May ‘Kill’ Its Human Operator to Accomplish Mission.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 9/Two_Tables.sql",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 9/Single_Table.sql",
+    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 9/Download_Me.sql",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 9",
+    "UNI 2024/SEM 2/COMP1350/Workshops/New folder",
+    "Week 4 - Conceptual Data Modelling and Logical Modelling.pdf",
+    "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
     "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/23_016.pdf",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
-    "Distilled Notes/Semi-Supervised Learning.md",
-    "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
-    "UNI 2024/SEM 2/COMP2200/Week 7.md",
-    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
-    "UNI 2024/SEM 2/COMP2200/Week 3.md",
-    "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
     "conflict-files-obsidian-git.md",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912231829.png",
+    "UNI 2024/SEM 2/COMP2200/Week 7/Lecture Week 7.pdf",
+    "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
+    "UNI 2024/SEM 2/Screenshot 2024-08-05 123511.png",
+    "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
+    "UNI 2024/SEM 2/COMP1350/Week 6 - SQL Concepts.md",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 6.md",
+    "UNI 2024/SEM 2/COMP1350/assignment/Capture.PNG",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224417.png",
+    "UNI 2024/SEM 2/COMP2200/Week 8/Attachments/Pasted image 20240912224519.png",
+    "UNI 2024/SEM 2/COMP2200/Week 2/Week 2.md",
+    "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
+    "Movie&TV Recs.md",
+    "Distilled Notes/Semi-Supervised Learning.md",
+    "Kanban Schedule.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 4.md",
+    "Distilled Notes/Entity Relationship Diagram (ERD).md",
+    "Distilled Notes/Enhanced Entity Relationship Diagram (EERD).md",
     "UNI 2024/SEM 2/COMP1350/Workshops/Untitled.canvas",
+    "UNI 2024/SEM 2/COMP1350/Week 2.md",
+    "UNI 2024/SEM 2/COMP1350/Week 3.md",
+    "UNI 2024/SEM 2/COMP1350/Workshops/Week 3.md",
+    "UNI 2024/SEM 2/COMP1350/Week 1.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
     "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
@@ -293,6 +262,7 @@
     "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
     "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
     "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",
-    "UNI 2023/ELEC3042/Major Project/Major Project.canvas"
+    "UNI 2023/ELEC3042/Major Project/Major Project.canvas",
+    "Independent Projects/DND/Unnamed campaign.canvas"
   ]
 }

@@ -200,7 +200,8 @@ FROM tablename
 | LIKE     | use wildcards to search for like terms     |
 | IN       | equal to one of the possible values listed |
 
-| WIldcard | Description                                                  |
+
+| Wildcard | Description                                                  |
 | -------- | ------------------------------------------------------------ |
 | %        | Represents zero or more characters                           |
 | _        | Represents a single character                                |

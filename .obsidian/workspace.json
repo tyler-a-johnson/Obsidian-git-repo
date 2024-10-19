@@ -6,51 +6,17 @@
       {
         "id": "655f050f355a0c0d",
         "type": "tabs",
-        "dimension": 41.35977337110481,
         "children": [
           {
-            "id": "8039fa4f65412b79",
+            "id": "d48ae6092c367966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
+                "file": "Distilled Notes/Reflective Report.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a7c89c5bd9da4845",
-        "type": "tabs",
-        "dimension": 58.64022662889519,
-        "children": [
-          {
-            "id": "4953bde409e90b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fe5e2dd7813e053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distilled Notes/Entity Relationship Diagram (ERD).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -147,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
+                "file": "Distilled Notes/Reflective Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
+                "file": "Distilled Notes/Reflective Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md"
+                "file": "Distilled Notes/Reflective Report.md"
               }
             }
           },
@@ -237,8 +203,9 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "4953bde409e90b65",
+  "active": "d48ae6092c367966",
   "lastOpenFiles": [
+    "Distilled Notes/Reflective Report.md",
     "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
     "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241014221637.png",

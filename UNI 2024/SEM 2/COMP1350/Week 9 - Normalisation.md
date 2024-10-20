@@ -122,6 +122,7 @@ Table list:
 
 ## Second Normal Form (2NF)
 - At least in 1NF
+- no partial dependency
 - At least one transitive dependency still exists
 
 **Example**

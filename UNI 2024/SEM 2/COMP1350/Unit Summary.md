@@ -18,7 +18,7 @@ Relevant Links:
 4. **Consistent**: The rule is internally consistent within itself and does not conflict with other rules or policies
 5. **Expressible**: Can be easily understood and expressed in natural language.
 6. **Distinct**: Non-redundant, avoiding duplication or overlap with other rules.
-7. **Business oriented**: Written in a manner that can be easily understood by businesspeople and stakeholders.
+7. **Business oriented**: Written in a manner that can be easily understood by business people and stakeholders.
 
 ![ERD](../../../Distilled%20Notes/Entity%20Relationship%20Diagram%20(ERD).md#ERD)
 

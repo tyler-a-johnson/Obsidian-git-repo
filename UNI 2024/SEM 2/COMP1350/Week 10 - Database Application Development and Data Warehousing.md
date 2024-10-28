@@ -34,9 +34,9 @@ Common system tasks:
     Handles the storage and retrieval of data.
 ![](Attachments/Pasted%20image%2020241028203753.png)
 
-|                        |                      |                   |     |     |
-| ---------------------- | -------------------- | ----------------- | --- | --- |
+
 | **Variant of Model**   | **Role**             | **Task**          |     |     |
+| ---------------------- | -------------------- | ----------------- | --- | --- |
 | **Presentation Logic** | **Processing Logic** | **Storage Logic** |     |     |
 | Fat/Thick Client       | Server               |                   |     | ✔   |
 | Client                 | ✔                    | ✔                 |     |     |

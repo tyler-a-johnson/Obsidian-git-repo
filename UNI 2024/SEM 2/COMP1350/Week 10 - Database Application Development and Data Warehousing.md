@@ -12,4 +12,8 @@ Relevant Links:
 - *Data collection:* Gathering data from other sources, such as user input, sensor data, etc.
 - *Data storage:* processing data into necessary structure for storage
 - *Data managment:* More sophisticated authorisation and security features.
-- *Data retrieval:* Providing a user friendly 
+- *Data retrieval:* Providing a user friendly interface.
+
+
+# Database in Client-Server Architecture Models
+In a networked 

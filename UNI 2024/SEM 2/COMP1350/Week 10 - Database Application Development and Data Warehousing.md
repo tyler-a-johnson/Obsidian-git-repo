@@ -61,7 +61,7 @@ In a two-tier architecture, all back-end applications reside in one server.
 Processing logic will be at a separate server (three-tier), or distributed amongst multiple servers (n-tier) to share the processing tasks.
 
 **Example of a three-tier architecture:**
-![](Attachments/Pasted%20image%2020241028204630.png)
+![1000](Attachments/Pasted%20image%2020241028204630.png)
 
 **Example of a four-tier architecture:** 
 - Database server – hosts the DBMS  

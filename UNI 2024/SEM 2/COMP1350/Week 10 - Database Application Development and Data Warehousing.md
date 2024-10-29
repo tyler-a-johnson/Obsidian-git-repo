@@ -37,9 +37,9 @@ Common system tasks:
 
 | Variant of Model | Role   | Presentation Logic | Processing Logic | Storage Logic |
 | ---------------- | ------ | ------------------ | ---------------- | ------------- |
-| Fat/Thick        | Server |                    |                  | ✔             |
+| Fat/Thick Client | Server |                    |                  | ✔             |
 |                  | Client | ✔                  | ✔                |               |
-| Thin             | Server |                    | ✔                | ✔             |
+| Thin Client      | Server |                    | ✔                | ✔             |
 |                  | Client | ✔                  |                  |               |
 | Distributed      | Server |                    | ✔                | ✔             |
 |                  | Client | ✔                  | ✔                |               |

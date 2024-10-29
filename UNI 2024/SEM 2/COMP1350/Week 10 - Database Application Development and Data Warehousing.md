@@ -39,15 +39,16 @@ Common system tasks:
 | ---------------- | ------ | ------------------ | ---------------- | ------------- |
 | Fat/Thick Client | Server |                    |                  | ✔             |
 |                  | Client | ✔                  | ✔                |               |
+| ==============   | ====== | ================   | ===============  | ============  |
 | Thin Client      | Server |                    | ✔                | ✔             |
 |                  | Client | ✔                  |                  |               |
+| ==============   | ====== | ================   | ===============  | ============  |
 | Distributed      | Server |                    | ✔                | ✔             |
 |                  | Client | ✔                  | ✔                |               |
 
 In a two-tier architecture, all back-end applications reside in one server.  
   
-**The advantages and disadvantages of two-tier architecture:**  
-
+**The advantages and disadvantages of two-tier architecture:** 
 - Advantages
     - Easy to Maintain
     - Simpler modification
@@ -57,11 +58,12 @@ In a two-tier architecture, all back-end applications reside in one server.
     - Cost in-effective
 
 ## Three-Tier and N-Tier Architecture Model
-Processing logic will be at a separate server (three-tier), or distributed amongst multiple servers (n-tier) to share the processing tasks.  
+Processing logic will be at a separate server (three-tier), or distributed amongst multiple servers (n-tier) to share the processing tasks.
+
 **Example of a three-tier architecture:**
 ![](Attachments/Pasted%20image%2020241028204630.png)
 
-**Example of a four-tier architecture:**  
+**Example of a four-tier architecture:** 
 - Database server – hosts the DBMS  
     e.g., Oracle, SQL Server, Informix, MS Access, MySql
 - Application server – software building blocks for creating dynamic web sites  

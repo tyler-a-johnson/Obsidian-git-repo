@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 12 - Database Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Week 10 - Database Application Development and Data Warehousing"
+              "title": "Week 12 - Database Theory"
             }
           }
         ]
@@ -158,10 +158,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 12 - Database Theory.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 10 - Database Application Development and Data Warehousing"
+              "title": "Outline of Week 12 - Database Theory"
             }
           },
           {
@@ -229,6 +229,7 @@
   },
   "active": "d48ae6092c367966",
   "lastOpenFiles": [
+    "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
     "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 2/COMP2200/Critical Analysis Task.md",
     "UNI 2024/SEM 2/COMP1350/Week 12 - Database Theory.md",
@@ -242,7 +243,6 @@
     "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028223649.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028204630.png",
     "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028203753.png",
-    "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
     "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
     "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "Distilled Notes/Reflective Report.md",

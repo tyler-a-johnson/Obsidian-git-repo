@@ -20,6 +20,7 @@ Relevant Links:
 | Users             | Frontline staff, operational teams           | Business analysts, managers, decision-<br>makers           |
 | Example Use       | Tracking real-time sales or inventory        | Analysing sales trends over the past year                  |
 | Data Volume       | Typically smaller volumes of data            | Handles large volumes of data                              |
+|                   |                                              |                                                                             |                                              |                                                            |
 ***Sources of Data Warehouse***
 - Databases
 - External Data

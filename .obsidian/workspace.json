@@ -158,10 +158,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 12 - Database Theory.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 12 - Database Theory"
+              "title": "Outline of Unit Summary"
             }
           },
           {
@@ -258,19 +258,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 809,
-        "y": 53,
-        "width": 2118,
-        "height": 1337,
+        "x": 2477,
+        "y": 395,
+        "width": 1589,
+        "height": 993,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "d48ae6092c367966",
+  "active": "eff55422649ba92f",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "UNI 2024/SEM 2/COMP1350/Week 12 - Database Theory.md",
+    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
     "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
     "conflict-files-obsidian-git.md",
     "UNI 2024/SEM 2/COMP2200/Critical Analysis Task.md",

@@ -410,3 +410,52 @@ WHERE a1.Salary > (
 ```
 
 # Normalization
+## Unnormalised Form (UNF)
+- At least one multivalued attribute still exists
+
+**Example**
+A few staff has been allocated to multiple units, causing multivalued attributes
+![](Attachments/allocation_unf.png)
+
+## First Normal Form (1NF)
+- No multivalued attribute(s)
+- Has a primary key
+- At least one partial dependency still exists
+
+**Example**
+To solve the multivalued attributes, create separate rows for each.  
+Assign a primary key for this relation, which is the composite attributes of StaffID and UnitCode.
+There are partial dependents (PD1 and PD2) exist
+![](Attachments/allocation_1nf.png)
+Table list:
+
+- Allocation (StaffID (**pk**), UnitCode(**pk**), StaffName, Phone, UnitName, CreditPoints, Position, Salary)
+
+## Second Normal Form (2NF)
+- At least in 1NF
+- no partial dependency
+- At least one transitive dependency still exists
+
+**Example**
+Each of the partial dependencies becomes a new relation (Staff and Unit).
+The initial relation (Allocation) is reduced to full functional dependency attributes only, where any part of the key that has a partial dependency becomes a foreign key.
+There is a transitive dependent (TD) exists
+![](Attachments/allocation_2nf.png)Table list:
+- Allocation (StaffID (pk, **fk**), UnitCode(pk, **fk**), Position, Salary)
+- Staff (StaffID (**pk**), StaffName, Phone)  
+- Unit (UnitCode(**pk**), UnitName, CreditPoints)
+
+## Third Normal Form (3NF)
+- At least on 2NF
+- No transitive dependencies exist  
+
+**Example**
+Each of the transitive dependencies becomes a new relation (Position).
+The initial relation (Allocation) is reduced to exclude the transitive dependents (Salary), where any part of the key that has a partial dependency becomes a foreign key (Position).
+![](Attachments/allocation_3nf.png)Table list:
+- Allocation (StaffID (pk, fk), UnitCode (pk, fk), Position (**fk**))  
+- Position (Position (**pk**), Salary)  
+- Staff (StaffID (pk), StaffName, Phone)  
+- Unit (UnitCode (pk), UnitName, CreditPoints)
+
+# Database Architecture

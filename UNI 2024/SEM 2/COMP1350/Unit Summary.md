@@ -87,7 +87,7 @@ Modelled as lines connecting entities in an [Entity Relationship Diagram (ERD)](
 1. **Strong entities**  
 For each strong entity in the ER model, create a relation (i.e. a table that includes all the simple attributes). Make sure to identify the primary key for the relation (i.e. the PI of the entity becomes the PK of the table). If there is a composite attribute, you can expand them. Leave multi-valued attributes out (they will be dealt with later.)  
 2.  **Weak Entities**  
-STEP 2: For each weak entity in the ER model, create a relation that includes all the simple attributes. The primary key of the relation is the combination of the primary key/s of the ‘owner’ and the main attribute of the weak entity itself.  
+For each weak entity in the ER model, create a relation that includes all the simple attributes. The primary key of the relation is the combination of the primary key/s of the ‘owner’ and the main attribute of the weak entity itself.  
 3. **1:1 relationship**
 For each 1 TO 1 Relationship identify the two relations corresponding to the entities participating in the relationship. Choose the PK of the Relation (usually the one with mandatory constraint) and make it as the foreign key of the other relation.  
 4. **1:N relationship**

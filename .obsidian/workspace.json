@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 12 - Database Theory.md",
+                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 12 - Database Theory"
+              "title": "Week 10 - Database Application Development and Data Warehousing"
             }
           }
         ]
@@ -158,10 +158,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md"
+                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit Summary"
+              "title": "Outline of Week 10 - Database Application Development and Data Warehousing"
             }
           },
           {
@@ -262,12 +262,12 @@
         "y": 395,
         "width": 1589,
         "height": 993,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "eff55422649ba92f",
+  "active": "d48ae6092c367966",
   "lastOpenFiles": [
     "UNI 2024/SEM 2/COMP1350/Week 12 - Database Theory.md",
     "UNI 2024/SEM 2/COMP1350/Unit Summary.md",

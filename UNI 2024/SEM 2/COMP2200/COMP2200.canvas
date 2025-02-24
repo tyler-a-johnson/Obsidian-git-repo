@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"ec1422a2654c5bbc","type":"file","file":"UNI 2024/SEM 2/COMP2200/Week 7/Week 7 - Unsupervised Learning.md","x":-640,"y":-2280,"width":960,"height":860},
+		{"id":"cca26bb563f9fb2d","type":"file","file":"UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md","x":-600,"y":-1360,"width":880,"height":929},
+		{"id":"6ed85d342bebc98d","type":"file","file":"UNI 2024/SEM 2/COMP2200/Week 9/Week 9 - Naive Bayes.md","x":-560,"y":-320,"width":816,"height":747},
+		{"id":"13c1cdf59c1a83fd","type":"file","file":"UNI 2024/SEM 2/COMP2200/Week 10/Week 10 - Artificial Neural Networks.md","x":-560,"y":480,"width":812,"height":840},
+		{"id":"8348ff49ef79f9ae","type":"file","file":"UNI 2024/SEM 2/COMP2200/Week 11/Week 11 - Decision Trees.md","x":-560,"y":1360,"width":800,"height":760},
+		{"id":"08ba66c21ec4fa23","type":"file","file":"UNI 2024/SEM 2/COMP2200/Week 12/COMP2200-6200-12-Summary.pdf","subpath":"#page=1","x":-1560,"y":-260,"width":400,"height":300},
+		{"id":"d941982eae2ad6f0","type":"text","text":"- [ ] Normalisation\n- [x] Laplacian Smoothing\n- [ ] Error\n\t- [ ] Training\n\t- [ ] Testing\n- [x] Similarity/Distance\n\t- [x] Euclidian (as the crow flies)\n\t- [x] Manhattan (taxi)\n- [ ] KMeans Clustering\n\t- [ ] Linkages\n\t- [ ] Pros Cons\n\t- [x] Algorithm\n\t- [ ] Hierarchical Clustering\n\t\t- [ ] Definition\n\t\t- [ ] Process\n\t- [ ] Agglomerative Clustering\n\t\t- [ ] Definition\n\t\t- [ ] Process\n- [ ] K Nearest Neighbours\n\t- [x] Algorithm (1-NN K-NN)\n\t- [ ] Pros Cons\n\t- [x] k-fold?\n- [ ] Naive Bayes\n\t- [x] Algorithm\n\t- [ ] probability\n\t\t- [ ] Joint rules\n\t\t- [ ] Conditional rules (product rule)\n\t\t- [ ] Marginal rules (sum rule)\n\t\t- [ ] PDF and CDF\n\t- [ ] Random Variable Relationship\n\t- [ ] Gaussian VS Bernoulli\n\t- [ ] Pros Cons\n- [ ] Neural Networks\n\t- [ ] Define Feedforward\n\t- [ ] Define perceptron\n\t- [ ] Error Back Propagation Example\n\t- [ ] Pros Cons\n\t- [ ] Gradient Descent\n- [x] Decision Trees\n\t- [x] Algorithms and their advantages\n\t- [x] Algorithm\n\t- [x] Entropy and Information Gain\n\t- [x] Gini Impurity\n\t- [x] Pros and Cons","x":380,"y":-2240,"width":1020,"height":1600}
+	],
+	"edges":[]
+}

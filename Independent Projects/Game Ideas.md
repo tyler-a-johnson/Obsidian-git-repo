@@ -1,0 +1,33 @@
+- FPS Game with rich enemy comms tied to gameplay
+	- Kill enemies to have access to their comms for a short period before their security key times out (take their earpieces - enemy control notices after a short period and cuts the piece off)
+	- Useful but not integral information through comms - ingame voice chat?
+	- Is this not just cavs interrogate feature from r6?
+	- Would need a way to force players to use ingame voice chat
+
+- **BIG FUCKER** - Long term - Probably not viable solo
+	- Warframe + Titanfall (Closer to titanfall)
+	- Wallrunning and parkour is a major focus
+	- Asymmetrical multiplayer between 'mechs' and pilots 
+		- Is it competitive FPS or more MMO like Warframe?
+		- Balancing would be fucked
+		- How fast are the mechs compared to pilots? Would need to be much slower (Again, Titanfall/Necramechs)
+	- Anthem had a lot of potential, but fucked it up with a shit story, mid progression and build variety and being published by EA
+		- More grounded mech piloting as opposed to transference
+		- Similar aesthetic, grungy industrial sci fi
+		- last of humanity type vibe
+	- Maybe a 'tandem' gameplay loop
+		- Fight alongside your mech
+		- Get inside the mech to perform more powerful maneuvers
+		- Mech needs time to cool off - kicks you out
+		- Cycle repeats
+		- Would be much closer to warframe
+
+- Bass Reeves [how does an indie game get made? - YouTube](https://youtu.be/69Ukg2BqIk0)
+	- Criminal that the game died
+	- Could be done with a combination of the wheel minigame and gameplay
+		- Highlight the different aspects of Reeves' life with different gameplay loops
+			- Wheel Game
+			- Point and click
+			- Homestead building
+			- FPS/Railshooter/Other minigame
+			- Already scope is out of hand lol

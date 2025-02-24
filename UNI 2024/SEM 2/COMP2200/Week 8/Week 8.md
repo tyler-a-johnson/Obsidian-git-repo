@@ -42,9 +42,9 @@ If a computer program gains performance improvement on $T$ by leveraging experie
 - Without being explicitly programmed.
 
 **Components**
-- Model: Represents the form of learning result
-- Learning algorithm: how to generate a model from data
-- Data: input to ML algorithms
+- *Model*: Represents the form of learning result
+- *Learning* *algorithm*: how to generate a model from data
+- *Data*: input to ML algorithms
 
 **Aims** to predict unseen data or to interpret existing data
 
@@ -164,10 +164,6 @@ Eg linear regression models $y = w_{0} + w_{1}x$
 	- For categorical data, we can use hamming distance
 		- $d(x_{1}, x_{2})$ = number of features on which $x_{1}$ and $x_{2}$ differ
 	- Others (e.g. cosine, Manhattan)
-
-- How many nearby neighbours to look at>
-	- only one 
-
 - How to fit with training data instances?
 	- Just predict the same output as the nearest neighbour
 
@@ -217,7 +213,7 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 	- Use fancy data structures such as KD-trees to accelerate the search of nearest neighbours
 	- Or use [[locality-sensitive hashing]] to approximate nearest neighbours with constant computational complexity.
 - Prediction performance degrades when number of attributes grows
-	- *Curse of dimensionality*: When the number of attributes is big, similarity/distance measures become less reliable
+	- *Curse of dimensionality*: When the number of attributes is big, similarity/distance measures become less reliable.
 	- Remedy
 		- Remove irrelevant attributes in pre-processing
 		- Weight attributes differently
@@ -225,7 +221,7 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 # Model Selection (Select k)
 
 - **We cannot learn K from training data**. It is a hyperparameter, rather than a model parameter
-- Usually, K should be determined by model users
+- Usually, K should be determined by model users.
 	- Different K will produce different classifiers
 	- Then, how to choose a value for K?
 
@@ -242,14 +238,14 @@ The resultant space partition is a **[[Voronoi Diagram]]**
 $K$ acts as a smoother and controls model complexity
 ![](Attachments/Pasted%20image%2020240912221625.png)
 $K = 1$ leads to the roughest decision boundaries.
-*As 1-NN classifier has the highest complexity, can we just simply select this model as the best for model selection.*
 
+*We cannot just pick 1-NN classifier even though it is the most "complex" and "powerful"*
 ## Training / Testing Errors
 **Training Error** (or empirical error) of a trained model $\hat{f}$ on a training data sat of size $N$.
 $$E_{emp} (\hat{f}) = \frac{1}{N} \sum_{i=1}^{N} L (y_{i}, \hat{f}(x_{i}))$$
 Note that the loss function $L\left(  .,.   \right)$ requires instantiation for a specific model e.g. the squared error in linear regression.
 
-**Testing error** on a test data set with size $N'$
+***Testing error*** on a test data set with size $N'$. *More important, we want to minimize this.*
 $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )$$
 - Indicating the *generalisation capability of a learned model*
 
@@ -259,22 +255,17 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 - Error is calculated by 1.0 - *accuracy*
 ![](Attachments/Pasted%20image%2020240912224519.png)
 
-
-
-
-
-
 ![](Attachments/Pasted%20image%2020240912224445.png)
 
 **Observation 1**
 - Training error keeps going up when K increases
 	- 0 when K = 1
 - Testing error does not take lowest value at K = 1
-	- Testing error is minimized around K = 9.
+	- ***Testing error is minimized around K = 9.***
 - So a paradox for $K = 1$ case
 	- **Overfitting:** a model is too strong and captures the very details of training samples, lacking generalization capability
 		- Data is **noisy**, and the model is fitted to noise.
-		- Fighting against overfitting is important in machine learning.
+		- *Fighting against overfitting is important in machine learning.*
 
 **Observation 2**
 - Both errors are maximised when K = 40.
@@ -306,7 +297,7 @@ $$E_{test}(\hat{f}) = \frac{1}{N'} \sum _{i=1}^{N'} L ( y_{i} , \hat{f}(x_{i}) )
 - Option 2: **k-fold cross validation**
 	- Randomly partition data into $k$ subsets ($k$ is usually 5,10)
 	- In each round, leave a subset out as the validating data
-	- Combined results from multiple rounds are reported as the robust testing error estimation.\
+	- Combined results from multiple rounds are reported as the robust testing error estimation.
 ![](Attachments/Pasted%20image%2020240912231829.png)
 
 ## Automatic Tuning 

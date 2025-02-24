@@ -1,80 +1,64 @@
 {
   "main": {
-    "id": "2aec57aa1647c8ea",
+    "id": "3400e4f546eedbbc",
     "type": "split",
     "children": [
       {
-        "id": "655f050f355a0c0d",
+        "id": "4f492c73d04539a2",
         "type": "tabs",
         "children": [
           {
-            "id": "d48ae6092c367966",
+            "id": "85dd626fc7ead94f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
+                "file": "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Week 10 - Database Application Development and Data Warehousing"
-            }
-          },
-          {
-            "id": "19d1de56f68f86d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit Summary"
+              "title": "Week 1 - Intro to Business Applications of AI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eae422160739a224",
+    "id": "9f76a27ed674d740",
     "type": "split",
     "children": [
       {
-        "id": "5808f64fe8285c4f",
+        "id": "974beeae4e32906b",
         "type": "tabs",
-        "dimension": 76.0268231349539,
         "children": [
           {
-            "id": "722bd1a166a65a70",
+            "id": "c99db174776054b9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "9c0894b8c9bff8ed",
+            "id": "2aedf08859d0f3f4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
-                "extraContext": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -82,7 +66,17 @@
             }
           },
           {
-            "id": "fe4a430d4253dd80",
+            "id": "c3882068659857ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f48f8c8a287f019e",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -92,38 +86,54 @@
             }
           }
         ]
-      },
-      {
-        "id": "f7179793503f86be",
-        "type": "tabs",
-        "dimension": 23.973176865046103,
-        "children": [
-          {
-            "id": "82f54e8032cf210c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 300
   },
   "right": {
-    "id": "1bd83f9331bec82c",
+    "id": "2bcb13fadf910017",
     "type": "split",
     "children": [
       {
-        "id": "371dfface0d3aee2",
+        "id": "fcd46b26507c2269",
         "type": "tabs",
         "children": [
           {
-            "id": "55715e4c07a4d5a4",
+            "id": "ba131f25c5b1da1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Week 1 - Intro to Business Applications of AI"
+            }
+          },
+          {
+            "id": "e42ebb49c76abe50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Independent Projects/Game Ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Game Ideas"
+            }
+          },
+          {
+            "id": "fc5dc701378c5c23",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,62 +146,7 @@
             }
           },
           {
-            "id": "f281dc1c068b21b5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Week 10 - Database Application Development and Data Warehousing"
-            }
-          },
-          {
-            "id": "ebbb72033f799aba",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Week 10 - Database Application Development and Data Warehousing"
-            }
-          },
-          {
-            "id": "12db1fcb88c87871",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Unit Summary"
-            }
-          },
-          {
-            "id": "c08e9b789a4c1123",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "cc6bbf2ecffe5901",
+            "id": "dbaf1e417ba182cc",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -205,7 +160,19 @@
             }
           },
           {
-            "id": "96733f28a6198d95",
+            "id": "5ca580547364f1d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Independent Projects/Game Ideas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Game Ideas"
+            }
+          },
+          {
+            "id": "c48a5f57c70f9f3e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -214,25 +181,24 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
+    "width": 268.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "zk-prefixer:Create new unique note": true,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": true,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": true,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -243,103 +209,24 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "floating": {
-    "id": "944c78e24847786b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fad7bde52e30c6b4",
-        "type": "window",
-        "children": [
-          {
-            "id": "3601a91c3d2e5bb9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eff55422649ba92f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Unit Summary"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 937,
-        "y": 39,
-        "width": 1589,
-        "height": 993,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "19d1de56f68f86d3",
+  "active": "85dd626fc7ead94f",
   "lastOpenFiles": [
-    "UNI 2024/SEM 2/COMP1350/Week 10 - Database Application Development and Data Warehousing.md",
-    "UNI 2024/SEM 2/COMP1350/Week 12 - Database Theory.md",
-    "UNI 2024/SEM 2/COMP1350/Unit Summary.md",
-    "UNI 2024/SEM 2/COMP1350/Week 9 - Normalisation.md",
-    "conflict-files-obsidian-git.md",
-    "UNI 2024/SEM 2/COMP2200/Critical Analysis Task.md",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028234307.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028234048.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028233447.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028232429.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028231345.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028224211.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028224053.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028223649.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028204630.png",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Pasted image 20241028203753.png",
-    "Distilled Notes/Reflective Report.md",
-    "UNI 2024/SEM 2/COMP1350/Week 6 + 7 + 8 - SQL Concepts.md",
-    "Week 4 - Conceptual Data Modelling and Logical Modelling.pdf",
-    "UNI 2024/SEM 2/COMP1350/Week 5 - Logical Modelling and SQL.md",
-    "UNI 2024/SEM 2/COMP1350/Week 4 - Conceptual Data Modelling and Logical Modelling.md",
-    "UNI 2024/SEM 2/COMP1350/Week 3 - Conceptual Data Modelling.md",
-    "UNI 2024/SEM 2/COMP1350/Attachments/Lecture 2 (contd)- ER Diagrams.pdf",
-    "UNI 2024/SEM 2/COMP1350/Week 2 - Data Structures.md",
-    "Distilled Notes/Entity Relationship Diagram (ERD).md",
-    "Distilled Notes/Database Management System.md",
-    "UNI 2024/SEM 2/COMP1350/Week 1 - Intro.md",
-    "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
-    "Independent Projects/DND/Unnamed campaign.canvas",
-    "Independent Projects/DND/The Story So Far.md",
-    "Independent Projects/Attachments/Pasted Image 20221107152350_148.png.md",
-    "copilot-conversations/Chat-2023_10_05-21_04_43.md",
-    "Articles/AI Drone May ‘Kill’ Its Human Operator to Accomplish Mission.md",
-    "UNI 2024/SEM 2/COMP1350/week7_lecture_solution.sql",
-    "UNI 2024/SEM 2/COMP1350/Week 7 - SQL Concepts 2.md",
-    "UNI 2024/SEM 2/COMP2200/Week 8/KNN-demo.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Untitled.ipynb",
-    "UNI 2024/SEM 2/COMP2200/Week 5/Lecture Week 5-s2-2024.ipynb",
-    "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/Task_1_2_Template.docx",
-    "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/23_016.sql",
-    "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/Task3.sql",
-    "UNI 2024/SEM 2/COMP1350/assignment/Assignment Files/23_016.pdf",
-    "UNI 2024/SEM 2/COMP2200/Week 8/Week 8.md",
-    "Distilled Notes/Semi-Supervised Learning.md",
-    "UNI 2024/SEM 2/COMP2200/Exam Examples.md",
-    "UNI 2024/SEM 2/COMP2200/Week 7.md",
-    "UNI 2024/SEM 2/COMP2200/Week 1 - Intro.md",
-    "UNI 2024/SEM 2/COMP1350/Workshops/Untitled.canvas",
+    "UNI 2025/SEM 1/BUSA3430/Attachments/BUSA6430-3430 - S1 2025 - LECTURE week 1.pdf",
+    "Distilled Notes/Isaac Asimov's Laws of Robotics.md",
+    "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
+    "Distilled Notes/The Turing Test.md",
+    "UNI 2025/SEM 1/BUSA3430/Attachments/Screenshot 2025-02-25 at 02-39-17 BUSA3430-6430 - S1 2025 - LECTURE week 1 - BUSA6430-3430 - S1 2025 - LECTURE week 1.pdf.png",
+    "UNI 2025/SEM 1/BUSA3430/Attachments",
+    "UNI 2025/SEM 1",
+    "UNI 2025/SEM 1/BUSA3430/Homepage.md",
+    "Warframe.canvas",
+    "UNI 2025/SEM 1/BUSA3430",
+    "UNI 2025/Untitled.md",
+    "UNI 2025",
+    "Untitled.md",
+    "Independent Projects/Game Ideas.md",
+    "Distilled Notes/Untitled 1.md",
     "Study Plan (Macquarie University).canvas",
-    "UNI 2024/SEM 1/ELEC3024/Major Project.canvas",
-    "UNI 2024/SEM 1/ENGG4001/Braille Display.canvas",
-    "UNI 2024/SEM 1/FOSE3000/DayOne STEM Pack.canvas",
-    "UNI 2023/SEM 2/ENGG3000/Team Canvas.canvas",
-    "UNI 2023/SEM 1/ELEC3042/Major Project/Major Project.canvas",
-    "UNI 2023/SEM 1/ELEC3042/Minor Project/Project.canvas",
-    "UNI 2023/ELEC3042/Major Project/Major Project.canvas"
+    "Independent Projects/DND/The Story So Far.md"
   ]
 }

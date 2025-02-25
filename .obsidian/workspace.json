@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "Week 1 - Intro to Business Applications of AI"
             }
-          },
-          {
-            "id": "2c150afbff72cd86",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +209,7 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "2c150afbff72cd86",
+  "active": "85dd626fc7ead94f",
   "lastOpenFiles": [
     "UNI 2025/SEM 1/BUSA3430/Attachments/BUSA6430-3430 - S1 2025 - LECTURE week 1.pdf",
     "Distilled Notes/Isaac Asimov's Laws of Robotics.md",

@@ -23,6 +23,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "23722e21c97e1e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b2f8b993d9546a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2025/SEM 1/COMP2400/Attachments/Tutorial Tasks Week 2 - COMP2400-6400.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Tutorial Tasks Week 2 - COMP2400-6400"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2bcb13fadf910017",
@@ -211,11 +230,11 @@
   },
   "active": "85dd626fc7ead94f",
   "lastOpenFiles": [
-    "UNI 2025/SEM 1/COMP2400/Attachments/W2_Algorithmic Bias_Lecture_Fabry.pdf",
     "UNI 2025/SEM 1/COMP2400/Attachments/Tutorial Tasks Week 2 - COMP2400-6400.pdf",
+    "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
+    "UNI 2025/SEM 1/COMP2400/Attachments/W2_Algorithmic Bias_Lecture_Fabry.pdf",
     "UNI 2025/SEM 1/COMP2400/Attachments",
     "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
-    "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
     "UNI 2025/SEM 1/COMP2400",
     "UNI 2025/SEM 1/Untitled.md",
     "UNI 2025/SEM 1/BUSA3430/Attachments/BUSA6430-3430 - S1 2025 - LECTURE week 1.pdf",

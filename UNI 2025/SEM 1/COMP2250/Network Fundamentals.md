@@ -1,12 +1,4 @@
 ---
-date: 2025-03-04
-tags: 
-status: Incomplete
-Relevant Questions: 
-Relevant Notes: 
-Relevant Links:
----
----
 date: 2025-02-26
 tags: 
 status: Incomplete

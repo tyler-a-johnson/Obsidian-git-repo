@@ -176,7 +176,7 @@ potential to create any harm (note: ‘Any’ harm; There is no such a thing as
 Require human oversight; implement monitoring; continuous testing
 ```
 ```ad-danger
-title: Prohibited/Very High Risk (Red Light)
+title: Prohibited/Very High Risk
 AI applications that should be prohibited (e.g. social scoring, public
 surveillance, autonomous weapons)
 ```

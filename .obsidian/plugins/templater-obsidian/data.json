@@ -15,15 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "UNI 2023",
-      "template": "Resources/Templates/File Properties - Lecture Notes.md"
-    },
-    {
-      "folder": "Distilled Notes",
-      "template": "Resources/Templates/File Properties - Distilled Note.md"
-    },
-    {
-      "folder": "UNI 2024",
+      "folder": "UNI 2025",
       "template": "Resources/Templates/File Properties - Lecture Notes.md"
     }
   ],

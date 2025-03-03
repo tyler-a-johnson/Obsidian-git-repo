@@ -19,3 +19,4 @@
 - b) What legal issues are raised by this article? 
 - c) Compare the position taken in this article to the one expressed in the Conversation article on Nazi Medical Experiments
 
+4. ($**$) **Consider the paragraph in Slide# 13 of Lecture 1.1 (Week 1) reproduced below. A purported paraphrase of this paragraph is also provided. Pretend that you are a marker and evaluate this paraphrase, and then answer the questions.**

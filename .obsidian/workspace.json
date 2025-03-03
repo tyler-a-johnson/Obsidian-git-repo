@@ -32,15 +32,12 @@
             "id": "48b2f8b993d9546a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "UNI 2025/SEM 1/COMP2400/Attachments/Tutorial Tasks Week 2 - COMP2400-6400.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Week 2 - SGTA"
+              "icon": "lucide-file-text",
+              "title": "Tutorial Tasks Week 2 - COMP2400-6400"
             }
           },
           {
@@ -122,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2bcb13fadf910017",
@@ -242,12 +240,12 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "48b2f8b993d9546a",
+  "active": "a09f1368b8c7b193",
   "lastOpenFiles": [
-    "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
-    "Kanban Schedule.md",
     "UNI 2025/SEM 1/COMP2400/Attachments/Tutorial Tasks Week 2 - COMP2400-6400.pdf",
     "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
+    "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
+    "Kanban Schedule.md",
     "UNI 2025/SEM 1/COMP2400/Attachments/W2_Algorithmic Bias_Lecture_Fabry.pdf",
     "UNI 2025/SEM 1/COMP2400/Attachments",
     "UNI 2025/SEM 1/COMP2400",

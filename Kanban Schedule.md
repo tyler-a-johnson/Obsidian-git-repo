@@ -6,38 +6,58 @@ kanban-plugin: basic
 
 ## LONG WAY OFF
 
-- [ ] Weekly Quiz (wk1 - 8) (5%) @{22-09-2024} #COMP1350
-- [ ] Database Design Assignment (20%) #COMP1350 @{22-09-2024}
-- [ ] Weekly Quiz (wk9  - 13) (5%) @{03-11-2024} #COMP1350
-- [ ] Practical SQL Test (20%) Wk11 #COMP1350
-- [ ] Module Exam 3 Week 13 #COMP1350
-- [ ] Critical Analysis Task (15%) Saturday Week 13 #COMP2200
+- [ ] Test 2 - Week 7 #BUSA3430 @{07-04-2025}
+- [ ] Test 3 - Week 11 #BUSA3430
+- [ ] Group Project (45%) #BUSA3430 @{01-06-2025}
+- [ ] Assignment 2 (20%) Week 11 #COMP2010
+- [ ] Mid Sem Test (10%) Week 10 (In lecture) #COMP2010
+- [ ] Assignment 2 (20%) #COMP2250 @{01-06-2025}
+- [ ] Module Exams (40%) Week 8 + Final Exam #COMP2250
+- [ ] Assignment 2 (30%) #COMP2400 @{09-05-2025}
+- [ ] Assignment 3 (30%) #COMP2400 @{06-06-2025}
 
 
-## TODO
+## PRIORITY
 
-- [ ] Data Science Portfolio (35%) (Week 5, 7, 9, 11) #COMP2200
-- [ ] Module Exam 2 Week 7 #COMP1350
-- [ ] Exams (40%) (Wk 8 and Exam Week) #COMP2200
-
-
-## COMPLETE
-
-- [ ] Module Exam 1 Week 3 #COMP1350
+- [ ] AI Case Study (35%) #BUSA3430 @{13-04-2025}
+- [ ] Test 1 - Week 4 (20% total) #BUSA3430 @{17-03-2025}
+- [ ] Assignment 1 (15%) #COMP2010 @{06-04-2025}
+- [ ] Assignment 1 (20%) #COMP2250 @{13-04-2025}
+- [ ] Assignment 1 (25%) #COMP2400 @{28-03-2025}
 
 
-## Weekly Tasks
+## WEEKLY TASK
 
-- [x] Weekly Practical Tasks (10%) (11:55pm Sunday) #COMP2200
-- [ ] COMP2200 Lecture
-- [ ] COMP1350 Lecture
-- [x] COMP1350 Weekly quiz
+- [ ] Weekly Submissions (Beggining of SGTA) #COMP2010
+- [x] Weekly SGTAs (20%) #COMP2250 #hurdle
+- [ ] Weekly Quiz (To open up next weeks prac) #COMP2250
+- [ ] Weekly Minute Paper #COMP2250
+- [x] SGTA Tasks (15%) 9AM Before the lecture MONAY (FUCKING WHY) #COMP2400
+
+
+## LECTURES
+
+- [ ] Lecture Notes #COMP2010
+- [ ] Lecture Notes #BUSA3430
+- [ ] Lecture Notes #COMP2250
+- [ ] Lecture Notes #COMP2400
 
 
 ***
 
 ## Archive
 
+- [x] Weekly Practical Tasks (10%) (11:55pm Sunday) #COMP2200
+- [ ] COMP2200 Lecture
+- [ ] COMP1350 Lecture
+- [x] COMP1350 Weekly quiz
+- [ ] Module Exam 1 Week 3 #COMP1350
+- [ ] Weekly Quiz (wk1 - 8) (5%) @{22-09-2024} #COMP1350
+- [ ] Database Design Assignment (20%) #COMP1350 @{22-09-2024}
+- [ ] Weekly Quiz (wk9  - 13) (5%) @{03-11-2024} #COMP1350
+- [ ] Practical SQL Test (20%) Wk11 #COMP1350
+- [ ] Module Exam 3 Week 13 #COMP1350
+- [ ] Critical Analysis Task (15%) Saturday Week 13 #COMP2200
 - [x] Project Presentation #ENGG/3000 @{07-11-2023}
 - [x] Statement of Work #ENGG/3000 @{05-11-2023}
 - [x] ENG3000 - Portfolio #ENGG/3000  @{05-11-2023}
@@ -66,6 +86,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","show-checkboxes":true,"tag-colors":[{"tagKey":"#ELEC/2005","color":"rgba(239, 255, 0, 1)","backgroundColor":"rgba(6, 164, 244, 0.76)"},{"tagKey":"#ENGG/3000","color":"rgba(255, 255, 255, 0.99)","backgroundColor":"rgba(210, 0, 0, 0.48)"},{"tagKey":"#MTRN/3060","color":"rgba(0, 255, 243, 1)","backgroundColor":"rgba(67, 11, 130, 1)"},{"tagKey":"#MTRN/3026","color":"rgba(0, 0, 0, 1)","backgroundColor":"rgba(101, 255, 0, 1)"},{"tagKey":"#knowledge","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(253, 0, 164, 0.69)"},{"tagKey":"#Important","color":"rgba(0, 183, 255, 1)","backgroundColor":"rgba(254, 255, 0, 1)"},{"tagKey":"#COMP2200","color":"rgba(249, 145, 190, 1)","backgroundColor":"rgba(21, 177, 229, 0.76)"},{"tagKey":"#COMP1350","color":"rgba(27, 29, 68, 1)","backgroundColor":"rgba(255, 243, 108, 0.99)"}],"hide-date-display":false,"hide-date-in-title":true,"date-colors":[{"isToday":false,"distance":2,"unit":"days","direction":"after","color":"rgba(255, 57, 0, 1)","backgroundColor":"rgba(227, 227, 227, 0)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","color":"rgba(255, 207, 0, 1)"},{"distance":4,"unit":"months","direction":"after","color":"rgba(28, 242, 8, 0.86)"},{"distance":1,"unit":"days","direction":"after","color":"rgba(1, 111, 117, 1)","isAfter":true,"backgroundColor":"rgba(62, 36, 251, 0.17)"},{"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(0, 0, 0, 0)","color":"rgba(255, 0, 52, 1)"},{"distance":1,"unit":"days","direction":"after","isToday":true,"backgroundColor":"rgba(255, 0, 0, 1)","color":"rgba(0, 0, 0, 1)"}],"date-picker-week-start":1,"hide-tags-in-title":true,"show-add-list":true,"date-display-format":"DD - MMM (M) - YYYY","show-relative-date":true,"link-date-to-daily-note":false,"lane-width":325,"max-archive-size":10,"hide-tags-display":false,"show-view-as-markdown":false}
+{"kanban-plugin":"basic","show-checkboxes":true,"tag-colors":[{"tagKey":"#BUSA3430","color":"rgba(255, 148, 0, 1)","backgroundColor":""},{"tagKey":"#COMP2010","color":"rgba(0, 255, 89, 1)","backgroundColor":""},{"tagKey":"#COMP2250","color":"rgba(255, 240, 0, 1)","backgroundColor":""},{"tagKey":"#COMP2400","color":"rgba(246, 2, 255, 1)","backgroundColor":""},{"tagKey":"#hurdle","color":"rgba(255, 0, 0, 1)","backgroundColor":"rgba(158, 140, 255, 0.1)"}],"hide-date-display":false,"hide-date-in-title":true,"date-colors":[{"isToday":false,"distance":2,"unit":"days","direction":"after","color":"rgba(255, 57, 0, 1)","backgroundColor":"rgba(227, 227, 227, 0)"},{"isToday":false,"distance":7,"unit":"days","direction":"after","color":"rgba(255, 207, 0, 1)"},{"distance":4,"unit":"months","direction":"after","color":"rgba(28, 242, 8, 0.86)"},{"distance":1,"unit":"days","direction":"after","color":"rgba(1, 111, 117, 1)","isAfter":true,"backgroundColor":"rgba(62, 36, 251, 0.17)"},{"distance":1,"unit":"days","direction":"after","backgroundColor":"rgba(0, 0, 0, 0)","color":"rgba(255, 0, 52, 1)"},{"distance":1,"unit":"days","direction":"after","isToday":true,"backgroundColor":"rgba(255, 0, 0, 1)","color":"rgba(0, 0, 0, 1)"}],"date-picker-week-start":1,"hide-tags-in-title":true,"show-add-list":true,"date-display-format":"DD - MMM (M) - YYYY","show-relative-date":true,"link-date-to-daily-note":false,"lane-width":400,"max-archive-size":10,"hide-tags-display":false,"show-view-as-markdown":false}
 ```
 %%

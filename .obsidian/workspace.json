@@ -6,6 +6,7 @@
       {
         "id": "4f492c73d04539a2",
         "type": "tabs",
+        "dimension": 45.905797101449274,
         "children": [
           {
             "id": "85dd626fc7ead94f",
@@ -13,13 +14,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2025/SEM 1/COMP2250/Network Fundamentals - (RECOVERED).md",
+                "file": "UNI 2025/SEM 1/COMP2250/Week 3 -OSI Layer 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Network Fundamentals - (RECOVERED)"
+              "title": "Week 3 -OSI Layer 3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bb5b963a4c72082c",
+        "type": "tabs",
+        "dimension": 54.094202898550726,
+        "children": [
+          {
+            "id": "85945e467f4239bd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2025/SEM 1/COMP2250/Attachments/Data Communications w02 - OSI Layer 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Data Communications w02 - OSI Layer 3"
             }
           }
         ]
@@ -89,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 410.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "2bcb13fadf910017",
@@ -209,9 +230,17 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "c99db174776054b9",
+  "active": "85dd626fc7ead94f",
   "lastOpenFiles": [
+    "UNI 2025/SEM 1/COMP2250/Attachments/Data Communications w02 - OSI Layer 3.pdf",
+    "UNI 2025/SEM 1/COMP2250/Week 3 -OSI Layer 3.md",
+    "UNI 2025/SEM 1/COMP2250/Attachments/Pasted image 20250306004414.png",
+    "UNI 2025/SEM 1/COMP2250/Attachments/Pasted image 20250306004343.png",
+    "UNI 2025/SEM 1/COMP2250/Attachments/Pasted image 20250306004337.png",
+    "Kanban Schedule.md",
     "UNI 2025/SEM 1/Homepage.md",
+    "UNI 2025/SEM 1/COMP2250/Attachments/Pasted image 20250305234148.png",
+    "UNI 2025/SEM 1/COMP2250/Network Fundamentals - (RECOVERED).md",
     "UNI 2025/SEM 1/COMP2010/Week 2/week2_workshop_questions.pdf",
     "UNI 2025/SEM 1/COMP2010/Week 2",
     "UNI 2025/SEM 1/COMP2010/Week 1/week1.zip",
@@ -219,14 +248,12 @@
     "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
     "UNI 2025/SEM 1/COMP2010",
     "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
-    "UNI 2025/SEM 1/COMP2250/Network Fundamentals - (RECOVERED).md",
     "UNI 2025/SEM 1/COMP2250/Attachments/Data Communications w01a - Welcome and Unit Logistics.pdf",
     "UNI 2025/SEM 1/COMP2250/Attachments/Data Communications w01c - Local Area Networks.pdf",
     "UNI 2025/SEM 1/COMP2250/Attachments/Data Communications w01b - Introduction.pdf",
     "UNI 2025/SEM 1/COMP2250/Attachments",
     "UNI 2025/SEM 1/BUSA3430/Homepage.md",
     "Attachments/Data Communications w01a - Welcome and Unit Logistics.pdf.md",
-    "Attachments",
     "conflict-files-obsidian-git.md",
     "Distilled Notes/Isaac Asimov's Laws of Robotics.md",
     "Distilled Notes/The Turing Test.md",

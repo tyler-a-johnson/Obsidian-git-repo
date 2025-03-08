@@ -30,16 +30,16 @@ kanban-plugin: basic
 
 - [ ] Weekly Submissions (Beggining of SGTA) #COMP2010
 - [x] Weekly SGTAs (20%) #COMP2250 #hurdle
-- [ ] Weekly Quiz (To open up next weeks prac) #COMP2250
-- [ ] Weekly Minute Paper #COMP2250
+- [x] Weekly Quiz (For Review) #COMP2250
+- [x] Weekly Minute Paper #COMP2250
 - [x] SGTA Tasks (15%) 9AM Before the lecture MONAY (FUCKING WHY) #COMP2400
 
 
 ## LECTURES
 
 - [ ] Lecture Notes #COMP2010
-- [ ] Lecture Notes #BUSA3430
-- [ ] Lecture Notes #COMP2250
+- [x] Lecture Notes #BUSA3430
+- [x] Lecture Notes #COMP2250
 - [ ] Lecture Notes #COMP2400
 
 

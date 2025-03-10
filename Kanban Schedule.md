@@ -19,8 +19,8 @@ kanban-plugin: basic
 
 ## PRIORITY
 
-- [ ] AI Case Study (35%) #BUSA3430 @{13-04-2025}
 - [ ] Test 1 - Week 4 (20% total) #BUSA3430 @{17-03-2025}
+- [ ] AI Case Study (35%) #BUSA3430 @{13-04-2025}
 - [ ] Assignment 1 (15%) #COMP2010 @{06-04-2025}
 - [ ] Assignment 1 (20%) #COMP2250 @{13-04-2025}
 - [ ] Assignment 1 (25%) #COMP2400 @{28-03-2025}
@@ -29,9 +29,9 @@ kanban-plugin: basic
 ## WEEKLY TASK
 
 - [ ] Weekly Submissions (Beggining of SGTA) #COMP2010
-- [x] Weekly SGTAs (20%) #COMP2250 #hurdle
-- [x] Weekly Quiz (For Review) #COMP2250
-- [x] Weekly Minute Paper #COMP2250
+- [ ] Weekly SGTAs (20%) #COMP2250 #hurdle
+- [ ] Weekly Quiz (For Review) #COMP2250
+- [ ] Weekly Minute Paper #COMP2250
 - [x] SGTA Tasks (15%) 9AM Before the lecture MONAY (FUCKING WHY) #COMP2400
 
 

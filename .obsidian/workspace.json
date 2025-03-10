@@ -15,7 +15,7 @@
               "state": {
                 "file": "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 489.5,
+    "collapsed": true
   },
   "right": {
     "id": "2bcb13fadf910017",
@@ -168,14 +169,42 @@
               "icon": "lucide-trello",
               "title": "Kanban Schedule"
             }
+          },
+          {
+            "id": "3e76d74dd1479e79",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4157d21c832ffc23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Week 3 - SGTA Task"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
-    "collapsed": true
+    "width": 1070.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,14 +227,15 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "73cddb0c61348ea0",
+  "active": "7a1f8de4d0a2b5ea",
   "lastOpenFiles": [
-    "UNI 2025/SEM 1/COMP2400/Week 2 - Algorithmic Bias.md",
     "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
-    "Kanban Schedule.md",
+    "UNI 2025/SEM 1/COMP2400/Attachments/Week 3 - SGTA Task.pdf",
     "UNI 2025/SEM 1/COMP2400/Attachments/COMP2400 COMP6400_W3_SGTA Task.pdf",
-    "UNI 2025/SEM 1/COMP2400/Attachments/s11229-020-02696-y.pdf",
     "UNI 2025/SEM 1/COMP2400/Attachments/Philosophy Compass - 2021 - Fazelpour - Algorithmic bias Senses sources solutions.pdf",
+    "UNI 2025/SEM 1/COMP2400/Attachments/s11229-020-02696-y.pdf",
+    "UNI 2025/SEM 1/COMP2400/Week 2 - Algorithmic Bias.md",
+    "Kanban Schedule.md",
     "UNI 2025/SEM 1/COMP2400/Attachments/W3_AI and Epistemic Injustice_Lecture_Fabry.pdf",
     "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
     "UNI 2025/SEM 1/COMP2400/Attachments/Pasted image 20250308222235.png",
@@ -214,7 +244,6 @@
     "UNI 2025/SEM 1/COMP2400/Attachments/Tutorial Tasks Week 2 - COMP2400-6400.pdf",
     "UNI 2025/SEM 1/COMP2400/Attachments/COMP2400-6400-Week1.pdf",
     "UNI 2025/SEM 1/COMP2400/Attachments",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/BUSA3430-6430 - S1 2025 - week 2 - Lecture.pdf",
     "Movie&TV Recs.md",
     "UNI 2025/SEM 1/Homepage.md",
     "UNI 2025/SEM 1/BUSA3430/Week 2.md",

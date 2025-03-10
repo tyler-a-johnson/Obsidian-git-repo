@@ -11,15 +11,12 @@
             "id": "73cddb0c61348ea0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "UNI 2025/SEM 1/COMP2010/Week 3/week3_workshop_questions.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Week 3 - SGTA Task"
+              "icon": "lucide-file-text",
+              "title": "week3_workshop_questions"
             }
           }
         ]
@@ -229,8 +226,8 @@
   },
   "active": "73cddb0c61348ea0",
   "lastOpenFiles": [
-    "UNI 2025/SEM 1/COMP2400/Week 2 - Algorithmic Bias.md",
     "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
+    "UNI 2025/SEM 1/COMP2400/Week 2 - Algorithmic Bias.md",
     "Kanban Schedule.md",
     "UNI 2025/SEM 1/COMP2400/Attachments/COMP2400 COMP6400_W3_SGTA Task.pdf",
     "UNI 2025/SEM 1/COMP2400/Attachments/s11229-020-02696-y.pdf",

@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 252.5
   },
   "right": {
     "id": "2bcb13fadf910017",
@@ -167,6 +167,35 @@
               },
               "icon": "lucide-trello",
               "title": "Kanban Schedule"
+            }
+          },
+          {
+            "id": "3ada78c760615e51",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6be9d540170f6d3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Week 3 - SGTA Task"
             }
           }
         ],

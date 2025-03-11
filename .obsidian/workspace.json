@@ -5,6 +5,7 @@
     "children": [
       {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "1ee38263699ec286",
         "type": "tabs",
         "children": [
@@ -17,12 +18,23 @@
           {
             "id": "38e88cf07720c439",
 >>>>>>> Stashed changes
+=======
+        "id": "ac1b1ad0f2ab669b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e88cf07720c439",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
+=======
+                "file": "UNI 2025/SEM 1/COMP2010/Week 2/Untitled.md",
+>>>>>>> Stashed changes
 =======
                 "file": "UNI 2025/SEM 1/COMP2010/Week 2/Untitled.md",
 >>>>>>> Stashed changes
@@ -32,8 +44,11 @@
               },
               "icon": "lucide-file",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "title": "Week 3 - SGTA Task"
 =======
+=======
+>>>>>>> Stashed changes
               "title": "Untitled"
             }
           }
@@ -53,6 +68,9 @@
               },
               "icon": "lucide-file-text",
               "title": "week2_workshop_questions"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             }
           }
@@ -124,7 +142,12 @@
     ],
     "direction": "horizontal",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "width": 252.5
+=======
+    "width": 300,
+    "collapsed": true
+>>>>>>> Stashed changes
 =======
     "width": 300,
     "collapsed": true
@@ -267,6 +290,7 @@
     }
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "active": "73cddb0c61348ea0",
   "lastOpenFiles": [
     "UNI 2025/SEM 1/COMP2400/Week 2 - Algorithmic Bias.md",
@@ -299,6 +323,28 @@
     "UNI 2025/SEM 1/COMP2250/Attachments/Pasted image 20250306223628.png",
     "UNI 2025/SEM 1/COMP2250/Network Fundamentals - (RECOVERED).md",
     "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
+=======
+  "active": "38e88cf07720c439",
+  "lastOpenFiles": [
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/bin/App.class",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/bin",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/src/App.java",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/src",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/README.md",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/lib",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Week 2 SGTA/Main.java",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Week 2 SGTA/bin/App.class",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Week 2 SGTA/bin",
+    "UNI 2025/SEM 1/COMP2010/Week 2/week2_workshop_questions.pdf",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Untitled.md",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Week 2 SGTA/src/App.java",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Week 2 SGTA/README.md",
+    "UNI 2025/SEM 1/Homepage.md",
+    "UNI 2025/SEM 1/COMP2250/Network Fundamentals - (RECOVERED).md",
+    "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
+    "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
+>>>>>>> Stashed changes
 =======
   "active": "38e88cf07720c439",
   "lastOpenFiles": [

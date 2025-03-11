@@ -4,22 +4,56 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "1ee38263699ec286",
         "type": "tabs",
         "children": [
           {
             "id": "73cddb0c61348ea0",
+=======
+        "id": "ac1b1ad0f2ab669b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e88cf07720c439",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
+=======
+                "file": "UNI 2025/SEM 1/COMP2010/Week 2/Untitled.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Week 3 - SGTA Task"
+=======
+              "title": "Untitled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "afa7f17d28d4cc4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88992a1fa2e90c03",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2025/SEM 1/COMP2010/Week 2/week2_workshop_questions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "week2_workshop_questions"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -76,7 +110,7 @@
             }
           },
           {
-            "id": "f48f8c8a287f019e",
+            "id": "5baad6d12498788e",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -89,7 +123,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< Updated upstream
     "width": 252.5
+=======
+    "width": 300,
+    "collapsed": true
+>>>>>>> Stashed changes
   },
   "right": {
     "id": "2bcb13fadf910017",
@@ -212,21 +251,22 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": true,
+      "workspaces:Manage workspace layouts": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": true,
+      "mermaid-tools:Open Mermaid Toolbar": true,
+      "obsidian42-brat:BRAT": true,
       "jupyter:Start Jupyter Server": false,
       "jupyter:Create Jupyter Notebook": false
     }
   },
+<<<<<<< Updated upstream
   "active": "73cddb0c61348ea0",
   "lastOpenFiles": [
     "UNI 2025/SEM 1/COMP2400/Week 2 - Algorithmic Bias.md",
@@ -259,6 +299,28 @@
     "UNI 2025/SEM 1/COMP2250/Attachments/Pasted image 20250306223628.png",
     "UNI 2025/SEM 1/COMP2250/Network Fundamentals - (RECOVERED).md",
     "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
+=======
+  "active": "38e88cf07720c439",
+  "lastOpenFiles": [
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/bin/App.class",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/bin",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/src/App.java",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/src",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/README.md",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA/lib",
+    "UNI 2025/SEM 1/COMP2010/Week 2/SGTA",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Week 2 SGTA/Main.java",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Week 2 SGTA/bin/App.class",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Week 2 SGTA/bin",
+    "UNI 2025/SEM 1/COMP2010/Week 2/week2_workshop_questions.pdf",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Untitled.md",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Week 2 SGTA/src/App.java",
+    "UNI 2025/SEM 1/COMP2010/Week 2/Week 2 SGTA/README.md",
+    "UNI 2025/SEM 1/Homepage.md",
+    "UNI 2025/SEM 1/COMP2250/Network Fundamentals - (RECOVERED).md",
+    "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
+    "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
+>>>>>>> Stashed changes
     "UNI 2025/SEM 1/BUSA3430/Homepage.md",
     "Attachments/Data Communications w01a - Welcome and Unit Logistics.pdf.md",
     "conflict-files-obsidian-git.md",

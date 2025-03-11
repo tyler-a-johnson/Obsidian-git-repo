@@ -10,7 +10,6 @@
   "obsidian-admonition",
   "tag-wrangler",
   "obsidian-checklist-plugin",
-  "surfing",
   "omnisearch",
   "obsidian-style-settings",
   "obsidian-canvas-conversation",
@@ -31,5 +30,6 @@
   "obsidian-enhancing-export",
   "waypoint",
   "obsidian42-brat",
-  "jupyter"
+  "jupyter",
+  "surfing"
 ]

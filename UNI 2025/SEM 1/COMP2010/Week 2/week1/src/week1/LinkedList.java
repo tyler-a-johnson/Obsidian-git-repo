@@ -57,4 +57,12 @@ public class LinkedList {
         }
         return ret;
     }
+
+    void concatIterative(LinkedList other){
+        LinkedList curr = this;
+        while(curr.next != null){
+            curr = curr.next;
+        }
+        curr.next = other;
+    }
 }

@@ -1,7 +1,11 @@
 {
   "accentColor": "#8be1fe",
   "theme": "obsidian",
+<<<<<<< Updated upstream
   "baseFontSize": 17,
+=======
+  "baseFontSize": 19,
+>>>>>>> Stashed changes
   "cssTheme": "Blue Topaz",
   "textFontFamily": "Roboto",
   "interfaceFontFamily": "Roboto",

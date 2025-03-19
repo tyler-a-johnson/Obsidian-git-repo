@@ -6,40 +6,40 @@ kanban-plugin: basic
 
 ## LONG WAY OFF
 
-- [ ] Test 2 - Week 7 #BUSA3430 @{07-04-2025}
-- [ ] Test 3 - Week 11 #BUSA3430
-- [ ] Group Project (45%) #BUSA3430 @{01-06-2025}
-- [ ] Assignment 2 (20%) Week 11 #COMP2010
-- [ ] Mid Sem Test (10%) Week 10 (In lecture) #COMP2010
-- [ ] Assignment 2 (20%) #COMP2250 @{01-06-2025}
-- [ ] Module Exams (40%) Week 8 + Final Exam #COMP2250
 - [ ] Assignment 2 (30%) #COMP2400 @{09-05-2025}
+- [ ] Group Project (45%) #BUSA3430 @{01-06-2025}
+- [ ] Module Exams (40%) Week 8 + Final Exam #COMP2250
+- [ ] Assignment 2 (20%) #COMP2250 @{01-06-2025}
 - [ ] Assignment 3 (30%) #COMP2400 @{06-06-2025}
+- [ ] Mid Sem Test (10%) Week 10 (In lecture) #COMP2010
+- [ ] Assignment 2 (20%) Week 11 #COMP2010
+- [ ] Test 3 - Week 11 #BUSA3430
 
 
 ## PRIORITY
 
 - [ ] Test 1 - Week 4 (20% total) #BUSA3430 @{17-03-2025}
-- [ ] AI Case Study (35%) #BUSA3430 @{13-04-2025}
-- [ ] Assignment 1 (15%) #COMP2010 @{06-04-2025}
-- [ ] Assignment 1 (20%) #COMP2250 @{13-04-2025}
 - [ ] Assignment 1 (25%) #COMP2400 @{28-03-2025}
+- [ ] Assignment 1 (15%) #COMP2010 @{06-04-2025}
+- [ ] Test 2 - Week 7 #BUSA3430 @{07-04-2025}
+- [ ] AI Case Study (35%) #BUSA3430 @{13-04-2025}
+- [ ] Assignment 1 (20%) #COMP2250 @{13-04-2025}
 
 
 ## WEEKLY TASK
 
 - [ ] Weekly Submissions (Beggining of SGTA) #COMP2010
 - [ ] Weekly SGTAs (20%) #COMP2250 #hurdle
-- [ ] Weekly Quiz (For Review) #COMP2250
-- [ ] Weekly Minute Paper #COMP2250
-- [x] SGTA Tasks (15%) 9AM Before the lecture MONAY (FUCKING WHY) #COMP2400
+- [ ] Weekly Quiz (For Review) (Optional) #COMP2250
+- [ ] Weekly Minute Paper (Optional) #COMP2250
+- [ ] SGTA Tasks (15%) 9AM Before the lecture MONAY (FUCKING WHY) #COMP2400
 
 
 ## LECTURES
 
 - [ ] Lecture Notes #COMP2010
-- [x] Lecture Notes #BUSA3430
-- [x] Lecture Notes #COMP2250
+- [ ] Lecture Notes #BUSA3430
+- [ ] Lecture Notes #COMP2250
 - [ ] Lecture Notes #COMP2400
 
 

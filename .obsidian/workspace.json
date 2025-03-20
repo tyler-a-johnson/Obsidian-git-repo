@@ -1,59 +1,22 @@
 {
   "main": {
-    "id": "3400e4f546eedbbc",
+    "id": "2c22853f4aaeb883",
     "type": "split",
     "children": [
       {
-        "id": "1ee38263699ec286",
+        "id": "d93323f2499f8b33",
         "type": "tabs",
-        "dimension": 46.715817694369974,
         "children": [
           {
-<<<<<<< Updated upstream
-            "id": "60efd23e3beea670",
+            "id": "80f9f305761c3a65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "UNI 2025/SEM 1/BUSA3430/Week 4 - AI Enabled Business Models.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Kanban Schedule.md"
               },
-              "icon": "lucide-file",
-              "title": "Week 4 - AI Enabled Business Models"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a655ccc7fb48c616",
-        "type": "tabs",
-        "dimension": 53.284182305630026,
-        "children": [
-          {
-            "id": "cd6ce464b2b4853e",
-=======
-            "id": "2b3b3e50bda4df5a",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "UNI 2025/SEM 1/BUSA3430/Attachments/BUSA3040-6430 - S1 2025 - week 4 - Lecture.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "BUSA3040-6430 - S1 2025 - week 4 - Lecture"
-=======
-                "file": "UNI 2025/SEM 1/BUSA3430/Week 2 - Frameworks and their application.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 2 - Frameworks and their application"
->>>>>>> Stashed changes
+              "icon": "lucide-trello",
+              "title": "Kanban Schedule"
             }
           }
         ]
@@ -62,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9f76a27ed674d740",
+    "id": "0c0003c6f8f73053",
     "type": "split",
     "children": [
       {
-        "id": "974beeae4e32906b",
+        "id": "0a7e0ae5c4e5a852",
         "type": "tabs",
         "children": [
           {
-            "id": "c99db174776054b9",
+            "id": "c1ce35f55a1485a8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,7 +46,7 @@
             }
           },
           {
-            "id": "2aedf08859d0f3f4",
+            "id": "272e487681fcd666",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -100,7 +63,7 @@
             }
           },
           {
-            "id": "c3882068659857ff",
+            "id": "ff22515063fad54f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,7 +73,7 @@
             }
           },
           {
-            "id": "f48f8c8a287f019e",
+            "id": "72d38399d18d5204",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -123,28 +86,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 338.5,
-    "collapsed": true
-=======
-    "width": 273.5
->>>>>>> Stashed changes
+    "width": 300
   },
   "right": {
-    "id": "2bcb13fadf910017",
+    "id": "5ea081c7e0a7b254",
     "type": "split",
     "children": [
       {
-        "id": "fcd46b26507c2269",
+        "id": "17a8b911fc369856",
         "type": "tabs",
         "children": [
           {
-            "id": "ba131f25c5b1da1a",
+            "id": "63eef066d7c3448e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
+                "file": "Kanban Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,25 +112,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 1 - Intro to Business Applications of AI"
+              "title": "Backlinks for Kanban Schedule"
             }
           },
           {
-            "id": "e42ebb49c76abe50",
+            "id": "28a71140e24e1573",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Independent Projects/Game Ideas.md",
+                "file": "Kanban Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Game Ideas"
+              "title": "Outgoing links from Kanban Schedule"
             }
           },
           {
-            "id": "fc5dc701378c5c23",
+            "id": "0851f0f4b42be908",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -187,29 +145,7 @@
             }
           },
           {
-            "id": "c48a5f57c70f9f3e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "7a1f8de4d0a2b5ea",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban Schedule.md"
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban Schedule"
-            }
-          },
-          {
-            "id": "3ada78c760615e51",
+            "id": "60ce3da9212a95ed",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -223,26 +159,35 @@
             }
           },
           {
-            "id": "6be9d540170f6d3b",
+            "id": "a19e7fe8bbe7e7d7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
+                "file": "Kanban Schedule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 3 - SGTA Task"
+              "title": "Outline of Kanban Schedule"
+            }
+          },
+          {
+            "id": "336f2c992d782f32",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -266,79 +211,10 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "60efd23e3beea670",
+  "active": "80f9f305761c3a65",
   "lastOpenFiles": [
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317121125.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317120816.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/BUSA3040-6430 - S1 2025 - week 4 - Lecture.pdf",
-    "UNI 2025/SEM 1/BUSA3430/Week 4 - AI Enabled Business Models.md",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317113646.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317113054.png",
-    "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
-    "UNI 2025/SEM 1/BUSA3430/Week 2 - Impact of AI.md",
-    "UNI 2025/SEM 1/Homepage.md",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/BUSA6430-3430 - S1 2025 - LECTURE week 1.pdf",
-    "UNI 2025/SEM 1/COMP2010/Week 3/Week 3 Workshop.md",
-    "UNI 2025/SEM 1/COMP2010/Week 3/week3_workshop_questions.pdf",
-=======
-  "active": "2b3b3e50bda4df5a",
-  "lastOpenFiles": [
-    "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
-    "UNI 2025/SEM 1/COMP2400/Week 4 SGTA.md",
-    "UNI 2025/SEM 1/COMP2400/Attachments/Epistemic Injustice in GenAI.pdf",
-    "UNI 2025/SEM 1/COMP2400/Attachments/Week 4 SGTA Task.pdf",
-    "UNI 2025/SEM 1/COMP2400/Attachments/COMP2400 COMP6400_W4_SGTA Task.pdf",
-    "UNI 2025/SEM 1/COMP2400/Attachments/31671-Article Text-35735-1-2-20241016.pdf",
-    "UNI 2025/SEM 1/COMP2400/Attachments/Algorithmic profiling as a source of hermeneutical injustice.pdf",
-    "UNI 2025/SEM 1/COMP2400/Attachments/s11098-023-02095-2.pdf",
-    "UNI 2025/SEM 1/BUSA3430/Week 3 - Data and Analytics.md",
-    "UNI 2025/SEM 1/BUSA3430/Week 2 - Frameworks and their application.md",
-    "Kanban Schedule.md",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250316164400.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250316164358.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/BUSA3430-6430 - S1 2025 - week 2 - Lecture.pdf",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/BUSA3040-6430 - S1 2025 - week 3 - Lecture - Final.pdf",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250316160346.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250316154208.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250315000756.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250315000724.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250315000709.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/BUSA6430-3430 - S1 2025 - LECTURE week 1.pdf",
-    "UNI 2025/SEM 1/COMP2010/Week 3/week3_workshop_questions.pdf",
-    "UNI 2025/SEM 1/Homepage.md",
->>>>>>> Stashed changes
-    "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
-    "UNI 2025/SEM 1/COMP2400/Week 2 - Algorithmic Bias.md",
-    "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
-    "UNI 2025/SEM 1/COMP2400/Attachments/Pasted image 20250308222235.png",
-<<<<<<< Updated upstream
-    "UNI 2025/SEM 1/COMP2400/Attachments/W2_Algorithmic Bias_Lecture_Fabry.pdf",
-    "UNI 2025/SEM 1/COMP2400/Attachments/Attachments",
-    "UNI 2025/SEM 1/COMP2400/Attachments/Tutorial Tasks Week 2 - COMP2400-6400.pdf",
-=======
->>>>>>> Stashed changes
-    "Movie&TV Recs.md",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250307232233.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250307230633.png",
-    "UNI 2025/SEM 1/COMP2250/Week 3 - OSI Layer 3.md",
-<<<<<<< Updated upstream
-    "UNI 2025/SEM 1/COMP2250/Attachments/Pasted image 20250307001949.png",
-    "UNI 2025/SEM 1/COMP2250/Attachments/Pasted image 20250307001920.png",
-=======
->>>>>>> Stashed changes
-    "UNI 2025/SEM 1/COMP2250/Network Fundamentals - (RECOVERED).md",
-    "UNI 2025/SEM 1/BUSA3430/Homepage.md",
-    "Attachments/Data Communications w01a - Welcome and Unit Logistics.pdf.md",
-    "conflict-files-obsidian-git.md",
-    "Distilled Notes/Isaac Asimov's Laws of Robotics.md",
-    "Distilled Notes/The Turing Test.md",
-    "Warframe.canvas",
-    "UNI 2025/Untitled.md",
-    "Untitled.md",
-    "Independent Projects/Game Ideas.md",
-    "Distilled Notes/Untitled 1.md",
     "Study Plan (Macquarie University).canvas",
-    "Independent Projects/DND/The Story So Far.md"
+    "UNI 2025/SEM 1/BUSA3430/Week 2 - Frameworks and their application.md",
+    "Kanban Schedule.md"
   ]
 }

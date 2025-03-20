@@ -18,7 +18,7 @@ kanban-plugin: basic
 
 ## PRIORITY
 
-- [ ] Test 1 - Week 4 (20% total) #BUSA3430 @{17-03-2025}
+- [x] Test 1 - Week 4 (20% total) #BUSA3430 @{17-03-2025}
 - [ ] Assignment 1 (25%) #COMP2400 @{28-03-2025}
 - [ ] Assignment 1 (15%) #COMP2010 @{06-04-2025}
 - [ ] Test 2 - Week 7 #BUSA3430 @{07-04-2025}

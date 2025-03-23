@@ -18,7 +18,6 @@ kanban-plugin: basic
 
 ## PRIORITY
 
-- [x] Test 1 - Week 4 (20% total) #BUSA3430 @{17-03-2025}
 - [ ] Assignment 1 (25%) #COMP2400 @{28-03-2025}
 - [ ] Assignment 1 (15%) #COMP2010 @{06-04-2025}
 - [ ] Test 2 - Week 7 #BUSA3430 @{07-04-2025}
@@ -28,11 +27,11 @@ kanban-plugin: basic
 
 ## WEEKLY TASK
 
-- [ ] Weekly Submissions (Beggining of SGTA) #COMP2010
-- [ ] Weekly SGTAs (20%) #COMP2250 #hurdle
+- [x] Weekly Submissions (Beggining of SGTA) #COMP2010
+- [x] Weekly SGTAs (20%) #COMP2250 #hurdle
 - [ ] Weekly Quiz (For Review) (Optional) #COMP2250
 - [ ] Weekly Minute Paper (Optional) #COMP2250
-- [ ] SGTA Tasks (15%) 9AM Before the lecture MONAY (FUCKING WHY) #COMP2400
+- [x] SGTA Tasks (15%) 9AM Before the lecture MONAY (FUCKING WHY) #COMP2400
 
 
 ## LECTURES
@@ -41,6 +40,11 @@ kanban-plugin: basic
 - [ ] Lecture Notes #BUSA3430
 - [ ] Lecture Notes #COMP2250
 - [ ] Lecture Notes #COMP2400
+
+
+## DONE
+
+- [x] Test 1 - Week 4 (20% total) #BUSA3430 @{17-03-2025}
 
 
 ***

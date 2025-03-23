@@ -11,12 +11,24 @@
             "id": "80f9f305761c3a65",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Kanban Schedule.md"
+                "file": "UNI 2025/SEM 1/COMP2400/Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach.pdf"
               },
-              "icon": "lucide-trello",
-              "title": "Kanban Schedule"
+              "icon": "lucide-file-text",
+              "title": "Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach"
+            }
+          },
+          {
+            "id": "ce8b9e892c50719d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2025/SEM 1/COMP2400/Assignment 1 Specifications.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Assignment 1 Specifications"
             }
           }
         ]
@@ -86,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5ea081c7e0a7b254",
@@ -213,8 +226,10 @@
   },
   "active": "80f9f305761c3a65",
   "lastOpenFiles": [
+    "UNI 2025/SEM 1/COMP2400/Assignment 1 Specifications.pdf",
+    "UNI 2025/SEM 1/COMP2400/Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach.pdf",
+    "Kanban Schedule.md",
     "Study Plan (Macquarie University).canvas",
-    "UNI 2025/SEM 1/BUSA3430/Week 2 - Frameworks and their application.md",
-    "Kanban Schedule.md"
+    "UNI 2025/SEM 1/BUSA3430/Week 2 - Frameworks and their application.md"
   ]
 }

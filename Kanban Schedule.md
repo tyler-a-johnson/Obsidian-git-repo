@@ -21,10 +21,13 @@ kanban-plugin: basic
 - [ ] Assignment 1 (25%) #COMP2400 @{28-03-2025}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - [ ] Assignment 1 (15%) #COMP2010 @{06-04-2025}
 - [ ] Test 2 - Week 7 #BUSA3430 @{07-04-2025}
 - [ ] AI Case Study (35%) #BUSA3430 @{13-04-2025}
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 - [ ] AI Case Study (35%) #BUSA3430 @{13-04-2025}
@@ -38,10 +41,13 @@ kanban-plugin: basic
 - [x] Weekly Submissions (Beggining of SGTA) #COMP2010
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - [x] Weekly SGTAs (20%) #COMP2250 #hurdle
 - [ ] Weekly Quiz (For Review) (Optional) #COMP2250
 - [ ] Weekly Minute Paper (Optional) #COMP2250
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 - [ ] Weekly SGTAs (20%) #COMP2250 #hurdle
@@ -61,8 +67,14 @@ kanban-plugin: basic
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## DONE
 
+=======
+## COMPLETE
+
+**Complete**
+>>>>>>> Stashed changes
 =======
 ## COMPLETE
 

@@ -5,6 +5,7 @@
     "children": [
       {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "195d8cdb8d422fe1",
         "type": "tabs",
         "children": [
@@ -17,10 +18,18 @@
           {
             "id": "f5ac47e86b5ca292",
 >>>>>>> Stashed changes
+=======
+        "id": "5950b2dbdf2a1ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ac47e86b5ca292",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 "file": "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
                 "mode": "source",
@@ -55,6 +64,12 @@
               },
               "icon": "globe-2",
               "title": "Machine Bias — ProPublica"
+=======
+                "file": "Kanban Schedule.md"
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban Schedule"
+>>>>>>> Stashed changes
 =======
                 "file": "Kanban Schedule.md"
               },
@@ -131,7 +146,11 @@
     ],
     "direction": "horizontal",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "width": 300
+=======
+    "width": 338.5
+>>>>>>> Stashed changes
 =======
     "width": 338.5
 >>>>>>> Stashed changes
@@ -260,6 +279,7 @@
     }
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "active": "9cb8af867868434b",
   "lastOpenFiles": [
     "UNI 2025/SEM 1/COMP2400/Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach.pdf",
@@ -269,6 +289,10 @@
 =======
   "active": "f5ac47e86b5ca292",
   "lastOpenFiles": [
+=======
+  "active": "f5ac47e86b5ca292",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src/week4/QuickSort.java",
     "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src/week4/MergeSort.java",
     "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src/week4",

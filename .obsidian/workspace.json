@@ -23,32 +23,19 @@
             }
           },
           {
-            "id": "80667e341e2ff9c5",
+            "id": "ab4924a033bf2e26",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "UNI 2025/SEM 1/COMP2400/Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach.pdf"
+                "file": "UNI 2025/SEM 1/COMP2400/Assignment 1 Specifications.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach"
-            }
-          },
-          {
-            "id": "0c58d41c0e782745",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
-                "title": "Machine Bias — ProPublica",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Machine Bias — ProPublica"
+              "title": "Assignment 1 Specifications"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,11 +227,11 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "9cb8af867868434b",
+  "active": "ab4924a033bf2e26",
   "lastOpenFiles": [
-    "UNI 2025/SEM 1/COMP2400/Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach.pdf",
-    "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
     "UNI 2025/SEM 1/COMP2400/Assignment 1 Specifications.pdf",
+    "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
+    "UNI 2025/SEM 1/COMP2400/Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach.pdf",
     "Kanban Schedule.md",
     "Study Plan (Macquarie University).canvas",
     "UNI 2025/SEM 1/BUSA3430/Week 2 - Frameworks and their application.md"

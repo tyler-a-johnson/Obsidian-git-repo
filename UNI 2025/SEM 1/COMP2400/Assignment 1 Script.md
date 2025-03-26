@@ -9,7 +9,7 @@ Relevant Links:
 Introduction: Relational Thinking in Data Science
 
 AI systems are mistakenly perceived as impartial tools that are free of bias and only improve productivity and judgement. But as studies such as "Algorithmic Injustice: A Relational Ethics Approach" by Birhane demonstrate, these systems have the potential to reinforce social, cultural, and historical inequalities.
-In this presentation, I will contrast the dominant rational-individualistic view with the relational view. I will explain why centering the disproportionately impacted is essential and emphasise the importance of understanding over mere prediction. I will also outline actionable mitigation strategies, as described by Birhane, to promote a more ethical approach to AI development. By shifting our approach to data science, we can create AI systems that are more transparent, and better suited to minimise harm to marginalised communities.
+In this presentation, I will contrast the dominant rational-individualistic view with the relational view, and outline each perspectives strengths and draw-backs. I will explain why centering the disproportionately impacted is essential and emphasise the importance of understanding over mere prediction. I will also outline actionable mitigation strategies, as described by Birhane, to promote a more ethical approach to AI development. By shifting our approach to data science, we can create AI systems that are more transparent, and better suited to minimise harm to marginalised communities.
 
 ---
 
@@ -33,13 +33,13 @@ Slide 3 – Centering the Disproportionately Impacted
 
 Of Birhane's four key tenets, two stand out as exemplifying the contrast between the rational and relational worldview. These tenets also address methods through which data scientists and AI developers can narrow the divide between the traditional western rational view, and the holistic relational view.
 
-Centering the impacted means recognizing that marginalized communities—who face the greatest risks from algorithmic systems—possess an ‘epistemic privilege’ in identifying harm. Their voices should guide the development process to ensure that AI does not reinforce existing inequalities but instead serves as a tool for social good. I agree with Birhane’s assessment as real-world AI failures—such as facial recognition misidentifying Black individuals—demonstrate how systems built without input from affected groups reinforce harm. Centering the impacted allows for more ethical and inclusive AI development.
+Centering the impacted means recognizing that marginalized communities—who face the greatest risks from algorithmic systems—possess an ‘epistemic privilege’ in identifying harm. Their voices should guide the development process to ensure that AI does not reinforce existing inequalities but instead serves as a tool for social good. I agree with Birhane’s assessment as real-world AI failures—such as facial recognition misidentifying dark-skinned individuals—demonstrate how systems built without input from affected groups reinforce harm. Centering the impacted allows for more ethical and inclusive AI development.
 
 ---
 
 Slide 4 - Prioritizing Understanding
 
-Second, prioritizing understanding over prediction means shifting away from a narrow focus on improving accuracy or reducing statistical bias. Instead, we must ask deeper questions about why certain patterns appear in data and how they reflect broader societal structures. For example, instead of merely reducing racial bias in hiring algorithms, we should examine why racial disparities in employment exist in the first place and address those root causes. I agree with Birhane’s argument as prioritizing prediction without understanding the root causes of bias leads to superficial fixes. This tenet requires both the rational and relational approach be utilised to identify and address systemic biases.
+Second, prioritizing understanding over prediction means shifting away from a narrow focus on improving accuracy or reducing statistical bias. Instead, we must ask deeper questions about why certain patterns appear in data and how they reflect broader societal structures. For example, instead of merely reducing bias in hiring algorithms, we should examine why disparities in employment exist in the first place and address those root causes. I agree with Birhane’s argument as prioritizing prediction without understanding the root causes of bias leads to superficial fixes. This tenet requires both the rational and relational approach be utilised to identify and address systemic biases.
 
 Together, these tenets promote a holistic and ethical approach to AI development that moves beyond surface-level fixes.
 
@@ -47,11 +47,11 @@ Together, these tenets promote a holistic and ethical approach to AI development
 
 Slide 5 – Mitigation Strategies & Implementation Challenges
 
-Algorithmic injustices can be mitigated through relational approaches that involve affected communities, contextual analysis, and continuous evaluation. Community-driven design ensures marginalized groups participate in AI development, while qualitative research, such as ethnographic studies, helps uncover root causes of bias. Iterative impact assessments refine AI models based on lived experiences, preventing static fixes.
+Algorithmic injustices can be mitigated through relational approaches that involve affected communities, contextual analysis, and continuous evaluation. Community-driven design ensures marginalised groups participate in AI development, while qualitative research, such as ethnographic studies, helps uncover root causes of bias. Iterative impact assessments refine AI models based on lived experiences, preventing static fixes.
 
 These strategies require interdisciplinary collaboration among social scientists, policymakers, AI developers, and marginalised communities. Teams should establish participatory research initiatives where affected communities guide ethical AI standards. Companies and institutions must treat impact assessments as ongoing responsibilities, not one-time audits.
 
-This implementation faces obstacles. Universities often emphasize technical skills over ethical considerations, leaving future developers unprepared for relational AI. Companies may resist due to cost and efficiency concerns, while non-marginalised end users’ lack of awareness reduces public pressure for accountability. Overcoming these barriers requires universities to embed relational ethics in curricula, companies to commit to responsible AI, and greater public advocacy for ethical AI systems.
+This implementation faces obstacles. Companies may resist due to cost and efficiency concerns, as they rush to push products to market. While non-marginalised end users’ lack of awareness reduces public pressure for accountability. Overcoming these barriers requires universities to embed relational ethics in their teachings, companies to commit to responsible AI, and greater public advocacy for ethical AI systems.
 
 ---
 

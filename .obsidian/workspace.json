@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "Assignment 1 Script"
             }
+          },
+          {
+            "id": "3002ffb68dc63d3d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2025/SEM 1/COMP2400/birhane 2021.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "birhane 2021"
+            }
           }
         ]
       }
@@ -89,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4f8a7234dc793e09",
@@ -218,6 +229,11 @@
   "active": "9f9b33656b84d9fe",
   "lastOpenFiles": [
     "UNI 2025/SEM 1/COMP2400/Assignment 1 Specifications.pdf",
+    "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
+    "UNI 2025/SEM 1/COMP2400/birhane 2021.pdf",
+    "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
+    "UNI 2022/MTRN2060/Digital.md",
+    "UNI 2022/MTRN2060/Strain Gauges and Op-Amps.md",
     "UNI 2025/SEM 1/COMP2400/pptA9D.tmp",
     "Kanban Schedule.md",
     "UNI 2025/SEM 1/BUSA3430/BUSA3430 - S1 2025 - Assignment 1 - Case study- MQBS template.pdf"

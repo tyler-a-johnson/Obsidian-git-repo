@@ -1,45 +1,18 @@
 {
   "main": {
-    "id": "2c22853f4aaeb883",
+    "id": "597ad863f9d65614",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "id": "195d8cdb8d422fe1",
+        "id": "d1a3e7dca6bc8f60",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb8af867868434b",
-=======
-        "id": "5950b2dbdf2a1ac9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5ac47e86b5ca292",
->>>>>>> Stashed changes
-=======
-        "id": "5950b2dbdf2a1ac9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5ac47e86b5ca292",
->>>>>>> Stashed changes
-=======
-        "id": "5950b2dbdf2a1ac9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5ac47e86b5ca292",
->>>>>>> Stashed changes
+            "id": "9f9b33656b84d9fe",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
                 "file": "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
                 "mode": "source",
                 "source": false,
@@ -48,50 +21,6 @@
               "icon": "lucide-file",
               "title": "Assignment 1 Script"
             }
-          },
-          {
-            "id": "80667e341e2ff9c5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2025/SEM 1/COMP2400/Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach"
-            }
-          },
-          {
-            "id": "0c58d41c0e782745",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
-                "title": "Machine Bias — ProPublica",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Machine Bias — ProPublica"
-=======
-                "file": "Kanban Schedule.md"
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban Schedule"
->>>>>>> Stashed changes
-=======
-                "file": "Kanban Schedule.md"
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban Schedule"
->>>>>>> Stashed changes
-=======
-                "file": "Kanban Schedule.md"
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban Schedule"
->>>>>>> Stashed changes
-            }
           }
         ]
       }
@@ -99,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0c0003c6f8f73053",
+    "id": "9e786fc68fe0cd1a",
     "type": "split",
     "children": [
       {
-        "id": "0a7e0ae5c4e5a852",
+        "id": "18228869feb84a5e",
         "type": "tabs",
         "children": [
           {
-            "id": "c1ce35f55a1485a8",
+            "id": "b12d5b7c542e6930",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -120,7 +49,7 @@
             }
           },
           {
-            "id": "272e487681fcd666",
+            "id": "e17bb0167c0c130b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -137,7 +66,7 @@
             }
           },
           {
-            "id": "ff22515063fad54f",
+            "id": "c8b1395a680ec80f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -147,7 +76,7 @@
             }
           },
           {
-            "id": "72d38399d18d5204",
+            "id": "3e1e2c3c2b401c90",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -160,30 +89,19 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "width": 300
-=======
-    "width": 338.5
->>>>>>> Stashed changes
-=======
-    "width": 338.5
->>>>>>> Stashed changes
-=======
-    "width": 338.5
->>>>>>> Stashed changes
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "5ea081c7e0a7b254",
+    "id": "4f8a7234dc793e09",
     "type": "split",
     "children": [
       {
-        "id": "17a8b911fc369856",
+        "id": "400ff5e2d29a4373",
         "type": "tabs",
         "children": [
           {
-            "id": "63eef066d7c3448e",
+            "id": "58d7603b2aa1ddac",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -202,7 +120,7 @@
             }
           },
           {
-            "id": "28a71140e24e1573",
+            "id": "5c16e31d63be9e83",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -216,7 +134,7 @@
             }
           },
           {
-            "id": "0851f0f4b42be908",
+            "id": "6bc3c2dd4a451f88",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -231,7 +149,7 @@
             }
           },
           {
-            "id": "60ce3da9212a95ed",
+            "id": "0c343d7b79a91201",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -245,7 +163,7 @@
             }
           },
           {
-            "id": "a19e7fe8bbe7e7d7",
+            "id": "fd2fbe7081c5590e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -260,7 +178,7 @@
             }
           },
           {
-            "id": "336f2c992d782f32",
+            "id": "4fe16d3416d38305",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -297,73 +215,11 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "active": "9cb8af867868434b",
+  "active": "9f9b33656b84d9fe",
   "lastOpenFiles": [
-    "UNI 2025/SEM 1/COMP2400/Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach.pdf",
-    "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
     "UNI 2025/SEM 1/COMP2400/Assignment 1 Specifications.pdf",
+    "UNI 2025/SEM 1/COMP2400/pptA9D.tmp",
     "Kanban Schedule.md",
-=======
-  "active": "f5ac47e86b5ca292",
-  "lastOpenFiles": [
-=======
-  "active": "f5ac47e86b5ca292",
-  "lastOpenFiles": [
->>>>>>> Stashed changes
-=======
-  "active": "f5ac47e86b5ca292",
-  "lastOpenFiles": [
->>>>>>> Stashed changes
-    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src/week4/QuickSort.java",
-    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src/week4/MergeSort.java",
-    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src/week4",
-    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src",
-    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/lib/hamcrest-core-1.3.jar",
-    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/lib/junit-4.13.2.jar",
-    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/lib",
-    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code",
-    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code.zip",
-    "UNI 2025/SEM 1/COMP2010/Week 4",
-    "UNI 2025/SEM 1/COMP2010/New folder",
-    "UNI 2025/SEM 1/COMP2400/Week 5 - SGTA.md",
-    "UNI 2024/SEM 1/ELEC3024/Notes on Root Locus Plot.md",
-    "UNI 2025/SEM 1/BUSA3430/Week 4 - AI Enabled Business Models.md",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317121125.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317120816.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317113646.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317113054.png",
-    "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
-    "UNI 2025/SEM 1/BUSA3430/Week 2 - Impact of AI.md",
-    "UNI 2025/SEM 1/Homepage.md",
-    "UNI 2025/SEM 1/COMP2010/Week 3/Week 3 Workshop.md",
-    "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
-    "UNI 2025/SEM 1/COMP2400/Week 2 - Algorithmic Bias.md",
-    "Kanban Schedule.md",
-    "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
-    "UNI 2025/SEM 1/COMP2400/Attachments/Pasted image 20250308222235.png",
-    "Movie&TV Recs.md",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250307232233.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250307230633.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250307230127.png",
-    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250307225230.png",
-    "UNI 2025/SEM 1/COMP2250/Week 3 - OSI Layer 3.md",
-    "UNI 2025/SEM 1/COMP2250/Attachments/Pasted image 20250307001949.png",
-    "UNI 2025/SEM 1/COMP2250/Network Fundamentals - (RECOVERED).md",
-    "UNI 2025/SEM 1/BUSA3430/Homepage.md",
-    "Attachments/Data Communications w01a - Welcome and Unit Logistics.pdf.md",
-    "conflict-files-obsidian-git.md",
-    "Distilled Notes/Isaac Asimov's Laws of Robotics.md",
-    "Distilled Notes/The Turing Test.md",
-    "Warframe.canvas",
-    "UNI 2025/Untitled.md",
-    "Untitled.md",
-    "Independent Projects/Game Ideas.md",
-    "Distilled Notes/Untitled 1.md",
->>>>>>> Stashed changes
-    "Study Plan (Macquarie University).canvas",
-    "UNI 2025/SEM 1/BUSA3430/Week 2 - Frameworks and their application.md"
+    "UNI 2025/SEM 1/BUSA3430/BUSA3430 - S1 2025 - Assignment 1 - Case study- MQBS template.pdf"
   ]
 }

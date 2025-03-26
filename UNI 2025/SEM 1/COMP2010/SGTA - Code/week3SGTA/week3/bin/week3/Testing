@@ -1,0 +1,16 @@
+package week3;
+
+import static org.junit.Assert.*;
+import org.junit.Test;
+
+public class Testing{
+
+    App c1 = new App();
+
+    @Test
+    public void testing1(){
+        int n = 5;
+        assertEquals("Message", computeM(n), computeM_PartialLookup(n));
+    }
+
+}

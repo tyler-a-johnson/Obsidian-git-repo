@@ -11,7 +11,7 @@ Relevant Links:
 # Business Model Canvas (BMC)
 
 ![](Attachments/Pasted%20image%2020250317113054.png)
-
+ 
 - Strategic management tool
 - Business design and analysis tool
 

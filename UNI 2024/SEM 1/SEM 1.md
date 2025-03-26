@@ -2,9 +2,9 @@
 - **ELEC3024**
 	- **deez**
 
-	- [[Gamers]]
-	- [[ELEC3024/Unit Summary]]
-	- [[ELEC3024/Week 1 - Intro]]
+	- [[Notes on Root Locus Plot]]
+	- [[Unit Summary]]
+	- [[Week 1 - Intro]]
 	- [[Week 2 - Reduction of Multiple Subsystems]]
 	- [[Week 2 - Time Response and Reduction of Multiple Subsystems]]
 	- [[Week 3 - Stability and Steady State Errors]]
@@ -19,10 +19,10 @@
 	- **FOSE3000 Video presentation**
 		- **Adobe Premiere Pro Auto-Save**
 
-	- [[FOSE3000/Week 5]]
-	- [[FOSE3000/Week 6]]
-	- [[FOSE3000/Week 7]]
-	- [[FOSE3000/Week 8]]
+	- [[Week 5]]
+	- [[Week 6]]
+	- [[Week 7]]
+	- [[Week 8]]
 - **PHYS2010**
 	- [[LAB 1 - Resonance and Q in electric circuits Pre Lab]]
 	- [[Week 1 - Simple Harmonic Motion]]

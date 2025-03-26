@@ -4,15 +4,42 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "195d8cdb8d422fe1",
         "type": "tabs",
         "children": [
           {
             "id": "9cb8af867868434b",
+=======
+        "id": "5950b2dbdf2a1ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ac47e86b5ca292",
+>>>>>>> Stashed changes
+=======
+        "id": "5950b2dbdf2a1ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ac47e86b5ca292",
+>>>>>>> Stashed changes
+=======
+        "id": "5950b2dbdf2a1ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ac47e86b5ca292",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
                 "mode": "source",
                 "source": false,
@@ -23,19 +50,50 @@
             }
           },
           {
-            "id": "ab4924a033bf2e26",
+            "id": "80667e341e2ff9c5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "UNI 2025/SEM 1/COMP2400/Assignment 1 Specifications.pdf"
+                "file": "UNI 2025/SEM 1/COMP2400/Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Assignment 1 Specifications"
+              "title": "Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach"
+            }
+          },
+          {
+            "id": "0c58d41c0e782745",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
+                "title": "Machine Bias — ProPublica",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Machine Bias — ProPublica"
+=======
+                "file": "Kanban Schedule.md"
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban Schedule"
+>>>>>>> Stashed changes
+=======
+                "file": "Kanban Schedule.md"
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban Schedule"
+>>>>>>> Stashed changes
+=======
+                "file": "Kanban Schedule.md"
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban Schedule"
+>>>>>>> Stashed changes
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +160,19 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "width": 300
+=======
+    "width": 338.5
+>>>>>>> Stashed changes
+=======
+    "width": 338.5
+>>>>>>> Stashed changes
+=======
+    "width": 338.5
+>>>>>>> Stashed changes
   },
   "right": {
     "id": "5ea081c7e0a7b254",
@@ -227,12 +297,72 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "ab4924a033bf2e26",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+  "active": "9cb8af867868434b",
   "lastOpenFiles": [
-    "UNI 2025/SEM 1/COMP2400/Assignment 1 Specifications.pdf",
-    "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
     "UNI 2025/SEM 1/COMP2400/Birhane 2021_Algorithmic Injustice. A Relational Ethics Approach.pdf",
+    "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
+    "UNI 2025/SEM 1/COMP2400/Assignment 1 Specifications.pdf",
     "Kanban Schedule.md",
+=======
+  "active": "f5ac47e86b5ca292",
+  "lastOpenFiles": [
+=======
+  "active": "f5ac47e86b5ca292",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
+=======
+  "active": "f5ac47e86b5ca292",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
+    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src/week4/QuickSort.java",
+    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src/week4/MergeSort.java",
+    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src/week4",
+    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/src",
+    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/lib/hamcrest-core-1.3.jar",
+    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/lib/junit-4.13.2.jar",
+    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code/lib",
+    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code",
+    "UNI 2025/SEM 1/COMP2010/Week 4/week4_code.zip",
+    "UNI 2025/SEM 1/COMP2010/Week 4",
+    "UNI 2025/SEM 1/COMP2010/New folder",
+    "UNI 2025/SEM 1/COMP2400/Week 5 - SGTA.md",
+    "UNI 2024/SEM 1/ELEC3024/Notes on Root Locus Plot.md",
+    "UNI 2025/SEM 1/BUSA3430/Week 4 - AI Enabled Business Models.md",
+    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317121125.png",
+    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317120816.png",
+    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317113646.png",
+    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250317113054.png",
+    "UNI 2025/SEM 1/BUSA3430/Week 1 - Intro to Business Applications of AI.md",
+    "UNI 2025/SEM 1/BUSA3430/Week 2 - Impact of AI.md",
+    "UNI 2025/SEM 1/Homepage.md",
+    "UNI 2025/SEM 1/COMP2010/Week 3/Week 3 Workshop.md",
+    "UNI 2025/SEM 1/COMP2400/Week 3 - SGTA Task.md",
+    "UNI 2025/SEM 1/COMP2400/Week 2 - Algorithmic Bias.md",
+    "Kanban Schedule.md",
+    "UNI 2025/SEM 1/COMP2400/Week 2 - SGTA.md",
+    "UNI 2025/SEM 1/COMP2400/Attachments/Pasted image 20250308222235.png",
+    "Movie&TV Recs.md",
+    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250307232233.png",
+    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250307230633.png",
+    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250307230127.png",
+    "UNI 2025/SEM 1/BUSA3430/Attachments/Pasted image 20250307225230.png",
+    "UNI 2025/SEM 1/COMP2250/Week 3 - OSI Layer 3.md",
+    "UNI 2025/SEM 1/COMP2250/Attachments/Pasted image 20250307001949.png",
+    "UNI 2025/SEM 1/COMP2250/Network Fundamentals - (RECOVERED).md",
+    "UNI 2025/SEM 1/BUSA3430/Homepage.md",
+    "Attachments/Data Communications w01a - Welcome and Unit Logistics.pdf.md",
+    "conflict-files-obsidian-git.md",
+    "Distilled Notes/Isaac Asimov's Laws of Robotics.md",
+    "Distilled Notes/The Turing Test.md",
+    "Warframe.canvas",
+    "UNI 2025/Untitled.md",
+    "Untitled.md",
+    "Independent Projects/Game Ideas.md",
+    "Distilled Notes/Untitled 1.md",
+>>>>>>> Stashed changes
     "Study Plan (Macquarie University).canvas",
     "UNI 2025/SEM 1/BUSA3430/Week 2 - Frameworks and their application.md"
   ]

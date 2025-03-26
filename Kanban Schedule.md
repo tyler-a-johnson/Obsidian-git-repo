@@ -19,18 +19,41 @@ kanban-plugin: basic
 ## PRIORITY
 
 - [ ] Assignment 1 (25%) #COMP2400 @{28-03-2025}
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - [ ] Assignment 1 (15%) #COMP2010 @{06-04-2025}
 - [ ] Test 2 - Week 7 #BUSA3430 @{07-04-2025}
 - [ ] AI Case Study (35%) #BUSA3430 @{13-04-2025}
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+- [ ] AI Case Study (35%) #BUSA3430 @{13-04-2025}
+- [ ] Assignment 1 (15%) #COMP2010 @{06-04-2025}
+>>>>>>> Stashed changes
 - [ ] Assignment 1 (20%) #COMP2250 @{13-04-2025}
 
 
 ## WEEKLY TASK
 
 - [x] Weekly Submissions (Beggining of SGTA) #COMP2010
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - [x] Weekly SGTAs (20%) #COMP2250 #hurdle
 - [ ] Weekly Quiz (For Review) (Optional) #COMP2250
 - [ ] Weekly Minute Paper (Optional) #COMP2250
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+- [ ] Weekly SGTAs (20%) #COMP2250 #hurdle
+- [ ] Weekly Quiz (For Review) #COMP2250
+- [ ] Weekly Minute Paper #COMP2250
+>>>>>>> Stashed changes
 - [x] SGTA Tasks (15%) 9AM Before the lecture MONAY (FUCKING WHY) #COMP2400
 
 
@@ -42,8 +65,26 @@ kanban-plugin: basic
 - [ ] Lecture Notes #COMP2400
 
 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## DONE
 
+=======
+## COMPLETE
+
+**Complete**
+>>>>>>> Stashed changes
+=======
+## COMPLETE
+
+**Complete**
+>>>>>>> Stashed changes
+=======
+## COMPLETE
+
+**Complete**
+>>>>>>> Stashed changes
 - [x] Test 1 - Week 4 (20% total) #BUSA3430 @{17-03-2025}
 
 

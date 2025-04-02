@@ -46,6 +46,7 @@ public class ChurchTests {
 
     @Test
     public void testDecrTwo(){
+        assertEquals(three.decr().decr(), one);
     }
 
     @Test
@@ -56,6 +57,7 @@ public class ChurchTests {
 
     @Test
     public void testPlusTwo(){
+        assertEquals(two.plus(zero), two);
     }
 
     @Test

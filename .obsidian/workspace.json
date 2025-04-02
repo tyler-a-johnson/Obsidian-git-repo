@@ -4,34 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "d1a3e7dca6bc8f60",
+        "id": "c458f32c4484c61c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f9b33656b84d9fe",
+            "id": "81804793c2cf2552",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI 2025/SEM 1/BUSA3430/BUSA3430 - S1 2025 - Assignment 1 - Case study- MQBS template.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "BUSA3430 - S1 2025 - Assignment 1 - Case study- MQBS template"
+            }
+          },
+          {
+            "id": "7b09bf30e14ce2b9",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mitsloan.mit.edu/ideas-made-to-matter/incorporating-generative-ai-your-companys-technology-strategy",
+                "title": "Incorporating generative AI into your company’s technology strategy | MIT Sloan",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Incorporating generative AI into your company’s technology strategy | MIT Sloan"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "77225add562af902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ce1a4862cc7f43d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
+                "file": "UNI 2025/SEM 1/BUSA3430/Assignment 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 1 Script"
-            }
-          },
-          {
-            "id": "3002ffb68dc63d3d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI 2025/SEM 1/COMP2400/birhane 2021.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "birhane 2021"
+              "title": "Assignment 1"
             }
           }
         ]
@@ -111,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 493.5
   },
   "right": {
     "id": "4f8a7234dc793e09",
@@ -236,19 +257,21 @@
       "jupyter:Create Jupyter Notebook": false
     }
   },
-  "active": "b12d5b7c542e6930",
+  "active": "1ce1a4862cc7f43d",
   "lastOpenFiles": [
-    "UNI 2025/SEM 1/COMP2010/Assignment 1/assign1.pdf",
-    "UNI 2025/SEM 1/COMP2010/Assignment 1/Graal/src/ass1/ChurchTests.java",
-    "UNI 2025/SEM 1/COMP2010/Assignment 1/Graal/src/ass1/Church.java",
-    "UNI 2025/SEM 1/COMP2010/Assignment 1/Graal/src/ass1",
-    "UNI 2025/SEM 1/COMP2010/Assignment 1/Graal/src",
-    "UNI 2025/SEM 1/COMP2010/Assignment 1/Graal/lib/hamcrest-core-1.3.jar",
-    "UNI 2025/SEM 1/COMP2010/Assignment 1/Graal/lib/junit-4.13.2.jar",
-    "UNI 2025/SEM 1/COMP2010/Assignment 1/Graal/lib",
-    "UNI 2025/SEM 1/COMP2010/Assignment 1/Graal",
-    "UNI 2025/SEM 1/COMP2010/Assignment 1/Graal.zip",
-    "UNI 2025/SEM 1/COMP2010/Assignment 1",
+    "UNI 2025/SEM 1/BUSA3430/Assignment 1.md",
+    "UNI 2025/SEM 1/BUSA3430/BUSA3430 - S1 2025 - Assignment 1 - Case study- MQBS template.pdf",
+    "UNI 2025/SEM 1/COMP2400/Week 6 SGTA.md",
+    "UNI 2025/SEM 1/COMP2400/lu181766nrz2.tmp",
+    "UNI 2025/SEM 1/COMP2400/Week 6.pdf",
+    "UNI 2025/SEM 1/COMP2400/lu181766nrnl.tmp",
+    "UNI 2025/SEM 1/COMP2400/Attachments/Week 5 - SGTA.pdf",
+    "UNI 2025/SEM 1/COMP2400/Week 6 SGTA.pdf",
+    "UNI 2025/SEM 1/COMP2400/s11098-023-01990-y.pdf",
+    "UNI 2025/SEM 1/COMP2400/oso-9780190905033-chapter-8.pdf",
+    "UNI 2025/SEM 1/COMP2400/COMP2400 COMP6400_W6_SGTA Task.pdf",
+    "UNI 2025/SEM 1/COMP2400/Week 5 SGTA.md",
+    "UNI 2025/SEM 1/COMP2400/birhane 2021.pdf",
     "UNI 2025/SEM 1/COMP2400/Assignment 1 Script.md",
     "UNI 2022/ENGG2000/Reflection Task - 4-11-22.md",
     "UNI 2022/MTRN2060/Digital.md",
